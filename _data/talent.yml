@@ -1,0 +1,136 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://bfa.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+#Havoc
+BlindFury: <a href="https://ru.wowhead.com/spell=203550" target="blank">Слепая ярость</a>
+Demonic_Appetite: <a href="https://ru.wowhead.com/spell=206478" target="blank">Демонический аппетит</a>
+Felblade: <a href="https://ru.wowhead.com/spell=232893" target="blank">Клинок Скверны</a>
+Insatiable_Hunger: <a href="https://ru.wowhead.com/spell=258876" target="blank">Неутолимый голод</a>
+Burning_Hatred: <a href="https://ru.wowhead.com/spell=320374" target="blank">Пылающая ненависть</a>
+Demon_Blades: <a href="https://ru.wowhead.com/spell=203555" target="blank">Демонические клинки</a>
+Trail_of_Ruin: <a href="https://ru.wowhead.com/spell=258881" target="blank">Остатки разрушений</a>
+Unbound_Chaos: <a href="https://ru.wowhead.com/spell=347461" target="blank">Необузданный хаос</a>
+Glaive_Tempest: <a href="https://ru.wowhead.com/spell=342817" target="blank">Буря клинков</a>
+Soul_Rending: <a href="https://ru.wowhead.com/spell=204909" target="blank">Раздирание души</a>
+Desperate_Instincts: <a href="https://ru.wowhead.com/spell=205411" target="blank">Инстинкт самосохранения</a>
+Netherwalk: <a href="https://ru.wowhead.com/spell=196555" target="blank">Путь Пустоты</a>
+Cycle_of_Hatred: <a href="https://ru.wowhead.com/spell=258887" target="blank">Цикл ненависти</a>
+First_Blood: <a href="https://ru.wowhead.com/spell=206416" target="blank">Первая кровь</a>
+Essence_Break: <a href="https://ru.wowhead.com/spell=320338" target="blank">Разрыв сущности</a>
+Unleashed_Power: <a href="https://ru.wowhead.com/spell=206477" target="blank">Освобожденная сила</a>
+Master_of_the_Glaive: <a href="https://ru.wowhead.com/spell=203556" target="blank">Мастер боевого клинка</a>
+Fel_Eruption: <a href="https://ru.wowhead.com/spell=211881" target="blank">Извержение Скверны</a>
+Demonic: <a href="https://ru.wowhead.com/spell=213410" target="blank">Демонизм</a>
+Momentum: <a href="https://ru.wowhead.com/spell=206476" target="blank">Импульс</a>
+Fel_Barrage: <a href="https://ru.wowhead.com/spell=258925" target="blank">Обстрел Скверны</a>
+
+
+Fury_of_the_Illidari: <a href="https://ru.wowhead.com/spell=201467" target="blank">Ярость иллидари</a>
+
+#VDH
+Abyssal_Strike: <a href="https://ru.wowhead.com/spell=207550" target="blank">Удар Бездны</a>
+Agonizing_Flames: <a href="https://ru.wowhead.com/spell=207548" target="blank">Пламенная боль</a>
+Feast_of_Souls: <a href="https://ru.wowhead.com/spell=207697" target="blank">Пиршество душ</a>
+Fallout: <a href="https://ru.wowhead.com/spell=227174" target="blank">Жаркий выброс</a>
+Burning_Alive: <a href="https://ru.wowhead.com/spell=207739" target="blank">Сожжение заживо</a>
+Infernal_Armor: <a href="https://ru.wowhead.com/spell=320331" target="blank">Инфернальная броня</a>
+Charred_Flesh: <a href="https://ru.wowhead.com/spell=336639" target="blank">Обугленная плоть</a>
+Spirit_Bomb: <a href="https://ru.wowhead.com/spell=247454" target="blank">Взрывная душа</a>
+Feed_the_Demon: <a href="https://ru.wowhead.com/spell=218612" target="blank">Кормление демона</a>
+Fracture: <a href="https://ru.wowhead.com/spell=263642" target="blank">Разлом</a>
+Concentrated_Sigils: <a href="https://ru.wowhead.com/spell=207666" target="blank">Средоточие печатей</a>
+Quickened_Sigils: <a href="https://ru.wowhead.com/spell=209281" target="blank">Ускоренные печати</a>
+Sigil_of_Chains: <a href="https://ru.wowhead.com/spell=202138" target="blank">Печать цепей</a>
+Void_Reaver: <a href="https://ru.wowhead.com/spell=268175" target="blank">Страж Бездны</a>
+DemonicVDH: <a href="https://ru.wowhead.com/spell=321453" target="blank">Демонизм</a>
+Soul_Barrier: <a href="https://ru.wowhead.com/spell=263648" target="blank">Призрачный барьер</a>
+Last_Resort: <a href="https://ru.wowhead.com/spell=209258" target="blank">Последнее прибежище</a>
+Ruinous_Bulwark: <a href="https://ru.wowhead.com/spell=326853" target="blank">Разрушительный бастион</a>
+Bulk_Extraction: <a href="https://ru.wowhead.com/spell=320341" target="blank">Массовое извлечение</a>
+
+
+#PVP Havoc
+Demonic_Origins: <a href="https://ru.wowhead.com/spell=235893" target="blank">Демонические истоки</a> 
+Solitude: <a href="https://ru.wowhead.com/spell=211509" target="blank">Одиночество</a> 
+Rain_from_Above: <a href="https://ru.wowhead.com/spell=206803" target="blank">Удар с небес</a> 
+Reverse_Magic: <a href="https://ru.wowhead.com/spell=205604" target="blank">Обращение магии</a> 
+Detainment: <a href="https://ru.wowhead.com/spell=205596" target="blank">Удержание</a> 
+Mana_Rift: <a href="https://ru.wowhead.com/spell=235903" target="blank">Провал маны</a> 
+Mortal_Rush: <a href="https://ru.wowhead.com/spell=328725" target="blank">Рывок смерти</a> 
+Cover_of_Darkness: <a href="https://ru.wowhead.com/spell=227635" target="blank">Завеса мрака</a> 
+Detainment: <a href="https://ru.wowhead.com/spell=205596" target="blank">Удержание</a>
+
+
+#PVP VDH
+Cleansed_by_Flame: <a href="https://ru.wowhead.com/spell=205625" target="blank">Очищение пламенем</a> 
+Jagged_Spikes: <a href="https://ru.wowhead.com/spell=205627" target="blank">Зазубренные шипы</a> 
+Illidans_Grasp: <a href="https://ru.wowhead.com/spell=205630" target="blank">Хватка Иллидана</a>
+
+#Удаленный талант
+Nemesis: <a href="https://ru.wowhead.com/spell=206491" target="blank">Заклятый враг</a>
+Flame_Crash: <a href="https://ru.wowhead.com/spell=227322" target="blank">Пламенное приземление</a>
+
+#ПВП яма другие классы 
+Blinding_Light: <a href="https://ru.wowhead.com/spell=115750" target="blank">Слепящий свет</a>
+Cyclone: <a href="https://ru.wowhead.com/spell=33786" target="blank">Смерч</a>
+Guardian_Affinity: <a href="https://ru.wowhead.com/spell=197491" target="blank">Родство со стражем</a>
+Bear_Form: <a href="https://ru.wowhead.com/spell=5487" target="blank">Облик медведя</a>
+Mighty_Bash: <a href="https://ru.wowhead.com/spell=5211" target="blank">Мощное оглушение</a>
+Blessing_of_Sacrifice: <a href="https://ru.wowhead.com/spell=6940" target="blank">Жертвенное благословение</a>
+Ironbark: <a href="https://ru.wowhead.com/spell=102342" target="blank">Железная кора</a>
+Intimidating_Shout: <a href="https://ru.wowhead.com/spell=5246" target="blank">Устрашающий крик</a> 
+Storm_Bolt: <a href="https://ru.wowhead.com/spell=107570" target="blank">Удар громовержца</a> 
+Purge: <a href="https://ru.wowhead.com/spell=370" target="blank">Развеивание магии</a> 
+Electrocute: <a href="https://ru.wowhead.com/spell=206642" target="blank">Электрический удар</a> 
+Asphyxiate: <a href="https://ru.wowhead.com/spell=108194" target="blank">Асфиксия</a> 
+Disable: <a href="https://ru.wowhead.com/spell=116095" target="blank">Вывести из строя</a> 
+Storm_Earth_and_Fire: <a href="https://ru.wowhead.com/spell=137639" target="blank">Буря, земля и огонь</a> 
+Leg_Sweep: <a href="https://ru.wowhead.com/spell=119381" target="blank">Круговой удар ногой</a> 
+Death_Grip: <a href="https://ru.wowhead.com/spell=49576" target="blank">Хватка смерти</a> 
+Delirium: <a href="https://ru.wowhead.com/spell=233396" target="blank">Делирий</a> 
+Mass_Entanglement: <a href="https://ru.wowhead.com/spell=102359" target="blank">Массовое оплетение</a> 
+Solar_Beam: <a href="https://ru.wowhead.com/spell=78675" target="blank">Столп солнечного света</a> 
+Incarnation: <a href="https://ru.wowhead.com/spell=102560" target="blank">Воплощение избранный Элуны</a> 
+Icy_Veins: <a href="https://ru.wowhead.com/spell=12472" target="blank">Стылая кровь</a> 
+Polymorph: <a href="https://ru.wowhead.com/spell=28272" target="blank">Превращение</a> 
+Repentance: <a href="https://ru.wowhead.com/spell=20066" target="blank">Покаяние</a> 
+Hammer_of_Justice: <a href="https://ru.wowhead.com/spell=853" target="blank">Молот правосудия</a> 
+Freezing_Trap: <a href="https://ru.wowhead.com/spell=187650" target="blank">Замораживающая ловушка</a> 
+Relentless: <a href="https://ru.wowhead.com/spell=196029" target="blank">Непреклонность</a> 
+Paralysis: <a href="https://ru.wowhead.com/spell=115078" target="blank">Паралич</a> 
+Remorseless_Winter: <a href="https://ru.wowhead.com/spell=196770" target="blank">Беспощадность зимы</a> 
+Hex: <a href="https://ru.wowhead.com/spell=51514" target="blank">Сглаз</a> 
+Kidney_Shot: <a href="https://ru.wowhead.com/spell=408" target="blank">Удар по почкам</a> 
+Blind: <a href="https://ru.wowhead.com/spell=2094" target="blank">Ослепление</a> 
+Fear: <a href="https://ru.wowhead.com/spell=5782" target="blank">Страх</a> 
+Chaos_Bolt: <a href="https://ru.wowhead.com/spell=116858" target="blank">Стрела Хаоса</a> 
+Focused_Chaos: <a href="https://ru.wowhead.com/spell=233577" target="blank">Сосредоточенный Хаос</a> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,49 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://bfa.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+#Ковенант
+Repeat_Decree: <a href="https://ru.wowhead.com/spell=339895" target="blank">Повторный указ</a>
+Increased_Scrutiny: <a href="https://ru.wowhead.com/spell=340028" target="blank">Повышенная бдительность</a>
+Brooding_Pool: <a href="https://ru.wowhead.com/spell=340063" target="blank">Мрачное пламя</a>
+Unnatural_Malice: <a href="https://ru.wowhead.com/spell=344358" target="blank">Неестественная злоба</a>
+
+#Общие 
+#Сила
+Dancing_with_Fate: <a href="https://ru.wowhead.com/spell=339228" target="blank">Танец с судьбой</a>
+Demons_Touch: <a href="https://ru.wowhead.com/spell=339151" target="blank">Прикосновение демона</a>
+Growing_Inferno: <a href="https://ru.wowhead.com/spell=339231" target="blank">Нарастающий жар преисподней</a>
+
+#Выносливость
+Fel_Defender: <a href="https://ru.wowhead.com/spell=338671" target="blank">Защитник Скверны</a>
+Roaring_Fire: <a href="https://ru.wowhead.com/spell=339644" target="blank">Ревущий огонь</a>
+Shattered_Restoration: <a href="https://ru.wowhead.com/spell=338793" target="blank">Расколотое исцеление</a>
+Viscous_Ink: <a href="https://ru.wowhead.com/spell=338682" target="blank">Вязкие чернила</a>
+
+#Точность
+Demonic_Parole: <a href="https://ru.wowhead.com/spell=339048" target="blank">Демоническое освобождение</a>
+Felfire_Haste: <a href="https://ru.wowhead.com/spell=338799" target="blank">Скорость огня Скверны</a>
+Lost_in_Darkness: <a href="https://ru.wowhead.com/spell=339149" target="blank">Затерянные во тьме</a>
+Ravenous_Consumption: <a href="https://ru.wowhead.com/spell=338835" target="blank">Прожорливое поглощение</a>
+
+#Havoc
+Serrated_Glaive: <a href="https://ru.wowhead.com/spell=339230" target="blank">Зазубренный клинок</a>
+
+#VDH
+#Сила
+Soul_Furnace: <a href="https://ru.wowhead.com/spell=339423" target="blank">Кузня души</a>
+
+#Выносливость
+Demon_Muzzle: <a href="https://ru.wowhead.com/spell=339587" target="blank">Демонический намордник</a>
+
+

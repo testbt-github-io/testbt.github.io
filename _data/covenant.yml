@@ -1,0 +1,159 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://bfa.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+#====================================
+#PTR 910
+#Вентиры
+Fatal_Flaw: <a href="https://ptr.wowhead.com/spell=352373" target="blank">Роковая ошибка</a>
+Nimble_Steps: <a href="https://ptr.wowhead.com/spell=352366" target="blank">Проворные шаги</a>
+Sinful_Preservation: <a href="https://ptr.wowhead.com/spell=352405" target="blank">Греховная сохранность</a>
+
+Its_Always_Tea_Time: <a href="https://ptr.wowhead.com/spell=351747" target="blank">Вечное чаепитие</a>
+Life_is_but_an_Appetizer: <a href="https://ptr.wowhead.com/spell=351748" target="blank">Жизнь - лишь закуска</a>
+Party_Favors: <a href="https://ptr.wowhead.com/spell=351750" target="blank">Сувениры для гостей</a>
+
+Battlefield_Presence: <a href="https://ptr.wowhead.com/spell=352417" target="blank">Присутствие на поле боя</a>
+Intimidation_Tactics: <a href="https://ptr.wowhead.com/spell=352415" target="blank">Тактика запугивания</a>
+Regenerative_Stone_Skin: <a href="https://ptr.wowhead.com/spell=352365" target="blank">Регенеративная каменная шкура</a>
+
+#Кирий
+Effusive_Anima_Accelerator: <a href="https://ptr.wowhead.com/spell=352188" target="blank">Необузданный ускоритель анимы</a>
+Reactive_Retrofitting: <a href="https://ptr.wowhead.com/spell=352187" target="blank">Ускоренное переоснащение</a>
+Soulglow_Spectrometer: <a href="https://ptr.wowhead.com/spell=352186" target="blank">Спектрометр душ</a>
+
+Better_Together: <a href="https://ptr.wowhead.com/spell=351146" target="blank">Вместе мы сильнее</a>
+Newfound_Resolve: <a href="https://ptr.wowhead.com/spell=351149" target="blank">Новообретённая решимость</a>
+Path_of_the_Devoted: <a href="https://ptr.wowhead.com/spell=351147" target="blank">Путь Преданности</a>
+
+Hope_Springs_Eternal: <a href="https://ptr.wowhead.com/spell=351489" target="blank">Вечная надежда</a>
+Light_the_Path: <a href="https://ptr.wowhead.com/spell=351491" target="blank">Свет Пути</a>
+Spear_of_the_Archon: <a href="https://ptr.wowhead.com/spell=351488" target="blank">Копьё Архонта</a>
+
+#Некры
+Pustule_Eruption: <a href="https://ptr.wowhead.com/spell=351094" target="blank">Прорыв пустулы</a>
+Resilient_Stitching: <a href="https://ptr.wowhead.com/spell=351093" target="blank">Эластичное сшивание</a>
+Sole_Slough: <a href="https://ptr.wowhead.com/spell=351089" target="blank">Отчаянное одиночество</a>
+
+Carvers_Eye: <a href="https://ptr.wowhead.com/spell=350899" target="blank">Око Резчика</a>
+Mnemonic_Equipment: <a href="https://ptr.wowhead.com/spell=350936" target="blank">Знакомое снаряжение</a>
+Waking_Bone_Breastplate: <a href="https://ptr.wowhead.com/spell=350935" target="blank">Костяная кираса Пробуждения</a>
+
+Kevins_Oozeling: <a href="https://ptr.wowhead.com/spell=352110" target="blank">Слизень Кевин</a>
+Undulating_Maneuvers: <a href="https://ptr.wowhead.com/spell=352109" target="blank">Странные манёвры</a>
+Viscou_Trail: <a href="https://ptr.wowhead.com/spell=352108" target="blank">Вязкий след</a>
+
+#Феи
+Bonded_Hearts: <a href="https://ptr.wowhead.com/spell=352503" target="blank">Связанные сердца</a>
+Called_Shot: <a href="https://ptr.wowhead.com/spell=352501" target="blank">Заготовленный удар</a>
+Survivors_Rally: <a href="https://ptr.wowhead.com/spell=352502" target="blank">Зов выживших</a>
+
+Cunning_Dreams: <a href="https://ptr.wowhead.com/spell=352782" target="blank">Изобретательные сны</a>
+Dream_Delver: <a href="https://ptr.wowhead.com/spell=352786" target="blank">Искатель снов</a>
+Waking_Dreams: <a href="https://ptr.wowhead.com/spell=352779" target="blank">Сны наяву</a>
+
+Hunts_Exhilaration: <a href="https://ptr.wowhead.com/spell=352806" target="blank">Радость охоты</a>
+Vorkai_Ambush: <a href="https://ptr.wowhead.com/spell=352800" target="blank">Засада воркай</a>
+Wild_Hunt_Strategem: <a href="https://ptr.wowhead.com/spell=352805" target="blank">Стратагема Дикой Охоты</a>
+
+#====================================
+
+#Кирий
+Elysian_Decree: <a href="https://ru.wowhead.com/spell=306830" target="blank">Элизийский декрет</a>
+Summon_Steward: <a href="https://ru.wowhead.com/spell=324739" target="blank">Призыв распорядителя</a>
+Phial_of_Serenity: <a href="https://ru.wowhead.com/item=177278" target="blank">Флакон безмятежности</a>
+
+#Медиумы 
+Combat_Meditation: <a href="https://ru.wowhead.com/spell=328266" target="blank">Боевая медитация</a>
+Let_Go_of_the_Past: <a href="https://ru.wowhead.com/spell=328257" target="blank">Забудь прошлое</a>
+Phial_of_Patience: <a href="https://ru.wowhead.com/spell=329777" target="blank">Флакон терпения</a>
+
+Ascendant_Phial: <a href="https://ru.wowhead.com/spell=329776" target="blank">Флакон перерожденного</a>
+Valiant_Strikes: <a href="https://ru.wowhead.com/spell=329791" target="blank">Храбрые удары</a>
+Cleansing_Rites: <a href="https://ru.wowhead.com/spell=329784" target="blank">Ритуалы очищения</a>
+Pointed_Courage: <a href="https://ru.wowhead.com/spell=329778" target="blank">Демонстративная отвага</a>
+
+Brons_Call_to_Action: <a href="https://ru.wowhead.com/spell=333950" target="blank">Призыв к действию "Брон"</a>
+Forgelite_Filter: <a href="https://ru.wowhead.com/spell=331609" target="blank">Фильтр автоматурга</a>
+Hammer_of_Genesis: <a href="https://ru.wowhead.com/spell=333935" target="blank">Молот творения</a>
+Resilient_Plumage: <a href="https://ru.wowhead.com/spell=331725" target="blank">Прочные перья</a>
+Charged_Additive: <a href="https://ru.wowhead.com/spell=331610" target="blank">Заряженная добавка</a>
+Sparkling_Driftglobe_Core: <a href="https://ru.wowhead.com/spell=331612" target="blank">Искрящееся ядро дрейфующего шара</a>
+
+#Вентиры
+Sinful_Brand: <a href="https://ru.wowhead.com/spell=317009" target="blank">Клеймо греха</a>
+Door_of_Shadows: <a href="https://ru.wowhead.com/spell=300728" target="blank">Врата теней</a>
+
+
+Thrill_Seeker: <a href="https://ru.wowhead.com/spell=331586" target="blank">Поиск острых ощущений</a>
+Agent_of_Chaos: <a href="https://ru.wowhead.com/spell=331576" target="blank">Агент хаоса</a>
+Exacting_Preparation: <a href="https://ru.wowhead.com/spell=331580" target="blank">Тщательная подготовка</a>
+Dauntless_Duelist: <a href="https://ru.wowhead.com/spell=331584" target="blank">Бесстрашный дуэлянт</a>
+Familiar_Predicaments: <a href="https://ru.wowhead.com/spell=331582" target="blank">Знакомые затруднения</a>
+
+Soothing_Shade: <a href="https://ru.wowhead.com/spell=336239" target="blank">Успокаивающая тень</a>
+Refined_Palate: <a href="https://ru.wowhead.com/spell=336243" target="blank">Тонкий вкус</a>
+Wasteland_Propriety: <a href="https://ru.wowhead.com/spell=319983" target="blank">Этикет пустошей</a>
+Token_of_Appreciation: <a href="https://ru.wowhead.com/spell=336245" target="blank">Знак признательности</a>
+Watch_the_Shoes: <a href="https://ru.wowhead.com/spell=336140" target="blank">Смотри под ноги!</a>
+
+Service_In_Stone: <a href="https://ru.wowhead.com/spell=340159" target="blank">Каменное служение</a>
+Enduring_Gloom: <a href="https://ru.wowhead.com/spell=319978" target="blank">Стойкий мрак</a>
+Superior_Tactics: <a href="https://ru.wowhead.com/spell=332753" target="blank">Превосходство в тактике</a>
+Built_for_War: <a href="https://ru.wowhead.com/spell=319973" target="blank">Дитя войны</a>
+Hold_Your_Ground: <a href="https://ru.wowhead.com/spell=332754" target="blank">Ни шагу назад</a>
+
+
+#Некролорды
+Fodder_to_the_Flame: <a href="https://ru.wowhead.com/spell=329554" target="blank">Подпитка для пламени</a>
+Fleshcraft: <a href="https://ru.wowhead.com/spell=331180" target="blank">Скульптор плоти</a>
+
+Volatile_Solvent: <a href="https://ru.wowhead.com/spell=323074" target="blank">Нестабильный растворитель</a>
+Oozs_Frictionless_Coating: <a href="https://ru.wowhead.com/spell=323091" target="blank">Гладкое покрытие Склизя</a>
+Ultimate_Form: <a href="https://ru.wowhead.com/spell=323095" target="blank">Совершенный облик</a>
+Resourceful_Fleshcrafting: <a href="https://ru.wowhead.com/spell=326507" target="blank">Хитроумная резьба по плоти</a>
+
+Lead_by_Example: <a href="https://ru.wowhead.com/spell=342156" target="blank">Образец для подражания</a>
+Gnashing_Chompers: <a href="https://ru.wowhead.com/spell=323919" target="blank">Скрежещущие зубы</a>
+Emenis_Ambulatory_Flesh: <a href="https://ru.wowhead.com/spell=341650" target="blank">Скрежещущие зубы</a>
+Cartilaginous_Legs: <a href="https://ru.wowhead.com/spell=324440" target="blank">Хрящевые ноги</a>
+Sulfuric_Emission: <a href="https://ru.wowhead.com/spell=323916" target="blank">Серный выброс</a>
+
+Forgeborne_Reveries: <a href="https://ru.wowhead.com/spell=326514" target="blank">Откровения мастера кузни</a>
+Serrated_Spaulders: <a href="https://ru.wowhead.com/spell=326504" target="blank">Зазубренные наплечники</a>
+Heirmirs_Arsenal_Marrowed_Gemstone: <a href="https://ru.wowhead.com/spell=326572" target="blank">Временная плоть Эмени</a>
+Heirmirs_Arsenal_Ravenous_Pendant: <a href="https://ru.wowhead.com/spell=326509" target="blank">Арсенал Гейрмир прожорливая подвеска</a>
+
+Empowered_Demon_Soul: <a href="https://ru.wowhead.com/spell=347765" target="blank">Усиленная душа демона</a>
+
+#ночной народец
+The_Hunt: <a href="https://ru.wowhead.com/spell=323639" target="blank">Охота</a>
+Soulshape: <a href="https://ru.wowhead.com/spell=310143" target="blank">Облик души</a>
+
+Grove_Invigoration: <a href="https://ru.wowhead.com/spell=322721" target="blank">Оздоровление рощи</a>
+Niyas_Tools_Burrs: <a href="https://ru.wowhead.com/spell=320659" target="blank">Инструменты Нии "колючая лоза"</a>
+Niyas_Tools_Poison: <a href="https://ru.wowhead.com/spell=320660" target="blank">Инструменты Нии "яд"</a>
+Run_Without_Tiring: <a href="https://ru.wowhead.com/spell=342270" target="blank">Неустанный бег</a>
+Niyas_Tools_Herbs: <a href="https://ru.wowhead.com/spell=320662" target="blank">Инструменты Нии травы</a>
+
+Podtender: <a href="https://ru.wowhead.com/spell=319217" target="blank">Защитный стручок</a>
+Social_Butterfly: <a href="https://ru.wowhead.com/spell=319210" target="blank">Украшение компании</a>
+Field_of_Blossoms: <a href="https://ru.wowhead.com/spell=319191" target="blank">Цветочное поле</a>
+
+Wild_Hunt_Tactics: <a href="https://ru.wowhead.com/spell=325066" target="blank">Тактика Дикой Охоты</a>
+Wild_Hunts_Charge: <a href="https://ru.wowhead.com/spell=325065" target="blank">Рывок Дикой Охоты</a>
+First_Strike: <a href="https://ru.wowhead.com/spell=325069" target="blank">Первый удар</a>
+Face_Your_Foes: <a href="https://ru.wowhead.com/spell=325068" target="blank">Лицом к лицу с врагами</a>
+Hold_the_Line: <a href="https://ru.wowhead.com/spell=325601" target="blank">Дисциплина защитника</a>
+
+Reservoir_Anima: <a href="https://ru.wowhead.com/currency=1813" target="blank">Запасенная анима</a>

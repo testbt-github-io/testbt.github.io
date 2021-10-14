@@ -1,0 +1,101 @@
+# Basic version of an "automated" tooltip generator for authors, posts, pages.
+# Copy either of the following strings if you want to add a new tooltip.
+#
+# External link with tooltip:
+# SHORTCUT: <a href="https://bfa.wowhead.com/TYPE=ID" target="blank">PLAIN_NAME</a>
+#
+# Non-external link but with wowhead icon next to the tooltip:
+# SHORTCUT: <a href="#" data-wowhead="TYPE=ID">PLAIN_NAME</a>
+#
+# Replace SHORTCUT    with the name you want
+# Replace TYPE        with "spell" or "item"
+# Replace ID          with the appropriate id
+# Replace PLAIN_NAME  with the appropriate base name
+
+#Визгунья / Shriekwing
+Bloodcurdling_Shriek: <a href="https://ru.wowhead.com/spell=330711" target="blank">Леденящий кровь визг</a>
+Sanguine_Ichor: <a href="https://ru.wowhead.com/spell=340324" target="blank">Кровавый гной</a>
+Blind_Swipe: <a href="https://ru.wowhead.com/spell=343005" target="blank">Удар вслепую</a>
+Echolocation: <a href="https://ru.wowhead.com/spell=342074" target="blank">Эхолокация</a>
+Descent: <a href="https://ru.wowhead.com/spell=342923" target="blank">Пикирование</a>
+Deadly_Descent: <a href="https://ru.wowhead.com/spell=343021" target="blank">Смертоносное пикирование</a>
+Exsanguinating_Bite: <a href="https://ru.wowhead.com/spell=328857" target="blank">Обескровливающий укус</a>
+Exsanguinated: <a href="https://ru.wowhead.com/spell=328897" target="blank">Обескровливание</a>
+Reverberating_Scream: <a href="https://ru.wowhead.com/spell=344111" target="blank">Reverberating Scream</a>
+Bloodgorge: <a href="https://ru.wowhead.com/spell=328921" target="blank">Насыщение кровью</a>
+Sonar_Shriek: <a href="https://ru.wowhead.com/spell=340047" target="blank">Ультразвуковой визг</a>
+Echoing_Screech: <a href="https://ru.wowhead.com/spell=342863" target="blank">Отдающийся эхом визг</a>
+The_Blood_Lantern: <a href="https://ru.wowhead.com/spell=341684" target="blank">Кровавый светильник</a>
+Bloodlight: <a href="https://ru.wowhead.com/spell=341489" target="blank">Кровавый свет</a>
+Echoing_Sonar: <a href="https://ru.wowhead.com/spell=329362" target="blank">Отдающийся эхом сонар</a>
+
+#Ловчий Альтимор
+Spreadshot: <a href="https://ru.wowhead.com/spell=334404" target="blank">Залп</a>
+Sinseeker: <a href="https://ru.wowhead.com/spell=335114" target="blank">Искатель греха</a>
+Huntsmans_Bond: <a href="https://ru.wowhead.com/spell=334504" target="blank">Связь охотника</a>
+Jagged_Claws: <a href="https://ru.wowhead.com/spell=334971" target="blank">Зазубренные когти</a>
+Vicious_Lunge: <a href="https://ru.wowhead.com/spell=334939" target="blank">Жестокий рывок</a>
+Rip_Soul: <a href="https://ru.wowhead.com/spell=334797" target="blank">Вырывание души</a>
+Devour_Soul: <a href="https://ru.wowhead.com/spell=334884" target="blank">Поглощение души</a>
+Shades_of_Bargast: <a href="https://ru.wowhead.com/spell=334757" target="blank">Тени Баргаста</a>
+Deathly_Roar: <a href="https://ru.wowhead.com/spell=334708" target="blank">Смертоносный рык</a>
+Destabilize: <a href="https://ru.wowhead.com/spell=334695" target="blank">Дестабилизация</a>
+Crushing_Stone: <a href="https://ru.wowhead.com/spell=334860" target="blank">Размалывающий камень</a>
+Petrifying_Howl: <a href="https://ru.wowhead.com/spell=334852" target="blank">Обращающий в камень вой</a>
+Stone_Shards: <a href="https://ru.wowhead.com/spell=334893" target="blank">Каменные осколки</a>
+Vicious_Wound: <a href="https://ru.wowhead.com/spell=334960" target="blank">Страшная рана</a>
+Unstable_Soul: <a href="https://ru.wowhead.com/spell=339639" target="blank">Нестабильная душа</a>
+Vicious_Bolt: <a href="https://ru.wowhead.com/spell=338615" target="blank">Зловещая стрела</a>
+Pierce_Soul: <a href="https://ru.wowhead.com/spell=338609" target="blank">Пронзание души</a>
+Shatter_Shot: <a href="https://ru.wowhead.com/spell=338593" target="blank">Дробящий выстрел</a>
+
+#Спасение Солнечного Короля
+Soul_Pedestal: <a href="https://ru.wowhead.com/npc=173382" target="blank">Постамент душ</a>
+Rockbound_Vanquisher: <a href="https://ru.wowhead.com/npc=165764" target="blank">Скальный покоритель</a>
+Bleakwing_Assassin: <a href="https://ru.wowhead.com/npc=167566" target="blank">Темнокрылая убийца</a>
+Vile_Occultist: <a href="https://ru.wowhead.com/npc=165763" target="blank">Гнусная оккультистка</a>
+Essence_Font: <a href="https://ru.wowhead.com/npc=165778" target="blank">Купель сущности</a>
+Pestering_Fiend: <a href="https://ru.wowhead.com/npc=168700" target="blank">Докучливый бес</a>
+Soul_Infuser: <a href="https://ru.wowhead.com/npc=165762" target="blank">Насыщательница душ</a>
+High_Torturer_Darithos: <a href="https://ru.wowhead.com/npc=168973" target="blank">Верховный истязатель Даритос</a>
+Reborn_Phoenix: <a href="https://ru.wowhead.com/npc=168962" target="blank">Возрожденный феникс</a>
+
+Soul_Infusion: <a href="https://ru.wowhead.com/spell=325665" target="blank">Насыщение души</a>
+Drained_Soul: <a href="https://ru.wowhead.com/spell=339251" target="blank">Опустошенная душа</a>
+Concussive_Smash: <a href="https://ru.wowhead.com/spell=325506" target="blank">Контузящий удар</a>
+Reverberation: <a href="https://ru.wowhead.com/spell=335598" target="blank">Отзвук</a>
+Vanquishing_Strike: <a href="https://ru.wowhead.com/spell=325440" target="blank">Уничтожающий удар</a>
+Vanquished: <a href="https://ru.wowhead.com/spell=325442" target="blank">Уничтожение</a>
+Crimson_Flurry: <a href="https://ru.wowhead.com/spell=341473" target="blank">Алый шквал</a>
+Return_to_Stone: <a href="https://ru.wowhead.com/spell=333145" target="blank">Обращение в камень</a>
+Vulgar_Brand: <a href="https://ru.wowhead.com/spell=333002" target="blank">Грубое клеймо</a>
+Scornful_Blast: <a href="https://ru.wowhead.com/spell=325590" target="blank">Взрыв презрения</a>
+Door_of_Shadows: <a href="https://ru.wowhead.com/spell=328248" target="blank">Врата теней</a>
+Shattering_Ruby: <a href="https://ru.wowhead.com/spell=328254" target="blank">Раскалывающий рубин</a>
+Infusers_Boon: <a href="https://ru.wowhead.com/spell=326078" target="blank">Благословение насыщательницы</a>
+Greater_Castigation: <a href="https://ru.wowhead.com/spell=328885" target="blank">Великая очищающая кара</a>
+Fiery_Strike: <a href="https://ru.wowhead.com/spell=326455" target="blank">Пылающий удар</a>
+Burning_Remnants: <a href="https://ru.wowhead.com/spell=326456" target="blank">Горящие останки</a>
+Blazing_Surge: <a href="https://ru.wowhead.com/spell=329518" target="blank">Пылающий поток</a>
+Smoldering_Plumage: <a href="https://ru.wowhead.com/spell=341254" target="blank">Огненное оперение</a>
+Smoldering_Remnants: <a href="https://ru.wowhead.com/spell=328579" target="blank">Тлеющий след</a>
+Ember_Blast: <a href="https://ru.wowhead.com/spell=325877" target="blank">Взрывоопасные угли</a>
+Lingering_Embers: <a href="https://ru.wowhead.com/spell=326430" target="blank">Оставшиеся угли</a>
+Fragmentation: <a href="https://ru.wowhead.com/spell=336398" target="blank">Дробление</a>
+Cloak_of_Flames: <a href="https://ru.wowhead.com/spell=343026" target="blank">Плащ пламени</a>
+Unleashed_Pyroclasm: <a href="https://ru.wowhead.com/spell=337865" target="blank">Выброс пироклазма</a>
+Essence_Overflow: <a href="https://ru.wowhead.com/spell=329561" target="blank">Проливающаяся сущность</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
