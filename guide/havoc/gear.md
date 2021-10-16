@@ -33,6 +33,8 @@ image:
 </div>
 <br>
 
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 ## Рекомендуемое снаряжение
 
 <p style="color:#ff4040;font-size:1.7em;">Предоставленная тут информация является справочной, всегда используйте симкрафт</p>
@@ -84,7 +86,7 @@ image:
 
 ### Рейд сет <span style="color: #2359ff">Льда (Фрост)</span>
 
-После усиления фрост сета он стал обгонять по урону Анхоли сет, особенно в АоЕ и клив боях, а в СТ у них примерно равные показатели. Для игры с Фрост сетом требуется много крита, рекомендую собрать как минимум 40%. 
+После усиления Фрост сета он стал обгонять по урону Анхоли сет, особенно в АоЕ и клив боях, а в СТ у них примерно равные показатели. Для игры с Фрост сетом требуется много крита, рекомендую собрать как минимум 40%. 
 
 * [Осколок Кор](https://ru.wowhead.com/item=187063)
 * [Осколок Тел](https://ru.wowhead.com/spell=355748/)
@@ -134,7 +136,7 @@ image:
 * {{ site.data.item.Phial_of_Putrefaction }} - Наносит высокий урон и показывает высокий оверолл, аксессуар обязателен к получению.
 * [Тотем хватки смерти](https://ru.wowhead.com/item=179356) - очень хороший аксессуар, отлично себя показывает в СТ боях.
 * [Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432) - наносит много урона и имеет небольшое КД.
-* [Тикающий мешок ужаса](https://ru.wowhead.com/item=185844) - трынькет с высоким уроном, минус только в его уровне и искусности.
+* [Тикающий мешок ужаса](https://ru.wowhead.com/item=185844) - трынькет с высоким уроном, минус только в его уровне (максимальный илвл 233) и искусности.
 
 ### Patchwerk
 <div id="bloodmallet_patchwerk" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222" data-language="ru" data-entries="10">Loading...</div>
@@ -249,6 +251,9 @@ image:
 </tbody>
 </table>
 
+<hr>
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html">Назад:<br>Лучший ковенант</a></div> 
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Далее:<br>Таланты и Билды</a></div>
+
+<br>

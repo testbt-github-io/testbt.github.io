@@ -32,6 +32,7 @@ image:
 <a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ## Изменение легендарных предметов в 9.1
 
@@ -57,7 +58,9 @@ image:
 
 ### Самые полезные легендарные предметы
 
-> Обратите внимание, что вам всегда нужно выбирать скорость и универсальность в качестве двух характеристик для любого легендарного предмета.
+<p class="tanknotes-section-error" markdown="1">
+Обратите внимание, что вам всегда нужно выбирать **скорость** и **универсальность** в качестве двух характеристик для любого легендарного предмета.
+</p>
 
 <span class="q5"><strong>{{ site.data.legendary.Burning_Wound }}</strong></span>
 
@@ -138,183 +141,65 @@ image:
  
  Для рейда можно использовать два легендарных предмета:
  
- * {{ site.data.legendary.Burning_Wound }} - Лучший легендарый предмет для СТ и Клив боев. Не забывайте навешивать дебафф на соседние цели для увеличения урона.
- * {{ site.data.legendary.Darkglare_Boon }} - Также сильный легендарный предмет, простая реализация урона, игра в билде через Демонизм приветлива к новичкам, отличный постоянный урон без 
+ * <span class="q4">{{ site.data.legendary.Burning_Wound }}</span> - Лучший легендарый предмет для СТ и Клив боев. Не забывайте навешивать дебафф на соседние цели для увеличения урона.
+ * <span class="q4">{{ site.data.legendary.Darkglare_Boon }}</span> - Также сильный легендарный предмет, простая реализация урона, игра в билде через Демонизм приветлива к новичкам, отличный постоянный урон без 
  больших просадок но и без большого бурстового урона.
  
- ## Лучший выбор для Мифик+
+## Лучший выбор для Мифик+
  
- * {{ site.data.legendary.Collective_Anguish }} - сильный легендарный предмет, дает хороший бурст урон в паки за счет [Опустошениия Скверной](https://ru.wowhead.com/spell=212084) которое не имеет капа таргетов и на него не 
+ * <span class="q4">{{ site.data.legendary.Collective_Anguish }}</span> - сильный легендарный предмет, дает хороший бурст урон в паки за счет [Опустошениия Скверной](https://ru.wowhead.com/spell=212084) которое не имеет капа таргетов и на него не 
  действует масштабирование по квадратному корню как для [Пронзающего взгляда](https://ru.wowhead.com/spell=198013). Из минусов, слабо усиливает наш СТ урон, но это нивелируется АоЕ уроном.
- * {{ site.data.legendary.Darkglare_Boon }} - дает нам стабильный урон и не лишает нас мобильности за счет игры с Демонизмом. Легедарка хоть и вносит рандом в нашу игру но это не критично, из минусов у вас не будет сильного бурст урона, но 
+ * <span class="q4">{{ site.data.legendary.Darkglare_Boon }}</span> - дает нам стабильный урон и не лишает нас мобильности за счет игры с Демонизмом. Легедарка хоть и вносит рандом в нашу игру но это не критично, из минусов у вас не будет сильного бурст урона, но 
 это все компенсируется ее стабильным уроном как в АоЕ так и в СТ бою. 
-* {{ site.data.legendary.Burning_Wound }} - сильный легендарный предмет, который раскрывает свой потенциал в высоких ключах и в боях с живучими противниками. Из плюсов очень сильный СТ и Клив урон, из минусов вам всегда нужно переключать цели, чтоб 
+* <span class="q4">{{ site.data.legendary.Burning_Wound }}</span> - сильный легендарный предмет, который раскрывает свой потенциал в высоких ключах и в боях с живучими противниками. Из плюсов очень сильный СТ и Клив урон, из минусов вам всегда нужно переключать цели, чтоб 
 на как можно большем количестве противников был Дебафф и [Жар](https://ru.wowhead.com/spell=258920) наносил повышенный урон, легендарка не играется в низких ключах так как цели очень быстро умирают.
 
 ### Легендарные предметы ковенантов
 
-* [Пылающая бойня](https://ru.wowhead.com/spell=355890/) - легендарный предмет нацелен на увеличение нашего АоЕ урона, каждые 90 секунд мы получаем дополнительное срабатывание [Жара](https://ru.wowhead.com/spell=258920), а 
+* <span class="q4">[Пылающая бойня](https://ru.wowhead.com/spell=355890/)</span> - легендарный предмет нацелен на увеличение нашего АоЕ урона, каждые 90 секунд мы получаем дополнительное срабатывание [Жара](https://ru.wowhead.com/spell=258920), а 
 он в свою очередь активирует талант [Необузданный хаос](https://ru.wowhead.com/spell=347461), другими словами у нас будет 2 заряда [Необузданного хаоса](https://ru.wowhead.com/spell=347461) каждые 90 секунд, а также дает бафф до 15% 
 ловкости на 12 секунд. Из плюсов, очень сильный АоЕ бурст каждые 90 секунд, минуса - легендарка раскрывается только в подземельях с большими запулами (та сторона, туманы, тризна и тд), если не будет где реализовать вы будете терять в уроне.
-* [Терзающий взгляд](https://ru.wowhead.com/spell=355886) - очень хорошо усиливает наш СТ урон и раз в 4 минуты дает чрезвычайно мощный АоЕ бурст. Игра с этим легендарным предметом требует четкого понимания маршрута и 
+* <span class="q4">[Терзающий взгляд](https://ru.wowhead.com/spell=355886)</span> - очень хорошо усиливает наш СТ урон и раз в 4 минуты дает чрезвычайно мощный АоЕ бурст. Игра с этим легендарным предметом требует четкого понимания маршрута и 
 запулов танка, если вы сдадите [Метаморфозу](https://ru.wowhead.com/spell=191427) не в том месте это сильно отразится на вашем уроне.
  
+<p class="tanknotes-section-success" markdown="1">
+Если вы планируете ходит в ключи до 20 то выбор легендарного предмета не имеет большого значения и вы можете играть с тем который вам больше по душе, но если у вас в планах закрывать 20+ то выбору легедарного предмета 
+стоит уделить больше внимания. Охотник на Демонов очень гибкий класс и может подстроиться под большинство ситуаций, в высоких ключах задача ДХ закрывать "дыры" в группе, например у вас мало СТ урона, вы берете {{ site.data.legendary.Burning_Wound }}, либо не достаточно 
+АоЕ и тогда вы берете {{ site.data.legendary.Collective_Anguish }} либо [Пылающая бойня](https://ru.wowhead.com/spell=355890/) ( ели вы играете за Ночной Народец и в подземелье много мобов, например Театр Боли не подходит для этого легендарного предмета).
+</p>
  
- 
+## НЕ создавайте эти легендарные предметы
 
+**Спековые легендарные предметы**
 
+* <span class="q4">[Темная сторона](https://ru.wowhead.com/spell=346264/)</span> - Хоть бафф от данного легендарного предмета очень сильный, но возможность его получения слишком сложная, что затрудняет получение 
+баффа.
+* <span class="q4">[Нестабильное ядро Скверны](https://ru.wowhead.com/spell=337685)</span> - Интересная легенда в сочетании с [Импульсом](https://ru.wowhead.com/spell=206476), но Гнев является 
+ограничивающим фактором увеличения времени работы бафф на Импульса, что делает ее практически бесполезной.
 
-**Клив/АоЕ**
+**Классовые легендарные предметы**
 
-* {{ site.data.legendary.Darkglare_Boon }} — {{ site.data.spell.Eye_Beam }} с вероятностью 40% не требует восстановления и восполняет 30 ед. гнева.
-> Крафтим в слот пояса.
+* <span class="q4">[Темнейший час](https://ru.wowhead.com/spell=337539)</span> - легендарный предмет который дает сильную защитную способность, но полагаться на то, что она сработает и вас спасет слишком опасно. 
 
-Рецепт на этот легендарный предмет добывается с подземелья {{ site.data.mplus.De_Other_Side }}
+**Общие легендарные предметы**
 
-* {{ site.data.legendary.Collective_Anguish }} — При использовании {{ site.data.spell.Eye_Beam }} Охотник на Демонов призывает союзника, который использует {{ site.data.spell.Fel_Devastation }}.
-> Крафтим в слот наручей.
+* <span class="q4">[Эхо Эонар](https://ru.wowhead.com/spell=338477)</span> - У него слишком низкая вероятность срабатывания, чтобы быть полезным, а сам эффект даже не особенно мощный, несмотря на то, что он случайный.
+* <span class="q4">[Рокот Утробы](https://ru.wowhead.com/spell=340197)</span> - Бесполезна за пределами Торгаста.
+* <span class="q4">[Прозорливость Норганнона](https://ru.wowhead.com/spell=339340/)</span> - Мы не кастеры, бесполезный легендарный предмет для Охотников на Демонов.
+* <span class="q4">[Стабильная приманка для фантазмы](https://ru.wowhead.com/spell=339351)</span> - Бесполезна за пределами Торгаста.
+* <span class="q4">[Третье око Тюремщика](https://ru.wowhead.com/spell=339058)</span> - Бесполезна за пределами Утробы.
+* <span class="q4">[Жертвование здоровьем](https://ru.wowhead.com/spell=338743/)</span> - Бесполезна для специализации Истребление.
 
-Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Castle_Nathria }}.
-
-* {{ site.data.legendary.Burning_Wound }} — {{ site.data.spell.Demons_Bite }} оставляет открытую рану, наносящую противнику урон от магии Хаоса 15 сек. и увеличивающую урон, получаемый от вашего {{ site.data.spell.Immolation_Aura }} на 65%.
-> Крафтим в слот спины.
-
-Рецепт на этот легендарный предмет добывается с подземелья {{ site.data.mplus.Plaguefall }}.
-
-* [Пылающая бойня](https://ru.wowhead.com/spell=355890/) - При достижении цели [Охота](https://ru.wowhead.com/spell=323639) активирует [Обжигающий жар](https://ru.wowhead.com/spell=258920) 
-и вы получаете 3% ловкости на 12 секунд за каждого пораженного врага.
-
-> Крафтим в слот спины.
-
-Рецепт выдается на 48 уровне известности ковенанат.
-
-* [Терзающий взгляд](https://ru.wowhead.com/spell=355886) — [Клеймо греха](https://ru.wowhead.com/spell=317009/sinful-brand) наносит на 10% больше урона, а урон от 
-[Пронзающего взгляда](https://ru.wowhead.com/spell=198013) увеличивает время действия [Клейма греха](https://ru.wowhead.com/spell=317009/sinful-brand) на 0,5 секунды за каждый тик способности.
-
-> Крафтим в слот ног.
-
-Рецепт выдается на 48 уровне известности ковенанат.
-
-## Аксессуар
-
-* [Реликвия ледяных пустошей](https://ru.wowhead.com/item=186437)
-* {{ site.data.item.Phial_of_Putrefaction }} - Наносит высокий урон и показывает высокий оверолл.
-* [Фрагмент мучительной дыбы](https://ru.wowhead.com/item=186430)
-* [Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432)
+## Сим от Bloodmallet 
 
 ### Patchwerk
-<div id="bloodmallet_patchwerk" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222" data-language="ru" data-entries="10">Loading...</div>
+<div id="highcharts-oqaye0v-1-" class="bloodmallet_chart" data-wow-class="demon_hunter" data-type="legendaries" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222" data-language="ru" data-entries="10">Loading...</div>
 
 ### Hectic Add Cleave
-<div id="bloodmallet_hecticaddcleave" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-fight-style="hecticaddcleave" data-font-color="#eee" data-background-color="#222" data-language="ru">Loading...</div>
+<div id="highcharts-cl19bpp-1-" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-type="legendaries" data-fight-style="hecticaddcleave" data-font-color="#eee" data-background-color="#222" data-language="ru">Loading...</div>
 
+<hr>
 
-## Уровни предметов в 2 сезоне эпохальных+ подземелий Shadowlands
-
-<table class="grid" style="max-width:750px">
-<tbody>
-<tr>
-<td style="text-align: center;"><b>Уровень ключа</b></td>
-<td style="text-align: center;"><b>В конце подземелья</b></td>
-<td style="text-align: center;"><b>В недельном сундуке</b></td>
-</tr>
-<tr><td>Эпохальный 2</td>
-<td style="text-align: center;">213</td>
-<td style="text-align: center;">226</td>
-</tr>
-<tr><td>Эпохальный 3</td>
-<td style="text-align: center;">216</td>
-<td style="text-align: center;">229</td>
-</tr>
-<tr>
-<td>Эпохальный 4</td>
-<td style="text-align: center;">220</td>
-<td style="text-align: center;">233</td>
-</tr>
-<tr><td>Эпохальный 5</td>
-<td style="text-align: center;">220</td>
-<td style="text-align: center;">236</td>
-</tr>
-<tr>
-<td>Эпохальный 6</td>
-<td style="text-align: center;">223</td>
-<td style="text-align: center;">236</td>
-</tr>
-<tr>
-<td>Эпохальный 7</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">239</td>
-</tr>
-<tr>
-<td>Эпохальный 8</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">242</td>
-</tr>
-<tr>
-<td>Эпохальный 9</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">242</td>
-</tr>
-<tr>
-<td>Эпохальный 10</td>
-<td style="text-align: center;">229</td>
-<td style="text-align: center;">246</td>
-</tr>
-<tr>
-<td>Эпохальный 11</td>
-<td style="text-align: center;">229</td>
-<td style="text-align: center;">246</td>
-</tr>
-<tr>
-<td>Эпохальный 12</td>
-<td style="text-align: center;">233</td>
-<td style="text-align: center;">249</td>
-</tr><tr><td>Эпохальный 13</td>
-<td style="text-align: center;">233</td>
-<td style="text-align: center;">249</td>
-</tr>
-<tr>
-<td>Эпохальный 14</td>
-<td style="text-align: center;">233</td>
-<td style="text-align: center;">252</td>
-</tr>
-<tr>
-<td>Эпохальный 15+</td>
-<td style="text-align: center;">236</td>
-<td style="text-align: center;">252</td>
-</tr>
-</tbody>
-</table>
-
-## Уровни предметов в рейде Святилища господства
-
-<table class="grid" style="max-width:750px">
-<tbody>
-<tr>
-<td style="text-align: center;"><b>Сложность</b></td>
-<td style="text-align: center;"><b>Первые 8 боссов</b></td>
-<td style="text-align: center;"><b>Последние 2 босса</b></td>
-</tr>
-<tr><td>ЛФР</td>
-<td style="text-align: center;">213</td>
-<td style="text-align: center;">220</td>
-</tr>
-<tr><td>Обычная</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">233</td>
-</tr>
-<tr>
-<td>Героическая</td>
-<td style="text-align: center;">239</td>
-<td style="text-align: center;">246</td>
-</tr>
-<tr><td>Эпохальный</td>
-<td style="text-align: center;">252</td>
-<td style="text-align: center;">259</td>
-</tr>
-</tbody>
-</table>
-
-
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/stats.html">Назад:<br>Характеристики</a></div> 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/covenant.html">Далее:<br>Ковенанты</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Назад:<br>Таланты и Билды</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html">Далее:<br>Осколки господства</a></div>
+<br>

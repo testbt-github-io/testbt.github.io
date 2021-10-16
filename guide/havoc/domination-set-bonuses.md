@@ -33,208 +33,127 @@ image:
 </div>
 <br>
 
-## Рекомендуемое снаряжение
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-<p style="color:#ff4040;font-size:1.7em;">Предоставленная тут информация является справочной, всегда используйте симкрафт</p>
+Побывав в новом рейде обновления 9.1 – Святилище Господства, игроки смогут поживиться особыми осколками Господства, которые устанавливаются только в добывающуюся здесь же броню. 
+Эти особые самоцветы имеют разнообразные отдельные и комплектные бонусы, что будут особо полезны в данном рейде и станут ценной наградой для любителей сложного группового PvE-контента. 
+В данном руководстве собрана вся самая важная информация об этой новинке “Цепей Господства”.
 
-### Что такое БиС лист?
+## Вкратце об осколках Господства
 
-БиС лист (BiS = Best in Slot) - это список из лучшего снаряжения, доступного в игре из всех источников.
+Если кратко, то осколки Господства – это новая система из “Цепей Господства”, которая сделает добывающуюся в рейде Святилище Господства экипировку наиболее мощной именно в нем. Об этой системе известно следующее:
 
-Снаряжение не вошедшее в этот список, может быть столь же хорошими, поэтому вам следует ссылаться на приоритеты характеристик, указанные на странице <a href="{{ site.url }}/guide/havoc/stats.html"> Характеристики</a> и наше руководство по <a href="{{ site.url }}/guide/general/raidbots.html"> Raidbots</a>, которое поможет определить лучший набор снаряжения на основе того, что находится у вас в инвентаре.	
+* Шлем, наплечники, нагрудник, перчатки, ботинки из Святилища Господства имеют по одному разъему Господства, 
+в который можно инкрустировать осколки Господства, особые камни с уникальными эффектами.
+* Всего камней 9 штук, они разделены на 3 типа (<span class="c6">Кровь (Блад)</span>, <span class="c7">Лед (Фрост)</span>, <span class="r3">Нечестивость (Анхоли)</span>), а те – на 3 вида (атака, исцеление, защита), и каждый из них имеет по 5 рангов, влияющих на его мощь.
+* Базовый ранг осколка добывается с боссов рейда, а повысить его можно с помощью [Стигийских углей](https://ru.wowhead.com/item=186599), что также добываются с боссов.
+* Одновременно можно пользоваться только максимум 5 осколками Господства, но без каких-либо ограничений на тип камня, класс, специализацию или роль персонажа.
+* Если персонаж использует как минимум 3 осколка одного и того же типа и предмет определенной ячейки, то получает дополнительный комплектный бонус с уникальным эффектом.
+* Бонусы отдельных осколков действуют везде, а комплектный бонус работает только в Святилище Господства, Торгасте, Утробе и Кортии.
+* Игроки могут свободно извлекать осколки из доспехов, сохраняя их, с помощью [Резеца ожога души](https://ru.wowhead.com/item=187532), который продает [Костоплав Гейрмир](https://ru.wowhead.com/npc=179214) в Кортии за 2500 [Стигии](https://ru.wowhead.com/currency=1767).
+
+## Сетовые бонусы Осколков Господства
+
+Если персонаж использует как минимум 3 осколка одного и того же типа (<span class="c6">Кровь (Блад)</span>, <span class="c7">Лед (Фрост)</span>, <span class="r3">Нечестивость (Анхоли)</span>), то на него накладывается комплектный бонус [Руническое Господство](https://ru.wowhead.com/spell=355752/), 
+который дополнительно усиливает его в Святилище Господства, Торгасте, Утробе и Кортии. Поскольку разрешается пользоваться лишь 5 осколками, то одновременно может действовать только 1 бонус.
+
+
+### <span class="c6">Кровь (Блад)</span>
+
+[Кровавые узы](https://ru.wowhead.com/spell=355804/) – Когда вы наносите урон противнику, находясь в Утробе или в Торгасте, между вами возникают кровавые узы. Раз в 3 секунды узы вызывают импульс, нанося цели 
+урон от темной магии и восполняя вам здоровье в объеме 100% нанесенного урона. Если исцеление от "Кровавых уз" оказывается избыточным, оно исцеляет вместо вас находящегося рядом союзника. Максимум целей – 1.
+
+### <span class="c7">Лед (Фрост)</span>
+
+[Зимние ветра](https://ru.wowhead.com/spell=355735/) – Когда вы наносите критический удар, находясь в Утробе или в Торгасте, 
+ветра накапливают 9% нанесенного урона – вплоть до 180 ед. урона за критический удар. Раз в 20 сек. возникает порыв ветра, наносящий урон от магии льда в объеме, равном накопленному урону, и на 20 секунд 
+окружающий вас потоками ветра. Эти потоки создают щит с прочностью, равной 100% урона, нанесенного порывом ветра.
+
+### <span class="r3">Нечестивость (Анхоли)</span>
+
+[Проклятие хаоса](https://ru.wowhead.com/spell=355829/) – Пока вы находитесь в Утробе или в Торгасте, ваши заклинания и способности могут вытянуть из цели фрагмент души, повышая вашу основную характеристику на 30 секунд. 
+Эффект суммируется до 15 раз. Накопив 15 эффектов, вы выпускаете "Проклятие хаоса", которое наносит урона от темной магии, равномерно распределяемого между ближайшими противниками, и на 15 секунд 
+повышает вашу основную характеристику.
+
+## Лучший сет камней для Рейда
+
+<p class="tanknotes-section-success" markdown="1">
+Если вы только собираетесь улучшать свой первый сет, начните с Фрост сета. Если вы уже начали улучшать другой, то закончите его улучшение прежде приступить к новому. Исключением будет только Блад сет, если вы начали с него то смело можете улучшать Фрост сет.
+</p>
+
+
+Охотники на Демонов могут использовать два сетовых набора камней, сет <span class="r3">Нечестивости (Анхоли)</span> либо сет <span class="c7">Льда (Фрост)</span>
+
+### Рейд сет <span class="r3"> Нечестивость (Анхоли)</span>
 
 <div class="table-box" markdown="1">
 
-|Слот|Название|Камень господства|Добывается|
-|Голова|[Клобук навязчивого предвидения](https://ru.wowhead.com/item=186330/)|[Осколок Зед](https://ru.wowhead.com/item=187079)|[Писарь судьбы Ро-Кало](https://ru.wowhead.com/npc=179390)|
-|Шея|[Межпланарный краеугольный камень](https://ru.wowhead.com/item=186379)| - |[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Плечо|[Наплеч доверенного-предателя](https://ru.wowhead.com/item=186336)|[Осколок Диз](https://ru.wowhead.com/item=187073)|[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Плащ|[Самовоспроизводящаяся ткань](https://ru.wowhead.com/item=186374/)| - |[Стражница Предвечных](https://ru.wowhead.com/npc=175731)|
-|Грудь|[Клепаная кираса иссохшего сердца](https://ru.wowhead.com/item=186334)|[Осколок От](https://ru.wowhead.com/item=187076)|[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
-|Запястье|[Путы с нитями судьбы](https://ru.wowhead.com/item=186335)| - |[Писарь судьбы Ро-Кало](https://ru.wowhead.com/npc=179390)|
-|Руки|[Повязки верного квалдира](https://ru.wowhead.com/item=186295)|[Осколок Бек](https://ru.wowhead.com/item=187057)|[Око Тюремщика](https://ru.wowhead.com/npc=180018)|
-|Пояс|[Перевязь Ветрокрылой](https://ru.wowhead.com/item=186332)| - |[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
-|Ноги|[Брюки элитного аранакка](https://ru.wowhead.com/item=186331)| - |[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Сапоги|[Ботфорты отваги Дашлы](https://ru.wowhead.com/item=186299)|[Осколок Кор](https://ru.wowhead.com/item=187063/)|[Девять](https://ru.wowhead.com/npc=178738)|
-|Кольцо 1|[Потускневший знак Кель'Таласа](https://ru.wowhead.com/item=186377)| - |[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
-|Кольцо 2|[Ритуальный перстень командира](https://ru.wowhead.com/item=178781)| - |[Смертельная тризна](https://ru.wowhead.com/the-necrotic-wake)|
-|Аксессуар 1|[Реликвия ледяных пустошей](https://ru.wowhead.com/item=186437)| - |[Кел'Тузад](https://ru.wowhead.com/npc=15990)|
-|Аксессуар 2|[Флакон тлетворной массы](https://ru.wowhead.com/item=178771)| - |[Чумные каскады](https://ru.wowhead.com/plaguefall)|
-|Основная рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
-|Левая рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
+|Осколок Господства|Тип|Заметка|
+|[Осколок Диз](https://ru.wowhead.com/item=187073)|<span class="r3">Нечестивость</span>|Самый сильный из осколков Нечестивости.|
+|[Осколок Зед](https://ru.wowhead.com/item=187079)|<span class="r3">Нечестивость</span>|Слабо влияет на урон, нужен для активации сет бонуса.|
+|[Осколок От](https://ru.wowhead.com/item=187076)|<span class="r3">Нечестивость</span>|Не влияет на урон, нужен для активации сет бонуса.|
+|[Осколок Бек](https://ru.wowhead.com/item=187057)|<span class="c6">Кровь</span>|Самый сильный из осколков Крови.|
+|[Осколок Кор](https://ru.wowhead.com/item=187063)|<span class="c7">Лед</span>|Самый сильный из осколков Льда. Особенно хорош в М+ и Кливе.|
 
 </div>
-<br>
 
-<p style="color:#ff4040;font-size:1.7em;">Предоставленная тут информация является справочной, всегда используйте симкрафт</p>
+### Рейд сет <span style="color: #2359ff">Льда (Фрост)</span>
 
-## Легендарные предметы
+После усиления Фрост сета он стал обгонять по урону Анхоли сет, особенно в АоЕ и клив боях, а в СТ у них примерно равные показатели. 
+Для игры с Фрост сетом требуется много крита, рекомендую собрать как минимум 40%. 
 
-### Рейд
+<div class="table-box" markdown="1">
+
+|Осколок Господства|Тип|Заметка|
+|[Осколок Кор](https://ru.wowhead.com/item=187063)|<span class="c7">Лед</span>|Самый сильный из осколков Льда. Особенно хорош в М+ и Кливе.|
+|[Осколок Тел](https://ru.wowhead.com/spell=355748/)|<span class="c7">Лед</span>|Нужен для активации сета. Неплохой камень повышающий нашу выживаемость и игроков рядом с вами.|
+|[Осколок Кир](https://ru.wowhead.com/spell=355743)|<span class="c7">Лед</span>|Нужен для активации сета. Хороший камень повышающий нашу выживаемость.|
+|[Осколок Бек](https://ru.wowhead.com/item=187057)|<span class="c6">Кровь</span>|Самый сильный из осколков Крови.|
+|[Осколок Диз](https://ru.wowhead.com/item=187073)|<span class="r3">Нечестивость</span>|Самый сильный из осколков Нечестивости.|
+
+</div>
+
+### Мифик+
+
+<div class="table-box" markdown="1">
+
+|Осколок Господства|Тип|Заметка|
+|[Осколок Кор](https://ru.wowhead.com/item=187063)|<span class="c7">Лед</span>|Очень сильный осколок в М+ так как срабатывает за каждого нового моба.|
+|[Осколок Бек](https://ru.wowhead.com/item=187057)|<span class="c6">Кровь</span>|Еще один сильный осколок в боях с неколькими целями.|
+|[Осколок Диз](https://ru.wowhead.com/item=187073)|<span class="r3">Нечестивость</span>|Не так хорош в АоЕ но очень сильный в СТ бою.|
+|[Осколок Кир](https://ru.wowhead.com/spell=355743)|<span class="c7">Лед</span>|Хороший осколок, повышает вашу выживаемость|
+|[Осколок Тел](https://ru.wowhead.com/spell=355748)|<span class="c7">Лед</span>|Хороший осколок, повышает выживаемость всей группы.|
+
+</div>
+
+<p class="tanknotes-section-success" markdown="1">
+Вы можете использовать вместо <span class="c7">Фрост</span> осколка [Тел](https://ru.wowhead.com/spell=355748) осколок <span class="r3">Нечестивость</span> [Зед](https://ru.wowhead.com/item=187079), 
+он даст от 0.5-1% общего урона за подземелье.
+</p>
+
+## Улучшение Осколков Господства
+
+Осколки Господства можно улучшить 4 раза, чтобы усилить сам осколок и их сетовый бонус с помощью [Стигийских углей](https://ru.wowhead.com/item=186599), которые можно получить, 
+победив боссов [Святилища Господства](https://ru.wowhead.com/sanctum-of-domination). Все Осколки Господства будут падать первого ранга, и их нужно будет повышать ранг за рангом с помощью [Стигийских углей](https://ru.wowhead.com/item=186599):
  
-**СТ**
+<div class="table-box" markdown="1">
+ 
+|Ранг|Название|Стоимость Улучшения|
+|1|Стандартный|Падает в [Святилище Господства](https://ru.wowhead.com/sanctum-of-domination)|
+|2|Зловещий|5 [Стигийских углей](https://ru.wowhead.com/item=186599) + Стандартный осколок| 
+|3|Опустошенный|15 [Стигийских углей](https://ru.wowhead.com/item=186599) + Зловещий осколок|
+|4|Пугающий|30 [Стигийских углей](https://ru.wowhead.com/item=186599) + Опустошенный осколок|
+|5|Сулящий беду|50 [Стигийских углей](https://ru.wowhead.com/item=186599) + Пугающий осколок|
 
-* {{ site.data.legendary.Burning_Wound }} — {{ site.data.spell.Demons_Bite }}оставляет открытую рану, наносящую противнику урон от магии Хаоса 15 sec. и увеличивающую урон, получаемый от вашего {{ site.data.spell.Immolation_Aura }} на 65%.
-> Крафтим в слот спины.
+</div>
 
-Рецепт на этот легендарный предмет добывается с подземелья {{ site.data.mplus.Plaguefall }}.
+<p class="tanknotes-section-success" markdown="1">
+В первую очередь улучшайте осколки сета который вы выбрали, а потом оставшиеся осколки атаки. 
+</p>
 
-* {{ site.data.legendary.Chaos_Theory }} — {{ site.data.spell.Blade_Dance }} с вероятностью 30% накладывает на персонажа эффект “Клинки Хаоса”, который повышает урон от {{ site.data.spell.Chaos_Strike }} на 50%, а вероятность восполнения гнева - дополнительно на 60%. Время действия эффекта - 8 сек. 
-> Крафтим в слот пояса.
+<hr>
 
-Рецепт на этот легендарный предмет добывается с последнего босса {{ site.data.mplus.Sire_Denathrius }} рейда {{ site.data.mplus.Castle_Nathria }}.
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html">Назад:<br>Легендарные предметы</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html">Далее:<br>Проводники (Кондуиты)</a></div>
 
-**Клив/АоЕ**
-
-* {{ site.data.legendary.Darkglare_Boon }} — {{ site.data.spell.Eye_Beam }} с вероятностью 40% не требует восстановления и восполняет 30 ед. гнева.
-> Крафтим в слот пояса.
-
-Рецепт на этот легендарный предмет добывается с подземелья {{ site.data.mplus.De_Other_Side }}
-
-* {{ site.data.legendary.Collective_Anguish }} — При использовании {{ site.data.spell.Eye_Beam }} Охотник на Демонов призывает союзника, который использует {{ site.data.spell.Fel_Devastation }}.
-> Крафтим в слот наручей.
-
-Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Castle_Nathria }}.
-
-* {{ site.data.legendary.Burning_Wound }} — {{ site.data.spell.Demons_Bite }} оставляет открытую рану, наносящую противнику урон от магии Хаоса 15 сек. и увеличивающую урон, получаемый от вашего {{ site.data.spell.Immolation_Aura }} на 65%.
-> Крафтим в слот спины.
-
-Рецепт на этот легендарный предмет добывается с подземелья {{ site.data.mplus.Plaguefall }}.
-
-* [Пылающая бойня](https://ru.wowhead.com/spell=355890/) - При достижении цели [Охота](https://ru.wowhead.com/spell=323639) активирует [Обжигающий жар](https://ru.wowhead.com/spell=258920) 
-и вы получаете 3% ловкости на 12 секунд за каждого пораженного врага.
-
-> Крафтим в слот спины.
-
-Рецепт выдается на 48 уровне известности ковенанат.
-
-* [Терзающий взгляд](https://ru.wowhead.com/spell=355886) — [Клеймо греха](https://ru.wowhead.com/spell=317009/sinful-brand) наносит на 10% больше урона, а урон от 
-[Пронзающего взгляда](https://ru.wowhead.com/spell=198013) увеличивает время действия [Клейма греха](https://ru.wowhead.com/spell=317009/sinful-brand) на 0,5 секунды за каждый тик способности.
-
-> Крафтим в слот ног.
-
-Рецепт выдается на 48 уровне известности ковенанат.
-
-## Аксессуар
-
-* [Реликвия ледяных пустошей](https://ru.wowhead.com/item=186437)
-* {{ site.data.item.Phial_of_Putrefaction }} - Наносит высокий урон и показывает высокий оверолл.
-* [Фрагмент мучительной дыбы](https://ru.wowhead.com/item=186430)
-* [Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432)
-
-### Patchwerk
-<div id="bloodmallet_patchwerk" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222" data-language="ru" data-entries="10">Loading...</div>
-
-### Hectic Add Cleave
-<div id="bloodmallet_hecticaddcleave" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-fight-style="hecticaddcleave" data-font-color="#eee" data-background-color="#222" data-language="ru">Loading...</div>
-
-
-## Уровни предметов в 2 сезоне эпохальных+ подземелий Shadowlands
-
-<table class="grid" style="max-width:750px">
-<tbody>
-<tr>
-<td style="text-align: center;"><b>Уровень ключа</b></td>
-<td style="text-align: center;"><b>В конце подземелья</b></td>
-<td style="text-align: center;"><b>В недельном сундуке</b></td>
-</tr>
-<tr><td>Эпохальный 2</td>
-<td style="text-align: center;">213</td>
-<td style="text-align: center;">226</td>
-</tr>
-<tr><td>Эпохальный 3</td>
-<td style="text-align: center;">216</td>
-<td style="text-align: center;">229</td>
-</tr>
-<tr>
-<td>Эпохальный 4</td>
-<td style="text-align: center;">220</td>
-<td style="text-align: center;">233</td>
-</tr>
-<tr><td>Эпохальный 5</td>
-<td style="text-align: center;">220</td>
-<td style="text-align: center;">236</td>
-</tr>
-<tr>
-<td>Эпохальный 6</td>
-<td style="text-align: center;">223</td>
-<td style="text-align: center;">236</td>
-</tr>
-<tr>
-<td>Эпохальный 7</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">239</td>
-</tr>
-<tr>
-<td>Эпохальный 8</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">242</td>
-</tr>
-<tr>
-<td>Эпохальный 9</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">242</td>
-</tr>
-<tr>
-<td>Эпохальный 10</td>
-<td style="text-align: center;">229</td>
-<td style="text-align: center;">246</td>
-</tr>
-<tr>
-<td>Эпохальный 11</td>
-<td style="text-align: center;">229</td>
-<td style="text-align: center;">246</td>
-</tr>
-<tr>
-<td>Эпохальный 12</td>
-<td style="text-align: center;">233</td>
-<td style="text-align: center;">249</td>
-</tr><tr><td>Эпохальный 13</td>
-<td style="text-align: center;">233</td>
-<td style="text-align: center;">249</td>
-</tr>
-<tr>
-<td>Эпохальный 14</td>
-<td style="text-align: center;">233</td>
-<td style="text-align: center;">252</td>
-</tr>
-<tr>
-<td>Эпохальный 15+</td>
-<td style="text-align: center;">236</td>
-<td style="text-align: center;">252</td>
-</tr>
-</tbody>
-</table>
-
-## Уровни предметов в рейде Святилища господства
-
-<table class="grid" style="max-width:750px">
-<tbody>
-<tr>
-<td style="text-align: center;"><b>Сложность</b></td>
-<td style="text-align: center;"><b>Первые 8 боссов</b></td>
-<td style="text-align: center;"><b>Последние 2 босса</b></td>
-</tr>
-<tr><td>ЛФР</td>
-<td style="text-align: center;">213</td>
-<td style="text-align: center;">220</td>
-</tr>
-<tr><td>Обычная</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">233</td>
-</tr>
-<tr>
-<td>Героическая</td>
-<td style="text-align: center;">239</td>
-<td style="text-align: center;">246</td>
-</tr>
-<tr><td>Эпохальный</td>
-<td style="text-align: center;">252</td>
-<td style="text-align: center;">259</td>
-</tr>
-</tbody>
-</table>
-
-
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/stats.html">Назад:<br>Характеристики</a></div> 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/covenant.html">Далее:<br>Ковенанты</a></div>
+<br>

@@ -33,6 +33,23 @@ image:
 </div>
 <br>
 
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+## Изменения Проводников в патче 9.1
+
+* [Неестественная злоба](https://ru.wowhead.com/item=183463) - Теперь усиливает урон от ДоТа Охоты.
+* Добавлен новый Кондуит [Фрагмент адаптивной брони](https://ru.wowhead.com/spell=357902) - Когда вы получаете исцеление от другого игрока, ваша основная характеристика повышается на 2-3.6% на 15 секунд. Срабатывает не чаще раза в 30 секунд.
+* Добавлен новый Кондуит [Сфера концентрированной анимы](https://ru.wowhead.com/spell=357888) - Когда вы получаете урон, вы восполняете 2.5-4.5% максимального запаса здоровья. Срабатывает не чаще раза в 10 секунд.
+
+<hr>
+
+## Проводники Охотников на Демонов Истребление
+
+### <img src="/assets/img/guide/havoc/potency.png" width="15" height="100%"> <u>Проводники силы</u>
+
+
+
+
 ### Рейд
 
 <img src="/assets/img/guide/havoc/potency.png" width="15" height="100%"> <u>Проводники силы</u>
