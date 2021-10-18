@@ -84,55 +84,53 @@ image:
 
 <img src="/assets/img/guide/havoc/potency.png" width="15" height="100%"> <u>Проводники силы</u>
 
-* {{ site.data.conduits.Growing_Inferno }} — урон способности {{ site.data.spell.Immolation_Aura }} дополнительно увеличивается на 10-18% каждый раз, когда она наносит урон. 
+* [Нарастающий жар преисподней](https://ru.wowhead.com/spell=339231/) — урон способности {{ site.data.spell.Immolation_Aura }} дополнительно увеличивается на 10-18% каждый раз, когда она наносит урон. 
 Очень сильно увеличивает урон от {{site.data.spell.Immolation_Aura }}, **используем всегда**.
 > Добыча: подземелье [Смертельная тризна](https://ru.wowhead.com/the-necrotic-wake) босс [Хирург Трупошов](https://ru.wowhead.com/npc=166882) и рейд [Святилище Господства](https://ru.wowhead.com/zone=13561) босс [Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828/) 
 
-* {{ site.data.conduits.Demons_Touch }} —  {{ site.data.spell.Chaos_Strike }} с вероятностью 5-9% сработает еще раз.
+* [Непреклонный натиск](https://ru.wowhead.com/spell=339151/) — {{ site.data.spell.Chaos_Strike }} с вероятностью 5-9% сработает еще раз.
 > Добыча: подземелье [Чумные каскады](https://ru.wowhead.com/plaguefall) босс [Домина Отравленный Клинок](https://ru.wowhead.com/npc=164266)
 
-* [Неестественная злоба](https://ru.wowhead.com/spell=344358) — Увеличивает урон ДоТа "Охоты", на 25-45%.
+* [Неестественная злоба](https://ru.wowhead.com/spell=344358) — увеличивает урон ДоТа [Охоты](https://ru.wowhead.com/spell=323639/), на 25-45%.
 > Добыча: рейд [Замок Нафрия](https://ru.wowhead.com/castle-nathria) босс [Сир Денатрий](https://ru.wowhead.com/npc=167406) и мировые боссы
 
-* [Фрагмент адаптивной брони](https://ru.wowhead.com/spell=357902) При получении исцеления от другого игрока ваша основная характеристика повышается на 2-3,6% на 15 сек. Эффект срабатывает не чаще раза в 30 сек.
+* [Фрагмент адаптивной брони](https://ru.wowhead.com/spell=357902) при получении исцеления от другого игрока ваша основная характеристика повышается на 2-3,6% на 15 сек. Эффект срабатывает не чаще раза в 30 сек.
 > Добыча: мировой босс [Мор'гет](https://ru.wowhead.com/npc=178958/) и рейд [Святилище Господства](https://ru.wowhead.com/zone=13561) босс [Стражница Предвечных](https://ru.wowhead.com/npc=175731/guardian-of-the-first-ones) 
 
-<p class="tanknotes-section-success" markdown="1">
+* [Повторный указ](https://ru.wowhead.com/spell=339895) — [Элизийский декрет](https://ru.wowhead.com/spell=306830/) активирует вторую печать через 1 сек., нанося 15-27% урона.
+> Добыча: рейд [Замок Нафрия](https://ru.wowhead.com/castle-nathria) босс [Сир Денатрий](https://ru.wowhead.com/npc=167406) и мировые боссы
 
+* [Мрачное пламя](https://ru.wowhead.com/spell=340063) — продлевает время действия "Усиленной души демона", полученной от [Подпитки для пламени](https://ru.wowhead.com/spell=329554/), на 1-9 секунд.
+> Добыча: рейд [Замок Нафрия](https://ru.wowhead.com/castle-nathria) босс [Сир Денатрий](https://ru.wowhead.com/npc=167406) и мировые боссы
 
+* [Повышенная бдительность](https://ru.wowhead.com/spell=340028) — Уменьшает время восстановления [Клейма греха](https://ru.wowhead.com/spell=317009) на 5-9 секунд.
+> Добыча: рейд [Замок Нафрия](https://ru.wowhead.com/castle-nathria) босс [Сир Денатрий](https://ru.wowhead.com/npc=167406) и мировые боссы
 
+<p class="tanknotes-section-error" markdown="1">
+У нас всегда будет занят один слот проводником силы [Нарастающий жар преисподней](https://ru.wowhead.com/spell=339231/), а второй слот ковенанским проводником. В редких случая для СТ боев мы будем менять ковенанский проводник 
+на [Непреклонный натиск](https://ru.wowhead.com/spell=339151).
 </p>
-
-### Рейд
-
-
-
-
-
-
-
-
 
 <img src="/assets/img/guide/havoc/endurance.png" width="15" height="100%"> <u>Проводники выносливости</u>
 
-* {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} снижает получаемый вами урон от магии дополнительно на 6-13%. Очень сильный проводник, берем когда в бою присутствует магический урон.
-> Добыча: подземелье [Tazavesh, the Veiled Market](https://ru.wowhead.com/zone=13577/) босс [So'azmi](https://ru.wowhead.com/npc=175806)
+* {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} снижает получаемый вами урон от магии дополнительно на 6-10%. Очень сильный проводник, берем когда в бою присутствует магический урон.
+> Добыча: подземелье [Тайный рынок Тазавеш](https://ru.wowhead.com/zone=13577/) босс [Со'азми](https://ru.wowhead.com/npc=175806)
 
-* {{ site.data.conduits.Fel_Defender }} — время восстановления вашей способности {{ site.data.spell.Blur }} уменьшается на 5-20 сек. Выбор по умолчанию в боях без магии.
-> Добыча: подземелье [Tazavesh, the Veiled Market](https://ru.wowhead.com/zone=13577/) босс [So'leah](https://ru.wowhead.com/npc=180863/)
+* {{ site.data.conduits.Fel_Defender }} — время восстановления вашей способности {{ site.data.spell.Blur }} уменьшается на 5-13 сек. **Используем всегда**
+> Добыча: подземелье [Тайный рынок Тазавеш](https://ru.wowhead.com/zone=13577/) босс [Со'лея](https://ru.wowhead.com/npc=180863/)
 
-* [Конденсированная сфера анимы](https://ru.wowhead.com/spell=357888) — При получении любого урона вы восполняете 0.25-0.45% максимального запаса здоровья. Эффект срабатывает не чаще раза в 10 сек.
+* [Конденсированная сфера анимы](https://ru.wowhead.com/spell=357888) — При получении любого урона вы восполняете 2,5-4,5% максимального запаса здоровья. Эффект срабатывает не чаще раза в 10 сек.
 > Добыча: мировой босс [Мор'гет](https://ru.wowhead.com/npc=178958/)
 
 <img src="/assets/img/guide/havoc/finesse.png" width="15" height="100%"> <u>Проводники точности</u>
 
-* {{ site.data.conduits.Felfire_Haste }} — ваша скорость передвижения повышается на 5-20% после использования способности {{ site.data.spell.Fel_Rush }}. Дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку.
+* {{ site.data.conduits.Felfire_Haste }} — ваша скорость передвижения повышается на 5-13% после использования способности {{ site.data.spell.Fel_Rush }}. Дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку.
 > Добыча: рейд [Святилище Господства](https://ru.wowhead.com/zone=13561/) босс [Сир Денатрий](https://ru.wowhead.com/npc=179390/)
 
-* {{ site.data.conduits.Ravenous_Consumption }} — способность {{ site.data.spell.Consume_Magic }} получает 15-30% шанс рассеять дополнительный эффект.
-> Добыча: подземелье [Tazavesh, the Veiled Market](https://ru.wowhead.com/zone=13577/) босс [P.O.S.T. Master](https://ru.wowhead.com/npc=175646)
+* {{ site.data.conduits.Ravenous_Consumption }} — способность {{ site.data.spell.Consume_Magic }} получает 15-23% шанс рассеять дополнительный эффект.
+> Добыча: подземелье [Тайный рынок Тазавеш](https://ru.wowhead.com/zone=13577/) босс [ПОЧТ-мейстер](https://ru.wowhead.com/npc=175646)
 
-### Мифик+
+## Лучшие проводники для Мифик+
 
 <img src="/assets/img/guide/havoc/potency.png" width="15" height="100%"> <u>Проводники силы</u>
 
@@ -143,31 +141,38 @@ image:
 * {{ site.data.conduits.Demons_Touch }} —  {{ site.data.spell.Chaos_Strike }} с вероятностью 5-9% сработает еще раз.
 > Добыча: подземелье [Чумные каскады](https://ru.wowhead.com/plaguefall) босс [Домина Отравленный Клинок](https://ru.wowhead.com/npc=164266)
 
-* [Фрагмент адаптивной брони](https://ru.wowhead.com/spell=357902) При получении исцеления от другого игрока ваша основная характеристика повышается на 2-3,6% на 15 сек. Эффект срабатывает не чаще раза в 30 сек.
-> Добыча: мировой босс [Мор'гет](https://ru.wowhead.com/npc=178958/) и рейд [Святилище Господства](https://ru.wowhead.com/zone=13561) босс [Стражница Предвечных](https://ru.wowhead.com/npc=175731/guardian-of-the-first-ones) 
-
 * [Неестественная злоба](https://ru.wowhead.com/spell=344358) — Увеличивает урон ДоТа "Охоты", на 25-45%.
 > Добыча: рейд [Замок Нафрия](https://ru.wowhead.com/castle-nathria) босс [Сир Денатрий](https://ru.wowhead.com/npc=167406) и мировые боссы
 
+* [Фрагмент адаптивной брони](https://ru.wowhead.com/spell=357902) При получении исцеления от другого игрока ваша основная характеристика повышается на 2-3,6% на 15 сек. Эффект срабатывает не чаще раза в 30 сек.
+> Добыча: мировой босс [Мор'гет](https://ru.wowhead.com/npc=178958/) и рейд [Святилище Господства](https://ru.wowhead.com/zone=13561) босс [Стражница Предвечных](https://ru.wowhead.com/npc=175731/guardian-of-the-first-ones) 
+
+<p class="tanknotes-section-error" markdown="1">
+В Мифик+ мы всегда используем в один проводник силы [Нарастающий жар преисподней](https://ru.wowhead.com/spell=339231/), а второй слот берем ковенанским проводник. Если вам доступно три проводника силы, 
+например вы играете в ковенанте Кирии используете медиума Пелагия, в третий слот берем {{ site.data.conduits.Demons_Touch }} чтоб усилить СТ урон, либо [Фрагмент адаптивной брони](https://ru.wowhead.com/spell=357902) для АоЕ.
+</p>
+
 <img src="/assets/img/guide/havoc/endurance.png" width="15" height="100%"> <u>Проводники выносливости</u>
 
-* {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} снижает получаемый вами урон от магии дополнительно на 6-13%. Очень сильный проводник, берем когда в бою присутствует магический урон.
-> Добыча: подземелье [Tazavesh, the Veiled Market](https://ru.wowhead.com/zone=13577/) босс [So'azmi](https://ru.wowhead.com/npc=175806)
+* {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} снижает получаемый вами урон от магии дополнительно на 6-10%. Очень сильный проводник, берем когда в бою присутствует магический урон.
+> Добыча: подземелье [Тайный рынок Тазавеш](https://ru.wowhead.com/zone=13577/) босс [Со'азми](https://ru.wowhead.com/npc=175806)
 
-* {{ site.data.conduits.Fel_Defender }} — время восстановления вашей способности {{ site.data.spell.Blur }} уменьшается на 5-20 сек. Выбор по умолчанию в боях без магии.
-> Добыча: подземелье [Tazavesh, the Veiled Market](https://ru.wowhead.com/zone=13577/) босс [So'leah](https://ru.wowhead.com/npc=180863/)
+* {{ site.data.conduits.Fel_Defender }} — время восстановления вашей способности {{ site.data.spell.Blur }} уменьшается на 5-13 сек. **Используем всегда**
+> Добыча: подземелье [Тайный рынок Тазавеш](https://ru.wowhead.com/zone=13577/) босс [Со'лея](https://ru.wowhead.com/npc=180863/)
 
-* [Конденсированная сфера анимы](https://ru.wowhead.com/spell=357888) — При получении любого урона вы восполняете 0.25-0.45% максимального запаса здоровья. Эффект срабатывает не чаще раза в 10 сек.
+* [Конденсированная сфера анимы](https://ru.wowhead.com/spell=357888) — При получении любого урона вы восполняете 2,5-4,5% максимального запаса здоровья. Эффект срабатывает не чаще раза в 10 сек.
 > Добыча: мировой босс [Мор'гет](https://ru.wowhead.com/npc=178958/)
 
 <img src="/assets/img/guide/havoc/finesse.png" width="15" height="100%"> <u>Проводники точности</u>
 
-* {{ site.data.conduits.Felfire_Haste }} — ваша скорость передвижения повышается на 5-20% после использования способности {{ site.data.spell.Fel_Rush }}. Дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку.
-> Добыча: рейд [Святилище Господства](https://ru.wowhead.com/zone=13561/) босс [Fatescribe Roh-Kalo](https://ru.wowhead.com/npc=179390/)
+* {{ site.data.conduits.Felfire_Haste }} — ваша скорость передвижения повышается на 5-13% после использования способности {{ site.data.spell.Fel_Rush }}. Дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку.
+> Добыча: рейд [Святилище Господства](https://ru.wowhead.com/zone=13561/) босс [Сир Денатрий](https://ru.wowhead.com/npc=179390/)
 
-* {{ site.data.conduits.Ravenous_Consumption }} — способность {{ site.data.spell.Consume_Magic }} получает 15-30% шанс рассеять дополнительный эффект.
-> Добыча: подземелье [Tazavesh, the Veiled Market](https://ru.wowhead.com/zone=13577/) босс [P.O.S.T. Master](https://ru.wowhead.com/npc=175646)
+* {{ site.data.conduits.Ravenous_Consumption }} — способность {{ site.data.spell.Consume_Magic }} получает 15-23% шанс рассеять дополнительный эффект.
+> Добыча: подземелье [Тайный рынок Тазавеш](https://ru.wowhead.com/zone=13577/) босс [ПОЧТ-мейстер](https://ru.wowhead.com/npc=175646)
 
+<hr>
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/gear.html">Назад:<br>Бис лист</a></div>
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/consumables.html">Длаее:<br>Расходники</a></div>
+<br>
