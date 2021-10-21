@@ -35,17 +35,58 @@ image:
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
+## Новинки патча 9.1
+
+Легендарный предмет ковенанта <span class="covenant-night-fae">Ночного Народца</span> [Пылающая бойня](https://ru.wowhead.com/spell=355890): Когда вы настигаете цель, [Охота](https://ru.wowhead.com/spell=323639)
+окружает вас [Обжигающим жаром](https://ru.wowhead.com/spell=258920). За каждого пораженного противника ваша ловкость повышается на 4% на 12 секунд.
+
+* [Пылающая бойня](https://ru.wowhead.com/spell=355890) - он дает нам каждые 90 секунд дополнительный заряд [Необузданного хаоса](https://ru.wowhead.com/spell=275144), 
+а также хороший бафф ловкости в зависимости от того, сколько целей мы поразили (максимум 15%). Синергия исходит от [Обжигающего жара](https://ru.wowhead.com/spell=258920), который активирует [Охота](https://ru.wowhead.com/spell=323639) когда мы используем легендарный предмет [Blazing Slaughter](https://ptr.wowhead.com/spell=355890/blazing-slaughter), поскольку это новая активация [Обжигающего жар](https://ru.wowhead.com/spell=258920), 
+он также даст нам заряд [Необузданного хаоса](https://ru.wowhead.com/spell=275144), что позволяет нам значительно увеличить АоЕ бурст, который нам дает [Охота](https://ru.wowhead.com/spell=323639). 
+Это легендарный предмет, который имеет наибольший потенциал среди новых.
+<br>
+
 ## Ковенант Ночного Народца
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/fae_logo.png"> </p>
 
-<span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="16" height="24"> <b>Ночной народец</b></span> - {{ site.data.covenant.The_Hunt }} с является сильной способностью, которая наносит огромный прямой урон в одну цель и оставляет на ней ДоТ на 6 сек., что делает этот ковенант прекрасным выбором для ПвП и хорошим выбором для рейдов. Природа данной способности позволяет ей хорошо скейлится от крита и от скорости, однако АоЕ урон с данным ковенантом оставляет желать лучшего, т.к. способность имеет кап в 5 целей. Более того, попадание по пяти целям не является тривиальной задачей (в отличие от ковенанта Вентиров и Кирий), т.к. придется отойти от основной цели и просчитать траекторию полета таким образом, чтобы попасть по всем (пяти) мобам. Учитывайте, что в контексте м+ это действие может усложниться тем, что танк может в это время кайтить мобов.
+<span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="24" height="24"> <b>Ночной народец</b></span> - {{ site.data.covenant.The_Hunt }} с является сильной способностью, которая наносит огромный прямой урон в одну цель и оставляет на ней ДоТ на 6 сек., что делает этот ковенант прекрасным выбором для ПвП и хорошим выбором для рейдов. Природа данной способности позволяет ей хорошо скейлится от крита и от скорости, однако АоЕ урон с данным ковенантом оставляет желать лучшего, т.к. способность имеет кап в 5 целей. Более того, попадание по пяти целям не является тривиальной задачей (в отличие от ковенанта Вентиров и Кирий), т.к. придется отойти от основной цели и просчитать траекторию полета таким образом, чтобы попасть по всем (пяти) мобам. Учитывайте, что в контексте м+ это действие может усложниться тем, что танк может в это время кайтить мобов.
 
 После вступления в ковенант нам откроются две способности:
-* {{ site.data.covenant.The_Hunt }} - Совершает рывок к цели, нанося урон от сил природы и обездвиживая ее на 1.5 сек., накладывая ДоТ на до 5 врагов на пути между вами и вашей целью. Преследование укрепляет вашу душу, в результате чего вы в течение 30 sec. восполняете здоровье в объеме 50% урона, который наносите цели "Охоты". Кондуит {{ site.data.conduits.Unnatural_Malice }} значительно увеличивает урон наносимый {{ site.data.covenant.The_Hunt }} по цели в вашем таргете, что делает этот ковенат хорошим выбором для СТ.
+* {{ site.data.covenant.The_Hunt }} - После 1 секундного применения вы устремляетесь к цели, накладывая ДоТ максимум на 5 целей на пути между вами и вашей целью, 
+нанося урон цели и накладывая на нее дебафф 25% самоисцеления на 30 секунд. Хитбокс для накладывания ДоТа чрезвычайно мал, он равен радиусу ближнего боя, 
+поэтому поэтому очень легко промахнуться. Кроме того, если у врага, маленький хитбокс или он 
+движется во время использования способности, ДоТ может не наложится, даже на ваш основной таргет.
 * {{ site.data.covenant.Soulshape }} - дополнительное увеличение мобильности, которая поможет уворачиваться от механик.
 
-### Ния
+## Лучшие Медиумы
 
+<div class="tabs" id="tabs-2">
+    <div class="tabs__nav">
+      <a class="tabs__link tabs__link_active" href="#content-33">СТ</a>
+      <a class="tabs__link" href="#content-44">АоЕ</a>
+    </div>
+    <div class="tabs__content">
+      <div class="tabs__pane tabs__pane_show" id="content-33">
+        <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/AwaW5ZYBBStvCBIFLR8IJSzPCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+      </div>
+      <div class="tabs__pane" id="content-44">
+        <a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+      </div>
+    </div>
+  </div>
+<br>
+
+## Медиумы Ковенанта Ночного Народца
+
+<div class="tabs" id="tabs-1">
+    <div class="tabs__nav">
+      <a class="tabs__link tabs__link_active" href="#content-2">Ния</a>
+      <a class="tabs__link" href="#content-1">Творец Снов</a>
+	  <a class="tabs__link" href="#content-3">Корейн</a>
+    </div>
+    <div class="tabs__content">
+      <div class="tabs__pane tabs__pane_show" id="content-2">
+<div class="tabs_in" markdown="1">	  
 * {{ site.data.covenant.Grove_Invigoration }} - не особо сильный баф Искусности и Здоровья.
 * {{ site.data.covenant.Niyas_Tools_Burrs }} - наносит много урона, очень сильный трейт.
 * {{ site.data.covenant.Niyas_Tools_Poison }} - подойдет для мифик+, в рейде не будет использоваться. 
@@ -55,10 +96,11 @@ image:
 
 Рекомендуемое дерево развития медиума Ния:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/AwCWZZYBBStvABIFLR8AJSzPACMVKvoAJSrvADV2AAA" target="blank">anything</a>
-
-### Творец Снов
-
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/AwaW5ZYBBStvCBIFLR8IJSzPCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+</div>      
+	  </div>
+      <div class="tabs__pane" id="content-1">
+<div class="tabs_in" markdown="1">	
 Творец Снов обладает очень сильными связями душ на раннем развитии дерева, а также дает возможность получить 2 слота для кондуитов Силы раньше чем у кого либо, что будет полезно на освоении рейда.
 
 * {{ site.data.covenant.Podtender }} - Дает нам читдес, но из-за того что мы после получения смертельного урона получаем стан на 10 сек. является огромным недостатком.
@@ -69,10 +111,11 @@ image:
 
 Рекомендуемое дерево развития медиума Творец Снов:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/Awaarr4BJStvABIFLR8AJUEmACMFKu8AFStpACUq-gA" target="blank">anything</a>
-
-### Корейн
-
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/Awaarr4BJStvCBIFLR8IJSzPCCMFKu8IFSr6CCV2AAg" target="blank">anything</a>
+</div>     
+	 </div>
+	  <div class="tabs__pane" id="content-3">
+<div class="tabs_in" markdown="1">
 Корейн обладает очень сильными связями душ на раннем развитии дерева, а также дает возможность получить 2 слота для кондуитов Силы раньше чем у кого либо, что будет полезно на освоении рейда.
 
 * {{ site.data.covenant.Wild_Hunt_Tactics }} - Очень сильный баф урона и скорости передвижения в начале боя и увеличенное исцеление когда у вас мало здоровья
@@ -82,8 +125,109 @@ image:
 
 Рекомендуемое дерево развития медиума Корейн:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwCaqpYBBStvABIFLR8AJSzPACMVKu8AJSr6ADV2AAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+</div>      
+	  </div>
+    </div>
+  </div>
+<br>
 
+## Сим от Bloodmallet 
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/stats.html">Назад:<br>Характеристики</a></div> 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/covenant.html">Далее:<br>Ковенанты</a></div>
+<div class="bloodmallet_chart" id="wowhead-guid-1634795572276-1634795567000-1277055173-4" data-wow-class="demon_hunter" data-wow-spec="havoc" data-axis-color="#9d9d9d" data-background-color="#242424" data-chart-mode="nodes" data-covenant="Night Fae" data-font-color="#ccc" data-type="soul_binds" data-highcharts-chart="0" style="overflow: hidden; height: 410px;" data-language="ru" data-entries="10">Loading...</div>
+
+<hr>
+
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html">Назад:<br>Проводники (Кондуиты)</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/necrolord.html">Далее:<br>Некролорды</a></div>
+
+<br>
+
+<script>
+    var $tabs = function (target) {
+      var
+        _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
+        _eventTabsShow,
+        _showTab = function (tabsLinkTarget) {
+          var tabsPaneTarget, tabsLinkActive, tabsPaneShow;
+          tabsPaneTarget = document.querySelector(tabsLinkTarget.getAttribute('href'));
+          tabsLinkActive = tabsLinkTarget.parentElement.querySelector('.tabs__link_active');
+          tabsPaneShow = tabsPaneTarget.parentElement.querySelector('.tabs__pane_show');
+          // если следующая вкладка равна активной, то завершаем работу
+          if (tabsLinkTarget === tabsLinkActive) {
+            return;
+          }
+          // удаляем классы у текущих активных элементов
+          if (tabsLinkActive !== null) {
+            tabsLinkActive.classList.remove('tabs__link_active');
+          }
+          if (tabsPaneShow !== null) {
+            tabsPaneShow.classList.remove('tabs__pane_show');
+          }
+          // добавляем классы к элементам (в завимости от выбранной вкладки)
+          tabsLinkTarget.classList.add('tabs__link_active');
+          tabsPaneTarget.classList.add('tabs__pane_show');
+          document.dispatchEvent(_eventTabsShow);
+        },
+        _switchTabTo = function (tabsLinkIndex) {
+          var tabsLinks = _elemTabs.querySelectorAll('.tabs__link');
+          if (tabsLinks.length > 0) {
+            if (tabsLinkIndex > tabsLinks.length) {
+              tabsLinkIndex = tabsLinks.length;
+            } else if (tabsLinkIndex < 1) {
+              tabsLinkIndex = 1;
+            }
+            _showTab(tabsLinks[tabsLinkIndex - 1]);
+          }
+        };
+
+      _eventTabsShow = new CustomEvent('tab.show', { detail: _elemTabs });
+
+      _elemTabs.addEventListener('click', function (e) {
+        var tabsLinkTarget = e.target;
+        // завершаем выполнение функции, если кликнули не по ссылке
+        if (!tabsLinkTarget.classList.contains('tabs__link')) {
+          return;
+        }
+        // отменяем стандартное действие
+        e.preventDefault();
+        _showTab(tabsLinkTarget);
+      });
+
+      return {
+        showTab: function (target) {
+          _showTab(target);
+        },
+        switchTabTo: function (index) {
+          _switchTabTo(index);
+        }
+      }
+
+    };
+
+    (function () {
+      var
+        nameKey = 'mytabs2',
+        mytabs = {},
+        mytabsStorage = {},
+        listTabs = document.querySelectorAll('.tabs');
+
+      for (var i = 0, length = listTabs.length; i < length; i++) {
+        if (listTabs[i].id) {
+          mytabs[listTabs[i].id] = $tabs(listTabs[i]);
+        }
+      }
+      if (localStorage.getItem(nameKey)) {
+        mytabsStorage = JSON.parse(localStorage.getItem(nameKey));
+        for (var key in mytabsStorage) {
+          if (mytabs.hasOwnProperty(key)) {
+            mytabs[key].showTab(document.querySelector('[href="' + mytabsStorage[key] + '"]'));
+          }
+        }
+      }
+      document.addEventListener('tab.show', function (e) {
+        mytabsStorage[e.detail.closest('.tabs').getAttribute('id')] = e.detail.querySelector('.tabs__link_active').getAttribute('href');
+        localStorage.setItem(nameKey, JSON.stringify(mytabsStorage));
+      })
+    })();
+</script>	

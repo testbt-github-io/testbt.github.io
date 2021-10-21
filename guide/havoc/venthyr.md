@@ -33,6 +33,21 @@ image:
 </div>
 <br>
 
+
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+## Новинки патча 9.1
+
+Легендарный предмет ковенанта <span class="covenant-venthyr">Вентиров</span> [Терзающий взгляд](https://ru.wowhead.com/spell=355886): Увеличивает урон, наносимый [Клеймом греха](https://ru.wowhead.com/spell=317009), на 10%. 
+Урон от [Пронзающего взгляда](https://ru.wowhead.com/spell=198013) продлевает время действия [Клейма греха](https://ru.wowhead.com/spell=317009) на 0.75 секунд.
+
+Этот легендарный предмет дает нам хорошую синергию с [Метаморфозой](https://ru.wowhead.com/spell=191427/metamorphosis) и сбросом кд с [Пронзающего взгляда](https://ru.wowhead.com/spell=198013).
+Легендарный предмет можно использовать двумя способами:
+* Для оной цели продлеваем [Клеймо греха](https://ru.wowhead.com/spell=317009/sinful-brand) с помощью [Пронзающего взгляда](https://ru.wowhead.com/spell=198013), обновляем  [Клеймо греха](https://ru.wowhead.com/spell=317009/sinful-brand) с помощью [Метаморфозой](https://ru.wowhead.com/spell=191427/metamorphosis) и снова продлеваем с помощью [Пронзающего взгляда](https://ru.wowhead.com/spell=198013).
+* Для АоЕ с помощью [Метаморфозы](https://ru.wowhead.com/spell=191427/metamorphosis) вешаем на все цели [Клеймо греха](https://ru.wowhead.com/spell=317009/sinful-brand) и продлеваем с помощью [Пронзающего взгляда](https://ru.wowhead.com/spell=198013).
+
+Мощная синергия в обоих случаях делает интересным этот новый легендарный предмет для <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиров</b></span>.
+
 ## Ковенат Вентиров
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/ventyr_logo.png"> </p>
 
@@ -46,8 +61,35 @@ image:
 
 {{ site.data.covenant.Door_of_Shadows }} - Способность дающая нам дополнительную мобильность, с ее помощью можно пропускать группы мобов.
 
-### Наджия 
+## Лучшие Медиумы
 
+<div class="tabs" id="tabs-2">
+    <div class="tabs__nav">
+      <a class="tabs__link tabs__link_active" href="#content-33">СТ</a>
+      <a class="tabs__link" href="#content-44">АоЕ</a>
+    </div>
+    <div class="tabs__content">
+      <div class="tabs__pane tabs__pane_show" id="content-33">
+        <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr74DBStvCBUrkwglLM0IEgUtHwglLM8IIhUq-gg1Ku8I" target="blank">anything</a>
+      </div>
+      <div class="tabs__pane" id="content-44">
+        <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWqpYCBStvCCUszQgSBS0fCCUszwgiFSr6CCUq7wg" target="blank">anything</a>
+      </div>
+    </div>
+  </div>
+<br>
+
+## Медиумы Ковенанта Вентиров
+
+<div class="tabs" id="tabs-1">
+    <div class="tabs__nav">
+      <a class="tabs__link tabs__link_active" href="#content-2">Наджия</a>
+      <a class="tabs__link" href="#content-1">Безумный герцог Теотар</a>
+	  <a class="tabs__link" href="#content-3">Генерал Дрейвен</a>
+    </div>
+    <div class="tabs__content">
+      <div class="tabs__pane tabs__pane_show" id="content-2">
+<div class="tabs_in" markdown="1">	  
 У Наджии доступно несколько очень сильных трейтов:
 * {{ site.data.covenant.Thrill_Seeker }} - Сильный баф скорости с хорошим аптаймом в рейде и мифик+.
 * {{ site.data.covenant.Agent_of_Chaos }} - теперь {{ site.data.covenant.Door_of_Shadows }} можно использовать для прерывания опасных заклинаний, очень сильный трейт для мифик+.
@@ -59,9 +101,10 @@ image:
 Рекомендуемое дерево развития медиума Наджия:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwCWr5YDBStvABUrkwAlLM0AEgUtHwAlLM8AIRUq-gA" target="blank">anything</a>
-
-### Безумный герцог Теотар
-
+</div>      
+	  </div>
+      <div class="tabs__pane" id="content-1">
+<div class="tabs_in" markdown="1">	
 * {{ site.data.covenant.Soothing_Shade }} - сильный баф мастери с приличным аптаймом, из минусов вы будете привязаны к месту.
 * {{ site.data.covenant.Refined_Palate }} - очень сильный трейт, так как боевые зелья очень сильны в Shadowlands.
 * {{ site.data.covenant.Wasteland_Propriety }} - самый сильный трейт для нас, но к сожалению он скрыт за проводником Точности.
@@ -70,10 +113,12 @@ image:
 
 Рекомендуемое дерево развития медиума Безумный герцог Теотар:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/demon-hunter/AwCW774BFStvABIFLR8AJSzPACMFKvoAFSrvADV2AAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/demon-hunter/AwaW5b4TBS0fCBUszwglMDwIIwUq7wgVKvoINXYACA" target="blank">anything</a>
 
-### Генерал Дрейвен
-
+</div>     
+	 </div>
+	  <div class="tabs__pane" id="content-3">
+<div class="tabs_in" markdown="1">
 * {{ site.data.covenant.Service_In_Stone }} - уменьшает входящий урон когда здоровье падает ниже 40%, очень сильный защитный трейт.
 * {{ site.data.covenant.Enduring_Gloom }} - способность дает нам отличный щит, но тогда нам приодеться брать проводник Точности. 
 * {{ site.data.covenant.Superior_Tactics }} - имеет потенциал в мифик+, в рейде не найдет места для применения.
@@ -83,8 +128,109 @@ image:
 
 Рекомендуемое дерево развития медиума Генерал Дрейвен:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/demon-hunter/AwCW6pYBJStvABIFLR8AJSzPACMFKvoAFSrvACV2AAA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/demon-hunter/AwaWb5YCFStvCCUszQgSBS0fCCUszwgiBSrvCBUq-gg" target="blank">anything</a>
+</div>      
+	  </div>
+    </div>
+  </div>
+<br>
 
+## Сим от Bloodmallet 
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/stats.html">Назад:<br>Характеристики</a></div> 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/covenant.html">Далее:<br>Ковенанты</a></div>
+<div class="bloodmallet_chart" id="wowhead-guid-1634795572276-1634795567000-1277055173-4" data-wow-class="demon_hunter" data-wow-spec="havoc" data-axis-color="#9d9d9d" data-background-color="#242424" data-chart-mode="nodes" data-covenant="Venthyr" data-font-color="#ccc" data-type="soul_binds" data-highcharts-chart="0" style="overflow: hidden; height: 410px;" data-language="ru" data-entries="10">Loading...</div>
+
+<hr>
+
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/necrolord.html">Назад:<br>Некролорды</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/kyrian.html">Далее:<br>Кирии</a></div>
+
+<br>
+
+<script>
+    var $tabs = function (target) {
+      var
+        _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
+        _eventTabsShow,
+        _showTab = function (tabsLinkTarget) {
+          var tabsPaneTarget, tabsLinkActive, tabsPaneShow;
+          tabsPaneTarget = document.querySelector(tabsLinkTarget.getAttribute('href'));
+          tabsLinkActive = tabsLinkTarget.parentElement.querySelector('.tabs__link_active');
+          tabsPaneShow = tabsPaneTarget.parentElement.querySelector('.tabs__pane_show');
+          // если следующая вкладка равна активной, то завершаем работу
+          if (tabsLinkTarget === tabsLinkActive) {
+            return;
+          }
+          // удаляем классы у текущих активных элементов
+          if (tabsLinkActive !== null) {
+            tabsLinkActive.classList.remove('tabs__link_active');
+          }
+          if (tabsPaneShow !== null) {
+            tabsPaneShow.classList.remove('tabs__pane_show');
+          }
+          // добавляем классы к элементам (в завимости от выбранной вкладки)
+          tabsLinkTarget.classList.add('tabs__link_active');
+          tabsPaneTarget.classList.add('tabs__pane_show');
+          document.dispatchEvent(_eventTabsShow);
+        },
+        _switchTabTo = function (tabsLinkIndex) {
+          var tabsLinks = _elemTabs.querySelectorAll('.tabs__link');
+          if (tabsLinks.length > 0) {
+            if (tabsLinkIndex > tabsLinks.length) {
+              tabsLinkIndex = tabsLinks.length;
+            } else if (tabsLinkIndex < 1) {
+              tabsLinkIndex = 1;
+            }
+            _showTab(tabsLinks[tabsLinkIndex - 1]);
+          }
+        };
+
+      _eventTabsShow = new CustomEvent('tab.show', { detail: _elemTabs });
+
+      _elemTabs.addEventListener('click', function (e) {
+        var tabsLinkTarget = e.target;
+        // завершаем выполнение функции, если кликнули не по ссылке
+        if (!tabsLinkTarget.classList.contains('tabs__link')) {
+          return;
+        }
+        // отменяем стандартное действие
+        e.preventDefault();
+        _showTab(tabsLinkTarget);
+      });
+
+      return {
+        showTab: function (target) {
+          _showTab(target);
+        },
+        switchTabTo: function (index) {
+          _switchTabTo(index);
+        }
+      }
+
+    };
+
+    (function () {
+      var
+        nameKey = 'mytabs2',
+        mytabs = {},
+        mytabsStorage = {},
+        listTabs = document.querySelectorAll('.tabs');
+
+      for (var i = 0, length = listTabs.length; i < length; i++) {
+        if (listTabs[i].id) {
+          mytabs[listTabs[i].id] = $tabs(listTabs[i]);
+        }
+      }
+      if (localStorage.getItem(nameKey)) {
+        mytabsStorage = JSON.parse(localStorage.getItem(nameKey));
+        for (var key in mytabsStorage) {
+          if (mytabs.hasOwnProperty(key)) {
+            mytabs[key].showTab(document.querySelector('[href="' + mytabsStorage[key] + '"]'));
+          }
+        }
+      }
+      document.addEventListener('tab.show', function (e) {
+        mytabsStorage[e.detail.closest('.tabs').getAttribute('id')] = e.detail.querySelector('.tabs__link_active').getAttribute('href');
+        localStorage.setItem(nameKey, JSON.stringify(mytabsStorage));
+      })
+    })();
+</script>	

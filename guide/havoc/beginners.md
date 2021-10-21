@@ -33,6 +33,117 @@ image:
 </div>
 <br>
 
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+## Лучший ковенант
+
+У каждого ковенанта есть свои сильные и слабые стороны, и они выделяются в разных областях игровом контенте. Если вы отдаете предпочтение рейдам, 
+<span class="c12">Ночной Народец</span> очень хороши в эпохальных+ подземельях и рейде, в то время как <span class="c8">Кирии</span> отстает в СТ боях, но отлично подходят для М+. 
+<span class="q10">Вентиры</span> хороши в обеих контентах, в настоящее немного время опережая <span class="r3">Некролордов</span>. Каждый из ковенантов предлагает свои особые способности, связи душ, 
+проводники, комплекты трансмогрифицированной брони и другие бонусы, поэтому ознакомьтесь со всеми Ковенантами в гайде, чтобы получить дополнительную информацию, 
+которая поможет вам решить, какому ковенанту присягнуть. Имейте в виду, что выбор тоже не окончательный и вы сможете потом его поменять.
+
+<div class="table-box" markdown="1">
+
+<div style="text-align: -webkit-center;">
+<table class="grid" style="width: 500px;">
+<tbody>
+<tr>
+<td colspan="3" style="text-align: center;"><b>Лучший Ковенант для Рейда</b></td>
+</tr>
+<tr>
+<td style="text-align: center;"><b>Ковенант</b></td>
+<td style="text-align: center;"><b>Оценка</b></td>
+<td style="text-align: center;"><b>Лучший Медиум</b></td>
+</tr>
+<tr>
+<td><span class="q8"><a href="{{ site.url }}/guide/havoc/kyrian.html">Кирии</a></span></td>
+<td>Хороший</td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fCBUszwgldg4IIxUq-gglKu8INXYACA">Пелагос</a></td>
+</tr>
+<tr>
+<td>
+<a href="{{ site.url }}/guide/havoc/necrolord.html"><span class="r3">Некролорды</span></a></td>
+<td>Сильный</td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvCBMFLR8IFTBfCCUszwgiFSr6CCUq7wg">Изобретатель чумы Марилет</a></td>
+</tr>
+<tr>
+<td><span class="q4"><a href="{{ site.url }}/guide/havoc/night-fae.html">Ночной Народец</a></span></td>
+<td>Сильный</td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/AwaW5ZYBBStvCBIFLR8IJSzPCCMVKvoIJSrvCDV2AAg">Ния (СТ)</a> / 
+<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн (АоЕ)</a></td>
+</tr>
+<tr>
+<td><span class="q10"><a href="{{ site.url }}/guide/havoc/venthyr.html">Вентиры</a></span></td>
+<td>Сильный</td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr74DBStvCBUrkwglLM0IEgUtHwglLM8IIhUq-gg1Ku8I">Наджия</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+</div>
+
+<div class="table-box" markdown="1">
+
+<div style="text-align: -webkit-center;">
+<table class="grid" style="width: 500px;">
+<tbody>
+<tr>
+<td colspan="3" style="text-align: center;"><b>Лучший Ковенант для М+</b></td>
+</tr>
+<tr>
+<td style="text-align: center;"><b>Ковенант</b></td>
+<td style="text-align: center;"><b>Оценка</b>
+</td>
+<td style="text-align: center;"><b>Лучший Медиум</b></td>
+</tr>
+<tr>
+<td><span class="q8"><a href="{{ site.url }}/guide/havoc/kyrian.html">Кирии</a></span></td>
+<td><b>Низкие Ключи</b>: Сильный<br><b>Высокие Ключи</b>: Хороший</td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvCBIFLR8IJS-3CCMVKvoIJSrvCDV2AAg">Миканикос</a></td>
+</tr>
+<tr>
+<td><a href="{{ site.url }}/guide/havoc/necrolord.html"><span class="r3">Некролорды</span></a></td>
+<td><b>Низкие Ключи</b>: Хороший<br><b>Высокие Ключи</b>: Хороший</td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/AwaW6pYBBStvCBIFLR8IJTBfCCMVKvoIJSrvCDV2AAg">Костоплав Гейрмир</a></td>
+</tr>
+<tr>
+<td><span class="q4"><a href="{{ site.url }}/guide/havoc/night-fae.html">Ночной Народец</a></span></td>
+<td><b>Низкие Ключи</b>: Сильный<br><b>Высокие Ключи</b>: Сильный</td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн</a></td>
+</tr>
+<tr>
+<td><span class="q10"><a href="{{ site.url }}/guide/havoc/venthyr.html">Вентиры</a></span></td>
+<td><b>Низкие Ключи</b>: Хороший<br><b>Высокие Ключи</b>: Сильный</td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWqpYCBStvCCUszQgSBS0fCCUszwgiFSr6CCUq7wg">Наджия</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+</div>
+
+Больше информации про ковенанты:
+
+<div id="smooth-nav-coven">
+<a class="c12 cta-button" href="{{ site.url }}/guide/havoc/night-fae.html" style="border-color: #a330c9"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
+<a class="r3 cta-button" href="{{ site.url }}/guide/havoc/necrolord.html" style="border-color: #40bf40"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
+<a class="q10 cta-button" href="{{ site.url }}/guide/havoc/venthyr.html" style="border-color: #ff4040"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
+<a class="c8 cta-button" href="{{ site.url }}/guide/havoc/kyrian.html" style="border-color: #68ccef"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
+</div>
+
+<br>
+
+## Лучший легендарный предмет 
+
+Легендарные предметы у Охотников на Демонов делятся на два типа, в зависимости от типа предпочтенного контента. [Жгучая рана](https://ru.wowhead.com/spell=346279) в основном используется в бою с одной целью, 
+в то время как [Всеобщая тоска](https://ru.wowhead.com/spell=337504) предпочтительней для Клива и АоЕ, например в подземелья эпохального+ уровня. Если вы можете сделать только одину или 
+также планируете играть в Истреблении, сначала создайте [Жгучую рану](https://ru.wowhead.com/spell=346279).
+
+[Жгучая рана](https://ru.wowhead.com/spell=346279) - для рейдов.
+[Всеобщая тоска](https://ru.wowhead.com/spell=337504) - для мифик+
+
 ## Таланты
 	   
 Этот билд для Охотника на Демонов Истребления хорошо продуман и подходит для всех типов контента. Для более подробного изучения каждого таланта и более специализированных билдов для конкретных типов контента см. <a href="{{ site.url }}/guide/havoc/talent-builds.html"> Таланты и Билды</a>.
