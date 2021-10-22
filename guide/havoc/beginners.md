@@ -59,24 +59,24 @@ image:
 <tr>
 <td><span class="q8"><a href="{{ site.url }}/guide/havoc/kyrian.html">Кирии</a></span></td>
 <td>Хороший</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fCBUszwgldg4IIxUq-gglKu8INXYACA">Пелагос</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fCBUszwgldg4IIxUq-gglKu8INXYACA">Пелагос</a></td>
 </tr>
 <tr>
 <td>
 <a href="{{ site.url }}/guide/havoc/necrolord.html"><span class="r3">Некролорды</span></a></td>
 <td>Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvCBMFLR8IFTBfCCUszwgiFSr6CCUq7wg">Изобретатель чумы Марилет</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvCBMFLR8IFTBfCCUszwgiFSr6CCUq7wg">Изобретатель чумы Марилет</a></td>
 </tr>
 <tr>
 <td><span class="q4"><a href="{{ site.url }}/guide/havoc/night-fae.html">Ночной Народец</a></span></td>
 <td>Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/AwaW5ZYBBStvCBIFLR8IJSzPCCMVKvoIJSrvCDV2AAg">Ния (СТ)</a> / 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн (АоЕ)</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/night-fae/niya/demon-hunter/AwaW5ZYBBStvCBIFLR8IJSzPCCMVKvoIJSrvCDV2AAg">Ния (СТ)</a> / 
+<a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн (АоЕ)</a></td>
 </tr>
 <tr>
 <td><span class="q10"><a href="{{ site.url }}/guide/havoc/venthyr.html">Вентиры</a></span></td>
 <td>Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr74DBStvCBUrkwglLM0IEgUtHwglLM8IIhUq-gg1Ku8I">Наджия</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr74DBStvCBUrkwglLM0IEgUtHwglLM8IIhUq-gg1Ku8I">Наджия</a></td>
 </tr>
 </tbody>
 </table>
@@ -101,22 +101,22 @@ image:
 <tr>
 <td><span class="q8"><a href="{{ site.url }}/guide/havoc/kyrian.html">Кирии</a></span></td>
 <td><b>Низкие Ключи</b>: Сильный<br><b>Высокие Ключи</b>: Хороший</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvCBIFLR8IJS-3CCMVKvoIJSrvCDV2AAg">Миканикос</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvCBIFLR8IJS-3CCMVKvoIJSrvCDV2AAg">Миканикос</a></td>
 </tr>
 <tr>
 <td><a href="{{ site.url }}/guide/havoc/necrolord.html"><span class="r3">Некролорды</span></a></td>
 <td><b>Низкие Ключи</b>: Хороший<br><b>Высокие Ключи</b>: Хороший</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/AwaW6pYBBStvCBIFLR8IJTBfCCMVKvoIJSrvCDV2AAg">Костоплав Гейрмир</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/necrolord/bonesmith-heirmir/demon-hunter/AwaW6pYBBStvCBIFLR8IJTBfCCMVKvoIJSrvCDV2AAg">Костоплав Гейрмир</a></td>
 </tr>
 <tr>
 <td><span class="q4"><a href="{{ site.url }}/guide/havoc/night-fae.html">Ночной Народец</a></span></td>
 <td><b>Низкие Ключи</b>: Сильный<br><b>Высокие Ключи</b>: Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн</a></td>
 </tr>
 <tr>
 <td><span class="q10"><a href="{{ site.url }}/guide/havoc/venthyr.html">Вентиры</a></span></td>
 <td><b>Низкие Ключи</b>: Хороший<br><b>Высокие Ключи</b>: Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWqpYCBStvCCUszQgSBS0fCCUszwgiFSr6CCUq7wg">Наджия</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWqpYCBStvCCUszQgSBS0fCCUszwgiFSr6CCUq7wg">Наджия</a></td>
 </tr>
 </tbody>
 </table>
@@ -124,9 +124,15 @@ image:
 
 </div>
 
+<div style="text-align: -webkit-center;">
+<br>
+<a href="https://www.wowhead.com/guides/havoc-demon-hunter-best-covenant-shadowlands" class="cta-button" data-border="strong" data-markup-content-target="1" 
+data-icon="true"><span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg&quot;);">
+</span>Лучший ковенант для Охотников на Демонов</a></div>
+
 Больше информации про ковенанты:
 
-<div id="smooth-nav-coven">
+<div id="smooth-nav-сovencolum">
 <a class="c12 cta-button" href="{{ site.url }}/guide/havoc/night-fae.html" style="border-color: #a330c9"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a class="r3 cta-button" href="{{ site.url }}/guide/havoc/necrolord.html" style="border-color: #40bf40"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
 <a class="q10 cta-button" href="{{ site.url }}/guide/havoc/venthyr.html" style="border-color: #ff4040"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
@@ -145,10 +151,28 @@ image:
 [Всеобщая тоска](https://ru.wowhead.com/spell=337504) - для мифик+
 
 ## Таланты
-	   
+
+<div class="tabs" id="tabs-1">
+    <div class="tabs__nav">
+      <a class="tabs__link tabs__link_active" href="#content-1">СТ/АоЕ/М+</a>
+
+    </div>
+    <div class="tabs__content"> 
+      <div class="tabs__pane tabs__pane_show" id="content-1">
+<div class="tabs_in" markdown="1">	 
 Этот билд для Охотника на Демонов Истребления хорошо продуман и подходит для всех типов контента. Для более подробного изучения каждого таланта и более специализированных билдов для конкретных типов контента см. <a href="{{ site.url }}/guide/havoc/talent-builds.html"> Таланты и Билды</a>.
 {% include beginners.html %} 
-  <br>
+</div>
+      </div>
+    </div>
+</div>
+	   
+<br>
+
+<div style="text-align: -webkit-center;">
+<a class="c12 cta-button" href="{{ site.url }}/guide/havoc/talent-builds.html" data-border="strong" data-markup-content-target="1" data-icon="true">
+<span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
+</span>Гайд по талантам Охотников на Демонов</a></div>
 
 ## Ротация
 
@@ -165,9 +189,19 @@ image:
     1. {{ site.data.spell.Annihilation }} / {{ site.data.spell.Chaos_Strike }}
     1. {{ site.data.spell.Demons_Bite }}
 		
+<div style="text-align: -webkit-center;"><a class="c12 cta-button" href="{{ site.url }}/guide/havoc/rotation-priority.html" data-border="strong" data-markup-content-target="1" data-icon="true">
+<span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
+</span>Гайд по Ротации Охотников на Демонов</a></div>
+
 ## Приоритет характеристик
 
-На данный момент ловкость является характеристикой, которая имеет наибольшее влияние на урон. Чем больше ловкости, тем больше урона. Ловкость находится на большинстве предметов экипировки, и чем выше уровень предмета тем больше на ней ловкости. Это означает, что первым делом вы должны отдавать приоритет предметам высокого уровня, а затем тому, сколько они дают вторичных характеристик. Однако же, для предметов с одинаковым уровнем стоит учитывать и вторичные характеристики. В первую очередь скорость, поскольку она снижает время восстановления многих наших важных заклинаний. Узнайте больше о том, как работают ваши характеристики, веса характеристик и графики масштабирования в Руководстве <a href="{{ site.url }}/guide/havoc/stats.html">Характеристики</a>, или вы можете посмотреть обзор снаряжения, на которое стоит обратить внимание в подземельях и рейдах, в Руководстве <a href="{{ site.url }}/guide/havoc/consumables.html"> Бис лист</a>.  
+На данный момент ловкость является характеристикой, которая имеет наибольшее влияние на урон. 
+Чем больше ловкости, тем больше урона. Ловкость находится на большинстве предметов экипировки, 
+и чем выше уровень предмета тем больше на ней ловкости. Это означает, что первым делом вы должны отдавать приоритет предметам высокого уровня, 
+а затем тому, сколько они дают вторичных характеристик. Однако же, для предметов с одинаковым уровнем стоит учитывать и вторичные характеристики. 
+В первую очередь скорость, поскольку она снижает время восстановления многих наших важных заклинаний. Узнайте больше о том, как работают ваши характеристики, 
+веса характеристик и графики масштабирования в Руководстве <a href="{{ site.url }}/guide/havoc/stats.html">Характеристики</a>, или вы можете посмотреть обзор снаряжения, 
+на которое стоит обратить внимание в подземельях и рейдах, в Руководстве <a href="{{ site.url }}/guide/havoc/gear.html"> Бис лист</a>.  
 
 - Приоритет характеристик:
 	1. **Уровень предмета**
@@ -175,6 +209,10 @@ image:
     1. **Универсальность**
     1. **Критический урон**
     1. **Искусность**
+	
+<div style="text-align: -webkit-center;"><a class="c12 cta-button" href="{{ site.url }}/guide/havoc/stats.html" data-border="strong" data-markup-content-target="1" data-icon="true">
+<span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
+</span>Приоритет характеристик Охотников на Демонов</a></div>
 
 ## Расходники
 
@@ -218,18 +256,98 @@ image:
 
 * {{ site.data.prof.Heavy_Desolate_Armor_Kit }} — Укрепляет нагрудник, повышая прибавку к выносливости на 32 на 2 часа.
 
+<hr>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/overview.html">Назад:<br>Обзор</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Далее:<br>Таланты и Билды</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/kyrian.html">Назад:<br>Кирии</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/rotation-priority.html">Далее:<br>Ротация</a></div>
 
+<br>
 
+<script>
+    var $tabs = function (target) {
+      var
+        _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
+        _eventTabsShow,
+        _showTab = function (tabsLinkTarget) {
+          var tabsPaneTarget, tabsLinkActive, tabsPaneShow;
+          tabsPaneTarget = document.querySelector(tabsLinkTarget.getAttribute('href'));
+          tabsLinkActive = tabsLinkTarget.parentElement.querySelector('.tabs__link_active');
+          tabsPaneShow = tabsPaneTarget.parentElement.querySelector('.tabs__pane_show');
+          // если следующая вкладка равна активной, то завершаем работу
+          if (tabsLinkTarget === tabsLinkActive) {
+            return;
+          }
+          // удаляем классы у текущих активных элементов
+          if (tabsLinkActive !== null) {
+            tabsLinkActive.classList.remove('tabs__link_active');
+          }
+          if (tabsPaneShow !== null) {
+            tabsPaneShow.classList.remove('tabs__pane_show');
+          }
+          // добавляем классы к элементам (в завимости от выбранной вкладки)
+          tabsLinkTarget.classList.add('tabs__link_active');
+          tabsPaneTarget.classList.add('tabs__pane_show');
+          document.dispatchEvent(_eventTabsShow);
+        },
+        _switchTabTo = function (tabsLinkIndex) {
+          var tabsLinks = _elemTabs.querySelectorAll('.tabs__link');
+          if (tabsLinks.length > 0) {
+            if (tabsLinkIndex > tabsLinks.length) {
+              tabsLinkIndex = tabsLinks.length;
+            } else if (tabsLinkIndex < 1) {
+              tabsLinkIndex = 1;
+            }
+            _showTab(tabsLinks[tabsLinkIndex - 1]);
+          }
+        };
 
+      _eventTabsShow = new CustomEvent('tab.show', { detail: _elemTabs });
 
+      _elemTabs.addEventListener('click', function (e) {
+        var tabsLinkTarget = e.target;
+        // завершаем выполнение функции, если кликнули не по ссылке
+        if (!tabsLinkTarget.classList.contains('tabs__link')) {
+          return;
+        }
+        // отменяем стандартное действие
+        e.preventDefault();
+        _showTab(tabsLinkTarget);
+      });
 
+      return {
+        showTab: function (target) {
+          _showTab(target);
+        },
+        switchTabTo: function (index) {
+          _switchTabTo(index);
+        }
+      }
 
+    };
 
+    (function () {
+      var
+        nameKey = 'mytabs2',
+        mytabs = {},
+        mytabsStorage = {},
+        listTabs = document.querySelectorAll('.tabs');
 
-
-
-
-
+      for (var i = 0, length = listTabs.length; i < length; i++) {
+        if (listTabs[i].id) {
+          mytabs[listTabs[i].id] = $tabs(listTabs[i]);
+        }
+      }
+      if (localStorage.getItem(nameKey)) {
+        mytabsStorage = JSON.parse(localStorage.getItem(nameKey));
+        for (var key in mytabsStorage) {
+          if (mytabs.hasOwnProperty(key)) {
+            mytabs[key].showTab(document.querySelector('[href="' + mytabsStorage[key] + '"]'));
+          }
+        }
+      }
+      document.addEventListener('tab.show', function (e) {
+        mytabsStorage[e.detail.closest('.tabs').getAttribute('id')] = e.detail.querySelector('.tabs__link_active').getAttribute('href');
+        localStorage.setItem(nameKey, JSON.stringify(mytabsStorage));
+      })
+    })();
+</script>	

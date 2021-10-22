@@ -53,24 +53,24 @@ image:
 <tr>
 <td><span class="q8"><a href="{{ site.url }}/guide/havoc/kyrian.html">Кирии</a></span></td>
 <td>Хороший</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fCBUszwgldg4IIxUq-gglKu8INXYACA">Пелагос</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fCBUszwgldg4IIxUq-gglKu8INXYACA">Пелагос</a></td>
 </tr>
 <tr>
 <td>
 <a href="{{ site.url }}/guide/havoc/necrolord.html"><span class="r3">Некролорды</span></a></td>
 <td>Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvCBMFLR8IFTBfCCUszwgiFSr6CCUq7wg">Изобретатель чумы Марилет</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvCBMFLR8IFTBfCCUszwgiFSr6CCUq7wg">Изобретатель чумы Марилет</a></td>
 </tr>
 <tr>
 <td><span class="q4"><a href="{{ site.url }}/guide/havoc/night-fae.html">Ночной Народец</a></span></td>
 <td>Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/niya/demon-hunter/AwaW5ZYBBStvCBIFLR8IJSzPCCMVKvoIJSrvCDV2AAg">Ния (СТ)</a> / 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн (АоЕ)</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/night-fae/niya/demon-hunter/AwaW5ZYBBStvCBIFLR8IJSzPCCMVKvoIJSrvCDV2AAg">Ния (СТ)</a> / 
+<a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн (АоЕ)</a></td>
 </tr>
 <tr>
 <td><span class="q10"><a href="{{ site.url }}/guide/havoc/venthyr.html">Вентиры</a></span></td>
 <td>Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr74DBStvCBUrkwglLM0IEgUtHwglLM8IIhUq-gg1Ku8I">Наджия</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr74DBStvCBUrkwglLM0IEgUtHwglLM8IIhUq-gg1Ku8I">Наджия</a></td>
 </tr>
 </tbody>
 </table>
@@ -95,22 +95,22 @@ image:
 <tr>
 <td><span class="q8"><a href="{{ site.url }}/guide/havoc/kyrian.html">Кирии</a></span></td>
 <td><b>Низкие Ключи</b>: Сильный<br><b>Высокие Ключи</b>: Хороший</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvCBIFLR8IJS-3CCMVKvoIJSrvCDV2AAg">Миканикос</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvCBIFLR8IJS-3CCMVKvoIJSrvCDV2AAg">Миканикос</a></td>
 </tr>
 <tr>
 <td><a href="{{ site.url }}/guide/havoc/necrolord.html"><span class="r3">Некролорды</span></a></td>
 <td><b>Низкие Ключи</b>: Хороший<br><b>Высокие Ключи</b>: Хороший</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/AwaW6pYBBStvCBIFLR8IJTBfCCMVKvoIJSrvCDV2AAg">Костоплав Гейрмир</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/necrolord/bonesmith-heirmir/demon-hunter/AwaW6pYBBStvCBIFLR8IJTBfCCMVKvoIJSrvCDV2AAg">Костоплав Гейрмир</a></td>
 </tr>
 <tr>
 <td><span class="q4"><a href="{{ site.url }}/guide/havoc/night-fae.html">Ночной Народец</a></span></td>
 <td><b>Низкие Ключи</b>: Сильный<br><b>Высокие Ключи</b>: Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн</a></td>
 </tr>
 <tr>
 <td><span class="q10"><a href="{{ site.url }}/guide/havoc/venthyr.html">Вентиры</a></span></td>
 <td><b>Низкие Ключи</b>: Хороший<br><b>Высокие Ключи</b>: Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWqpYCBStvCCUszQgSBS0fCCUszwgiFSr6CCUq7wg">Наджия</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWqpYCBStvCCUszQgSBS0fCCUszwgiFSr6CCUq7wg">Наджия</a></td>
 </tr>
 </tbody>
 </table>

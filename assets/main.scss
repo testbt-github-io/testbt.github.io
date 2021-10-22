@@ -1396,7 +1396,82 @@ font-size:14px}
 
 /// Цвета для кнопок-сылок
 
+span.iconmedium {
+    margin-right: 5px;
+    position: relative;
+}
+
+.talents-table span:not([class]) {
+    display: inline-block !important;
+    vertical-align: middle;
+    max-width: 125px;
+}
+
 ////цветные кнпки для перехода к гайдам по ковенантам 
+
+.cta-button[data-icon="true"] .cta-button-icon {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 99px;
+    height: 24px;
+    left: 8px;
+    position: absolute;
+    top: 8px;
+    vertical-align: middle;
+    width: 24px;
+}
+
+#smooth-nav-сovencolum {
+	display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    padding-top: 10px;
+}
+
+#smooth-nav-сovencolum img {
+	content: "";
+    display: inline-block;
+    position: relative;
+    background-color: #080808;
+    background-size: contain;
+    border-radius: 100%;
+    float: left;
+    height: 24px;
+    left: -2px;
+    margin-right: 6px;
+    top: 3px;
+    width: 24px;
+}
+
+#smooth-nav-сovencolum a {
+	border: 1px solid #3b3b3b;
+    border-radius: 4px;
+    background-clip: padding-box;
+    /* height: 30px; */
+    flex-grow: 1;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 30px;
+    overflow: hidden;
+    padding: 5px 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+	color: #a94ac8;
+	white-space: nowrap;
+	text-decoration: none;
+}
+
+#smooth-nav-сovencolum a :active {
+	color: #0CF;
+}
+
+#smooth-nav-сovencolum a:hover {
+    box-shadow: none;
+    color: #fff!important;
+	background-color: #8226a0;
+    border-color: #8226a0;
+}
 
 #smooth-nav-coven {
 	display: grid;
