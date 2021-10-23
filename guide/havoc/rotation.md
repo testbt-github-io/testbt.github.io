@@ -432,4 +432,18 @@ function change_listener(element) {
 }
 
 listeners()
+
+$(function() {
+    const legendaries_covenant_map = {
+		1 : "#kyr-radio",
+		2 : "#vt-radio",
+		3 : "#nf-radio",
+		4 : "#nl-radio",
+	};
+
+	$("input[name=legendaries]").on("change", function (e) {
+		kovenant_id = legendaries_covenant_map[this.value];
+		$(kovenant_id).prop("checked", true);
+	});
+});
 </script>
