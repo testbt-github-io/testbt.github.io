@@ -406,16 +406,7 @@ function listeners() {
     for (i of inputs) {
         if (i.type == "radio") change_listener(i);
 		i.dispatchEvent(new Event("change"));
-        }
     }
-}
-
-function pick_talents(talents) {
-    talents.forEach(function(talent) {
-        let input = document.getElementById(talent + "-radio");
-        input.checked = true;
-        input.dispatchEvent(new Event("change"));
-    });
 }
 
 function change_listener(element) {
