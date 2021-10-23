@@ -23,259 +23,186 @@ toc: true
   <tbody>
     <tr>
       <td>15</td>
-	  
-      <td>
+	  <td>
 	  <input type="radio" id="bf-radio" name="15" value="1">
-	  <label for="bf-radio">
-	  
+	  <label for="bf-radio">  
 	 <a href="https://ru.wowhead.com/spell=203550" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_bosskilrogg_deadeye.jpg&quot;);"></ins><del></del></span>
 	 <span>Слепая ярость</span></a>
-	
 	 </label></td>
-	  
       <td>
 	  <input type="radio" id="da-radio" name="15" value="2" checked="">
 	  <label for="da-radio">
-	  
 	 <a href="https://ru.wowhead.com/spell=206478" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_creature_poison_01_purple.jpg&quot;);"></ins><del></del></span>
 	 <span>Демонический аппетит</span></a>
-	 
 	  </label></td>
-	  
       <td>
 	  <input type="radio" id="fb-radio" name="15" value="3">
-	  <label for="fb-radio"> 
-	  
+	  <label for="fb-radio">  
 	 <a href="https://ru.wowhead.com/spell=232893" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_felblade.jpg&quot;);"></ins><del></del></span>
-	 <span>Клинок Скверны</span></a>
-	  
-	  </label></td>
-	  
-    </tr>
-	
+	 <span>Клинок Скверны</span></a>	  
+	  </label></td>	  
+    </tr>	
     <tr>
-      <td>25</td>
-	  
+      <td>25</td>  
       <td>
 	  <input type="radio" id="ih-radio" name="25" value="1">
-	  <label for="ih-radio"> 
-	  
+	  <label for="ih-radio"> 	  
 	 <a href="https://ru.wowhead.com/spell=258876" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_hungerforblood.jpg&quot;);"></ins><del></del></span>
 	 <span>Неутолимый голод</span></a>
-	  
-	  </label></td>
-	  
-      <td>
+	 </label></td>
+	<td>
 	  <input type="radio" id="bh-radio" name="25" value="2">
-	  <label for="bh-radio"> 
-	  
+	  <label for="bh-radio">   
 	 <a href="https://ru.wowhead.com/spell=320374" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_immolation.jpg&quot;);"></ins><del></del></span>
-	 <span>Пылающая ненависть</span></a> 
-	  
-	  </label></td>
-	  
+	 <span>Пылающая ненависть</span></a>  
+	  </label></td> 
       <td>
 	  <input type="radio" id="db-radio" name="25" value="3" checked="">
-	  <label for="db-radio"> 
-	  
+	  <label for="db-radio">  
 	 <a href="https://ru.wowhead.com/spell=203555" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_92.jpg&quot;);"></ins><del></del></span>
 	 <span>Демонические клинки</span></a> 
-	  
 	  </label></td>
     </tr>
-	
     <tr>
       <td>30</td>
-	  
       <td>
 	  <input type="radio" id="tor-radio" name="30" value="1" checked="">
 	  <label for="tor-radio"> 
-
 	 <a href="https://ru.wowhead.com/spell=258881" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_bladedance.jpg&quot;);"></ins><del></del></span>
 	 <span>Остатки разрушений</span></a>	  
-	  
 	  </label></td>
-	  
       <td>
 	  <input type="radio" id="uh-radio" name="30" value="2">
-	  <label for="uh-radio"> 
-
+	  <label for="uh-radio">
 	 <a href="https://ru.wowhead.com/spell=347461" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/artifactability_vengeancedemonhunter_painbringer.jpg&quot;);"></ins><del></del></span>
-	 <span>Необузданный хаос</span></a>	  
-	  
+	 <span>Необузданный хаос</span></a>	   
 	  </label></td>
-	  
       <td>
 	  <input type="radio" id="gt-radio" name="30" value="3">
 	  <label for="gt-radio"> 
-	  
      <a href="https://ru.wowhead.com/spell=342817" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactazgalor_d_06dual.jpg&quot;);"></ins><del></del></span>
 	 <span>Буря клинков</span></a>	  
-	  
-	  </label></td>
-	  
+	  </label></td> 
     </tr>
     <tr>
       <td>35</td>
-	  
       <td>
 	  <input type="radio" id="sr-radio" name="35" value="1">
 	  <label for="sr-radio"> 
-
 	 <a href="https://ru.wowhead.com/spell=204909" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_soulcleave2.jpg&quot;);"></ins><del></del></span>
 	 <span>Раздирание души</span></a>	  
-
-	  </label></td>
-	  
+	  </label></td>  
       <td>
 	  <input type="radio" id="di-radio" name="35" value="2">
 	  <label for="di-radio">
-
 	 <a href="https://ru.wowhead.com/spell=205411" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_manafeed.jpg&quot;);"></ins><del></del></span>
 	 <span>Инстинкт самосохранения</span></a>
-
-	  </label></td>
-	  
+	  </label></td>	  
       <td>
 	  <input type="radio" id="nether-radio" name="35" value="3" checked="">
 	  <label for="nether-radio"> 
-
 	 <a href="https://ru.wowhead.com/spell=196555" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonsoul.jpg&quot;);"></ins><del></del></span>
-	 <span>Путь Пустоты</span></a>	  
-	  
-	  </label></td>
-	  
+	 <span>Путь Пустоты</span></a>	    
+	  </label></td>	  
     </tr>
     <tr>
       <td>40</td>
-	  
-      <td>
+	      <td>
 	  <input type="radio" id="coh-radio" name="40" value="1">
 	  <label for="coh-radio"> 
-
 	 <a href="https://ru.wowhead.com/spell=258887" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_whirlofblood.jpg&quot;);"></ins><del></del></span>
 	 <span>Цикл ненависти</span></a>	  
-
-	  </label></td>
-	  
+	  </label></td>	  
       <td><input type="radio" id="fb-radio" name="40" value="2" checked="">
-	  <label for="fb-radio">
-	  
+	  <label for="fb-radio">	  
 	 <a href="https://ru.wowhead.com/spell=206416" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_deathwing_bloodcorruption_death.jpg&quot;);"></ins><del></del></span>
-	 <span>Первая кровь</span></a>  	  
-	  
-	  </label></td>
-	  
+	 <span>Первая кровь</span></a>  	  	  
+	  </label></td>	  
       <td><input type="radio" id="eb-radio" name="40" value="3">
 	  <label for="eb-radio"> 
-
 	 <a href="https://ru.wowhead.com/spell=258860" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_ritualofsacrifice.jpg&quot;);"></ins><del></del></span>
 	 <span>Разрыв сущности</span></a>	  
-
-	  </label></td>
-	  
+	  </label></td>	  
     </tr>
-	
-	<tr>
-      <td>45</td>
-	  
+		<tr>
+      <td>45</td>	  
       <td>
 	  <input type="radio" id="up-radio" name="45" value="1">
 	  <label for="up-radio"> 
-
 	 <a href="https://ru.wowhead.com/spell=206477" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_chaosnova.jpg&quot;);"></ins><del></del></span>
 	 <span>Освобожденная сила</span></a>
-
-	  </label></td>
-	  
+	  </label></td>	  
       <td><input type="radio" id="motg-radio" name="45" value="2" checked="">
-	  <label for="motg-radio">
-	  
+	  <label for="motg-radio">	  
 	 <a href="https://ru.wowhead.com/spell=203556" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_demonhunter_a_01.jpg&quot;);"></ins><del></del></span>
-	 <span>Мастер боевого клинка</span></a>  	  
-	  
-	  </label></td>
-	  
+	 <span>Мастер боевого клинка</span></a>  	  	  
+	  </label></td>	  
       <td><input type="radio" id="felr-radio" name="45" value="3">
 	  <label for="fele-radio"> 
-
 	 <a href="https://ru.wowhead.com/spell=211881" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_bossfellord_felspike.jpg&quot;);"></ins><del></del></span>
 	 <span>Извержение Скверны</span></a>	  
-
-	  </label></td>
-	  
-    </tr>
-   
+	  </label></td>	  
+    </tr>   
    <tr>
-      <td>50</td>
-	  
+      <td>50</td>	  
       <td>
 	  <input type="radio" id="dem-radio" name="50" value="1">
 	  <label for="dem-radio"> 
-
 	 <a href="https://ru.wowhead.com/spell=213410" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonform.jpg&quot;);"></ins><del></del></span>
 	 <span>Демонизм</span></a>
-
-	  </label></td>
-	  
-      <td><input type="radio" id="mom-radio" name="50" value="2" checked="">
-	  <label for="mom-radio">
-	  
+	  </label></td>	  
+     <td><input type="radio" id="mom-radio" name="50" value="2" checked="">
+	  <label for="mom-radio">	  
 	 <a href="https://ru.wowhead.com/spell=206476" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_foundryraid_demolition.jpg&quot;);"></ins><del></del></span>
-	 <span>Импульс</span></a>  	  
-	  
-	  </label></td>
-	  
+	 <span>Импульс</span></a>  	  	  
+	  </label></td>	  
       <td><input type="radio" id="felb-radio" name="50" value="3">
 	  <label for="felb-radio"> 
-
 	 <a href="https://ru.wowhead.com/spell=258925" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/inv_felbarrage.jpg&quot;);"></ins><del></del></span>
 	 <span>Обстрел Скверны</span></a>	  
-
-	  </label></td>
-	  
+	  </label></td>	  
     </tr>
   </tbody>
 </table>
@@ -285,52 +212,45 @@ toc: true
 <table>
   <tbody>
     <tr>
-      <td>Ковенант</td>
-	  
-      <td>
-	  <input type="radio" id="kyr-radio" name="covenant" covenant="kyrian">
-	  <label for="kyr-radio">
-	  
-	 <a href="https://ru.wowhead.com/spell=306830" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
-	 <span class="iconmedium">
-	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_bastion_demonhunter.jpg&quot;);"></ins><del></del></span>
-	 <span>Элизийский декрет</span></a>
-	  
-	  </label></td>
-	  
-      <td><input type="radio" id="vt-radio" name="covenant" value="2">
-	  <label for="vt-radio">
-	  
-	 <a href="https://ru.wowhead.com/spell=317009" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
-	 <span class="iconmedium">
-	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_revendreth_demonhunter.jpg&quot;);"></ins><del></del></span>
-	 <span>Клеймо греха</span></a>
-	  
-	  </label></td>
-	  
-      <td>
-	  <input type="radio" id="nf-radio" name="covenant" value="3">
-	  
-	  <label for="nf-radio">
-	  
-	 <a href="https://ru.wowhead.com/spell=323639" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
-	 <span class="iconmedium">
-	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_ardenweald_demonhunter.jpg&quot;);"></ins><del></del></span>
-	 <span>Охота</span></a>
-	  
-	  </label></td>
-	  
-      <td>
-	  <input type="radio" id="nl-radio" name="covenant" value="4">
-	  
-	  <label for="nl-radio">
-	  
-	 <a href="https://ru.wowhead.com/spell=350570" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
-	 <span class="iconmedium">
-	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_maldraxxus_demonhunter.jpg&quot;);"></ins><del></del></span>
-	 <span>Подпитка для пламени</span></a>
-	  
-	  </label></td>
+    <td>Ковенант</td>  
+	<td>
+	  	<input type="radio" id="kyr-radio" name="covenant" value="1">
+	  		<label for="kyr-radio">	  
+	 			<a href="https://ru.wowhead.com/spell=306830" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
+	 			<span class="iconmedium">
+	 			<ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_bastion_demonhunter.jpg&quot;);"></ins><del></del>
+				</span>
+	 	<span>Элизийский декрет</span></a>	  
+	  		</label>
+		</td>	  
+    <td>
+	  	<input type="radio" id="vt-radio" name="covenant" value="2">
+	  		<label for="vt-radio">	  
+			 <a href="https://ru.wowhead.com/spell=317009" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
+	 		 <span class="iconmedium">
+	 		 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_revendreth_demonhunter.jpg&quot;);"></ins><del></del></span>
+		 <span>Клеймо греха</span></a>	  
+	  		</label>
+	</td>	  
+    <td>
+	  	<input type="radio" id="nf-radio" name="covenant" value="3">	  
+	 		 <label for="nf-radio">  
+	 		 <a href="https://ru.wowhead.com/spell=323639" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"  onclick="return false;">
+	 		 <span class="iconmedium">
+	 		 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_ardenweald_demonhunter.jpg&quot;);"></ins><del></del>
+			</span>
+	 <span>Охота</span></a>	  
+	  		</label>
+	</td>	  
+     <td>
+	  	<input type="radio" id="nl-radio" name="covenant" value="4">	  
+	  		<label for="nl-radio">	  
+	 		<a href="https://ru.wowhead.com/spell=350570" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
+			 <span class="iconmedium">
+			 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_maldraxxus_demonhunter.jpg&quot;);"></ins><del></del></span>
+	 <span>Подпитка для пламени</span></a>	  
+	  		</label>
+	</td>
     </tr>
   </tbody>
 </table>
@@ -339,52 +259,47 @@ toc: true
 <table>
   <tbody>
     <tr>
-      <td>леги</td>
-	  
-      <td>
-	  <input type="radio" id="vera-radio" name="legendaries" covenant="kyrian" value="1">
-	  <label for="vera-radio">
-	  
-	 <a href="https://ru.wowhead.com/spell=355893" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
-	 <span class="iconmedium">
-	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_bastion_demonhunter.jpg&quot;);"></ins><del></del></span>
-	 <span>Слепая вера</span></a>
-	  
-	  </label></td>
-	  
-      <td><input type="radio" id="vt-radio" name="legendaries" value="2">
-	  <label for="vt-radio">
-	  
-	 <a href="https://ru.wowhead.com/spell=355886" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
-	 <span class="iconmedium">
-	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_revendreth_demonhunter.jpg&quot;);"></ins><del></del></span>
-	 <span>Терзающий взгляд</span></a>
-	  
-	  </label></td>
-	  
-      <td>
-	  <input type="radio" id="nf-radio" name="legendaries" value="3">
-	  
-	  <label for="nf-radio">
-	  
-	 <a href="https://ru.wowhead.com/spell=355890" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
-	 <span class="iconmedium">
-	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_ardenweald_demonhunter.jpg&quot;);"></ins><del></del></span>
-	 <span>Пылающая бойня</span></a>
-	  
-	  </label></td>
-	  
-      <td>
-	  <input type="radio" id="nl-radio" name="legendaries" value="4">
-	  
-	  <label for="nl-radio">
-	  
-	 <a href="https://ru.wowhead.com/spell=355996" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
-	 <span class="iconmedium">
-	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_maldraxxus_demonhunter.jpg&quot;);"></ins><del></del></span>
-	 <span>Демоническая клятва</span></a>
-	  
-	  </label></td>
+    <td>Леги</td>	  
+    <td>
+		<input type="radio" id="blind-radio" name="legendaries" value="1">
+			<label for="blind-radio">	  
+	 			<a href="https://ru.wowhead.com/spell=355893" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
+	 			<span class="iconmedium">
+	 			<ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_bastion_demonhunter.jpg&quot;);"></ins><del></del>
+				</span>
+		 <span>Слепая вера</span></a>	  
+	  			</label>
+		</td>	  
+    <td>
+		<input type="radio" id="ag-radio" name="legendaries" value="2">
+	  		<label for="ag-radio">	  
+	 			<a href="https://ru.wowhead.com/spell=355886" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
+	 			<span class="iconmedium">
+	 			<ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_revendreth_demonhunter.jpg&quot;);"></ins><del></del>
+				</span>
+	 	<span>Терзающий взгляд</span></a>	  
+	  			</label>
+	</td>	  
+    <td>
+	  	<input type="radio" id="blazing -radio" name="legendaries" value="3">	  
+	  		<label for="blazing-radio">	  
+				 <a href="https://ru.wowhead.com/spell=355890" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
+				 <span class="iconmedium">
+	 			<ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_ardenweald_demonhunter.jpg&quot;);"></ins><del></del>
+				 </span>
+	 	<span>Пылающая бойня</span></a>
+	  		</label>
+	</td> 
+    <td>
+	  	<input type="radio" id="do-radio" name="legendaries" value="4">	  
+	  		<label for="do-radio">	  
+	 			<a href="https://ru.wowhead.com/spell=355996" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
+				 <span class="iconmedium">
+	 			<ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_maldraxxus_demonhunter.jpg&quot;);"></ins><del></del>
+				 </span>
+	 	<span>Демоническая клятва</span></a>	  
+	  		</label>
+	</td>
     </tr>
   </tbody>
 </table>
@@ -397,12 +312,6 @@ toc: true
 	
     </ol>
 </div>
-
-
-
-
-
-
 
 
 
@@ -432,4 +341,19 @@ function change_listener(element) {
 }
 
 listeners()
+
+$(function() {
+    const legendaries_covenant_map = {
+        1 : "#kyr-radio",
+        2 : "#vt-radio",
+        3 : "#nf-radio",
+        4 : "#nl-radio",
+    };
+
+    $("input[name=legendaries]").on("change", function (e) {
+        covenant = legendaries_covenant_map[this.value];
+        $(covenant).prop("checked", true);
+    });
+});
+
 </script>
