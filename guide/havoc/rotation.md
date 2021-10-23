@@ -6,6 +6,13 @@ game_version: 9.0.2 Battle for Azeroth
 toc: true
 ---
 
+<link type="text/css" href="https://wow.zamimg.com/css/global/icon.css" rel="stylesheet">
+<script src="https://wow.zamimg.com/js/global/WH/Icon.js?3"></script>
+<link type="text/css" href="https://wow.zamimg.com/css/basic.css?16" rel="stylesheet">
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-180606822-1"></script>
+
+#### Выберите талант:
+
 #### Выберите талант:
 
 <link type="text/css" href="https://wow.zamimg.com/css/global/icon.css" rel="stylesheet">
@@ -335,8 +342,8 @@ toc: true
       <td>леги</td>
 	  
       <td>
-	  <input type="radio" id="kyr-radio" name="legendaries" covenant="kyrian">
-	  <label for="kyr-radio">
+	  <input type="radio" id="vera-radio" name="legendaries" covenant="kyrian" value="1">
+	  <label for="vera-radio">
 	  
 	 <a href="https://ru.wowhead.com/spell=355893" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
@@ -405,7 +412,6 @@ function listeners() {
     let inputs = document.getElementsByTagName("input")
     for (i of inputs) {
         if (i.type == "radio") change_listener(i);
-		i.dispatchEvent(new Event("change"));
     }
 }
 
@@ -422,20 +428,8 @@ function change_listener(element) {
                 }
             }
         }
-		if ($(this).is("input[covenant][name='legendaries']")) {
-            let item = $("input[covenant='" + $(this).attr('covenant') + "'][name='covenants']")[0];
-            if (this.checked && !item.checked) {
-                item.checked = true;
-                item.dispatchEvent(new Event("change"));
-            }
-        }			
     });
 }
 
 listeners()
-
-
-
-
 </script>
-
