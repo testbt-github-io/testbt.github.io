@@ -1,17 +1,10 @@
 ---
-layout: page
+layout: default
 title: Priority List
 last_update: 2020-01-11 09:00:00
 game_version: 9.0.2 Battle for Azeroth
 toc: true
 ---
-
-<link type="text/css" href="https://wow.zamimg.com/css/global/icon.css" rel="stylesheet">
-<script src="https://wow.zamimg.com/js/global/WH/Icon.js?3"></script>
-<link type="text/css" href="https://wow.zamimg.com/css/basic.css?16" rel="stylesheet">
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-180606822-1"></script>
-
-#### Выберите талант:
 
 #### Выберите талант:
 
@@ -32,7 +25,7 @@ toc: true
 	 <span>Слепая ярость</span></a>
 	 </label></td>
       <td>
-	  <input type="radio" id="da-radio" name="15" value="2" checked="">
+	  <input type="radio" id="da-radio" name="15" value="2">
 	  <label for="da-radio">
 	 <a href="https://ru.wowhead.com/spell=206478" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
@@ -67,7 +60,7 @@ toc: true
 	 <span>Пылающая ненависть</span></a>  
 	  </label></td> 
       <td>
-	  <input type="radio" id="db-radio" name="25" value="3" checked="">
+	  <input type="radio" id="db-radio" name="25" value="3">
 	  <label for="db-radio">  
 	 <a href="https://ru.wowhead.com/spell=203555" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
@@ -78,7 +71,7 @@ toc: true
     <tr>
       <td>30</td>
       <td>
-	  <input type="radio" id="tor-radio" name="30" value="1" checked="">
+	  <input type="radio" id="tor-radio" name="30" value="1">
 	  <label for="tor-radio"> 
 	 <a href="https://ru.wowhead.com/spell=258881" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
@@ -121,7 +114,7 @@ toc: true
 	 <span>Инстинкт самосохранения</span></a>
 	  </label></td>	  
       <td>
-	  <input type="radio" id="nether-radio" name="35" value="3" checked="">
+	  <input type="radio" id="nether-radio" name="35" value="3">
 	  <label for="nether-radio"> 
 	 <a href="https://ru.wowhead.com/spell=196555" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
@@ -139,7 +132,7 @@ toc: true
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_ironmaidens_whirlofblood.jpg&quot;);"></ins><del></del></span>
 	 <span>Цикл ненависти</span></a>	  
 	  </label></td>	  
-      <td><input type="radio" id="fb-radio" name="40" value="2" checked="">
+      <td><input type="radio" id="fb-radio" name="40" value="2">
 	  <label for="fb-radio">	  
 	 <a href="https://ru.wowhead.com/spell=206416" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
@@ -164,7 +157,7 @@ toc: true
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_chaosnova.jpg&quot;);"></ins><del></del></span>
 	 <span>Освобожденная сила</span></a>
 	  </label></td>	  
-      <td><input type="radio" id="motg-radio" name="45" value="2" checked="">
+      <td><input type="radio" id="motg-radio" name="45" value="2" >
 	  <label for="motg-radio">	  
 	 <a href="https://ru.wowhead.com/spell=203556" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
@@ -189,7 +182,7 @@ toc: true
 	 <ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonform.jpg&quot;);"></ins><del></del></span>
 	 <span>Демонизм</span></a>
 	  </label></td>	  
-     <td><input type="radio" id="mom-radio" name="50" value="2" checked="">
+     <td><input type="radio" id="mom-radio" name="50" value="2">
 	  <label for="mom-radio">	  
 	 <a href="https://ru.wowhead.com/spell=206476" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 	 <span class="iconmedium">
@@ -281,7 +274,7 @@ toc: true
 	  			</label>
 	</td>	  
     <td>
-	  	<input type="radio" id="blazing -radio" name="legendaries" value="3">	  
+	  	<input type="radio" id="blazing-radio" name="legendaries" value="3">	  
 	  		<label for="blazing-radio">	  
 				 <a href="https://ru.wowhead.com/spell=355890" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true" onclick="return false;">
 				 <span class="iconmedium">
@@ -351,8 +344,8 @@ $(function() {
     };
 
     $("input[name=legendaries]").on("change", function (e) {
-        covenant = legendaries_covenant_map[this.value];
-        $(covenant).prop("checked", true);
+        kovenant = legendaries_covenant_map[this.value];
+        $(kovenant).prop("checked", true);
     });
 });
 
