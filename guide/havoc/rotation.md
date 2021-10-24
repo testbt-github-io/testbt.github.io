@@ -24,7 +24,7 @@ toc: true
   <tr class="rotation_switches">
     <th scope="row">15</th> 
     <td class="rotation_switch" id="rotation_switch_bf">
-      <input type="radio" name="15" id="bf-radio" style="display:none;">
+      <input type="radio" name="15" id="bf-radio" style="display:none;" checked="">
       <label for="bf-radio">
      	 <a href="https://ru.wowhead.com/spell=203550" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_bosskilrogg_deadeye.jpg&quot;);"></ins><del></del></span><span>Слепая ярость</span></a>
       </label>
@@ -52,13 +52,13 @@ toc: true
       </label>
     </td>
     <td class="rotation_switch talent-active" id="rotation_switch_bh">
-      <input type="radio" name="25" id="bh-radio" style="display:none;" checked="">
+      <input type="radio" name="25" id="bh-radio" style="display:none;" >
       <label for="bh-radio">
       	 <a href="https://ru.wowhead.com/spell=320374" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_immolation.jpg&quot;);"></ins><del></del></span><span>Пылающая ненависть</span></a>
       </label>
     </td>
     <td class="rotation_switch" id="rotation_switch_db">
-      <input type="radio" name="25" id="db-radio" style="display:none;">
+      <input type="radio" name="25" id="db-radio" style="display:none;" checked="">
       <label for="db-radio">
      	 <a href="https://ru.wowhead.com/spell=203555" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_92.jpg&quot;);"></ins><del></del></span><span>Демонические клинки</span></a>
       </label>
@@ -74,7 +74,7 @@ toc: true
       </label>
     </td>
     <td class="rotation_switch" id="rotation_switch_uh">
-      <input type="radio" name="30" id="uh-radio" style="display:none;">
+      <input type="radio" name="30" id="uh-radio" style="display:none;" checked="">
       <label for="uh-radio">
      	 <a href="https://ru.wowhead.com/spell=347461" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/artifactability_vengeancedemonhunter_painbringer.jpg&quot;);"></ins><del></del></span><span>Необузданный хаос</span></a>
       </label>
@@ -90,7 +90,7 @@ toc: true
   <tr class="rotation_switches">
     <th scope="row">35</th>
     <td class="rotation_switch talent-active" id="rotation_switch_sr">
-      <input type="radio" name="35" id="sr-radio" style="display:none;" checked="">
+      <input type="radio" name="35" id="sr-radio" style="display:none;">
       <label for="sr-radio">
      	 <a href="https://ru.wowhead.com/spell=204909" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_soulcleave2.jpg&quot;);"></ins><del></del></span><span>Раздирание души</span></a>
       </label>
@@ -102,7 +102,7 @@ toc: true
       </label>
     </td>
     <td class="rotation_switch" id="rotation_switch_nether">
-      <input type="radio" name="35" id="nether-radio" style="display:none;">
+      <input type="radio" name="35" id="nether-radio" style="display:none;" checked="">
       <label for="nether-radio">
      	 <a href="https://ru.wowhead.com/spell=196555" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/spell_warlock_demonsoul.jpg&quot;);"></ins><del></del></span><span>Путь Пустоты</span></a>
       </label>
@@ -124,7 +124,7 @@ toc: true
       </label>
     </td>
     <td class="rotation_switch" id="rotation_switch_eb">
-      <input type="radio" name="40" id="eb-radio" style="display:none;">
+      <input type="radio" name="40" id="eb-radio" style="display:none;" checked="">
       <label for="eb-radio">
       	 <a href="https://ru.wowhead.com/spell=258860" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_ritualofsacrifice.jpg&quot;);"></ins><del></del></span><span>Разрыв сущности</span></a>
       </label>
@@ -139,14 +139,14 @@ toc: true
       </label>
     </td>
     <td class="rotation_switch" id="rotation_switch_fele">
-      <input type="radio" name="45" id="fele-radio" style="display:none;">
+      <input type="radio" name="45" id="fele-radio" style="display:none;" checked="">
       <label for="fele-radio">
       	 <a href="https://ru.wowhead.com/spell=203556" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_demonhunter_a_01.jpg&quot;);"></ins><del></del></span><span>Мастер боевого клинка</span></a>
       </label>
     </td>
-    <td class="rotation_switch talent-active" id="rotation_felr">
-      <input type="radio" name="45" id="felr-radio" style="display:none;" checked="">
-      <label for="felr-radio">
+    <td class="rotation_switch" id="rotation_switch_feleruption">
+      <input type="radio" name="45" id="feleruption-radio" style="display:none;">
+      <label for="feleruption-radio">
       	 <a href="https://ru.wowhead.com/spell=211881" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_bossfellord_felspike.jpg&quot;);"></ins><del></del></span><span>Извержение Скверны</span></a>
       </label>
     </td>
@@ -154,14 +154,14 @@ toc: true
 
   <tr class="rotation_switches">
     <th scope="row">50</th>
-    <td class="rotation_switch talent-active" id="rotation_switch_dem">
-      <input type="radio" name="50" id="dem-radio" style="display:none;" checked="">
+    <td class="rotation_switch" id="rotation_switch_dem">
+      <input type="radio" name="50" id="dem-radio" style="display:none;">
       <label for="dem-radio">
       	 <a href="https://ru.wowhead.com/spell=213410" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonform.jpg&quot;);"></ins><del></del></span><span>Демонизм</span></a>
       </label>
     </td>
     <td class="rotation_switch" id="rotation_switch_mom">
-      <input type="radio" name="50" id="mom-radio" style="display:none;">
+      <input type="radio" name="50" id="mom-radio" style="display:none;" checked="">
       <label for="mom-radio">
       	 <a href="https://ru.wowhead.com/spell=206476" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_foundryraid_demolition.jpg&quot;);"></ins><del></del></span><span>Импульс</span></a>
       </label>
@@ -212,7 +212,7 @@ toc: true
   <tr class="rotation_switches">
     <td class="rotation_switch covenants" id="rotation_switch_bw">
       <input type="radio" name="legendaries" id="bw-radio" style="display:none;">
-      <label for="bw-radio">
+      <label for="bw-radio" checked="">
          <a href="https://ru.wowhead.com/spell=346279" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/spell_fire_felhellfire.jpg&quot;);"></ins><del></del></span><span>Жгучая рана</span></a>
       </label>
     </td>
@@ -229,7 +229,7 @@ toc: true
       </label>
     </td>
     <td class="rotation_switch covenants talent-active" id="rotation_switch_ct">
-      <input type="radio" name="legendaries" id="ct-radio" style="display:none;" checked="">
+      <input type="radio" name="legendaries" id="ct-radio" style="display:none;">
       <label for="ct-radio">
          <a href="https://ru.wowhead.com/spell=337551" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactaldrochi_d_03dual.jpg&quot;);"></ins><del></del></span><span>Теория хаоса</span></a>
       </label>
@@ -256,15 +256,24 @@ toc: true
   </tbody>
 </table>
 
+#### Опенер:
 
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
     <ol>
-        <li class="bf-apl" style="display: none;"> Гаус</li>
-		<li class="ih-apl" style="display: none;"> пиши</li>
-		<li class="uh-apl" style="display: none;"> тексты</li>
+      <li class="kyr-apl" style="display: none;"> {{ site.data.rotation.ElysianDecree }} прекастом.</li>
+	  	<li>За 0.5 сек. до начала боя {{ site.data.rotation.ImmolationAura }} </li>
+      <li class="uh-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }} для нанесения повышенного урона благодаря таланту {{ site.data.rotation.UnboundChaos }}.</li>
+		  <li class="fb-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }} чтоб набрать гнев. </li>
+      <li>Используйте {{ site.data.rotation.EyeBeam }} для получения 15% скорости.</li>
+      <li class="nf-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}.</li>
+      <li class="vt-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}.</li>
+      <li class="nf-apl" style="display: none;"> Используйте {{ site.data.rotation.Metamorphosis }}.</li>
+      <li class="mom-apl" style="display: none;"> Используйте {{ site.data.rotation.VengefulRetreat }} чтоб получить генерацию гнева.</li>
+      <li class="eb-apl" style="display: none;"> Используйте {{ site.data.rotation.EssenceBreak }} важно нажать пока вы находитесь в воздухе.</li>
+      <li class="mom-apl" style="display: none;"> {{ site.data.rotation.FelRush }} чтоб вернутся к цели и получить бафф Импульса</li>
+      <li class="kyr-apl" style="display: none;"> </li> 
     </ol>
 </div>
-
 
 
 

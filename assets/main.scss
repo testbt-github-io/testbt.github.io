@@ -246,12 +246,12 @@ div.markdown-body[data-spec=all] h3>span[class^=spec-]:before, h3>span[class^=se
       text-align: left;
       vertical-align: middle;
       padding: 0;
-      background-color: #2e3444;
-      border: 1px solid #363a3b;
+      background-color: #222222;
+      border: 1px solid #141414;
   }
 
   td.talent-active {
-      background-color: #393f56 !important;
+      background-color: #2C394B !important;
       border: 1px double $brand-color;
   }
 
@@ -270,14 +270,16 @@ div.markdown-body[data-spec=all] h3>span[class^=spec-]:before, h3>span[class^=se
 
   th {
       max-width: 10px;
-      background-color: #2e3444;
-      border: 1px solid #363a3b;
+      background-color: #222222;
+      border: 1px solid #141414;
       vertical-align: middle;
       color: #d1cdab;
   }
 
   a {
       font-size: 0.9em;
+      color: #78c50a;
+      display: block;
   }
 
   a:hover {
@@ -591,10 +593,6 @@ hr {
       max-width: 100%;
       margin-left: auto;
       margin-right: auto;
-    }
-
-    .tabs {
-//      border: 1px solid lightgray;
     }
 
     .tabs__nav {
@@ -1341,7 +1339,7 @@ font-size:14px}
 }
 
 #cta-but a {
-	text-decoration: none;.
+	text-decoration: none;
 	color: #78c50a!important;
 }
 
@@ -1527,6 +1525,12 @@ font-size:14px}
 /// Цвета для кнопок-сылок
 
 ////цветные кнпки для перехода к гайдам по ковенантам 
+
+.cta-button[data-icon="true"] {
+  line-height: 20px;
+  min-height: 20px;
+  padding-left: 40px;
+}
 
 .cta-button[data-icon="true"] .cta-button-icon {
     background-position: center;
