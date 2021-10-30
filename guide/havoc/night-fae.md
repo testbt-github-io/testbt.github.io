@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Ковенант Ночного Народца
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
+description: Гайд Ковенант Ночного Народца для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
+last_update: 2021-10-30 09:00:00
+game_version: 9.1.5 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -35,15 +35,15 @@ image:
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## Новинки патча 9.1
-
-Легендарный предмет ковенанта <span class="covenant-night-fae">Ночного Народца</span> [Пылающая бойня](https://ru.wowhead.com/spell=355890): Когда вы настигаете цель, [Охота](https://ru.wowhead.com/spell=323639)
-окружает вас [Обжигающим жаром](https://ru.wowhead.com/spell=258920). За каждого пораженного противника ваша ловкость повышается на 4% на 12 секунд.
-
-* [Пылающая бойня](https://ru.wowhead.com/spell=355890) - он дает нам каждые 90 секунд дополнительный заряд [Необузданного хаоса](https://ru.wowhead.com/spell=275144), 
-а также хороший бафф ловкости в зависимости от того, сколько целей мы поразили (максимум 15%). Синергия исходит от [Обжигающего жара](https://ru.wowhead.com/spell=258920), который активирует [Охота](https://ru.wowhead.com/spell=323639) когда мы используем легендарный предмет [Blazing Slaughter](https://ptr.wowhead.com/spell=355890/blazing-slaughter), поскольку это новая активация [Обжигающего жар](https://ru.wowhead.com/spell=258920), 
-он также даст нам заряд [Необузданного хаоса](https://ru.wowhead.com/spell=275144), что позволяет нам значительно увеличить АоЕ бурст, который нам дает [Охота](https://ru.wowhead.com/spell=323639). 
-Это легендарный предмет, который имеет наибольший потенциал среди новых.
+<details>
+ <summary><i>История изменений</i></summary>
+    <details open>
+     <summary><i>Патч 9.1</i></summary>
+      <ul>
+        <li>Легендарный предмет ковенанта <span class="covenant-night-fae">Ночного Народца</span> <a href="https://ru.wowhead.com/spell=355890">Пылающая бойня</a>: Когда вы настигаете цель, <a href="https://ru.wowhead.com/spell=323639">Охота</a> окружает вас <a href="https://ru.wowhead.com/spell=258920">Обжигающим жаром</a>. За каждого пораженного противника ваша ловкость повышается на 4% на 12 секунд.</li> 
+      </ul>
+    </details>
+</details>
 <br>
 
 ## Ковенант Ночного Народца
@@ -57,6 +57,10 @@ image:
 поэтому поэтому очень легко промахнуться. Кроме того, если у врага, маленький хитбокс или он 
 движется во время использования способности, ДоТ может не наложится, даже на ваш основной таргет.
 * {{ site.data.covenant.Soulshape }} - дополнительное увеличение мобильности, которая поможет уворачиваться от механик.
+
+* [Пылающая бойня](https://ru.wowhead.com/spell=355890) - он дает нам каждые 90 секунд дополнительный заряд [Необузданного хаоса](https://ru.wowhead.com/spell=275144), 
+а также хороший бафф ловкости в зависимости от того, сколько целей мы поразили (максимум 15%). Синергия исходит от [Обжигающего жара](https://ru.wowhead.com/spell=258920), который активирует [Охота](https://ru.wowhead.com/spell=323639) когда мы используем легендарный предмет [Blazing Slaughter](https://ptr.wowhead.com/spell=355890/blazing-slaughter), поскольку это новая активация [Обжигающего жар](https://ru.wowhead.com/spell=258920), 
+он также даст нам заряд [Необузданного хаоса](https://ru.wowhead.com/spell=275144), что позволяет нам значительно увеличить АоЕ бурст, который нам дает [Охота](https://ru.wowhead.com/spell=323639). 
 
 ## Лучшие Медиумы
 

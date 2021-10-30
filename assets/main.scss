@@ -599,37 +599,41 @@ hr {
       display: flex;
       flex-wrap: wrap;
       list-style-type: none;
-//      background: #f8f8f8;
       margin: 0;
-//      border-bottom: 1px solid lightgray;
-//	  max-width: 50%
+
     }
 
     .tabs__link {
       padding: 0.5rem 0.75rem;
-      text-decoration: none;
+      text-decoration: none !important;
       color: #aaa!important;
       text-align: center;
       flex-shrink: 0;
-	  background-color: #1c1c1c;
-//     flex-grow: 1;
+	    background-color: #333;
+      border-radius: 3px 3px 0 0;
+      margin-left: 0.5rem;
+      border: 1px solid #000;
+      border-bottom: 0;
+      line-height: 1rem;
     }
 
     .tabs__link_active {
-	  background-color: #333;
-	  color: #fff!important;
-//      background: lightgray;
+	    background-color: #1c1c1c;
+	    color: #fff!important;
       cursor: default;
+      border: 1px solid #000;
+      margin-bottom: -1px;
+      border-bottom: 0;
     }
 
     .tabs__link:not(.tabs__link_active):hover,
     .tabs__link:not(.tabs__link_active):focus {
-      background-color: #efefef;
+      background-color: #1c1c1c;
     }
 
     .tabs__content {
-	  border: 2px solid #333;
-	  background: #202020;
+	  border: 1px solid #000;
+	  background: #1c1c1c;
 	  border-radius: 0 3px 3px 3px;
     }
 
@@ -1523,6 +1527,27 @@ font-size:14px}
 }
 
 /// Цвета для кнопок-сылок
+
+details {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: .5em .5em 0;
+}
+
+summary {
+  font-weight: bold;
+  margin: -.5em -.5em 0;
+  padding: .5em;
+}
+
+details[open] {
+  padding: .5em;
+}
+
+details[open] summary {
+  border-bottom: 1px solid #aaa;
+  margin-bottom: .5em;
+}
 
 ////цветные кнпки для перехода к гайдам по ковенантам 
 

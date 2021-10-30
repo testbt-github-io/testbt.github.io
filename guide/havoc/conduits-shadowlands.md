@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Проводники силы (Кондуиты)
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
+description: Лучшие проводники силы (Кондуиты) для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
+last_update: 2021-10-30 09:00:00
+game_version: 9.1.5 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -35,11 +35,22 @@ image:
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## Изменения Проводников в патче 9.1
+## Изменения Проводников в патче 9.1.5
 
-* [Неестественная злоба](https://ru.wowhead.com/item=183463) - Теперь усиливает урон от ДоТа Охоты.
-* Добавлен новый Кондуит [Фрагмент адаптивной брони](https://ru.wowhead.com/spell=357902) - Когда вы получаете исцеление от другого игрока, ваша основная характеристика повышается на 2-3.6% на 15 секунд. Срабатывает не чаще раза в 30 секунд.
-* Добавлен новый Кондуит [Сфера концентрированной анимы](https://ru.wowhead.com/spell=357888) - Когда вы получаете урон, вы восполняете 2.5-4.5% максимального запаса здоровья. Срабатывает не чаще раза в 10 секунд.
+* [Клеймо греха](https://ru.wowhead.com/spell=317009) - сокращено время восстановления способности с 1 минуты до 45 секунд.
+* [Танец с судьбой](https://ru.wowhead.com/spell=339228/) - урон от проводника повышен на 300%.
+
+<details>
+ <summary><i>История изменений</i></summary>
+    <details open>
+     <summary><i>Патч 9.1</i></summary>
+      <ul>
+        <li><a href="https://ru.wowhead.com/item=183463">Неестественная злоба</a> - Теперь усиливает урон от ДоТа Охоты.</li>
+        <li>Добавлен новый Кондуит <a href="https://ru.wowhead.com/spell=357902">Фрагмент адаптивной брони</a> - Когда вы получаете исцеление от другого игрока, ваша основная характеристика повышается на 2-3.6% на 15 секунд. Срабатывает не чаще раза в 30 секунд.</li>
+        <li>Добавлен новый Кондуит <a href="https://ru.wowhead.com/spell=357888">Сфера концентрированной анимы</a> - Когда вы получаете урон, вы восполняете 2.5-4.5% максимального запаса здоровья. Срабатывает не чаще раза в 10 секунд. </li>
+      </ul>
+    </details>
+</details>
 
 <hr>
 
@@ -173,6 +184,6 @@ image:
 
 <hr>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/gear.html">Назад:<br>Бис лист</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/consumables.html">Длаее:<br>Расходники</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html">Назад:<br>Осколки господства</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/night-fae.html">Длаее:<br>Ночной Народец</a></div>
 <br>

@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Легендарные предметы
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
+description: Лучшие легендарные предметы для Охотников на Демонов Истребление 9.1.6 PvE Shadowlands
+last_update: 2021-10-30 09:00:00
+game_version: 9.1.5 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -34,16 +34,23 @@ image:
 <br>
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## Изменение легендарных предметов в 9.1
+## Изменение легендарных предметов в 9.1.5
 
-* Легендарный предмет ковенанта <span class="covenant-kyrian">Кирии</span> [Слепая вера](https://ru.wowhead.com/spell=355893): [Элизийский декрет](https://ru.wowhead.com/spell=306830) откалывает еще 2 малый фрагмент души и дает вам эффект 
-[Слепая вера](https://ru.wowhead.com/spell=355893) на 20 секунд. За каждый малый фрагмент души, поглощенный во время действия [Слепой веры](https://ru.wowhead.com/spell=355893), вы получаете 10 ед. гнева, а ваша искусность повышается на 1%.
-* Легендарный предмет ковенанта <span class="covenant-necrolord">Некролордов</span> [Демоническая клятва](https://ru.wowhead.com/spell=355996): Когда демон, призванный [Подпиткой для пламени](https://ru.wowhead.com/spell=329554/), взрывается, 
-к 5 находящемуся рядом противнику применяется [Огненное клеймо](https://ru.wowhead.com/spell=204021). Время действия – 5 секунд. Кроме того, время действия [Расколотой души](https://ru.wowhead.com/spell=178940) увеличивается на 8 секунд.
-* Легендарный предмет ковенанта <span class="covenant-night-fae">Ночного Народца</span> [Пылающая бойня](https://ru.wowhead.com/spell=355890): Когда вы настигаете цель, [Охота](https://ru.wowhead.com/spell=323639)
-окружает вас [Обжигающим жаром](https://ru.wowhead.com/spell=258920). За каждого пораженного противника ваша ловкость повышается на 4% на 12 секунд.
-* Легендарный предмет ковенанта <span class="covenant-venthyr">Вентиров</span> [Терзающий взгляд](https://ru.wowhead.com/spell=355886): Увеличивает урон, наносимый [Клеймом греха](https://ru.wowhead.com/spell=317009), на 10%. 
-Урон от [Пронзающего взгляда](https://ru.wowhead.com/spell=198013) продлевает время действия [Клейма греха](https://ru.wowhead.com/spell=317009) на 0.75 секунд.
+* [Слепая вера](https://ru.wowhead.com/spell=355893) - теперь за малый фрагмент души,  ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева.
+
+<details>
+ <summary><i>История изменений</i></summary>
+    <details open>
+     <summary><i>Патч 9.1</i></summary>
+      <ul>
+        <li>Легендарный предмет ковенанта <span class="covenant-kyrian">Кирии</span> <a href="https://ru.wowhead.com/spell=355893">Слепая вера</a>: <a href="https://ru.wowhead.com/spell=306830">Элизийский декрет</a> откалывает еще 2 малый фрагмент души и дает вам эффект <a href="https://ru.wowhead.com/spell=355893">Слепая вера</a> на 20 секунд. За каждый малый фрагмент души, поглощенный во время действия <a href="https://ru.wowhead.com/spell=355893">Слепой веры</a>, вы получаете 10 ед. гнева, а ваша искусность повышается на 1%.</li>
+        <li>Легендарный предмет ковенанта <span class="covenant-necrolord">Некролордов</span> <a href="https://ru.wowhead.com/spell=355996">Демоническая клятва</a>: Когда демон, призванный <a href="https://ru.wowhead.com/spell=329554">Подпиткой для пламени</a>, взрывается, к 5 находящемуся рядом противнику применяется <a href="https://ru.wowhead.com/spell=204021">Огненное клеймо</a>. Время действия – 5 секунд. Кроме того, время действия <a href="https://ru.wowhead.com/spell=178940">Расколотой души</a> увеличивается на 8 секунд.</li>
+        <li>Легендарный предмет ковенанта <span class="covenant-night-fae">Ночного Народца</span> <a href="https://ru.wowhead.com/spell=355890">Пылающая бойня</a>: Когда вы настигаете цель, <a href="https://ru.wowhead.com/spell=323639">Охота</a> окружает вас <a href="https://ru.wowhead.com/spell=258920">Обжигающим жаром</a>. За каждого пораженного противника ваша ловкость повышается на 4% на 12 секунд.</li>
+        <li>Легендарный предмет ковенанта <span class="covenant-venthyr">Вентиров</span> <a href="https://ru.wowhead.com/spell=355886">Терзающий взгляд</a>: Увеличивает урон, наносимый <a href="https://ru.wowhead.com/spell=317009">Клеймом греха</a>, на 10%. Урон от <a href="https://ru.wowhead.com/spell=198013">Пронзающего взгляда</a> продлевает время действия <a href="https://ru.wowhead.com/spell=317009">Клейма греха</a> на 0.75 секунд.</li>
+      </ul>
+    </details>
+</details>
+<br> 
 
 ## Какие легендарные предметы улучшать в первую очередь?
 

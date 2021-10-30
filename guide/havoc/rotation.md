@@ -8,8 +8,6 @@ toc: true
 
 #### Выберите талант:
 
-<link type="text/css" href="https://wow.zamimg.com/css/global/icon.css" rel="stylesheet">
-<script src="https://wow.zamimg.com/js/global/WH/Icon.js?3"></script>
 <link type="text/css" href="https://wow.zamimg.com/css/basic.css?16" rel="stylesheet">
 
 <script

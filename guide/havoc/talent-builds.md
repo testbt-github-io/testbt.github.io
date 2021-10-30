@@ -1,9 +1,9 @@
 ---
 layout: guide
 title: Таланты и Билды
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
+description: Таланты и Билды для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
+last_update: 2021-10-30 09:00:00
+game_version: 9.1.5 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -33,99 +33,184 @@ image:
 </div>
 <br>
 
-## Лучший набор талантов для Охотника на Демонов Истребление
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+## Лучший набор талантов
 
 Ищете краткую информацию о билде дпс дх? Тогда эта статья специально для вас! Тем не менее, если вас интересует что-то более специфичное, например, серьёзный рейдинг или мифик+, вас заинтересуют билды ниже.
 
-<div class="tabs">
-<div class="tabs__nav">
-<a class="tabs__link tabs__link_active" href="#content-1">АоЕ М+ билд Медальон </a>
-<a class="tabs__link" href="#content-2">АоЕ М+ Тоска </a>
-<a class="tabs__link" href="#content-3">СТ билд Рана</a>
-<a class="tabs__link" href="#content-4">СТ ФБ Теория</a>
-<a class="tabs__link" href="#content-5">СТ билд Рана+Разрыв Сущности</a>
+### СТ билды
+
+<div class="tabs" id="tabs-2">
+  <div class="tabs__nav">
+    <a class="tabs__link tabs__link_active" href="#content-33">Импульс</a>
+    <a class="tabs__link" href="#content-44">Демонизм</a>
+    <a class="tabs__link" href="#content-55">ФБ + Теория</a>
 </div>
 
 <div class="tabs__content">
-<div class="tabs__pane tabs__pane_show" id="content-1">
-
-<div class="tabs_in" markdown="1">
-
-{% include DarkglareBoon.html %}             
- 
-<br>
-
-<p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">
-На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
-</span></p>
-
-</div>
-</div>
-
-<div class="tabs__pane" id="content-2" >
-   
-<div class="tabs_in" markdown="1">
-
-{% include CollectiveAnguish.html %}  
-
-<br>
-
-<p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">
-На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
-<br>
-В последнем тире талантов можно использовать {{ site.data.talent.Demonic }} 
-</span></p>
-
-</div>
-</div>
-      
-<div class="tabs__pane" id="content-3">
-
-<div class="tabs_in" markdown="1">
-
-{% include BurningWound.html %} 
-
-<br>
-
-<p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">
-На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
-</span></p>
-
-</div>
-</div>
-
-
-<div class="tabs__pane" id="content-4">
-<div class="tabs_in" markdown="1">
-
-{% include ChaosTheory.html %} 
-
-<br>
-
-<p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">
-На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
-
-</span></p>
-
-</div>
-</div>
-
-<div class="tabs__pane" id="content-5">
-<div class="tabs_in" markdown="1">
-
+  <div class="tabs__pane tabs__pane_show" id="content-33">
+   <div class="tabs_in" markdown="1">
 {% include BW_Essence-break.html %}
-
+<p class="tanknotes-section-success" markdown="1">
+<span style="font-weight: 400;">На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
+</span></p>
+<p class="tanknotes-section-error" markdown="1">
+<span style="font-weight: 400;">Если вы выбрали данный билд, в рейде используйте с ним следующие легендарные предметы:<br>
+<span class="q5"><strong>{{ site.data.legendary.Burning_Wound }}</strong></span>
+</span></p>
+   </div>
+  </div>
+  <div class="tabs__pane" id="content-44">
+   <div class="tabs_in" markdown="1">
+{% include BurningWound.html %}
+<p class="tanknotes-section-success" markdown="1">
+<span style="font-weight: 400;">На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
+</span></p>
+<p class="tanknotes-section-error" markdown="1">
+<span style="font-weight: 400;">Если вы выбрали данный билд, в рейде используйте с ним следующие легендарные предметы:<br>
+<span class="q5"><strong>[Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534/)</strong></span><br>
+<span class="q5"><strong>[Терзающий взгляд](https://ru.wowhead.com/spell=355886)</strong></span>
+</span></p>
+  </div>      
+  </div>
+  <div class="tabs__pane" id="content-55">
+   <div class="tabs_in" markdown="1">
+{% include ChaosTheory.html %}
+<p class="tanknotes-section-success" markdown="1">
+<span style="font-weight: 400;">На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
+</span></p>
+<p class="tanknotes-section-error" markdown="1">
+<span style="font-weight: 400;">Если вы выбрали данный билд, в рейде используйте с ним следующие легендарные предметы:<br>
+<span class="q5"><strong>[Теория хаоса](https://ru.wowhead.com/spell=337551)</strong></span>
+</span></p>
+   </div>     
+  </div>
+</div>
+</div>
 <br>
 
-<p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">
-На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
+### АоЕ/Клив Билды
+
+<div class="tabs" id="tabs-1">
+  <div class="tabs__nav">
+    <a class="tabs__link tabs__link_active" href="#content-1">Демонизмн</a>
+    <a class="tabs__link" href="#content-2">Импульс</a>
+</div>
+<div class="tabs__content">
+<div class="tabs__pane tabs__pane_show" id="content-1">
+<div class="tabs_in" markdown="1">	
+{% include DarkglareBoon.html %}
+<p class="tanknotes-section-success" markdown="1">
+<span style="font-weight: 400;">На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
 </span></p>
+<p class="tanknotes-section-error" markdown="1">
+<span style="font-weight: 400;">Если вы выбрали данный билд, в Мифик+ используйте с ним следующие легендарные предметы:<br>
+<span class="q5"><strong>{{ site.data.legendary.Collective_Anguish }}</strong></span><br>
+<span class="q5"><strong>[Терзающий взгляд](https://ru.wowhead.com/spell=355886)</strong></span><br>
+<span class="q5"><strong>[Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534/)</strong></span>
+</span></p>
+</div>      
+</div>
+<div class="tabs__pane" id="content-2">
+<div class="tabs_in" markdown="1">
+{% include CollectiveAnguish.html %}
+<p class="tanknotes-section-success" markdown="1">
+<span style="font-weight: 400;">На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
+</span></p>
+<p class="tanknotes-section-error" markdown="1">
+<span style="font-weight: 400;">Если вы выбрали данный билд, в Мифик+ используйте с ним следующие легендарные предметы:<br>
+<span class="q5"><strong>{{ site.data.legendary.Collective_Anguish }}</strong></span><br>
+<span class="q5"><strong>[Пылающая бойня](https://ru.wowhead.com/spell=355890)</strong></span><br>
+<span class="q5"><strong>{{ site.data.legendary.Burning_Wound }}</strong></span>
+</span></p>
+</div>     
+</div>
 
 </div>
 </div>
+<br>
 
-</div>
-</div>
+  
+## Обзор талантов
+
+### Таланты первого тира (15 Уровень)
+
+<ul>
+<li>{{ site.data.talent.BlindFury }} Чрезвычайно хороший талант, усиливающий одно из наших лучших заклинаний на 50% и генерирующий много гнева.</li> 
+<li>{{ site.data.talent.Demonic_Appetite }} С изменением возмещения гнева за {{ site.data.spell.Chaos_Strike }} в BFA этот талант сильно изменился. Генерирует примерно 6 душ в минуту. </li>
+<li>{{ site.data.talent.Felblade }} Очень конкурентоспособный талант, дает много гнева, имеет небольшое время восстановления. </li>
+</ul>
+
+### Таланты второго тира (25 Уровень)
+
+<ul>
+<li>{{ site.data.talent.Insatiable_Hunger }} Достаточно простой талант {{ site.data.spell.Demons_Bite }} генерирует от 5 до 10 ед. дополнительного гнева за применение.</li> 
+<li>{{ site.data.talent.Burning_Hatred }} Дополнительно накапливает 30 ед. гнева за 6 сек. Универсальный талант как для СТ так и АоЕ.</li>
+<li>{{ site.data.talent.Demon_Blades }} Позволяет генерировать гнев пассивно.</li>
+</ul>
+
+### Таланты третьего тира (30 Уровень)
+
+<ul>
+<li>{{ site.data.talent.Trail_of_Ruin }} Очень простой талант, последний удар способности {{ site.data.spell.Blade_Dance }} вешает на врагов ДоТ, который наносит урон от магии Хаоса в течение 4 сек.</li> 
+<li>{{ site.data.talent.Unbound_Chaos }} увеличивает урон нашего {{ site.data.spell.Fel_Rush }} после применения {{ site.data.spell.Immolation_Aura }}, очень сильный таланк, используеться практически всегда по умолчанию.</li>
+<li>{{ site.data.talent.Glaive_Tempest }} Возвращается еще одна старая способность - способность артефакта Легиона. Скорость  восстановления зависит от рейтинга скорости персонажа. Больше скорости, значит быстрее восстанавливается способность.
+</li>
+</ul>
+
+### Таланты четвертого тира (35 Уровень)
+
+<ul>
+<li>{{ site.data.talent.Soul_Rending }} Талант дает нам 5% пассивного самоисцеления, что делает нас более живучими и помогает пережить различные механики. Хороший выбор, если не требуется иметь невосприимчивость к урону.</li> 
+<li>{{ site.data.talent.Desperate_Instincts }} Неплохой талант за счет увеличения защитных свойств {{ site.data.spell.Blur }}, но применяется очень редко.</li>
+<li>{{ site.data.talent.Netherwalk }} Очень сильный сейв кулдаун который позволяет игнорировать сложные механики боя.</li>
+</ul>
+
+### Таланты пятого тира (40 Уровень)
+
+<ul>
+<li>{{ site.data.talent.Cycle_of_Hatred }} Очень сильный талант в этом тире, игра с этим талантом полностью исключит {{ site.data.spell.Blade_Dance }} из СТ ротации.</li> 
+<li>{{ site.data.talent.First_Blood }} Первая кровь хорошо сочетается с талантом из третьего тира {{ site.data.talent.Trail_of_Ruin }}.</li>
+<li>{{ site.data.talent.Essence_Break }} Слабый талант, пока не нашел свое место для применения.</li>
+</ul>
+
+### Таланты шестого тира (45 Уровень)
+
+<ul>
+<li>{{ site.data.talent.Unleashed_Power }} Мы получаем бесплатный АоЕ стан.</li> 
+<li>{{ site.data.talent.Master_of_the_Glaive }} Довольно слабый талант, но с {{ site.data.legendary.Fel_Bombardment }} может себя очень хорошо показать, также берется по умолчанию для СТ билда.</li>
+<li>{{ site.data.talent.Fel_Eruption }} Таргетный стан, может быть полезным для контроля приоритетной цели.</li>
+</ul>
+
+### Таланты седьмого тира (50 Уровень)
+
+<ul>
+<li>{{ site.data.talent.Demonic }} Сильный талант, если вам нужен бурст каждые 30 секунд, хорош в AoE. Хорошо сочетается вместе с {{ site.data.talent.BlindFury }}.</li> 
+<li>{{ site.data.talent.Momentum }} Усложняет игровой процесс. Игра с этим талантом подразумевает, что вы должны следить за бафом урона и за своим положением, чтобы не улететь за край карты или не спулить новую группу врагов. Является уникальным для специализации Истребление. Чрезвычайно эффективен для нескольких целей, поскольку его модификатор урона применяется ко всему наносимому вами урону.</li>
+<li>{{ site.data.talent.Fel_Barrage }} Очень странное место для этого таланта в качестве замены {{ site.data.talent.Nemesis
+ }}. Этот талант, по сути, мертвый талант в этом тире, если только его не усилят настолько, что он станет незаменим.</li>
+</ul>
+
+## Режим войны (War Mode)
+<p style="text-indent: 20px;">
+Новое изменение в BFA - добавление режима войны. Режим войны - это новая система мирового PvP , а также новая система чести и таланты чести. Теперь вы можете переключать режим войны, находясь в Штормграде или Оргриммаре, чтобы получить доступ к PvP-талантам в открытом мире, а также к другим бонусам, таким как увеличенные награды за выполнение локальных заданий и 10% дополнительного опыта. Обратной стороной является то, что вы всегда будете в режиме PvP, а награды уравновешивают этот риск.
+Не все таланты одинаково полезны. Мы выбрали лучшие варианты, которые вы можете использовать при игре в открытом мире с включенным Режимом Войны. Имейте в виду, что это лучшие варианты для PvE, и они могут отличаться от тех, которые используются при сражениях с другими игроками.
+Бонусы в режиме войны теперь могут увеличиваться до 30% в зависимости от того, насколько не сбалансирована PvP-ситуация против вашей фракции. Кроме того, вы сможете отключить режим войны в любой зоне отдыха, например, в небольших городах и тавернах, что позволит вам выйти из неблагоприятных ситуаций, если вы того пожелаете.
+ </p>
+ 
+ <ul>
+<li>{{ site.data.talent.Demonic_Origins }} очень хороший талант для игры в открытом мире и стычках с другими игроками. Этот талант уменьшает время восстановления нашей {{ site.data.spell.Metamorphosis }} и помогает быстро расправляться с врагами</li> 
+<li>{{ site.data.talent.Solitude }} еще один очевидный победитель. Увеличивает скорость атаки и генерирование гнева если рядом нет союзников. Это цена, которую я готов заплатить.</li>
+<li>В последнем тире талантов можно взять любой на ваше усмотрение, но я советую брать {{ site.data.talent.Rain_from_Above }}, хороший талант который поможет выйти победителем из нежелательных PvP боев</li>
+</ul>
+
+<hr>
+
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/gear.html">Назад:<br>Бис лист</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html">Далее:<br>Легендарные предметы</a></div>
+
+<br>
 
 <script>
     var $tabs = function (target) {
@@ -189,91 +274,29 @@ image:
 
     };
 
-    var mytabs = $tabs('.tabs');
-    if (localStorage.getItem('mytabs')) {
-      mytabs.showTab(document.querySelector('[href="' + localStorage.getItem('mytabs') + '"]'));
-    }
+    (function () {
+      var
+        nameKey = 'mytabs2',
+        mytabs = {},
+        mytabsStorage = {},
+        listTabs = document.querySelectorAll('.tabs');
 
-    document.addEventListener('tab.show', function (e) {
-      localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
-    })
-</script>
-
-<br>
-  
-## Обзор талантов
-
-### Таланты первого тира (15 Уровень)
-
-<ul>
-<li>{{ site.data.talent.BlindFury }} Чрезвычайно хороший талант, усиливающий одно из наших лучших заклинаний на 50% и генерирующий много гнева.</li> 
-<li>{{ site.data.talent.Demonic_Appetite }} С изменением возмещения гнева за {{ site.data.spell.Chaos_Strike }} в BFA этот талант сильно изменился. Генерирует примерно 6 душ в минуту. </li>
-<li>{{ site.data.talent.Felblade }} Очень конкурентоспособный талант, дает много гнева, имеет небольшое время восстановления. </li>
-</ul>
-
-### Таланты второго тира (25 Уровень)
-
-<ul>
-<li>{{ site.data.talent.Insatiable_Hunger }} Достаточно простой талант {{ site.data.spell.Demons_Bite }} генерирует от 5 до 10 ед. дополнительного гнева за применение.</li> 
-<li>{{ site.data.talent.Burning_Hatred }} Дополнительно накапливает 30 ед. гнева за 6 сек. Универсальный талант как для СТ так и АоЕ.</li>
-<li>{{ site.data.talent.Demon_Blades }} Позволяет генерировать гнев пассивно.</li>
-</ul>
-
-### Таланты третьего тира (30 Уровень)
-
-<ul>
-<li>{{ site.data.talent.Trail_of_Ruin }} Очень простой талант, последний удар способности {{ site.data.spell.Blade_Dance }} вешает на врагов ДоТ, который наносит урон от магии Хаоса в течение 4 сек.</li> 
-<li>{{ site.data.talent.Unbound_Chaos }} увеличивает урон нашего {{ site.data.spell.Fel_Rush }} после применения {{ site.data.spell.Immolation_Aura }}, очень слабый талант и не найдет применения в игре.</li>
-<li>{{ site.data.talent.Glaive_Tempest }} Возвращается еще одна старая способность - способность артефакта Легиона. Скорость  восстановления зависит от рейтинга скорости персонажа. Больше скорости, значит быстрее восстанавливается способность.
-</li>
-</ul>
-
-### Таланты четвертого тира (35 Уровень)
-
-<ul>
-<li>{{ site.data.talent.Soul_Rending }} Талант дает нам 5% пассивного самоисцеления, что делает нас более живучими и помогает пережить различные механики. Хороший выбор, если не требуется иметь невосприимчивость к урону.</li> 
-<li>{{ site.data.talent.Desperate_Instincts }} Неплохой талант за счет увеличения защитных свойств {{ site.data.spell.Blur }}, но применяется очень редко.</li>
-<li>{{ site.data.talent.Netherwalk }} Очень сильный сейв кулдаун который позволяет игнорировать сложные механики боя.</li>
-</ul>
-
-### Таланты пятого тира (40 Уровень)
-
-<ul>
-<li>{{ site.data.talent.Cycle_of_Hatred }} Очень сильный талант в этом тире, игра с этим талантом полностью исключит {{ site.data.spell.Blade_Dance }} из СТ ротации.</li> 
-<li>{{ site.data.talent.First_Blood }} Первая кровь хорошо сочетается с талантом из третьего тира {{ site.data.talent.Trail_of_Ruin }}.</li>
-<li>{{ site.data.talent.Essence_Break }} Слабый талант, пока не нашел свое место для применения.</li>
-</ul>
-
-### Таланты шестого тира (45 Уровень)
-
-<ul>
-<li>{{ site.data.talent.Unleashed_Power }} Мы получаем бесплатный АоЕ стан.</li> 
-<li>{{ site.data.talent.Master_of_the_Glaive }} Довольно слабый талант, но с {{ site.data.legendary.Fel_Bombardment }} может себя очень хорошо показать, также берется по умолчанию для СТ билда.</li>
-<li>{{ site.data.talent.Fel_Eruption }} Таргетный стан, может быть полезным для контроля приоритетной цели.</li>
-</ul>
-
-### Таланты седьмого тира (50 Уровень)
-
-<ul>
-<li>{{ site.data.talent.Demonic }} Сильный талант, если вам нужен бурст каждые 30 секунд, хорош в AoE. Хорошо сочетается вместе с {{ site.data.talent.BlindFury }}.</li> 
-<li>{{ site.data.talent.Momentum }} Усложняет игровой процесс. Игра с этим талантом подразумевает, что вы должны следить за бафом урона и за своим положением, чтобы не улететь за край карты или не спулить новую группу врагов. Является уникальным для специализации Истребление. Чрезвычайно эффективен для нескольких целей, поскольку его модификатор урона применяется ко всему наносимому вами урону.</li>
-<li>{{ site.data.talent.Fel_Barrage }} Очень странное место для этого таланта в качестве замены {{ site.data.talent.Nemesis
- }}. Этот талант, по сути, мертвый талант в этом тире, если только его не усилят настолько, что он станет незаменим.</li>
-</ul>
-
-## Режим войны (War Mode)
-<p style="text-indent: 20px;">
-Новое изменение в BFA - добавление режима войны. Режим войны - это новая система мирового PvP , а также новая система чести и таланты чести. Теперь вы можете переключать режим войны, находясь в Штормграде или Оргриммаре, чтобы получить доступ к PvP-талантам в открытом мире, а также к другим бонусам, таким как увеличенные награды за выполнение локальных заданий и 10% дополнительного опыта. Обратной стороной является то, что вы всегда будете в режиме PvP, а награды уравновешивают этот риск.
-Не все таланты одинаково полезны. Мы выбрали лучшие варианты, которые вы можете использовать при игре в открытом мире с включенным Режимом Войны. Имейте в виду, что это лучшие варианты для PvE, и они могут отличаться от тех, которые используются при сражениях с другими игроками.
-Бонусы в режиме войны теперь могут увеличиваться до 30% в зависимости от того, насколько не сбалансирована PvP-ситуация против вашей фракции. Кроме того, вы сможете отключить режим войны в любой зоне отдыха, например, в небольших городах и тавернах, что позволит вам выйти из неблагоприятных ситуаций, если вы того пожелаете.
- </p>
- 
- <ul>
-<li>{{ site.data.talent.Demonic_Origins }} очень хороший талант для игры в открытом мире и стычках с другими игроками. Этот талант уменьшает время восстановления нашей {{ site.data.spell.Metamorphosis }} и помогает быстро расправляться с врагами</li> 
-<li>{{ site.data.talent.Solitude }} еще один очевидный победитель. Увеличивает скорость атаки и генерирование гнева если рядом нет союзников. Это цена, которую я готов заплатить.</li>
-<li>В последнем тире талантов можно взять любой на ваше усмотрение, но я советую брать {{ site.data.talent.Rain_from_Above }}, хороший талант который поможет выйти победителем из нежелательных PvP боев</li>
-</ul>
-
-
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/gear.html">Назад:<br>Бис лист</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html">Далее:<br>Легендарные предметы</a></div>
+      for (var i = 0, length = listTabs.length; i < length; i++) {
+        if (listTabs[i].id) {
+          mytabs[listTabs[i].id] = $tabs(listTabs[i]);
+        }
+      }
+      if (localStorage.getItem(nameKey)) {
+        mytabsStorage = JSON.parse(localStorage.getItem(nameKey));
+        for (var key in mytabsStorage) {
+          if (mytabs.hasOwnProperty(key)) {
+            mytabs[key].showTab(document.querySelector('[href="' + mytabsStorage[key] + '"]'));
+          }
+        }
+      }
+      document.addEventListener('tab.show', function (e) {
+        mytabsStorage[e.detail.closest('.tabs').getAttribute('id')] = e.detail.querySelector('.tabs__link_active').getAttribute('href');
+        localStorage.setItem(nameKey, JSON.stringify(mytabsStorage));
+      })
+    })();   
+</script>	

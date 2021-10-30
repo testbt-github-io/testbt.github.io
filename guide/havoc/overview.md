@@ -2,8 +2,8 @@
 layout: guide
 title: Обзор
 description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-26 09:00:00
-game_version: 9.1.0 Shadowlands
+last_update: 2021-10-30 09:00:00
+game_version: 9.1.5 Shadowlands
 author: "Rodriguezz. Оригинал: Wowhead."
 toc: true
 image:
@@ -33,18 +33,39 @@ image:
 </div>
 <br>
 
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## Изменения Охотников на Демонов в патче 9.1
+## Изменения Охотников на Демонов в патче 9.1.5
 
-* [Удар Хаоса](https://ru.wowhead.com/spell=344862) - Урон увеличен на 15%
-* [Аннигиляция](https://ru.wowhead.com/spell=201427) - Урон увеличен на 15%
-* [Укус демона](https://ru.wowhead.com/spell=162243) - Урон увеличен на 15%
-* [Демонические клинки](https://ru.wowhead.com/spell=203555) - Урон увеличен на 15%
-* [Необузданный хаос](https://ru.wowhead.com/spell=347461) - Увеличивает урон [Рывка скверны](https://ru.wowhead.com/spell=195072) на 500% ( было на 600%)
-* [Раздирание души](https://ru.wowhead.com/spell=217996) - теперь увеличивает самоисцеление на 10% (было 5%) и еще на 20% (было 25%), когда активна [Метаморфоза](https://ru.wowhead.com/spell=320421)
-* [Инстинкт самосохранения](https://ru.wowhead.com/spell=205411) - Затуманивание теперь срабатывает с уменьшением продолжительности на 50% и сокращением времени восстановления на 50%, когда ваше здоровье падает ниже 35%.
-* [Путь Пустоты](https://ru.wowhead.com/spell=196555) - Продолжительность увеличена до 6 секунд (было 5 секунд).
-* [Неестественная злоба](https://ru.wowhead.com/item=183463) - Теперь усиливает урон от ДоТа Охоты.
+У следующих АоЕ способностей, убрано ограничение на количество целей. Вместо этого они наносят уменьшенный урон всем целям после 5-й:
+* [Танец клинков](https://ru.wowhead.com/spell=188499)  
+* [Буря клинков](https://ru.wowhead.com/spell=342817)<br>
+
+У следующей АоЕ способности, убрано ограничение на количество целей. Вместо этого она наносит уменьшенный урон всем целям после 8-й.
+* [Обстрел Скверны ](https://ru.wowhead.com/spell=258925)
+
+* [Клеймо греха](https://ru.wowhead.com/spell=317009) сокращено время восстановления способности с 1 минуты до 45 секунд.
+* [Танец с судьбой](https://ru.wowhead.com/spell=339228/) - урон от проводника повышен на 300%.
+* [Слепая вера](https://ru.wowhead.com/spell=355893) - теперь за малый фрагмент души,  ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева.
+
+
+<details>
+ <summary><i>История изменений</i></summary>
+    <details open>
+     <summary><i>Патч 9.1</i></summary>
+      <ul>
+        <li><a href="https://ru.wowhead.com/spell=344862"> Удар Хаоса</a> - Урон увеличен на 15%</li>
+        <li><a href="https://ru.wowhead.com/spell=201427"> Аннигиляция</a> - Урон увеличен на 15%</li>
+        <li><a href="https://ru.wowhead.com/spell=162243"> Укус демона</a> - Урон увеличен на 15%</li>
+        <li><a href="https://ru.wowhead.com/spell=203555"> Демонические клинки</a> - Урон увеличен на 15%</li>
+        <li><a href="https://ru.wowhead.com/spell=347461"> Необузданный хаос</a> - Увеличивает урон <a href="https://ru.wowhead.com/spell=195072"> Рывка скверны</a> на 500% ( было на 600%)</li>
+        <li><a href="https://ru.wowhead.com/spell=217996"> Раздирание души</a> - теперь увеличивает самоисцеление на 10% (было 5%) и еще на 20% (было 25%), когда активна <a href="https://ru.wowhead.com/spell=320421"> Метаморфоза</a></li>
+        <li><a href="https://ru.wowhead.com/spell=205411"> Инстинкт самосохранения</a> - Затуманивание теперь срабатывает с уменьшением продолжительности на 50% и сокращением времени восстановления на 50%, когда ваше здоровье падает ниже 35%.</li>
+        <li><a href="https://ru.wowhead.com/spell=196555"> Путь Пустоты</a> - Продолжительность увеличена до 6 секунд (было 5 секунд).</li>
+        <li><a href="https://ru.wowhead.com/item=183463"> Неестественная злоба</a> - Теперь усиливает урон от ДоТа Охоты.</li>
+      </ul>
+    </details>
+</details>
 
 ## Основная информация
 	   
@@ -152,7 +173,9 @@ image:
 <a href="https://www.wowhead.com/unlocking-artifact-appearances-guide" class="cta-button" data-border="strong" target="_blank">Получение обликов артефактов</a>
 </div>
 
+<hr>
+
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/quick_faq.html">Назад:<br>Кратко и Быстро</a></div> 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/beginners.html">Далее:<br>Новичкам</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html">Далее:<br>Лучший ковенант</a></div>
 
-
+<br>

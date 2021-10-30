@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Бис Лист
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
+description: Лучшая экиперовка для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
+last_update: 2021-10-30 09:00:00
+game_version: 9.1.5 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -48,16 +48,16 @@ image:
 <div class="table-box" markdown="1">
 
 |Слот|Название|Камень господства|Добывается|
-|Голова|[Клобук навязчивого предвидения](https://ru.wowhead.com/item=186330/)|[Осколок Зед](https://ru.wowhead.com/item=187079)|[Писарь судьбы Ро-Кало](https://ru.wowhead.com/npc=179390)|
+|Голова|[Клобук навязчивого предвидения](https://ru.wowhead.com/item=186330/)|[Осколок Кор](https://ru.wowhead.com/item=187063)|[Писарь судьбы Ро-Кало](https://ru.wowhead.com/npc=179390)|
 |Шея|[Межпланарный краеугольный камень](https://ru.wowhead.com/item=186379)| - |[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Плечо|[Наплеч доверенного-предателя](https://ru.wowhead.com/item=186336)|[Осколок Диз](https://ru.wowhead.com/item=187073)|[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
+|Плечо|[Наплеч доверенного-предателя](https://ru.wowhead.com/item=186336)|[Осколок Тел](https://ru.wowhead.com/spell=355748/)|[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
 |Плащ|[Самовоспроизводящаяся ткань](https://ru.wowhead.com/item=186374/)| - |[Стражница Предвечных](https://ru.wowhead.com/npc=175731)|
-|Грудь|[Клепаная кираса иссохшего сердца](https://ru.wowhead.com/item=186334)|[Осколок От](https://ru.wowhead.com/item=187076)|[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
+|Грудь|[Клепаная кираса иссохшего сердца](https://ru.wowhead.com/item=186334)|[Осколок Кир](https://ru.wowhead.com/spell=355743)|[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
 |Запястье|[Путы с нитями судьбы](https://ru.wowhead.com/item=186335)| - |[Писарь судьбы Ро-Кало](https://ru.wowhead.com/npc=179390)|
 |Руки|[Повязки верного квалдира](https://ru.wowhead.com/item=186295)|[Осколок Бек](https://ru.wowhead.com/item=187057)|[Око Тюремщика](https://ru.wowhead.com/npc=180018)|
 |Пояс|[Перевязь Ветрокрылой](https://ru.wowhead.com/item=186332)| - |[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
 |Ноги|[Брюки элитного аранакка](https://ru.wowhead.com/item=186331)| - |[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Сапоги|[Ботфорты отваги Дашлы](https://ru.wowhead.com/item=186299)|[Осколок Кор](https://ru.wowhead.com/item=187063/)|[Девять](https://ru.wowhead.com/npc=178738)|
+|Сапоги|[Ботфорты отваги Дашлы](https://ru.wowhead.com/item=186299)|[Осколок Диз](https://ru.wowhead.com/item=187073)|[Девять](https://ru.wowhead.com/npc=178738)|
 |Кольцо 1|[Потускневший знак Кель'Таласа](https://ru.wowhead.com/item=186377)| - |[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
 |Кольцо 2|[Миниатюрное колесо для казни](https://ru.wowhead.com/item=186375)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
 |Аксессуар 1|[Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432)| - |[Стражница Предвечных](https://ru.wowhead.com/npc=175731)|
@@ -135,6 +135,11 @@ image:
 
 * {{ site.data.item.Phial_of_Putrefaction }} - Наносит высокий урон и показывает высокий оверолл, аксессуар обязателен к получению.
 * [Тотем хватки смерти](https://ru.wowhead.com/item=179356) - очень хороший аксессуар, отлично себя показывает в СТ боях.
+    * Перезарядка может быть уменьшена как минимум  6 раз (90 секунд). 
+    * Уменьшение времени восстановления не срабатывает для обычных мобов, таких как миньоны, второстепенные мобы или мобы значительно более низкого уровня.
+    * Уменьшение времени восстановления  не всегда срабатывает даже на обычных мобах, даже когда сам тотем атакует дважды и наносит последний удар.
+    * Урон от тотема может быть критическим.
+    * Зона поражения составляет примерно 50 ярдов _ от тотема, _ не от вашего персонажа.
 * [Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432) - наносит много урона и имеет небольшое КД.
 * [Тикающий мешок ужаса](https://ru.wowhead.com/item=185844) - трынькет с высоким уроном, минус только в его уровне (максимальный илвл 233) и искусности.
 

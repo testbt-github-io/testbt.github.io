@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Лучший Ковенанты
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
+description: Лучший Ковенанты для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
+last_update: 2021-10-30 09:00:00
+game_version: 9.1.5 Shadowlands
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -32,6 +32,8 @@ image:
 <a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
+
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ## Что такое Ковенанты?
 
@@ -70,7 +72,7 @@ image:
 <tr>
 <td><span class="q10"><a href="{{ site.url }}/guide/havoc/venthyr.html">Вентиры</a></span></td>
 <td>Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr74DBStvCBUrkwglLM0IEgUtHwglLM8IIhUq-gg1Ku8I">Наджия</a></td>
+<td><a href="https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/demon-hunter/AwaWZZYBJStvCBMFLR8IFSzPCCUwPAgiBSr6CBUq7wg">Безумный герцог Теотар</a></td>
 </tr>
 </tbody>
 </table>
@@ -120,15 +122,17 @@ image:
 
 ## Лучший Ковенант для Рейда
 
-В Святилище Господства есть бой как с одиночной целью (СТ), так и AoE бои. Ночной Народец и Вентиры будут лучшим выбором для рейдового контента, поскольку они оба имеют превосходный урон в СТ боях. 
-В целом, у всех четырех ковенантов есть свои плюсы и минусы, но 
-Ночной Народец будут предпочтительным выбором для большинства игроков так как в рейде преобладают бои с АоЕ.
+В Святилище Господства есть бой как с одиночной целью (СТ), так и AoE бои. <span class="c12">Ночной Народец</span> и <span class="c6">Вентиры</span> будут лучшим выбором для рейдового контента, поскольку они оба имеют превосходный урон в СТ боях. 
+В целом, у всех четырех ковенантов есть свои плюсы и минусы, но для рейдового контента лучшие два ковенанта <span class="c12">Ночной Народец</span> для Клив боя, а 
+<span class="c6">Вентиры</span> очень сыльны в СТ бою.
 
 ## Лучший Ковенант для М+
 
 Для М+ на данный момент выбор ковенанта особой роли не играет, т.к. игра в каждом ковенанте имеет свои плюсы и минусы. Если вы проводите львиную долю игры в ключах, а мифик рейды вас не интересуют, 
-а ПвП вам всю жизнь было противно - то можете выбрать любой ковенант. Если вы планируете играть ключи и покорять  "прогулочным шагом" мифик рейды - то стоит выбирать между Ночным народцем, 
-Вентирами и Некролордами. Если вы играете во все аспекты игры (мифик рейды, М+ и пвп) то ваш выбор ограничен (увы) Ночным народцем.
+а ПвП вам всю жизнь было противно - то можете выбрать любой ковенант. Если вы планируете играть ключи и покорять  "прогулочным шагом" мифик рейды - то стоит выбирать между 
+<span class="c12">Ночным народцем</span>, <span class="c6">Вентирами</span> и <span class="c10">Некролордами</span>. 
+В 9.1.5 ковенант <span class="c12">Ночной народцем</span> все так же будет предпочтительный для мифик ключей, 
+но так как теперь мы можем без ограничений менять свой ковенат, тем самым попробовав их все и выбрав для себя найболее подходящий вариант, если вас чем то не устроил ковенант <span class="c12">Ночной народцем</span>.
 
 ## Популярность Ковенантов
 
@@ -199,7 +203,9 @@ image:
 
 <div id="bloodmallet_soul_binds" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222" data-fight-style="castingpatchwerk" data-type="soul_binds" data-entries="10000" data-language="ru">Loading...</div>
 
+<hr>
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/overview.html">Назад:<br>Обзор</a></div>
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/gear.html">Длаее:<br>Бис лист</a></div>
 
+<br>
