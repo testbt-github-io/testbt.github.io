@@ -260,22 +260,25 @@ toc: true
     <ol>
       <li class="kyr-apl" style="display: none;"> {{ site.data.rotation.ElysianDecree }} прекастом</li>
 	  	<li>За 0.5 сек. до начала боя {{ site.data.rotation.ImmolationAura }} </li>
+      <li class="vt-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
       <li class="uh-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }} для нанесения повышенного урона благодаря таланту {{ site.data.rotation.UnboundChaos }}</li>
       <li class="bf-apl" style="display: none;"> Используйте {{ site.data.rotation.DemonsBite }}</li>
 		  <li class="fb-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }}</li>
-      <li class="mom-apl">Используйте {{ site.data.rotation.EyeBeam }}</li>
-      <li class="dem-apl">Используйте {{ site.data.rotation.EyeBeam }} </li>
+      <li>Используйте {{ site.data.rotation.EyeBeam }}</li>
       <li class="nf-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
         <ul>
          <li class="boon-apl" style="display: none;"> Если прокнула лега.</li> 
          <li class="boon-apl" style="display: none;"> I. Сливаем гнев до 60 способностью {{ site.data.rotation.Annihilation }}</li> 
          <li class="boon-apl" style="display: none;"> II. Используйте {{ site.data.rotation.EyeBeam }}.</li>
-         <li class="boon-apl" style="display: none;"> В случает повторного прока повторяем I и II пунк до тех пор пока {{ site.data.rotation.EyeBeam }} не уйдет на КД, после чего продолжайте выполнять Опенер.</li>
+         <li class="boon-apl" style="display: none;"> В случат повторного прока повторяем I и II пунк до тех пор пока {{ site.data.rotation.EyeBeam }} не уйдет на КД, после чего продолжайте выполнять Опенер.</li>
         </ul> 
-     <li class="bf-apl" style="display: none;">  Сливаем гнев до 60 способностью {{ site.data.rotation.Annihilation }}</li>  
-      <li class="vt-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}.</li>
+      <li class="bf-apl" style="display: none;">  Сливаем гнев до 60 способностью {{ site.data.rotation.Annihilation }}</li>  
       <li class="mom-apl" style="display: none;"> Используйте {{ site.data.rotation.VengefulRetreat }} </li>
-      <li class="nf-apl" style="display: none;"> Используйте {{ site.data.rotation.Metamorphosis }}.</li>
+      <li class="boon-apl" style="display: none;"> Если длительность бафа меты составляеет менее 9 секунд используйте {{ site.data.rotation.Metamorphosis }}.</li>
+      <li> Используйте {{ site.data.rotation.Metamorphosis }}.</li>
+        <ul>
+          <li class="ag-apl" style="display: none;"> Используйте метаморфозу когда время действия баффа {{ site.data.rotation.SinfulBrand }} будет 1 секунда.</li>
+        </ul> 
       <li class="bw-apl" style="display: none;">Используйте {{ site.data.rotation.EyeBeam }}</li>
       <li class="eb-apl" style="display: none;"> Используйте {{ site.data.rotation.EssenceBreak }}</li>
       <li class="mom-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }}</li>
