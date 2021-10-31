@@ -1,9 +1,9 @@
 ---
 layout: guide
 title: WeakAuras
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
+description: Гайд WeakAuras для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
+last_update: 2021-10-30 09:00:00
+game_version: 9.1.5 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -32,6 +32,8 @@ image:
 <a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
+
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ## Что такое WeakAuras?
 
@@ -85,5 +87,9 @@ image:
 <img src="{{ site.url }}/assets/img/guide/havoc/WeakAuras_preferens.png">
 </p>
 
+<hr>
+
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/macros-addons.html">Назад:<br>Макросы и Аддоны</a></div>
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/common-terms.html">Далее:<br>Сокращени</a></div>
+
+<br>

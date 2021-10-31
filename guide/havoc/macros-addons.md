@@ -1,9 +1,9 @@
 ---
 layout: guide
 title: Макросы и Аддоны
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
+description: Гайд Макросы и Аддоны для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
+last_update: 2021-10-30 09:00:00
+game_version: 9.1.5 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -32,6 +32,8 @@ image:
 <a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
+
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ## Макросы
 	   
@@ -166,5 +168,9 @@ image:
 
 >Конечно, эти рекомендации - не единственные полезные аддоны, есть сотни разнообразных аддонов. Если вы ищете что-то другое, можете воспользоваться <a href="https://wow.curseforge.com/addons" target="_blank">Curseforge</a> или <a href="https://wow.curseforge.com/addons" target="_blank">WoWInterface</a>, чтобы найти подходящий для вас аддон.
 
+<hr>
+
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/consumables.html">Назад:<br>Расходники</a></div> 
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/weakauras.html">Далее:<br>WeakAuras</a></div>
+
+<br>

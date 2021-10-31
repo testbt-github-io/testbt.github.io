@@ -1,9 +1,9 @@
 ---
 layout: guide
 title: Характеристики
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
+description: Гайд Характеристики для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
+last_update: 2021-10-30 09:00:00
+game_version: 9.1.5 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -33,6 +33,8 @@ image:
 </div>
 <br>
 
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 ## Характеристики
 
 Ловкость - ваша основная характеристика, и ее можно найти на кожаном снаряжении. Ловкость увеличивает вашу силу атаки и урон, наносимый способностями.
@@ -47,6 +49,10 @@ image:
 </ul>
 
 ## Приоритет характеристик для Охотника на Демонов Истребление
+
+<p class="tanknotes-section-success" markdown="1">
+<span style="font-weight: 400;"> Если вы играете с сетом <span class="c7">Льда (Фрост)</span> осколков господства у вас будет Крит в приорритете, для всех остальных ситуаций испоьзуйте симкрафт
+</span></p>
 
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/sim.gif"> </p>
 
@@ -71,8 +77,9 @@ DPS = a1 х Crit+a2 х Haste+a3 х Mastery+a4 х Versatility+a5 х Agility + а6
 
 #### Для каждого персонажа приоритет характеристик индивидуальный, всегда используйте <a href="https://www.raidbots.com/simbot">RaidBots</a> чтобы использовать актуальную для вас экипировку.
 
- 
+<hr>
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/rotation-priority.html">Назад:<br>Ротация</a></div> 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/gear.html">Далее:<br>Бис лист</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/consumables.html">Далее:<br>Расходники</a></div>
 
+<br>

@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Ковенант Кирии
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
+description: Гайд Ковенант Кирии для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
+last_update: 2021-10-30 09:00:00
+game_version: 9.1.5 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -35,13 +35,20 @@ image:
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## Новинки патча 9.1
+## Новинки патча 9.1.5
 
-Легендарный предмет ковенанта <span class="covenant-kyrian">Кирии</span> [Слепая вера](https://ru.wowhead.com/spell=355893): [Элизийский декрет](https://ru.wowhead.com/spell=306830) откалывает еще 2 малый фрагмент души и дает вам эффект 
-[Слепая вера](https://ru.wowhead.com/spell=355893) на 20 секунд. За каждый малый фрагмент души, поглощенный во время действия [Слепой веры](https://ru.wowhead.com/spell=355893), вы получаете 10 ед. гнева, а ваша искусность повышается на 1%.
+* [Слепая вера](https://ru.wowhead.com/spell=355893) - теперь за малый фрагмент души,  ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева.
 
-* [Слепая вера](https://ru.wowhead.com/spell=355893) прекрасно сочетается с талантом [Демоническим аппетитом](https://ru.wowhead.com/spell=206478/), но этот талант в настоящее время довольно слаб по сравнению со 
-[Слепой яростью](https://ru.wowhead.com/spell=203550) и [Клинком Скверны](https://ru.wowhead.com/spell=213241), не говоря уже о том, что бафф искусности, который она дает, довольно слаба для Охотников на Демонов Истребления.
+<details>
+ <summary><i>История изменений</i></summary>
+    <details open>
+     <summary><i>Патч 9.1</i></summary>
+      <ul>
+        <li>Легендарный предмет ковенанта <span class="covenant-kyrian">Кирии</span> <a href="https://ru.wowhead.com/spell=355893">Слепая вера</a>: <a href="https://ru.wowhead.com/spell=306830">Элизийский декрет</a> откалывает еще 2 малый фрагмент души и дает вам эффект <a href="https://ru.wowhead.com/spell=355893">Слепая вера</a> на 20 секунд. За каждый малый фрагмент души, поглощенный во время действия <a href="https://ru.wowhead.com/spell=355893">Слепой веры</a>, вы получаете 10 ед. гнева, а ваша искусность повышается на 1%.</li> 
+      </ul>
+    </details>
+</details>
+<br>
 
 ## Ковенант Кирий
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/kiri_logo.png"> </p>
@@ -53,6 +60,8 @@ image:
 После вступления в ковенант нам откроются две способности:
 * {{ site.data.covenant.Elysian_Decree }} - Размещает в указанном месте кирийскую печать, которая активируется через 2 сек. Печать наносит сильный АоЕ урон, который можно усилить баффом от {{ site.data.talent.Momentum }}. После взрыва печати появляются 3 {{ site.data.spell.Shattered_SoulsHDH }}, это немного повышает нашу выживаемость.
 * {{ site.data.covenant.Summon_Steward }} - Вы зовете распорядителя, который приносит вам {{ site.data.covenant.Phial_of_Serenity }}, восполняющий 20% здоровья и снимающий проклятия, болезни, яды и эффекты кровотечения. Очень полезный флакон, сильно упрощает жизнь в ключах, снимает даже стаки аффикса {{ site.data.mplus.Necrotic }}.
+
+* <span class="q4"><strong>[Слепая вера](https://ru.wowhead.com/spell=355893)</strong></span> прекрасно сочетается с талантом [Демоническим аппетитом](https://ru.wowhead.com/spell=206478/), но этот талант в настоящее время довольно слаб по сравнению со [Слепой яростью](https://ru.wowhead.com/spell=203550) и [Клинком Скверны](https://ru.wowhead.com/spell=213241), с переработкой легендарного предмета он станет более полезным, но не выйдет в лидеры.
 
 ## Лучшие Медиумы
 
@@ -76,12 +85,12 @@ image:
 
 <div class="tabs" id="tabs-1">
     <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-1">Пелагий</a>
-      <a class="tabs__link" href="#content-2">Клея</a>
+      <a class="tabs__link tabs__link_active" href="#content-2">Пелагий</a>
+      <a class="tabs__link" href="#content-1">Клея</a>
 	  <a class="tabs__link" href="#content-3">Верховный автоматург Миканикос</a>
     </div>
     <div class="tabs__content">
-      <div class="tabs__pane tabs__pane_show" id="content-1">
+      <div class="tabs__pane tabs__pane_show" id="content-2">
 <div class="tabs_in" markdown="1">	  
 * использование {{ site.data.covenant.Elysian_Decree }} - активирует способность нашего медиума {{ site.data.covenant.Combat_Meditation }} и дает нам бафф искусности на 10 сек, который можно продлевать собирая сферы "Печальных воспоминаний", тем самым усиливая наши способности которые используют Хаос, например такие как {{ site.data.spell.Chaos_Strike }} или {{ site.data.spell.Eye_Beam }}.
 * {{ site.data.covenant.Let_Go_of_the_Past }} - постоянный баф на снижение магического урона.
@@ -92,7 +101,7 @@ image:
 <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fCBUszwgldg4IIxUq-gglKu8INXYACA" target="blank">anything</a>
 </div>      
 	  </div>
-      <div class="tabs__pane" id="content-2">
+      <div class="tabs__pane" id="content-1">
 <div class="tabs_in" markdown="1">	
 Неплохой медиум который повышает нашу выживаемость.
 

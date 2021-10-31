@@ -1,9 +1,9 @@
 ---
 layout: guide
 title: Расходники
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
+description: Гайд Расходники для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
+last_update: 2021-10-30 09:00:00
+game_version: 9.1.5 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -33,6 +33,8 @@ image:
 </div>
 <br>
 
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 ## Лучшие зачарования на предметы для Охотника на Демонов Истребление
 
 * Кольца: 2х{{ site.data.prof.Enchant_Ring_Tenet_of_Versatility }}
@@ -56,7 +58,7 @@ image:
 
 * Настой: {{ site.data.prof.Eternal_Flask }}
 * Зелья: {{ site.data.prof.Potion_of_Phantom_Fire }} СТ
-* Зелья: {{ site.data.prof.Potion_of_Empowered_Exorcisms }} АОЕ
+* Зелья: [Зелье призрачной ловкости](https://ru.wowhead.com/item=171270/) АОЕ
 * Исцеление: {{ site.data.prof.Spiritual_Healing_Potion }}
 
 ## Лучшие Камни
@@ -91,5 +93,9 @@ image:
 
 * {{ site.data.prof.Heavy_Desolate_Armor_Kit }} — Укрепляет нагрудник, повышая прибавку к выносливости на 32 на 2 часа.
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/covenant.html">Назад:<br>Ковенанты</a></div>
+<hr>
+
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/stats.html">Назад:<br>Характеристики</a></div>
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/macros-addons.html">Далее:<br>Макросы и Аддоны</a></div>
+
+<br>

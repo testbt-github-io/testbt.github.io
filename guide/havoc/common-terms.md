@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: Сокращения
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
+description: Гайд Сокращения для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
+last_update: 2021-10-30 09:00:00
 game_version: 9.1.0 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
@@ -32,6 +32,8 @@ image:
 <a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"><span style="color: white;"> Сокращения</span></a>
 </div>
 <br>
+
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ## Общие сокращения
 
@@ -158,6 +160,9 @@ image:
   </tr>
 </table>
 
+<hr>
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/weakauras.html">Назад:<br>WeakAuras</a></div> 
 <div class="minibox"><a href="{{ site.url }}/patreon/thanks.html">Далее:<br>Авторы и благодарности</a></div>
+
+<br>

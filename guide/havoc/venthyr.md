@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Ковенант Вентиров
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
+description: Гайд Ковенант Вентиров для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
+last_update: 2021-10-30 09:00:00
+game_version: 9.1.5 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -36,17 +36,20 @@ image:
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## Новинки патча 9.1
+## Новинки патча 9.1.5 
 
-Легендарный предмет ковенанта <span class="covenant-venthyr">Вентиров</span> [Терзающий взгляд](https://ru.wowhead.com/spell=355886): Увеличивает урон, наносимый [Клеймом греха](https://ru.wowhead.com/spell=317009), на 10%. 
-Урон от [Пронзающего взгляда](https://ru.wowhead.com/spell=198013) продлевает время действия [Клейма греха](https://ru.wowhead.com/spell=317009) на 0.75 секунд.
+* [Клеймо греха](https://ru.wowhead.com/spell=317009) сокращено время восстановления способности с 1 минуты до 45 секунд.
 
-Этот легендарный предмет дает нам хорошую синергию с [Метаморфозой](https://ru.wowhead.com/spell=191427/metamorphosis) и сбросом кд с [Пронзающего взгляда](https://ru.wowhead.com/spell=198013).
-Легендарный предмет можно использовать двумя способами:
-* Для оной цели продлеваем [Клеймо греха](https://ru.wowhead.com/spell=317009/sinful-brand) с помощью [Пронзающего взгляда](https://ru.wowhead.com/spell=198013), обновляем  [Клеймо греха](https://ru.wowhead.com/spell=317009/sinful-brand) с помощью [Метаморфозой](https://ru.wowhead.com/spell=191427/metamorphosis) и снова продлеваем с помощью [Пронзающего взгляда](https://ru.wowhead.com/spell=198013).
-* Для АоЕ с помощью [Метаморфозы](https://ru.wowhead.com/spell=191427/metamorphosis) вешаем на все цели [Клеймо греха](https://ru.wowhead.com/spell=317009/sinful-brand) и продлеваем с помощью [Пронзающего взгляда](https://ru.wowhead.com/spell=198013).
-
-Мощная синергия в обоих случаях делает интересным этот новый легендарный предмет для <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиров</b></span>.
+<details>
+ <summary><i>История изменений</i></summary>
+    <details open>
+     <summary><i>Патч 9.1</i></summary>
+      <ul>
+        <li>Легендарный предмет ковенанта <span class="covenant-venthyr">Вентиров</span> <a href="https://ru.wowhead.com/spell=355886">Терзающий взгляд</a>: Увеличивает урон, наносимый <a href="https://ru.wowhead.com/spell=317009">Клеймом греха</a>, на 10%. Урон от <a href="https://ru.wowhead.com/spell=198013">Пронзающего взгляда</a> продлевает время действия <a href="https://ru.wowhead.com/spell=317009">Клейма греха</a> на 0.75 секунд.</li> 
+      </ul>
+    </details>
+</details>
+<br>
 
 ## Ковенат Вентиров
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/ventyr_logo.png"> </p>
@@ -59,7 +62,14 @@ image:
 Данная способность наносит сильный урон в одну цель и очень сильный урон в АоЕ, т.к. он не имеет ограничения целей. 
 Этот ковенант может стать неплохим выбором для Рейдов.
 
-{{ site.data.covenant.Door_of_Shadows }} - Способность дающая нам дополнительную мобильность, с ее помощью можно пропускать группы мобов.
+{{ site.data.covenant.Door_of_Shadows }} - Способность дающая нам дополнительную мобильность, с ее помощью можно пропускать группы мобов и избегать механики.
+
+* <span class="q4"><strong>[Терзающий взгляд](https://ru.wowhead.com/spell=355886)</strong></span> дает нам хорошую синергию с [Метаморфозой](https://ru.wowhead.com/spell=191427/) и сбросом кд с [Пронзающего взгляда](https://ru.wowhead.com/spell=198013).
+Легендарный предмет можно использовать двумя способами:
+  * Для оной цели продлеваем [Клеймо греха](https://ru.wowhead.com/spell=317009/) с помощью [Пронзающего взгляда](https://ru.wowhead.com/spell=198013), обновляем  [Клеймо греха](https://ru.wowhead.com/spell=317009/) с помощью [Метаморфозой](https://ru.wowhead.com/spell=191427/) и снова продлеваем с помощью [Пронзающего взгляда](https://ru.wowhead.com/spell=198013).
+  * Для АоЕ с помощью [Метаморфозы](https://ru.wowhead.com/spell=191427/) вешаем на все цели [Клеймо греха](https://ru.wowhead.com/spell=317009/) и продлеваем с помощью [Пронзающего взгляда](https://ru.wowhead.com/spell=198013).
+
+После уменьшения времени востановления [Клейма греха](https://ru.wowhead.com/spell=317009/) в 9.1.5 этот легендарный предмет стал еще сильнее. В 9.1.5 этот легендарный самый эффективный в бою против одной цели.
 
 ## Лучшие Медиумы
 
@@ -70,7 +80,7 @@ image:
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-33">
-        <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr74DBStvCBUrkwglLM0IEgUtHwglLM8IIhUq-gg1Ku8I" target="blank">anything</a>
+        <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/demon-hunter/AwaWZZYBJStvCBMFLR8IFSzPCCUwPAgiBSr6CBUq7wg" target="blank">anything</a>
       </div>
       <div class="tabs__pane" id="content-44">
         <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWqpYCBStvCCUszQgSBS0fCCUszwgiFSr6CCUq7wg" target="blank">anything</a>
@@ -113,7 +123,7 @@ image:
 
 Рекомендуемое дерево развития медиума Безумный герцог Теотар:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/demon-hunter/AwaW5b4TBS0fCBUszwglMDwIIwUq7wgVKvoINXYACA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/demon-hunter/AwaWZZYBJStvCBMFLR8IFSzPCCUwPAgiBSr6CBUq7wg" target="blank">anything</a>
 
 </div>     
 	 </div>

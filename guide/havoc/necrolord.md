@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Ковенант Некролордов
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
+description: Гайд Ковенант Некролордов для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
+last_update: 2021-10-30 09:00:00
+game_version: 9.1.5 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -35,14 +35,16 @@ image:
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## Новинки патча 9.1
-
-Легендарный предмет ковенанта <span class="covenant-necrolord">Некролордов</span> [Демоническая клятва](https://ru.wowhead.com/spell=355996): Когда демон, призванный [Подпиткой для пламени](https://ru.wowhead.com/spell=329554/), взрывается, 
-к 5 находящемуся рядом противнику применяется [Огненное клеймо](https://ru.wowhead.com/spell=204021). Время действия – 5 секунд. Кроме того, время действия [Расколотой души](https://ru.wowhead.com/spell=178940) увеличивается на 8 секунд.
-
-* [Демоническая клятва](https://ru.wowhead.com/spell=355996/demonic-oath) - Очень слабый легендарный предмет, он распространяет ДоТ [Огненного клейма](https://ru.wowhead.com/spell=204021)
-на 5 ближайших целей, что дает нам хорошую защиту, но ДоТ очень слабый и наносит незначительный урон. К тому же легендарный предмет ненадежен, так как его работа 
-основана на проке [Подпитка для пламени](https://ru.wowhead.com/spell=329554), прок которого рандомен и мы не можем его контролировать.
+<details>
+ <summary><i>История изменений</i></summary>
+    <details open>
+     <summary><i>Патч 9.1</i></summary>
+      <ul>
+        <li>Легендарный предмет ковенанта <span class="covenant-necrolord">Некролордов</span> <a href="https://ru.wowhead.com/spell=355996">Демоническая клятва</a>: Когда демон, призванный <a href="https://ru.wowhead.com/spell=329554">Подпиткой для пламени</a>, взрывается, к 5 находящемуся рядом противнику применяется <a href="https://ru.wowhead.com/spell=178940">Огненное клеймо</a>. Время действия – 5 секунд. Кроме того, время действия <a href="https://ru.wowhead.com/spell=178940">Огненное клеймо</a> увеличивается на 8 секунд.</li> 
+      </ul>
+    </details>
+</details>
+<br>
 
 ## Ковенант Некролордов
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/necrolord_logo.png"> </p>
@@ -59,6 +61,7 @@ image:
 * Полный эффект от способности вы сможете получить только через 3 секунды каста.
 * Без связи душ [Временная плоть Эмени](https://ru.wowhead.com/spell=341650) вы будете привязаны к месту во время использования способности.
 
+* <span class="q4"><strong>[Демоническая клятва](https://ru.wowhead.com/spell=355996/demonic-oath)</strong></span> - Очень слабый легендарный предмет, он распространяет ДоТ [Огненного клейма](https://ru.wowhead.com/spell=204021) на 5 ближайших целей, что дает нам хорошую защиту, но ДоТ очень слабый и наносит незначительный урон. К тому же легендарный предмет ненадежен, так как его работа основана на проке [Подпитка для пламени](https://ru.wowhead.com/spell=329554), прок которого рандомен и мы не можем его контролировать.
 
 ## Лучшие Медиумы
 
@@ -82,12 +85,12 @@ image:
 
 <div class="tabs" id="tabs-1">
     <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-1">Изобретатель чумы Марилет</a>
-      <a class="tabs__link" href="#content-2">Эмени</a>
+      <a class="tabs__link tabs__link_active" href="#content-2">Изобретатель чумы Марилет</a>
+      <a class="tabs__link" href="#content-1">Эмени</a>
 	  <a class="tabs__link" href="#content-3">Костоплав Гейрмир</a>
     </div>
     <div class="tabs__content">
-      <div class="tabs__pane tabs__pane_show" id="content-1">
+      <div class="tabs__pane tabs__pane_show" id="content-2">
 <div class="tabs_in" markdown="1">	  
 Марилет обладает связями душ которые могут очень сильно усилить {{ site.data.covenant.Fleshcraft }}, но его применение так и останется очень затратным по времени.
 
@@ -102,7 +105,7 @@ image:
 <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvCBMFLR8IFTBfCCUszwgiFSr6CCUq7wg" target="blank">anything</a>
 </div>      
 	  </div>
-      <div class="tabs__pane" id="content-2">
+      <div class="tabs__pane" id="content-1">
 <div class="tabs_in" markdown="1">	
 * {{ site.data.covenant.Lead_by_Example }} - дает до 20% основной характеристики при использовании {{ site.data.covenant.Fodder_to_the_Flame }} - К сожалению эффект длится недолго, но это мощный атакующий баф и дополнительный защитный эффект.
 * {{ site.data.covenant.Gnashing_Chompers }} - Хороший трейт, в полную силу откроется в мифик+ или рейде на боссах с трешом.
