@@ -209,7 +209,7 @@ toc: true
   <tbody>
   <tr class="rotation_switches">
     <td class="rotation_switch covenants" id="rotation_switch_bw">
-      <input type="radio" name="legendaries" id="bw-radio" style="display:none;">
+      <input type="radio" name="legendaries" id="bw-radio" style="display:none;" checked="">
       <label for="bw-radio" checked="">
          <a href="https://ru.wowhead.com/spell=346279" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/spell_fire_felhellfire.jpg&quot;);"></ins><del></del></span><span>Жгучая рана</span></a>
       </label>
@@ -258,17 +258,27 @@ toc: true
 
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
     <ol>
-      <li class="kyr-apl" style="display: none;"> {{ site.data.rotation.ElysianDecree }} прекастом.</li>
+      <li class="kyr-apl" style="display: none;"> {{ site.data.rotation.ElysianDecree }} прекастом</li>
 	  	<li>За 0.5 сек. до начала боя {{ site.data.rotation.ImmolationAura }} </li>
-      <li class="uh-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }} для нанесения повышенного урона благодаря таланту {{ site.data.rotation.UnboundChaos }}.</li>
-		  <li class="fb-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }} чтоб набрать гнев. </li>
-      <li>Используйте {{ site.data.rotation.EyeBeam }} для получения 15% скорости.</li>
-      <li class="nf-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}.</li>
+      <li class="uh-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }} для нанесения повышенного урона благодаря таланту {{ site.data.rotation.UnboundChaos }}</li>
+      <li class="bf-apl" style="display: none;"> Используйте {{ site.data.rotation.DemonsBite }}</li>
+		  <li class="fb-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }}</li>
+      <li class="mom-apl">Используйте {{ site.data.rotation.EyeBeam }}</li>
+      <li class="dem-apl">Используйте {{ site.data.rotation.EyeBeam }} </li>
+      <li class="nf-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
+        <ul>
+         <li class="boon-apl" style="display: none;"> Если прокнула лега.</li> 
+         <li class="boon-apl" style="display: none;"> I. Сливаем гнев до 60 способностью {{ site.data.rotation.Annihilation }}</li> 
+         <li class="boon-apl" style="display: none;"> II. Используйте {{ site.data.rotation.EyeBeam }}.</li>
+         <li class="boon-apl" style="display: none;"> В случает повторного прока повторяем I и II пунк до тех пор пока {{ site.data.rotation.EyeBeam }} не уйдет на КД, после чего продолжайте выполнять Опенер.</li>
+        </ul> 
+     <li class="bf-apl" style="display: none;">  Сливаем гнев до 60 способностью {{ site.data.rotation.Annihilation }}</li>  
       <li class="vt-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}.</li>
+      <li class="mom-apl" style="display: none;"> Используйте {{ site.data.rotation.VengefulRetreat }} </li>
       <li class="nf-apl" style="display: none;"> Используйте {{ site.data.rotation.Metamorphosis }}.</li>
-      <li class="mom-apl" style="display: none;"> Используйте {{ site.data.rotation.VengefulRetreat }} чтоб получить генерацию гнева.</li>
-      <li class="eb-apl" style="display: none;"> Используйте {{ site.data.rotation.EssenceBreak }} важно нажать пока вы находитесь в воздухе.</li>
-      <li class="mom-apl" style="display: none;"> {{ site.data.rotation.FelRush }} чтоб вернутся к цели и получить бафф Импульса</li>
+      <li class="bw-apl" style="display: none;">Используйте {{ site.data.rotation.EyeBeam }}</li>
+      <li class="eb-apl" style="display: none;"> Используйте {{ site.data.rotation.EssenceBreak }}</li>
+      <li class="mom-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }}</li>
       <li class="kyr-apl" style="display: none;"> </li> 
     </ol>
 </div>

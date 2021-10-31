@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Новичкам
-description: Гайд для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
+description: Гайд для Новичков Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
 last_update: 2021-10-30 09:00:00
 game_version: 9.1.5 Shadowlands 
 author: Rodriguezz и Gaussiana
