@@ -454,6 +454,11 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 |[Осколок Кир](https://ru.wowhead.com/spell=355743)|<span class="c7">Лед</span>|Хороший осколок, повышает вашу выживаемость|
 |[Осколок Тел](https://ru.wowhead.com/spell=355748)|<span class="c7">Лед</span>|Хороший осколок, повышает выживаемость всей группы.|
 
+<p class="tanknotes-section-success" markdown="1">
+Вы можете использовать вместо <span class="c7">Фрост</span> осколка [Тел](https://ru.wowhead.com/spell=355748) осколок <span class="r3">Нечестивость</span> [Зед](https://ru.wowhead.com/item=187079), 
+он даст от 0.5-1% общего урона за подземелье.
+</p>
+
 <br>
 
 <div style="text-align: -webkit-center;">
