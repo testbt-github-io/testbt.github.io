@@ -254,34 +254,59 @@ toc: true
   </tbody>
 </table>
 
+<table class="table table-bordered table-light talents-table" style="width: 50%;" align="center">
+  <tbody>
+  <tr class="rotation_switches"> 
+    <td class="rotation_switch covenants" id="rotation_switch_ne" style="border-bottom: 2px solid #0070dd;">
+      <input type="radio" name="race" id="ne-radio" style="display:none;">
+      <label for="ne-radio">
+         <a href="https://ru.wowhead.com/night-elf" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/race_nightelf_female.jpg&quot;);"></ins><del></del></span><span>Ночные Эльфы</span></a>
+      </label>
+    </td>
+    <td class="rotation_switch covenants talent-active" id="rotation_switch_be" style="border-bottom: 2px solid #ff0000;">
+      <input type="radio" name="race" id="be-radio" style="display:none;" checked="">
+      <label for="be-radio">
+         <a href="https://ru.wowhead.com/blood-elf" target="blank" data-wh-icon-size="medium" data-wh-rename-link="true" class="switch-link" data-wh-icon-added="true"><span class="iconmedium"><ins style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/race_bloodelf_female.jpg&quot;);"></ins><del></del></span><span>Эльф крови</span></a>
+      </label>
+    </td>
+  </tr>
+  </tbody>
+</table>
+
 #### Опенер:
 
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
     <ol>
+      <li class="be-apl" style="display: none;"> Используйте {{ site.data.rotation.ArcaneTorrent }} за 2 секунды до начала боя</li>
       <li class="kyr-apl" style="display: none;"> {{ site.data.rotation.ElysianDecree }} прекастом</li>
-	  	<li>За 0.5 сек. до начала боя {{ site.data.rotation.ImmolationAura }} </li>
-      <li class="vt-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
+	  	<li>Используйте за 0.5 секунд до начала боя {{ site.data.rotation.ImmolationAura }} </li>
       <li class="uh-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }} для нанесения повышенного урона благодаря таланту {{ site.data.rotation.UnboundChaos }}</li>
-      <li class="bf-apl" style="display: none;"> Используйте {{ site.data.rotation.DemonsBite }}</li>
-		  <li class="fb-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }}</li>
+      <li class="bf-apl ne-apl" style="display: none;"> Используйте {{ site.data.rotation.DemonsBite }}</li>
+		  <li class="fb-apl ne-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }}</li>
       <li>Используйте {{ site.data.rotation.EyeBeam }}</li>
-      <li class="nf-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
+      <li class="vt-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
+      <li class="nf-apl ne-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
+      <li class="bf-apl dem-apl" style="display: none;"> Сливаем гнев до 60 способностью {{ site.data.rotation.Annihilation }}</li> 
+      <li class="gt-apl" style="display: none;"> Используйте {{ site.data.rotation.GlaiveTempest }}</li>
+      <li class="fbald-apl" style="display: none;"> Используйте {{ site.data.rotation.DeathSweep }}</li>
+      <li class="mom-apl" style="display: none;"> Используйте {{ site.data.rotation.VengefulRetreat }} </li>
+      <li class="boon-apl" style="display: none;"> Если длительность бафа меты составляеет менее 9 секунд используйте {{ site.data.rotation.Metamorphosis }}.</li>
+      <li> Используйте {{ site.data.rotation.Metamorphosis }}.</li>
+      <li class="nf-apl be-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
+      <li class="bw-apl" style="display: none;">Используйте {{ site.data.rotation.EyeBeam }}</li>
+      <li class="eb-apl" style="display: none;"> Используйте {{ site.data.rotation.EssenceBreak }}</li>
+      <li class="mom-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }}</li>
         <ul>
          <li class="boon-apl" style="display: none;"> Если прокнула лега.</li> 
          <li class="boon-apl" style="display: none;"> I. Сливаем гнев до 60 способностью {{ site.data.rotation.Annihilation }}</li> 
          <li class="boon-apl" style="display: none;"> II. Используйте {{ site.data.rotation.EyeBeam }}.</li>
          <li class="boon-apl" style="display: none;"> В случат повторного прока повторяем I и II пунк до тех пор пока {{ site.data.rotation.EyeBeam }} не уйдет на КД, после чего продолжайте выполнять Опенер.</li>
         </ul> 
-      <li class="bf-apl" style="display: none;">  Сливаем гнев до 60 способностью {{ site.data.rotation.Annihilation }}</li>  
-      <li class="mom-apl" style="display: none;"> Используйте {{ site.data.rotation.VengefulRetreat }} </li>
-      <li class="boon-apl" style="display: none;"> Если длительность бафа меты составляеет менее 9 секунд используйте {{ site.data.rotation.Metamorphosis }}.</li>
-      <li> Используйте {{ site.data.rotation.Metamorphosis }}.</li>
+       
         <ul>
           <li class="ag-apl" style="display: none;"> Используйте метаморфозу когда время действия баффа {{ site.data.rotation.SinfulBrand }} будет 1 секунда.</li>
         </ul> 
-      <li class="bw-apl" style="display: none;">Используйте {{ site.data.rotation.EyeBeam }}</li>
-      <li class="eb-apl" style="display: none;"> Используйте {{ site.data.rotation.EssenceBreak }}</li>
-      <li class="mom-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }}</li>
+      
       <li class="kyr-apl" style="display: none;"> </li> 
     </ol>
 </div>
