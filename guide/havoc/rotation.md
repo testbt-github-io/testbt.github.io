@@ -288,10 +288,10 @@ toc: true
       <li class="vt-apl ag-apl bf-apl ih-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
       <li class="bf-apl ne-apl" style="display: none;"> Используйте {{ site.data.rotation.DemonsBite }}</li>
 		  <li class="fb-apl ne-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }}</li>
+      <li class="vt-apl fb-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
       <li>Используйте {{ site.data.rotation.EyeBeam }}</li>
       <li class="bf-apl ih-apl mom-apl nf-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
       <li class="bf-apl ih-apl dem-apl nf-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
-      <li class="vt-apl fb-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
       <li class="nf-apl ne-apl fb-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
         <ul>
          <li class="boon-apl dem-apl" style="display: none;"> Если прокнула лега.</li> 
