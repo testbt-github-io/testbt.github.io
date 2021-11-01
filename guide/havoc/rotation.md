@@ -280,10 +280,10 @@ toc: true
       <li class="be-apl" style="display: none;"> Используйте {{ site.data.rotation.ArcaneTorrent }} за 2 секунды до начала боя</li>
       <li class="kyr-apl" style="display: none;"> {{ site.data.rotation.ElysianDecree }} прекастом</li>
 	  	<li>Используйте за 0.5 секунд до начала боя {{ site.data.rotation.ImmolationAura }} </li>
-      <li class="vt-apl ag-apl bf-apl ih-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
       <li class="mom-apl tor-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }} </li>
       <li class="mom-apl gt-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }} </li>
       <li class="uh-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }} для нанесения повышенного урона благодаря таланту {{ site.data.rotation.UnboundChaos }}</li>
+      <li class="vt-apl ag-apl bf-apl ih-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
       <li class="bf-apl ne-apl" style="display: none;"> Используйте {{ site.data.rotation.DemonsBite }}</li>
 		  <li class="fb-apl ne-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }}</li>
       <li>Используйте {{ site.data.rotation.EyeBeam }}</li>
@@ -297,7 +297,7 @@ toc: true
          <li class="boon-apl dem-apl" style="display: none;"> II. Используйте {{ site.data.rotation.EyeBeam }}</li>
          <li class="boon-apl dem-apl" style="display: none;"> В случат повторного прока повторяем I и II пунк до тех пор пока {{ site.data.rotation.EyeBeam }} не уйдет на КД, после чего продолжайте выполнять Опенер</li>
         </ul> 
-      <li class="bf-apl dem-apl uh-apl" style="display: none;"> Сливаем гнев до 60 способностью {{ site.data.rotation.Annihilation }}</li> 
+      <li class="bf-apl" style="display: none;"> Сливаем гнев до 60 способностью {{ site.data.rotation.Annihilation }}</li> 
       <li class="ih-apl fb-apl" style="display: none;"> Используйте {{ site.data.rotation.DemonsBite }} если меньше 30 едениц гнева.</li>
       <li class="gt-apl" style="display: none;"> Используйте {{ site.data.rotation.GlaiveTempest }}</li>
       <li class="fbald-apl" style="display: none;"> Используйте {{ site.data.rotation.DeathSweep }}</li>
