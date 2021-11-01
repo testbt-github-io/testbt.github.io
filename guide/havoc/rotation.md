@@ -275,6 +275,8 @@ toc: true
 
 #### Опенер:
 
+<div class="tabs__content">
+      <div class="tabs_in">
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
     <ol>
       <li class="be-apl" style="display: none;"> Используйте {{ site.data.rotation.ArcaneTorrent }} за 2 секунды до начала боя</li>
@@ -289,7 +291,7 @@ toc: true
       <li>Используйте {{ site.data.rotation.EyeBeam }}</li>
       <li class="bf-apl ih-apl mom-apl nf-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
       <li class="bf-apl ih-apl dem-apl nf-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
-      <li class="vt-apl bf-apl ih-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
+      <li class="vt-apl fb-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
       <li class="nf-apl ne-apl fb-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
         <ul>
          <li class="boon-apl dem-apl" style="display: none;"> Если прокнула лега.</li> 
@@ -306,16 +308,51 @@ toc: true
       <li> Используйте {{ site.data.rotation.Metamorphosis }}</li>
       <li class="nf-apl be-apl fb-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
         <ul>
-          <li class="ag-apl" style="display: none;"> Используйте метаморфозу когда время действия баффа {{ site.data.rotation.SinfulBrand }} будет 1 секунда.</li>
+          <li class="ag-apl vt-apl" style="display: none;"> Используйте метаморфозу когда время действия баффа {{ site.data.rotation.SinfulBrand }} будет 1 секунда.</li>
         </ul> 
       <li class="fbald-apl" style="display: none;"> Используйте {{ site.data.rotation.DeathSweep }}</li> 
       <li>Используйте {{ site.data.rotation.EyeBeam }}</li>
       <li class="eb-apl" style="display: none;"> Используйте {{ site.data.rotation.EssenceBreak }}</li>
       <li class="mom-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }}</li>
     </ol>
-</div>
+</div>  
+  </div>     
+    </div>
+<br>
 
+#### Список приоритетов:
 
+<div class="tabs__content">
+      <div class="tabs_in">
+<div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
+    <ol>
+      <li> {{ site.data.rotation.Metamorphosis }} если до {{ site.data.rotation.EyeBeam }} больше 5 секунд</li>
+      <li class="mom-apl tor-apl" style="display: none;"> {{ site.data.rotation.FelRush }}</li>
+      <li class="mom-apl gt-apl" style="display: none;"> {{ site.data.rotation.FelRush }} </li>
+      <li class="kyr-apl" style="display: none;"> {{ site.data.rotation.ElysianDecree }}</li>
+      <li class="uh-apl" style="display: none;"> {{ site.data.rotation.FelRush }} если есть бафф {{ site.data.rotation.UnboundChaos }}</li>
+      <li> {{ site.data.rotation.EyeBeam }}</li>
+      <li class="nf-apl" style="display: none;"> {{ site.data.rotation.TheHunt }}</li>
+      <li class="vt-apl" style="display: none;"> {{ site.data.rotation.SinfulBrand }}</li>
+      <li class="eb-apl" style="display: none;"> {{ site.data.rotation.EssenceBreak }}</li>
+      <li class="mom-apl" style="display: none;"> {{ site.data.rotation.VengefulRetreat }}</li>
+      <li class="mom-apl" style="display: none;"> {{ site.data.rotation.FelRush }} </li>
+      <li class="felb-apl" style="display: none;"> {{ site.data.rotation.FelBarrage }} </li>
+      <li class="uh-apl" style="display: none;"> {{ site.data.rotation.ImmolationAura }}</li>
+      <li class="fbald-apl" style="display: none;"> {{ site.data.rotation.DeathSweep }}</li> 
+      <li class="gt-apl" style="display: none;"> {{ site.data.rotation.GlaiveTempest }}</li>
+      <li class="bf-apl" style="display: none;"> {{ site.data.rotation.Annihilation }} если больше 70 едениц гнева</li>
+      <li class="fbald-apl" style="display: none;"> {{ site.data.rotation.BladeDance }}</li>
+      <li class="fb-apl" style="display: none;"> {{ site.data.rotation.Felblade }} если у вас меньше 80 едениц гнева</li>
+      <li> {{ site.data.rotation.Annihilation }} / {{ site.data.rotation.ChaosStrike }} </li>
+      <li class="ih-apl" style="display: none;"> {{ site.data.rotation.DemonsBite }}</li>
+      <li class="bh-apl" style="display: none;"> {{ site.data.rotation.DemonsBite }}</li>
+      <li> {{ site.data.rotation.ThrowGlaive }}</li>
+    </ol>
+</div>  
+  </div>     
+    </div>
+<br>
 
 <script>
 HTMLCollection.prototype[Symbol.iterator] = Array.prototype[Symbol.iterator];
@@ -386,5 +423,4 @@ $('.switch-link').on('click touchend', function(e) {
     e.stopPropagation();
     e.preventDefault();
 });
-
 </script>
