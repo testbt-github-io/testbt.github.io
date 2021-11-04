@@ -285,14 +285,18 @@ toc: true
       <li class="mom-apl tor-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }} </li>
       <li class="mom-apl gt-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }} </li>
       <li class="uh-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }} для нанесения повышенного урона благодаря таланту {{ site.data.rotation.UnboundChaos }}</li>
-      <li class="vt-apl ag-apl bf-apl ih-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
+      <li class="vt-apl ag-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
       <li class="bf-apl ne-apl" style="display: none;"> Используйте {{ site.data.rotation.DemonsBite }}</li>
 		  <li class="fb-apl ne-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }}</li>
-      <li class="vt-apl fb-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
       <li>Используйте {{ site.data.rotation.EyeBeam }}</li>
+      <li class="nf-apl be-apl fb-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
+      <li class="nf-apl ne-apl fb-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
+      <li class="vt-apl ct-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
+      <li class="vt-apl ca-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
+      <li class="vt-apl boon-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
+      <li class="vt-apl bw-apl" style="display: none;"> Используйте {{ site.data.rotation.SinfulBrand }}</li>
       <li class="bf-apl ih-apl mom-apl nf-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
       <li class="bf-apl ih-apl dem-apl nf-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
-      <li class="nf-apl ne-apl fb-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
         <ul>
          <li class="boon-apl dem-apl" style="display: none;"> Если прокнула лега.</li> 
          <li class="boon-apl dem-apl" style="display: none;"> I. Сливаем гнев до 60 способностью {{ site.data.rotation.Annihilation }}</li> 
@@ -304,16 +308,18 @@ toc: true
       <li class="gt-apl" style="display: none;"> Используйте {{ site.data.rotation.GlaiveTempest }}</li>
       <li class="fbald-apl" style="display: none;"> Используйте {{ site.data.rotation.DeathSweep }}</li>
       <li class="mom-apl" style="display: none;"> Используйте {{ site.data.rotation.VengefulRetreat }}</li>
-      <li class="boon-apl" style="display: none;"> Если длительность бафа меты составляеет менее 9 секунд используйте {{ site.data.rotation.Metamorphosis }}</li>
+      <li class="boon-apl dem-apl" style="display: none;"> Если длительность бафа меты составляеет менее 9 секунд используйте {{ site.data.rotation.Metamorphosis }}</li>
+      <li class="boon-apl mom-apl" style="display: none;"> Используйте {{ site.data.rotation.Metamorphosis }}</li>
       <li> Используйте {{ site.data.rotation.Metamorphosis }}</li>
-      <li class="nf-apl be-apl fb-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
         <ul>
-          <li class="ag-apl vt-apl" style="display: none;"> Используйте метаморфозу когда время действия баффа {{ site.data.rotation.SinfulBrand }} будет 1 секунда.</li>
+          <li class="ag-apl vt-apl" style="display: none;"> Используйте метаморфозу в сторону от цели чтоб не обновить баф {{ site.data.rotation.SinfulBrand }}</li>
         </ul> 
       <li class="fbald-apl" style="display: none;"> Используйте {{ site.data.rotation.DeathSweep }}</li> 
+      <li class="vt-apl ag-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }} Если далеко от цели</li>
       <li>Используйте {{ site.data.rotation.EyeBeam }}</li>
       <li class="eb-apl" style="display: none;"> Используйте {{ site.data.rotation.EssenceBreak }}</li>
       <li class="mom-apl" style="display: none;"> Используйте {{ site.data.rotation.FelRush }}</li>
+       <li class="fb-apl bf-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }}</li>
     </ol>
 </div>  
   </div>     
