@@ -8,14 +8,22 @@ toc: true
 
 #### Готовые билды:
 
-<a href="/guide/havoc/rotation.html" id="rana_eb_mom" button="button" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true"><span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/spell_fire_felhellfire.jpg&quot;);">
-</span>Жгучая рана Имульс</a>
+<div id="smooth-nav-guide">
 
+<a href="/guide/havoc/rotation.html" id="rana_eb_mom" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_fire_felhellfire.jpg">Жгучая рана Имульс</a>
 
+<a href="/guide/havoc/rotation.html" id="rana_eb_meme" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_fire_felhellfire.jpg">Жгучая рана Демоник</a>
+
+<a href="/guide/havoc/rotation.html" id="agony_demo" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_revendreth_demonhunter.jpg">Терзающий взгляд</a>
+
+<a href="/guide/havoc/rotation.html" id="boon_demo" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_53.jpg">Медальон</a>
+
+</div>
+
+<br>
 
 
 <link type="text/css" href="https://wow.zamimg.com/css/basic.css?16" rel="stylesheet">
-
 <script
   src="https://code.jquery.com/jquery-3.6.0.min.js"
   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
@@ -373,10 +381,18 @@ toc: true
 
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
     <ol>
+      <li class="be-apl" style="display: none;"> У Эльфов крови есть уникальная возможность начинать бой с гневом которого будет достаточно для пременения {{ site.data.rotation.EyeBeam }}. не стоит игнорировать рассовую способность {{ site.data.rotation.ArcaneTorrent }} как в опенере так и в дальнейшем бою</li>
+<!-- /ВМ Терзающий взгляд Вентиры  -->      
       <li class="ag-apl vt-apl" style="display: none;"> Не задерживайте нажатие {{ site.data.rotation.EyeBeam }} если до отката {{ site.data.rotation.SinfulBrand }} больше 8 сек.</li>
+      <li class="ag-apl vt-apl" style="display: none;"> Если {{ site.data.rotation.EyeBeam }} или {{ site.data.rotation.SinfulBrand }} востановяться в течении 5 сек., стоит дождаться востановления. </li>
       <li class="ag-apl vt-apl" style="display: none;"> Никогда не используйте повторно {{ site.data.rotation.SinfulBrand }} если она уже есть на цели и ее таймер больше 8 сек.</li>
+<!-- /ВМ Терзающий взгляд Вентиры -->      
       <li class="fbald-apl" style="display: none;"> Если вы решили играть с талантом {{ site.data.rotation.FirstBlood }}, вам стоит взят проводник силы {{ site.data.rotation.DancingwithFate }}</li>
       <li class="uh-apl mom-apl" style="display: none;"> Не спешиты использовать усиленый  {{ site.data.rotation.FelRush }} талантом {{ site.data.rotation.UnboundChaos }}, используйте его в комбинации с {{ site.data.rotation.Felblade }} или после окончания действия {{ site.data.rotation.ImmolationAura }}</li>
+      <li class="nf-apl dem-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
+<!-- /Медальон -->  
+      <li class="boon-apl dem-apl" style="display: none;"> Всегда отслеживайте оставшееся время баффа {{ site.data.rotation.Metamorphosis }}, потому длительность баффа будет перезаписана, то если у вас осталось 20 сек. баффа и вы нажмете {{ site.data.rotation.Metamorphosis }} вы получшите 38 сек. баффа. Потому нудно всегда ее сдавать когда у баффа остаеться меньше 8 сек.</li>
+<!-- /Медальон -->        
     </ol>
 </div>
 
@@ -508,8 +524,25 @@ $('.switch-link').on('click touchend', function(e) {
 });
 
 $('a#rana_eb_mom').on('click', function(e) {
-    pick_talents(["fb", "db", "uh", "nether", "eb", "fele", "mom"]);
+    pick_talents(["fb", "db", "uh", "nether", "eb", "fele", "mom", "bw"]);
     return false;
 });
+
+$('a#rana_eb_meme').on('click', function(e) {
+    pick_talents(["fb", "db", "gt", "nether", "fbald", "fele", "dem", "bw"]);
+    return false;
+});
+
+$('a#agony_demo').on('click', function(e) {
+    pick_talents(["bf", "ih", "uh", "nether", "coh", "fele", "dem", "ag"]);
+    return false;
+});
+
+$('a#boon_demo').on('click', function(e) {
+    pick_talents(["bf", "ih", "uh", "nether", "coh", "fele", "dem", "boon"]);
+    return false;
+});
+
+
 
 </script>

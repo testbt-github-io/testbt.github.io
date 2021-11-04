@@ -235,9 +235,64 @@ div.markdown-body[data-spec=all] h3>span[class^=spec-]:before, h3>span[class^=se
 
 // Tank notes
 
+// Пресеты гайдов
+
+#smooth-nav-guide {
+	display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit,minmax(100px,1fr));
+    padding-top: 10px;
+}
+
+#smooth-nav-guide img {
+	content: "";
+    display: inline-block;
+    position: relative;
+    background-color: #080808;
+    background-size: contain;
+    border-radius: 100%;
+    float: left;
+    height: 24px;
+    left: -2px;
+    margin-right: 6px;
+    top: 3px;
+    width: 24px;
+}
+
+#smooth-nav-guide a {
+	border: 1px solid #3b3b3b;
+    border-radius: 4px;
+    background-clip: padding-box;
+    /* height: 30px; */
+    flex-grow: 1;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 30px;
+    overflow: hidden;
+    padding: 5px 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+	color: #a94ac8;
+	white-space: nowrap;
+	text-decoration: none;
+}
+
+#smooth-nav-guide a :active {
+	color: #0CF;
+}
+
+#smooth-nav-guide a:hover {
+    box-shadow: none;
+    color: #fff!important;
+	background-color: #8226a0;
+    border-color: #8226a0;
+}
+
 .btn-outline:focus {
   box-shadow: 0 0 0 0.2rem rgba(191, 52, 237, 0.5);
 }
+
+// Пресеты гайдов
 
 // Ротация
 .talents-table {
