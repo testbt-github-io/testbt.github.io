@@ -10,13 +10,19 @@ toc: true
 
 <div id="smooth-nav-guide">
 
-<a href="/guide/havoc/rotation.html" id="rana_eb_mom" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_fire_felhellfire.jpg">Жгучая рана Имульс</a>
+<a href="/guide/havoc/rotation.html" id="rana_eb_mom" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true" title="Жгучая рана Имульс"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_fire_felhellfire.jpg">Жгучая рана Имульс</a>
 
-<a href="/guide/havoc/rotation.html" id="rana_eb_meme" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_fire_felhellfire.jpg">Жгучая рана Демоник</a>
+<a href="/guide/havoc/rotation.html" id="rana_eb_meme" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true" title="Жгучая рана Демоник"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_fire_felhellfire.jpg">Жгучая рана Демоник</a>
 
-<a href="/guide/havoc/rotation.html" id="agony_demo" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_revendreth_demonhunter.jpg">Терзающий взгляд</a>
+<a href="/guide/havoc/rotation.html" id="agony_demo" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true" title="Терзающий взгляд"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_revendreth_demonhunter.jpg">Терзающий взгляд</a>
 
-<a href="/guide/havoc/rotation.html" id="boon_demo" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_53.jpg">Медальон</a>
+<a href="/guide/havoc/rotation.html" id="boon_demo" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true" title="Медальон"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_53.jpg">Медальон</a>
+
+<a href="/guide/havoc/rotation.html" id="blazing_mom" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true" title="Пылающая бойня"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_ardenweald_demonhunter.jpg">Пылающая бойня</a>
+
+<a href="/guide/havoc/rotation.html" id="ca_mom_eb" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true" title="Всеобщая тоска"><img src="https://wow.zamimg.com/images/wow/icons/medium/artifactability_havocdemonhunter_anguishofthedeceiver.jpg">Всеобщая тоска</a>
+
+<a href="/guide/havoc/rotation.html" id="ct_dem_fb" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true" title="Теория хаоса"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_glaive_1h_artifactaldrochi_d_03dual.jpg">Теория хаоса</a>
 
 </div>
 
@@ -543,6 +549,20 @@ $('a#boon_demo').on('click', function(e) {
     return false;
 });
 
+$('a#blazing_mom').on('click', function(e) {
+    pick_talents(["fb", "db", "uh", "nether", "eb", "fele", "mom", "ag"]);
+    return false;
+});
+
+$('a#ca_mom_eb').on('click', function(e) {
+    pick_talents(["fb", "db", "uh", "nether", "eb", "fele", "mom", "ca"]);
+    return false;
+});
+
+$('a#ct_dem_fb').on('click', function(e) {
+    pick_talents(["fb", "db", "uh", "nether", "fbald", "fele", "dem", "ct"]);
+    return false;
+});
 
 
 </script>
