@@ -550,7 +550,7 @@ $('a#boon_demo').on('click', function(e) {
 });
 
 $('a#blazing_mom').on('click', function(e) {
-    pick_talents(["fb", "db", "uh", "nether", "eb", "fele", "mom", "ag"]);
+    pick_talents(["fb", "db", "uh", "nether", "eb", "fele", "mom", "blazing"]);
     return false;
 });
 
