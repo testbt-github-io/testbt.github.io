@@ -8,7 +8,11 @@ toc: true
 
 #### Готовые билды:
 
-<a href="/guide/havoc/rotation.html" id="rana_eb_mom" button="button" class="btn btn-outline-primary guide-btn">Жгучая рана Имульс</a>
+<a href="/guide/havoc/rotation.html" id="rana_eb_mom" button="button" class="c12 cta-button btn-outline" style="border-color: #a330c9" data-border="strong" data-markup-content-target="1" data-icon="true"><span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/spell_fire_felhellfire.jpg&quot;);">
+</span>Жгучая рана Имульс</a>
+
+
+
 
 <link type="text/css" href="https://wow.zamimg.com/css/basic.css?16" rel="stylesheet">
 
@@ -279,7 +283,7 @@ toc: true
 
 <div class="tabs__content">
       <div class="tabs_in">
-<div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
+<div class="apl" style="max-width: 100%;" markdown="0">
     <ol>
       <li class="be-apl" style="display: none;"> Используйте {{ site.data.rotation.ArcaneTorrent }} за 2 секунды до начала боя</li>
       <li class="kyr-apl" style="display: none;"> {{ site.data.rotation.ElysianDecree }} прекастом</li>
@@ -366,6 +370,19 @@ toc: true
 
 
 ## Важные моменты
+
+<div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
+    <ol>
+      <li class="ag-apl vt-apl" style="display: none;"> Не задерживайте нажатие {{ site.data.rotation.EyeBeam }} если до отката {{ site.data.rotation.SinfulBrand }} больше 8 сек.</li>
+      <li class="ag-apl vt-apl" style="display: none;"> Никогда не используйте повторно {{ site.data.rotation.SinfulBrand }} если она уже есть на цели и ее таймер больше 8 сек.</li>
+      <li class="fbald-apl" style="display: none;"> Если вы решили играть с талантом {{ site.data.rotation.FirstBlood }}, вам стоит взят проводник силы {{ site.data.rotation.DancingwithFate }}</li>
+      <li class="uh-apl mom-apl" style="display: none;"> Не спешиты использовать усиленый  {{ site.data.rotation.FelRush }} талантом {{ site.data.rotation.UnboundChaos }}, используйте его в комбинации с {{ site.data.rotation.Felblade }} или после окончания действия {{ site.data.rotation.ImmolationAura }}</li>
+    </ol>
+</div>
+
+
+
+
 
 
 
