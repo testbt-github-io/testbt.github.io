@@ -19,12 +19,13 @@ Night Dog
 </p>
 
 <p style="color:#7fffd4;font-size:1.3em;">
-Hisagi (hzr)<br>
+Aquapark<br>
 Dizra<br>
-Icypew<br>
-Epsel<br>
-Mr.Cringe<br>
 Overkill<br>
+Epsel<br>
+Efhen<br>
+Hisagi (hzr)<br>
+
 </p>
 
 **Над сайтом работают:**
@@ -33,7 +34,7 @@ Overkill<br>
 * Rodriguezz – разработка.
 * Rodriguezz – дизайн.
 * **Gaussiana** - помощь с гайдом по Истреблению, вычитка текстов.
-* **Ариец**  - Гайд по Охотникам на Демонов Месть
+
 
 **Отдельное спасибо тем, кто помогал в вычитке текстов и тестировании работоспособности сайта:**
 * **Grayscale** и сайту <a href="https://stormkeeper.ru/">Stormkeeper</a>: за предоставленную поддержку и помощь в создании.

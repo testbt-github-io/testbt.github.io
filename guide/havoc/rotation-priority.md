@@ -418,14 +418,14 @@ image:
 
 <div class="apl" style="max-width: 100%; text-align:justify;" markdown="0">
     <ol>
-      <li class="be-apl" style="display: none;"> У Эльфов крови есть уникальная возможность начинать бой с гневом которого будет достаточно для пременения {{ site.data.rotation.EyeBeam }}. не стоит игнорировать рассовую способность {{ site.data.rotation.ArcaneTorrent }} как в опенере так и в дальнейшем бою</li>
+      <li class="be-apl" style="display: none;"> У Эльфов крови есть уникальная возможность начинать бой с гневом которого будет достаточно для применения {{ site.data.rotation.EyeBeam }}. не стоит игнорировать расовую способность {{ site.data.rotation.ArcaneTorrent }} как в опенере так и в дальнейшем бою</li>
 <!-- /ВМ Терзающий взгляд Вентиры  -->      
       <li class="ag-apl vt-apl" style="display: none;"> Не задерживайте нажатие {{ site.data.rotation.EyeBeam }} если до отката {{ site.data.rotation.SinfulBrand }} больше 8 сек.</li>
       <li class="ag-apl vt-apl" style="display: none;"> Если {{ site.data.rotation.EyeBeam }} или {{ site.data.rotation.SinfulBrand }} востановяться в течении 5 сек., стоит дождаться востановления. </li>
       <li class="ag-apl vt-apl" style="display: none;"> Никогда не используйте повторно {{ site.data.rotation.SinfulBrand }} если она уже есть на цели и ее таймер больше 8 сек.</li>
 <!-- /ВМ Терзающий взгляд Вентиры -->      
       <li class="fbald-apl" style="display: none;"> Если вы решили играть с талантом {{ site.data.rotation.FirstBlood }}, вам стоит взят проводник силы {{ site.data.rotation.DancingwithFate }}</li>
-      <li class="uh-apl mom-apl" style="display: none;"> Не спешиты использовать усиленый  {{ site.data.rotation.FelRush }} талантом {{ site.data.rotation.UnboundChaos }}, используйте его в комбинации с {{ site.data.rotation.Felblade }} или после окончания действия {{ site.data.rotation.ImmolationAura }}</li>
+      <li class="uh-apl mom-apl" style="display: none;"> Не спешите использовать усиленый  {{ site.data.rotation.FelRush }} талантом {{ site.data.rotation.UnboundChaos }}, используйте его в комбинации с {{ site.data.rotation.Felblade }} или после окончания действия {{ site.data.rotation.ImmolationAura }}</li>
       <li class="nf-apl dem-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
 <!-- /Медальон -->  
       <li class="boon-apl dem-apl" style="display: none;"> Всегда отслеживайте оставшееся время баффа {{ site.data.rotation.Metamorphosis }}, потому длительность баффа будет перезаписана, то если у вас осталось 20 сек. баффа и вы нажмете {{ site.data.rotation.Metamorphosis }} вы получшите 38 сек. баффа. Потому нудно всегда ее сдавать когда у баффа остаеться меньше 8 сек.</li>
@@ -461,7 +461,7 @@ image:
 
 <ul>
 <li>Для {{ site.data.spell.Fel_Rush }} используйте способность на максимальной дальности ближнего боя. После использования способности сразу возвращайтесь к цели, чтобы по окончании ГКД вы могли уже наносить цели урон. Вам нужно свести к минимуму время, проведенное за пределами зоны ближнего боя (и следовательно, потерянные автоатаки), поэтому не убегайте слишком далеко, если вам это не нужно.</li>
-<li>Для {{ site.data.spell.Vengeful_Retreat }} с этой способностью все немного проще, так как вы будете использовать ее в паре с {{ site.data.spell.Fel_Rush }}. После использования {{ site.data.spell.Vengeful_Retreat }} используйте {{ site.data.spell.Fel_Rush }}, чтобы вернутся обратно к цели.</li>
+<li>Для {{ site.data.spell.Vengeful_Retreat }} с этой способностью все немного проще, так как вы будете использовать ее в паре с {{ site.data.spell.Fel_Rush }}. После использования {{ site.data.spell.Vengeful_Retreat }} используйте {{ site.data.spell.Fel_Rush }}, чтобы вернуться обратно к цели.</li>
 </ul>
 
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/impyls.jpg"> </p>
@@ -482,11 +482,11 @@ image:
 <ul>
 <li>{{ site.data.spell.Metamorphosis }}: У вас должно быть как можно больше гнева, прежде использовать эту способность. Это очень мощный СТ и АоЕ кулдаун, заранее спланируйте в какую из фаз боя использование этой способности принесет максимальную выгоду, так как она находится на очень долгой перезарядке (4 минуты).</li>
 <li>{{ site.data.spell.Demons_Bite }}: Наносит урон по одной цели и генерирует гнев.</li>
-<li>{{ site.data.spell.Blade_Dance }}: Наносит урон 5 ближайшим целям.</li>
+<li>{{ site.data.spell.Blade_Dance }}: Наносит урон ближайшим целям.</li>
 <li>{{ site.data.spell.Chaos_Strike }}: Использует гнев и наносит урон одной цели, с 40% вероятностью восполнит 20 ед. гнева.</li>
 <li>{{ site.data.spell.Eye_Beam }}: Использует гнев и наносит урон всем противникам перед вами. </li>
 <li>{{ site.data.spell.Fel_Rush }}: Вы совершаете рывок вперед и наносите урон всем врагам на своем пути.</li>
-<li>{{ site.data.spell.Immolation_Aura }}: Окутывает вас пламенем на 6 сек. нанося урон всем противникам в радиусе 8м.</li>
+<li>{{ site.data.spell.Immolation_Aura }}: Окутывает вас пламенем на 12 сек. нанося урон всем противникам в радиусе 8м.</li>
 </ul>
 	   
 ## Защитные способности

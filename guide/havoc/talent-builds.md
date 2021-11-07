@@ -45,6 +45,7 @@ image:
   <div class="tabs__nav">
     <a class="tabs__link tabs__link_active" href="#content-33">Импульс</a>
     <a class="tabs__link" href="#content-44">Демонизм</a>
+    <a class="tabs__link" href="#content-66">ФБ + Буря</a>
     <a class="tabs__link" href="#content-55">ФБ + Теория</a>
 </div>
 
@@ -85,6 +86,19 @@ image:
 <span class="q5"><strong>[Теория хаоса](https://ru.wowhead.com/spell=337551)</strong></span>
 </span></p>
    </div>     
+  </div>
+<div class="tabs__pane tabs__pane_show" id="content-66">
+   <div class="tabs_in" markdown="1">
+{% include bw_gt_fb.html %}
+<p class="tanknotes-section-success" markdown="1">
+<span style="font-weight: 400;">На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.<br>
+Используйте кондуит **{{ site.data.rotation.DancingwithFate }}.**
+</span></p>
+<p class="tanknotes-section-error" markdown="1">
+<span style="font-weight: 400;">Если вы выбрали данный билд, в рейде используйте с ним следующие легендарные предметы:<br>
+<span class="q5"><strong>{{ site.data.legendary.Burning_Wound }}</strong></span>
+</span></p>
+   </div>
   </div>
 </div>
 </div>
