@@ -1,10 +1,10 @@
 ---
 layout: guide
 title: Обзор
-description: Гайд для Охотников на Демонов Месть 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
-author: Airithez и Rodriguezz
+description: Обзор Охотников на Демонов Месть 9.1.5 PvE Shadowlands
+last_update: 2021-11-07 09:00:00
+game_version: 9.1.5 Shadowlands 
+author: Rodriguezz
 image:
     path: assets/img/blog/prev/spec_logo_VDH.png
 ---
@@ -29,6 +29,20 @@ image:
 <a href="{{ site.url }}/guide/vengeance/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
 <a href="{{ site.url }}/guide/vengeance/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
+<br>
+
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+## Изменения в патче 9.1.5
+
+* [Клеймо греха](https://ru.wowhead.com/spell=317009) сокращено время восстановления способности с 1 минуты до 45 секунд.
+* [Слепая вера](https://ru.wowhead.com/spell=355893) - теперь за малый фрагмент души,  ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева.
+* [Раскалывание душ](https://ru.wowhead.com/spell=228477) - больше нет ограничений по количеству целей, но теперь наносит уменьшенный урон целям после 5.
+* [Взрывная душа](https://ru.wowhead.com/spell=247454) - теперь наносит уменьшенный урон целям после 5, ранее была ограничена 20 целями.
+
+Изменение [Взрывной души](https://ru.wowhead.com/spell=247454) - это довольно большой нерф в AoE, особенно если брать пулы которые делаются на MDI. В приведенной ниже таблице показана разница между применением [Взрывной души](https://ru.wowhead.com/spell=247454) с 4 душами и [Раскалывание душ](https://ru.wowhead.com/spell=228477) в патчах 9.1 и 9.1.5 для различных целей от 1 до 20.
+
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/vengeance/25370.png" style="outline: 2px solid #000;"> </p>
 
 <br>
 <li> Только Ночные Эльфы и Эльфы Крови могут быть Охотниками на Демонов.</li>
@@ -116,6 +130,7 @@ image:
 <li> {{ site.data.talent.Agonizing_Flames }} - {{ site.data.spell.Immolation_Aura }} повышает скорость передвижения на 20% и действует на 50% дольше. </li>
 <li>  {{ site.data.talent.Feast_of_Souls }} исцеление увеличено на 25%.</li>
 <li> Переработан талант {{ site.data.talent.Charred_Flesh }} теперь урон от {{ site.data.spell.Immolation_Aura }} продлевает время действия вашего {{ site.data.spell.Fiery_Brand }} на 0.50 сек.</li>
+<Br>
 
 ## Новые возможности трансмогрификации артефакта для Охотниками на Демонов Месть
 
@@ -126,6 +141,9 @@ image:
 <a href="https://www.wowhead.com/unlocking-artifact-appearances-guide" class="cta-button" data-border="strong" target="_blank">Получение обликов артефактов</a>
 </div>
 
+<hr>
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/quick_faq.html">Назад:<br>Кратко и Быстро</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/vengeance/beginners.html">Длаее:<br>Новичкам</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/vengeance/covenant.html">Длаее:<br>Лучший ковенант</a></div>
+
+<br>

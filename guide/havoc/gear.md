@@ -105,7 +105,7 @@ image:
 
 Больше информации по Осколкам господства вы можете найти в разделе:
 
-<div style="text-align: -webkit-center;"><a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html" class="cta-button" data-border="strong"><b>Осколки Господства</b></a></div>
+<div style="text-align: -webkit-center; text-align: -moz-center;"><a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html" class="cta-button" data-border="strong"><b>Осколки Господства</b></a></div>
 
 ## Рекомендуемое снаряжение с Мифик+
 

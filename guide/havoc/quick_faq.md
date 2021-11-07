@@ -368,7 +368,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 
 <br>
 
-<div style="text-align: -webkit-center;">
+<div style="text-align: -webkit-center; text-align: -moz-center;">
 <a class="c12 cta-button" href="{{ site.url }}/guide/havoc/conduits-shadowlands.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
 </span>Гайд по Проводникам (Кондуитам) Охотников на Демонов</a></div><br>
@@ -422,7 +422,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 
 <br>
 
-<div style="text-align: -webkit-center;">
+<div style="text-align: -webkit-center; text-align: -moz-center;">
 <a class="c12 cta-button" href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
 </span>Гайд Легендарным предметам Охотников на Демонов</a></div><br>
@@ -461,7 +461,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 
 <br>
 
-<div style="text-align: -webkit-center;">
+<div style="text-align: -webkit-center; text-align: -moz-center;">
 <a class="c12 cta-button" href="{{ site.url }}/guide/havoc/domination-set-bonuses.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
 </span>Гайд Осколкам Господства Охотников на Демонов</a></div><br>
@@ -555,7 +555,7 @@ DPS = a1 х Crit+a2 х Haste+a3 х Mastery+a4 х Versatility+a5 х Agility + а6
 
 <br>
 
-<div style="text-align: -webkit-center;">
+<div style="text-align: -webkit-center; text-align: -moz-center;">
 <a class="c12 cta-button" href="{{ site.url }}/guide/havoc/stats.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
 </span>Гайд по Приоритету характеристик Охотников на Демонов</a></div><br>
@@ -583,7 +583,7 @@ DPS = a1 х Crit+a2 х Haste+a3 х Mastery+a4 х Versatility+a5 х Agility + а6
 
 <br>
 
-<div style="text-align: -webkit-center;">
+<div style="text-align: -webkit-center; text-align: -moz-center;">
 <a class="c12 cta-button" href="{{ site.url }}/guide/havoc/gear.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
 </span>Полный БиС лист Охотников на Демонов</a></div><br>

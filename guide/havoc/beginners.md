@@ -45,7 +45,7 @@ image:
 
 <div class="table-box" markdown="1">
 
-<div style="text-align: -webkit-center;">
+<div style="text-align: -webkit-center; text-align: -moz-center;">
 <table class="grid" style="width: 500px;">
 <tbody>
 <tr>
@@ -86,7 +86,7 @@ image:
 
 <div class="table-box" markdown="1">
 
-<div style="text-align: -webkit-center;">
+<div style="text-align: -webkit-center; text-align: -moz-center;">
 <table class="grid" style="width: 500px;">
 <tbody>
 <tr>
@@ -124,7 +124,7 @@ image:
 
 </div>
 
-<div style="text-align: -webkit-center;">
+<div style="text-align: -webkit-center; text-align: -moz-center;">
 <br>
 <a href="https://www.wowhead.com/guides/havoc-demon-hunter-best-covenant-shadowlands" class="cta-button" data-border="strong" data-markup-content-target="1" 
 data-icon="true"><span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg&quot;);">
@@ -189,7 +189,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
     1. {{ site.data.spell.Annihilation }} / {{ site.data.spell.Chaos_Strike }}
     1. {{ site.data.spell.Demons_Bite }}
 		
-<div style="text-align: -webkit-center;"><a class="c12 cta-button" href="{{ site.url }}/guide/havoc/rotation-priority.html" data-border="strong" data-markup-content-target="1" data-icon="true">
+<div style="text-align: -webkit-center; text-align: -moz-center;"><a class="c12 cta-button" href="{{ site.url }}/guide/havoc/rotation-priority.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
 </span>Гайд по Ротации Охотников на Демонов</a></div>
 
@@ -210,7 +210,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
     1. **Критический урон**
     1. **Искусность**
 	
-<div style="text-align: -webkit-center;"><a class="c12 cta-button" href="{{ site.url }}/guide/havoc/stats.html" data-border="strong" data-markup-content-target="1" data-icon="true">
+<div style="text-align: -webkit-center; text-align: -moz-center;"><a class="c12 cta-button" href="{{ site.url }}/guide/havoc/stats.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
 </span>Приоритет характеристик Охотников на Демонов</a></div>
 

@@ -1,10 +1,10 @@
 ---
 layout: highcharts_page
-title: Ковенанты
-description: Гайд для Охотников на Демонов Месть 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
-author: Airithez и Rodriguezz
+title: Лучший ковенант
+description: Гайд Лучший Ковенанты для Охотников на Демонов Месть 9.1.5 PvE Shadowlands
+last_update: 2021-11-07 09:00:00
+game_version: 9.1.5 Shadowlands 
+author: Rodriguezz
 image:
     path: assets/img/blog/prev/spec_logo_VDH.png
 ---
@@ -34,32 +34,114 @@ image:
 
 Одной из ключевых новинок World of Warcraft Shadowlands станут ковенанты. Это своеобразные фракции, которые вобрали в себя лучшие идеи системы классовых оплотов и перенесли их на новый уровень. Занимаясь улучшением отношений с ними, игроки будут получать дополнительные способности в свой арсенал, пассивные бонусы и косметические награды, открывать масштабные сюжетные кампании. Узнать больше о ковенантах можно в статье <a href="{{ site.url }}/blog/2020/10/22/covenant-abilities-shadowlands.html">Обзор Ковенантов</a>.
 
-<div style="text-align: -webkit-center;">
-<table class="grid" style="width: 500px;">
-<tbody>
-<tr>
-<td style="width: 33%;"></td>
-<td style="width: 33%;"><b>Рейд</b></td>
-<td style="width: 33%;"><b>Мифик+</b></td>
-</tr>
-<tr><td><span class="c8">Кирии</span></td>
-<td>Отличный</td>
-<td><b>Низкие ключи</b>: Отличный<br><b>Высокие ключи</b>: Отличный</td>
-</tr>
-<tr><td><span class="c10">Некролорды</span></td>
-<td>Слабый</td><td>Слабый</td>
-</tr>
-<tr><td><span class="c12">Ночной народец</span></td>
-<td>Хороший</td>
-<td><b>Низкие ключи</b>: Слабый<br><b>Высокие ключи</b>: Слабый</td>
-</tr>
-<tr><td><span class="c6">Вентиры</span>
-</td><td>Хороший</td>
-<td><b>Низкие ключи</b>: Хороший<br><b>Высокие ключи</b>: Хороший</td>
-</tr>
-</tbody>
+<div class="table-box" markdown="1">
+
+<div style="text-align: -webkit-center; text-align: -moz-center;">
+<table class="grid" style="width: 750px;">
+ <tbody>
+  <tr>
+    <td colspan="3" style="text-align: center;"><b>Лучший ковенант для рейда</b></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><b>Ковенат</b></td>
+    <td style="text-align: center;"><b>Рейтинг</b></td>
+    <td style="text-align: center;"><b>Лучший медиум</b></td>
+    <td style="text-align: center;"><b>Сильные стороны</b></td>
+    <td style="text-align: center;"><b>Слабые стороны</b></td>
+  </tr>
+  <tr>
+    <td><span class="q8"><a href="{{ site.url }}/guide/vengeance/kyrian.html">Кирии</a></span></td>
+    <td>Превосходно</td>
+    <td><a href="{{ site.url }}/guide/vengeance/necrolord.html">Миканикос</a></td>
+    <td>Универсальный, Бурс урон, Снятие дебафоф</td>
+    <td>Нет</td>
+  </tr>
+  <tr>
+    <td><a href="{{ site.url }}/guide/vengeance/necrolord.html"><span class="r3">Некролорды</span></a></td>
+    <td>Хорошо</td>
+    <td><a href="{{ site.url }}/guide/vengeance/necrolord.html">Эмени</a></td>
+    <td>Самая сильная защита</td>
+    <td>Рандом, неконтролируемый демон может застрять или спулить пак.</td>
+  </tr>
+  <tr>
+    <td><span class="q4"><a href="{{ site.url }}/guide/vengeance/night-fae.html">Night Fae</a></span></td>
+    <td>Хорошо</td>
+    <td><a href="{{ site.url }}/guide/vengeance/night-fae.html">Ния</a></td>
+    <td>Хороший СТ урон, отличная мобильность</td><td>Ковенанская способность ограничена количеством целей и нет возможности генерировать АоЕ угрозу</td>
+  </tr>
+  <tr>
+    <td><span class="q10"><a href="{{ site.url }}/guide/vengeance/venthyr.html">Вентиры</a></span></td>
+    <td>Хорошо</td>
+    <td><a href="{{ site.url }}/guide/vengeance/venthyr.html">Наджия</a></td>
+    <td>Сильные связи душ</td><td>Заставляет использовать защитные способности для нанесения урона.</td>
+  </tr>
+ </tbody>
 </table>
 </div>
+</div>
+
+<div class="table-box" markdown="1">
+
+<div style="text-align: -webkit-center; text-align: -moz-center;">
+<table class="grid" style="width: 750px;">
+ <tbody>
+  <tr>
+    <td colspan="3" style="text-align: center;"><b>Лучший ковенант для Мифик+</b></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><b>Ковенат</b></td>
+    <td style="text-align: center;"><b>Рейтинг</b></td>
+    <td style="text-align: center;"><b>Лучший медиум</b></td>
+    <td style="text-align: center;"><b>Сильные стороны</b></td>
+    <td style="text-align: center;"><b>Слабые стороны</b></td>
+  </tr>
+  <tr>
+    <td><span class="q8"><a href="{{ site.url }}/guide/vengeance/kyrian.html">Кирии</a></span></td>
+    <td><b>Низкие ключи</b>: Превосходно<br><b>Высокие ключи</b>: Превосходно</td>
+    <td><a href="{{ site.url }}/guide/vengeance/necrolord.html">Миканикос</a></td>
+    <td>Универсальный, Бурс урон, Снятие дебафоф</td>
+    <td>Нет</td>
+  </tr>
+  <tr>
+    <td><a href="{{ site.url }}/guide/vengeance/necrolord.html"><span class="r3">Некролорды</span></a></td>
+    <td><b>Низкие ключи</b>: Хорошо<br><b>Высокие ключи</b>: Хорошо</td>
+    <td><a href="{{ site.url }}/guide/vengeance/necrolord.html">Эмени</a></td>
+    <td>Самая сильная защита</td>
+    <td>Рандом, неконтролируемый демон может застрять или спулить пак.</td>
+  </tr>
+  <tr>
+    <td><span class="q4"><a href="{{ site.url }}/guide/vengeance/night-fae.html">Night Fae</a></span></td>
+    <td><b>Низкие ключи</b>: Плохо<br><b>Высокие ключи</b>: Хорошо</td>
+    <td><a href="{{ site.url }}/guide/vengeance/night-fae.html">Ния</a></td>
+    <td>Хороший СТ урон, отличная мобильность</td><td>Ковенанская способность ограничена количеством целей и нет возможности генерировать АоЕ угрозу</td>
+  </tr>
+  <tr>
+    <td><span class="q10"><a href="{{ site.url }}/guide/vengeance/venthyr.html">Вентиры</a></span></td>
+    <td><b>Низкие ключи</b>: Превосходно<br><b>Высокие ключи</b>: Хорошо</td>
+    <td><a href="{{ site.url }}/guide/vengeance/venthyr.html">Наджия</a></td>
+    <td>Сильные связи душ</td><td>Заставляет использовать защитные способности для нанесения урона.</td>
+  </tr>
+ </tbody>
+</table>
+</div>
+</div>
+
+## Выбор Ковената в 9.1.5
+
+Изменений Ковенантов для Охотника на Демонов в патче 9.1.5 не было, но вы можете свободно менять его на максимальном уровне известности, так что не стесняйтесь играть в том Ковенанте, который вам больше нравится. <span class="c8">Кирии</span> - самый сильный выбор в целом, поэтому мы рекомендуем его для всего контента.
+
+Во всем PvE контенте <span class="c8">Кирии</span> сохраняют лидерство в качестве сильнейшего Ковенанта, так что вам определенно стоит его прокачать первым до 80 уровня известности. После этого вы можете повысить прокачать известность в Ковеннатне <span class="covenant-night-fae">Ночной народец</span>, если вы играете в PvP, или любой другого, в зависимости от того, какие косметические предметы вы предпочитаете или какие бонусы а подземелья вам нужны. В конце концов вас никто больше не ограничивает и вы сможете прокачать их все.
+
+
+## Лучший ковенант для Рейда
+
+В новом рейде, Святилище Господства, есть как СТ бои так  и AoE, в котором очень сильно выделяется [Элизийский декрет](https://www.wowhead.com/spell=306830), который наносит в рейдей достаточно высокий урон. Кроме того, [Флакон безмятежности](https://ru.wowhead.com/item=177278) - дополнительное зелье которое восстановит вам здоровье или снимет негативный, что несомненно очень полезно. В то время как другие ковенанты предлагаю намного сильнее связи душ медиумов, чем <span class="c8">Кирийские</span>, они не имеют достаточно большого веса, чтобы склонить чашу весов в свою сторону.
+
+Что касается классовых способностей, <span class="covenant-night-fae">Ночной народец</span> конкурентоспособен по урону в СТ урон, но отстает в AoE. <span class="covenant-venthyr">Вентиры</span> конкурентоспособен по урону в СТ урон, но отстает в AoE, и <span class="covenant-necrolord">Некролорды</span> после изменений стал играбельным но пока все также же рандомен. К сожалению, Ковенанты <span class="covenant-night-fae">Ночной народец</span> и <span class="covenant-venthyr">Вентиров</span> не предлагают нам полезных особых способностей ковенанта, поскольку у нас уже и так есть высокая мобильность. [Скульптор плоти](https://ru.wowhead.com/spell=) <span class="covenant-necrolord">Некролордов</span> теперь является надежной защитой способностью, но, учитывая, то что способности класса недостаточно хорощо развита, это все еще в целом худший выбор.
+
+## Лучший ковенант для Мифик+
+
+Во-первых, я бы порекомендовали максимально использовать все Ковенанты на тот случай, если у вас в группе не окажется человека с нужным ковенантом для прохождения подземелья (2 подземелья на Ковенант), поскольку мы меньше всего теряем, меняя Ковенанты в группе для подземелий, а бонусы Ковенантов в подземелье обычно сильнее, чем то, что любой Ковенантсути предложить нашей специализации. Тем не менее, у нас есть один Ковенант, который работает лучше других во всех ситуациях, лидерство в мифик+ контенте уходит Ковенанту <span class="c8">Кирии</span>. [Элизийский декрет](https://www.wowhead.com/spell=306830) дает нам высокий урон и приличное количество душ с малым временем восстановления, что позволяет постоянно генерировать угрозу даже во время кайтинга. В низких ключах <span class="covenant-venthyr">Вентиры</span> могут наносить высокий урон благодаря [Метаморфозt](https://ru.wowhead.com/spell=187827/), которая распространяет [Клеймо греха](https://www.wowhead.com/spell=317009) на всех врагов которые оказались поблизости.
 
 ## Ковенат Вентиров
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/ventyr_logo.png"> </p>
