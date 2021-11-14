@@ -30,6 +30,9 @@ image:
 <a href="{{ site.url }}/guide/vengeance/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
+
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 ## Рекомендуемое снаряжение
 
 <p style="color:#ff4040;font-size:1.7em;">Предоставленная тут информация является справочной, всегда используйте симкрафт</p>
@@ -56,8 +59,8 @@ image:
 |Кольцо 1|[Потускневший знак Кель'Таласа](https://ru.wowhead.com/item=186377)| - |[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
 |Кольцо 2|[Миниатюрное колесо для казни](https://ru.wowhead.com/item=186375)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
 |Аксессуар 1|[Забрызганная кровью чешуйка](https://ru.wowhead.com/item=179331)| - |[Та Сторона](https://ru.wowhead.com/de-other-side)|
-|Аксессуар 2|[Осколок эгиды Аннгильды](https://ru.wowhead.com/item=1864241)| - |[Скайя](https://ru.wowhead.com/npc=175726)|
-|Основная рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
+|Аксессуар 2|[Осколок эгиды Аннгильды](https://ru.wowhead.com/item=186424)| - |[Скайя](https://ru.wowhead.com/npc=175726)|
+|Основная рука|[Элетиевая глефа](https://ru.wowhead.com/item=186381)| - |[Таррагр](https://ru.wowhead.com/npc=152253)|
 |Левая рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
 
 </div>
@@ -65,39 +68,64 @@ image:
 
 <p style="color:#ff4040;font-size:1.7em;">Предоставленная тут информация является справочной, всегда используйте симкрафт</p>
 
-## Легендарные предметы
+## Лучший сет Осколков Господства
 
-* {{ site.data.legendary.Razelikhs_Defilement }} — несмотря на нерф, все еще хорошая легендарка, хотя и потеряла основную свою привлекательность. Полезна в М+ контенте или исключительно для ДПС в рейде
-> Можно применить на штаны или наручи
+Осколки Господства – это новая система из дополнения Цепи Господства, которая сделает добывающуюся в рейде Святилище Господства экипировку наиболее мощной именно в нем. Об этой системе известно следующее:
 
-Рецепт на этот легендарный предмет добывается с босса {{ site.data.mplus.Xav_the_Unfallen }} подземелья {{ site.data.mplus.Theater_of_Pain }}.
+### Рейд
 
-* {{ site.data.legendary.Fiery_Soul }} — основа нашего клеймобилда. Очень хорошая легендарка как для рейда, так и для М+. Не советуется использовать в паре со  {{ site.data.talent.Spirit_Bomb }}
-> Можно применить на наручи
-	
-Рецепт на этот легендарный предмет добывается в Торгасте с 3го уровня и выше.
+* [Осколок Диз](https://ru.wowhead.com/item=187073)
+* [Осколок Кор](https://ru.wowhead.com/item=187063)
+* [Осколок Бек](https://ru.wowhead.com/item=187057)
+* [Осколок Рев](https://ru.wowhead.com/item=187061)
+* [Осколок Джас](https://ru.wowhead.com/item=187059)
 
-* {{ site.data.legendary.Darkglare_Boon }} — очень маленький шанс отката для способности с большим временем восстановления. Слабый вариант
-> Можно применить на амулет или пояс
- 
- Рецепт на этот легендарный предмет добывается с босса {{ site.data.mplus.Margrave_Stradama }} подземелья {{ site.data.mplus.Plaguefall }}.
- 
-* {{ site.data.legendary.Collective_Anguish }} — как и предыдущий легендарный эффект, слабый в первую очередь из-за большого КД нашего {{ site.data.spell.Fel_Devastation }}
-> Можно применить на плащ или наручи.
+### Мифик+
 
-Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Castle_Nathria }}.
+* [Осколок Диз](https://ru.wowhead.com/item=187073)
+* [Осколок Кор](https://ru.wowhead.com/item=187063)
+* [Осколок Бек](https://ru.wowhead.com/item=187057)
+* [Осколок Джас](https://ru.wowhead.com/item=187059)
+* [Осколок Кир](https://ru.wowhead.com/spell=355743)
 
-* {{ site.data.legendary.Fel_Flame_Fortification }} — в теории неплохой легендарный эффект в боях против магии, на практике будет играться разве что возможным вторым слотом
-> Можно применить на пояс или кольцо
+<div style="text-align: -webkit-center; text-align: -moz-center;">
+<a class="c12 cta-button" href="{{ site.url }}/guide/vengeance/domination-set-bonuses.html" data-border="strong" data-markup-content-target="1" data-icon="true">
+<span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_spectank.jpg&quot;);">
+</span>Гайд Осколкам Господства Охотников на Демонов</a></div><br>
 
-Рецепт на этот легендарный предмет добывается с босса {{ site.data.mplus.Lady_Inerva_Darkvein }} подземелья {{ site.data.mplus.Castle_Nathria}}.
+## Рекомендуемое снаряжение с Мифик+
+
+<p style="color:#ff4040;font-size:1.7em;">Предоставленная тут информация является справочной, всегда используйте симкрафт</p>
+
+<div class="table-box" markdown="1">
+
+|Слот|Название|Подземелье|
+|Голова|[Боевая маска жестокого импульса](https://ru.wowhead.com/item=180106)|[Шпили Перерождения](https://ru.wowhead.com/spires-of-ascension)|
+|Шея|[Колье лазурного яда](https://ru.wowhead.com/item=180115)|[Шпили Перерождения](https://ru.wowhead.com/spires-of-ascension)|
+|Плечо|[Наплечники дальних странствий](https://ru.wowhead.com/item=179344)|[Та Сторона](https://ru.wowhead.com/de-other-side)|
+|Плащ|[Плащ чумной маркграфини](https://ru.wowhead.com/item=178755/)|[Чумные каскады](https://ru.wowhead.com/plaguefall)|
+|Грудь|[Хауберк радужной тени](https://ru.wowhead.com/item=178698)|[Туманы Тирна Скитта](https://ru.wowhead.com/mists-of-tirna-scithe)|
+|Запястье|[Манжеты восставшего чудовища](https://ru.wowhead.com/item=178741)|[Смертельная тризна](https://ru.wowhead.com/the-necrotic-wake)|
+|Руки|[Перчатки пугающего сосредоточения](https://ru.wowhead.com/item=178832)|[Чертоги Покаяния](https://ru.wowhead.com/halls-of-atonement)|
+|Пояс|[Пояс поглотителя живицы](https://ru.wowhead.com/item=178699)|[Туманы Тирна Скитта](https://ru.wowhead.com/mists-of-tirna-scithe)|
+|Ноги|[Штаны глубинной дисгармонии](https://ru.wowhead.com/item=180108)|[Шпили Перерождения](https://ru.wowhead.com/spires-of-ascension)|
+|Сапоги|[Башмаки поверженного узурпатора](https://ru.wowhead.com/item=178797)|[Театр Боли](https://ru.wowhead.com/theater-of-pain)|
+|Кольцо 1|[Потерянная печатка Трупошва](https://ru.wowhead.com/item=178736)|[Смертельная тризна](https://ru.wowhead.com/the-necrotic-wake)|
+|Кольцо 2|[Печатка клятвы на крови](https://ru.wowhead.com/item=178871)|[Театр Боли](https://ru.wowhead.com/theater-of-pain)|
+|Аксессуар 1|[Забрызганная кровью чешуйка](https://ru.wowhead.com/item=179331)|[Та Сторона](https://ru.wowhead.com/de-other-side)|
+|Аксессуар 2|[Кодекс первой техники](https://ru.wowhead.com/item=185836)|[Тайный рынок Тазавеш](https://ru.wowhead.com/zone=13577/)|
+|Основная рука|[Лезвие каменного генерала](https://ru.wowhead.com/item=178857)|[Кровавые катакомбы](https://ru.wowhead.com/sanguine-depths)|
+|Левая рука|[Моровая Буря, меч эпидемии](https://ru.wowhead.com/item=178754)|[Чумные каскады](https://ru.wowhead.com/plaguefall)|
+
 
 ## Аксессуары
 
-* {{ site.data.item.Blood_Spattered_Scale }} очень сильный дополнительный сейв. Дает много абсорба и хороший урон. Отличный вариант для М+ контента и прочих АОЕ сценариев
-* {{ site.data.item.Anima_Field_Emitter }} дает много скорости с высоким аптаймом, что могло быть хорошим бонусом, если бы не привязка к позиции. Лужа, дающая скорость, довольно небольшая, что делает использование трини на большинстве энкаунтеров проблемным
-* {{ site.data.item.Splintered_Heart_of_Alar }} просто читдез. Огромное кд, шанс осечки крайне мал. Неплохо, если вам нужен еще один читдез, но в целом крайне слабый и ситуативный аксессуар
-* [Осколок эгиды Аннгильды](https://ru.wowhead.com/item=1864241)| - Хороший защитный аксессуары, который поглощает много урона.
+* {{ site.data.item.Blood_Spattered_Scale }} очень сильный дополнительный сейв. Дает много абсорба и хороший урон. Отличный вариант для М+ контента и прочих АОЕ сценариев.
+* [Осколок эгиды Аннгильды](https://ru.wowhead.com/item=186424) - Хороший защитный аксессуары, который поглощает много урона.
+* [Матрица реактивной защиты](https://ru.wowhead.com/item=186433) - 2 + Скорость RPPM отражения урона и автоматически срабатывает, когда ваше здоровье падает ниже 20%, с внутренним кулдауном 30 секунд, что потенциально дает возможность срабатывать 4 + Скорость RPPM. Если вы можете получить бонусное срабатывание, постоянно опускаясь ниже 20%, он поглотит примерно столько же, сколько и {{ site.data.item.Blood_Spattered_Scale }} того же уровня, и нанесет больше урона. Если вы не будете получать бонусное срабатывание, он наносит аналогичный урон, но примерно на половину меньше поглотит урона.
+* {{ site.data.item.Anima_Field_Emitter }} дает много скорости с высоким аптаймом, что могло быть хорошим бонусом, если бы не привязка к позиции. Лужа, дающая скорость, довольно небольшая, что делает использование трини на большинстве энкаунтеров проблемным.
+* {{ site.data.item.Splintered_Heart_of_Alar }} просто читдез. Огромное кд, шанс осечки крайне мал. Неплохо, если вам нужен еще один читдез, но в целом крайне слабый и ситуативный аксессуар.
+
 
 ## Уровни предметов в 2 сезоне эпохальных+ подземелий Shadowlands
 

@@ -42,7 +42,7 @@ image:
 <div class="table-box" markdown="1">
 
 <div style="text-align: -webkit-center; text-align: -moz-center;">
-<table class="grid" style="width: 500px;">
+<table class="grid" style="width: 750px;">
 <tbody>
 <tr>
 <td colspan="3" style="text-align: center;"><b>Лучший Ковенант для Рейда</b></td>
@@ -83,7 +83,7 @@ image:
 <div class="table-box" markdown="1">
 
 <div style="text-align: -webkit-center; text-align: -moz-center;">
-<table class="grid" style="width: 50%;">
+<table class="grid" style="width: 750px;">
 <tbody>
 <tr>
 <td colspan="3" style="text-align: center;"><b>Лучший Ковенант для М+</b></td>

@@ -42,16 +42,16 @@ image:
 ### СТ билды
 
 <div class="tabs" id="tabs-2">
-  <div class="tabs__nav">
-    <a class="tabs__link tabs__link_active" href="#content-33">Импульс</a>
-    <a class="tabs__link" href="#content-44">Демонизм</a>
-    <a class="tabs__link" href="#content-66">ФБ + Буря</a>
-    <a class="tabs__link" href="#content-55">ФБ + Теория</a>
+<div class="tabs__nav">
+<a class="tabs__link" href="#content-6">Импульс</a>
+<a class="tabs__link" href="#content-7">Демонизм</a>
+<a class="tabs__link" href="#content-8">ФБ + Демонизм</a>
+<a class="tabs__link tabs__link_active" href="#content-9">ФБ + Буря</a>
 </div>
 
 <div class="tabs__content">
-  <div class="tabs__pane tabs__pane_show" id="content-33">
-   <div class="tabs_in" markdown="1">
+<div class="tabs__pane tabs__pane_show" id="content-6">
+<div class="tabs_in" markdown="1">
 {% include BW_Essence-break.html %}
 <p class="tanknotes-section-success" markdown="1">
 <span style="font-weight: 400;">На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
@@ -60,10 +60,10 @@ image:
 <span style="font-weight: 400;">Если вы выбрали данный билд, в рейде используйте с ним следующие легендарные предметы:<br>
 <span class="q5"><strong>{{ site.data.legendary.Burning_Wound }}</strong></span>
 </span></p>
-   </div>
-  </div>
-  <div class="tabs__pane" id="content-44">
-   <div class="tabs_in" markdown="1">
+</div>
+</div>
+<div class="tabs__pane" id="content-7">
+<div class="tabs_in" markdown="1">
 {% include BurningWound.html %}
 <p class="tanknotes-section-success" markdown="1">
 <span style="font-weight: 400;">На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
@@ -73,33 +73,40 @@ image:
 <span class="q5"><strong>[Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534/)</strong></span><br>
 <span class="q5"><strong>[Терзающий взгляд](https://ru.wowhead.com/spell=355886)</strong></span>
 </span></p>
-  </div>      
-  </div>
-  <div class="tabs__pane" id="content-55">
-   <div class="tabs_in" markdown="1">
+</div>
+</div>
+<div class="tabs__pane" id="content-8">
+<div class="tabs_in" markdown="1">
 {% include ChaosTheory.html %}
 <p class="tanknotes-section-success" markdown="1">
 <span style="font-weight: 400;">На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
 </span></p>
 <p class="tanknotes-section-error" markdown="1">
 <span style="font-weight: 400;">Если вы выбрали данный билд, в рейде используйте с ним следующие легендарные предметы:<br>
-<span class="q5"><strong>[Теория хаоса](https://ru.wowhead.com/spell=337551)</strong></span>
+<span class="q5"><strong>[Теория хаоса](https://ru.wowhead.com/spell=337551)</strong></span><br>
+<span class="q5"><strong>{{ site.data.legendary.Burning_Wound }}</strong></span>
 </span></p>
-   </div>     
-  </div>
-<div class="tabs__pane tabs__pane_show" id="content-66">
-   <div class="tabs_in" markdown="1">
+</div>
+</div>
+<div class="tabs__pane" id="content-9">
+<div class="tabs_in" markdown="1">
 {% include bw_gt_fb.html %}
 <p class="tanknotes-section-success" markdown="1">
 <span style="font-weight: 400;">На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.<br>
-Используйте кондуит **{{ site.data.rotation.DancingwithFate }}.**
+<br>
+**Используйте кондуит**<br>
+<br>
+[**Танец с судьбой**](https://ru.wowhead.com/spell=339228) - с этим кондуитом и талантом [Первая кровь](https://ru.wowhead.com/spell=206416/) используйте способность {{ site.data.rotation.DeathSweep }} / {{ site.data.rotation.BladeDance }} по КД даже в 1 цель. <br>
+<br>
+Используйте сет камней господства <br>
+[**Зимние ветра**](https://ru.wowhead.com/spell=355735/)
 </span></p>
 <p class="tanknotes-section-error" markdown="1">
 <span style="font-weight: 400;">Если вы выбрали данный билд, в рейде используйте с ним следующие легендарные предметы:<br>
-<span class="q5"><strong>{{ site.data.legendary.Burning_Wound }}</strong></span>
+<span class="q5"><strong>{{ site.data.legendary.Burning_Wound }}</strong></span><br>
 </span></p>
-   </div>
-  </div>
+</div>
+</div>
 </div>
 </div>
 <br>
@@ -107,13 +114,32 @@ image:
 ### АоЕ/Клив Билды
 
 <div class="tabs" id="tabs-1">
-  <div class="tabs__nav">
-    <a class="tabs__link tabs__link_active" href="#content-1">Демонизмн</a>
-    <a class="tabs__link" href="#content-2">Импульс</a>
+<div class="tabs__nav">
+<a class="tabs__link tabs__link_active" href="#content-1">ФБ + Демонизм</a>
+<a class="tabs__link " href="#content-2">Демонизмн</a>
+<a class="tabs__link" href="#content-3">Импульс</a>
 </div>
 <div class="tabs__content">
 <div class="tabs__pane tabs__pane_show" id="content-1">
 <div class="tabs_in" markdown="1">	
+{% include ChaosTheory.html %}
+<p class="tanknotes-section-success" markdown="1">
+<span style="font-weight: 400;">На **35 и 45** уровнях можете брать любой талант который подходит больше по стилю вашей игры.
+</span></p>
+<p class="tanknotes-section-error" markdown="1">
+<span style="font-weight: 400;">Если вы выбрали данный билд, в Мифик+ используйте с ним следующие легендарные предметы:<br>
+<span class="q5"><strong>{{ site.data.legendary.Collective_Anguish }}</strong></span><br>
+<span class="q5"><strong>[Терзающий взгляд](https://ru.wowhead.com/spell=355886)</strong></span><br>
+<span class="q5"><strong>{{ site.data.legendary.Burning_Wound }}</strong></span><br>
+
+**Используйте кондуит**<br>
+<br>
+[**Танец с судьбой**](https://ru.wowhead.com/spell=339228) - с этим кондуитом и талантом [Первая кровь](https://ru.wowhead.com/spell=206416/) используйте способность {{ site.data.rotation.DeathSweep }} / {{ site.data.rotation.BladeDance }} по КД даже в 1 цель. <br>
+</span></p>
+</div>      
+</div>
+<div class="tabs__pane" id="content-2">
+<div class="tabs_in" markdown="1">
 {% include DarkglareBoon.html %}
 <p class="tanknotes-section-success" markdown="1">
 <span style="font-weight: 400;">На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.
@@ -124,9 +150,9 @@ image:
 <span class="q5"><strong>[Терзающий взгляд](https://ru.wowhead.com/spell=355886)</strong></span><br>
 <span class="q5"><strong>[Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534/)</strong></span>
 </span></p>
-</div>      
 </div>
-<div class="tabs__pane" id="content-2">
+</div>
+<div class="tabs__pane" id="content-3">
 <div class="tabs_in" markdown="1">
 {% include CollectiveAnguish.html %}
 <p class="tanknotes-section-success" markdown="1">
@@ -140,7 +166,6 @@ image:
 </span></p>
 </div>     
 </div>
-
 </div>
 </div>
 <br>
@@ -151,7 +176,7 @@ image:
 ### Таланты первого тира (15 Уровень)
 
 <ul>
-<li>{{ site.data.talent.BlindFury }} Чрезвычайно хороший талант, усиливающий одно из наших лучших заклинаний на 50% и генерирующий много гнева.</li> 
+<li>{{ site.data.talent.BlindFury }} Чрезвычайно хороший талант, усиливающий одну из наших лучших способностей на 50% и генерирующий много гнева.</li> 
 <li>{{ site.data.talent.Demonic_Appetite }} С изменением возмещения гнева за {{ site.data.spell.Chaos_Strike }} в BFA этот талант сильно изменился. Генерирует примерно 6 душ в минуту. </li>
 <li>{{ site.data.talent.Felblade }} Очень конкурентоспособный талант, дает много гнева, имеет небольшое время восстановления. </li>
 </ul>
@@ -159,7 +184,7 @@ image:
 ### Таланты второго тира (25 Уровень)
 
 <ul>
-<li>{{ site.data.talent.Insatiable_Hunger }} Достаточно простой талант {{ site.data.spell.Demons_Bite }} генерирует от 5 до 10 ед. дополнительного гнева за применение.</li> 
+<li>{{ site.data.talent.Insatiable_Hunger }} Достаточно простой талант, {{ site.data.spell.Demons_Bite }} генерирует от 5 до 10 ед. дополнительного гнева за одно использование.</li> 
 <li>{{ site.data.talent.Burning_Hatred }} Дополнительно накапливает 30 ед. гнева за 6 сек. Универсальный талант как для СТ так и АоЕ.</li>
 <li>{{ site.data.talent.Demon_Blades }} Позволяет генерировать гнев пассивно.</li>
 </ul>
@@ -168,7 +193,7 @@ image:
 
 <ul>
 <li>{{ site.data.talent.Trail_of_Ruin }} Очень простой талант, последний удар способности {{ site.data.spell.Blade_Dance }} вешает на врагов ДоТ, который наносит урон от магии Хаоса в течение 4 сек.</li> 
-<li>{{ site.data.talent.Unbound_Chaos }} увеличивает урон нашего {{ site.data.spell.Fel_Rush }} после применения {{ site.data.spell.Immolation_Aura }}, очень сильный таланк, используеться практически всегда по умолчанию.</li>
+<li>{{ site.data.talent.Unbound_Chaos }} увеличивает урон нашего {{ site.data.spell.Fel_Rush }} после применения {{ site.data.spell.Immolation_Aura }}, очень сильный талант, используется практически всегда по умолчанию.</li>
 <li>{{ site.data.talent.Glaive_Tempest }} Возвращается еще одна старая способность - способность артефакта Легиона. Скорость  восстановления зависит от рейтинга скорости персонажа. Больше скорости, значит быстрее восстанавливается способность.
 </li>
 </ul>
@@ -176,8 +201,8 @@ image:
 ### Таланты четвертого тира (35 Уровень)
 
 <ul>
-<li>{{ site.data.talent.Soul_Rending }} Талант дает нам 5% пассивного самоисцеления, что делает нас более живучими и помогает пережить различные механики. Хороший выбор, если не требуется иметь невосприимчивость к урону.</li> 
-<li>{{ site.data.talent.Desperate_Instincts }} Неплохой талант за счет увеличения защитных свойств {{ site.data.spell.Blur }}, но применяется очень редко.</li>
+<li>{{ site.data.talent.Soul_Rending }} Талант дает нам 10% пассивного самоисцеления, что делает нас более живучими и помогает пережить различные механики. Хороший выбор, если вам в бою не понадобится невосприимчивость к урону.</li> 
+<li>{{ site.data.talent.Desperate_Instincts }} Неплохой талант за счет увеличения защитных свойств {{ site.data.spell.Blur }}, но используется очень редко.</li>
 <li>{{ site.data.talent.Netherwalk }} Очень сильный сейв кулдаун который позволяет игнорировать сложные механики боя.</li>
 </ul>
 
@@ -186,7 +211,7 @@ image:
 <ul>
 <li>{{ site.data.talent.Cycle_of_Hatred }} Очень сильный талант в этом тире, игра с этим талантом полностью исключит {{ site.data.spell.Blade_Dance }} из СТ ротации.</li> 
 <li>{{ site.data.talent.First_Blood }} Первая кровь хорошо сочетается с талантом из третьего тира {{ site.data.talent.Trail_of_Ruin }}.</li>
-<li>{{ site.data.talent.Essence_Break }} Слабый талант, пока не нашел свое место для применения.</li>
+<li>{{ site.data.talent.Essence_Break }} Хорошее усиление для СТ и АоЕ урона, после изменений стал конкурентно способным в 5 тире талантов. Пред использованием рекомендуется иметь максимальное количество гнева</li>
 </ul>
 
 ### Таланты шестого тира (45 Уровень)
@@ -213,11 +238,29 @@ image:
 Бонусы в режиме войны теперь могут увеличиваться до 30% в зависимости от того, насколько не сбалансирована PvP-ситуация против вашей фракции. Кроме того, вы сможете отключить режим войны в любой зоне отдыха, например, в небольших городах и тавернах, что позволит вам выйти из неблагоприятных ситуаций, если вы того пожелаете.
  </p>
  
- <ul>
-<li>{{ site.data.talent.Demonic_Origins }} очень хороший талант для игры в открытом мире и стычках с другими игроками. Этот талант уменьшает время восстановления нашей {{ site.data.spell.Metamorphosis }} и помогает быстро расправляться с врагами</li> 
-<li>{{ site.data.talent.Solitude }} еще один очевидный победитель. Увеличивает скорость атаки и генерирование гнева если рядом нет союзников. Это цена, которую я готов заплатить.</li>
-<li>В последнем тире талантов можно взять любой на ваше усмотрение, но я советую брать {{ site.data.talent.Rain_from_Above }}, хороший талант который поможет выйти победителем из нежелательных PvP боев</li>
-</ul>
+* [Смертельный танец](https://ru.wowhead.com/spell=328725/) - самый сильный дебафф для PvP - используйте его, если в ваша команде никто не использует его аналог. Если в вашей комаде есть игрок с этим талантом используйте таланты предложенные ниже.
+* [Хаотичный отпечаток](https://ru.wowhead.com/spell=356510) - Урон хаосом основан на самой уязвимой школе магии. Из-за этого этот талант почти всегда будет давать нам 10% урона. Тот факт, что он может совпасть с со школой магии вашей группы и увеличить урон, - это бонус!
+* [Одиночная цель](https://ru.wowhead.com/spell=357300) или [Обращение магии](https://ru.wowhead.com/spell=205604)
+
+[**Обращение магии**](https://ru.wowhead.com/spell=205604) <br>
+Чрезвычайно эффективна против эффектов контроля которые используют на вашего целителя, и ее определенно следует применять против таких классов, как Маги с {{ site.data.talent.Polymorph }}, Паладины с {{ site.data.talent.Repentance }} или {{ site.data.talent.Hammer_of_Justice }} и Охотники с {{ site.data.talent.Freezing_Trap }}. Этот талант будет вашим основным выбором для последнего тира PvP-талантов, если вы не против команды без особого магического контроля.<br>
+<br>
+[Одиночная цель](https://ru.wowhead.com/spell=357300)<br>
+Если у команды нет контроля, на котором стоит использовать [Обращение магии](https://ru.wowhead.com/spell=205604), я рекомендую [Одиночная цель](https://ru.wowhead.com/spell=357300) в качестве вашего третьего PvP-таланта.<br>
+<br>
+Он очень хорошо сочетается с нашим Демоник билдом, давая нам дополнительные 10% урона каждый раз, когда мы бурстим, а также другие отличные преимущества, которые дает этот талант. Генерация ярости от Fel Rush огромна, а дополнительная секунда на оглушение очень сильна, и все это за счет одного PvP-таланта.<br>
+<br>
+Другие варианты, которые можно рассмотреть, если у вас уже есть [Смертельный танец](https://ru.wowhead.com/spell=328725/) раны в вашей команде.<br>
+
+[**Беглый взгляд**](https://ru.wowhead.com/spell=354489) - полностью убирает эффекты обезоруживания, поэтому используйте этот талант, если вы против команды с способностью обезоруживания.<br>
+<br>
+[Очищение пламенем](https://www.wowhead.com/spell=205625) - очень силен против всех магических эффектов корни, ловушки или ДоТы.<br>
+
+{{ site.data.talent.Detainment }} усиливает способность {{ site.data.spell.Imprison }}, под его действием {{ site.data.spell.Imprison }} цель становится невосприимчивой к урону, лечению и его нельзя сдиспелить. {{ site.data.spell.Imprison }} делит диминишинг вместе с {{ site.data.talent.Polymorph }} и {{ site.data.talent.Paralysis }}. <br>
+
+[Вечная ненависть](https://ru.wowhead.com/spell=213480) - дает огромное количество гнева от любого источника урона!<br>
+
+* {{ site.data.talent.Rain_from_Above }} можно использовать против мили составов, чтобы избежать урона, когда {{ site.data.spell.Blur }}, {{ site.data.talent.Darkness }} и {{ site.data.talent.Netherwalk }} находятся на перезарядке.
 
 <hr>
 

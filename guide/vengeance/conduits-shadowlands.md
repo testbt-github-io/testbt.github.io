@@ -1,10 +1,10 @@
 ---
 layout: guide
-title: БиС лист
-description: Гайд для Охотников на Демонов Месть 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
-author: Airithez и Rodriguezz
+title: Проводники (Кондуиты)
+description: Гайд Лучшие Проводники (Кондуиты) для Охотников на Демонов Месть 9.1.5 PvE Shadowlands
+last_update: 2021-11-14 09:00:00
+game_version: 9.1.5 Shadowlands 
+author: Rodriguezz
 image:
     path: assets/img/blog/prev/spec_logo_VDH.png
 ---
@@ -30,180 +30,120 @@ image:
 <a href="{{ site.url }}/guide/vengeance/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
-## Рекомендуемое снаряжение
 
-<p style="color:#ff4040;font-size:1.7em;">Предоставленная тут информация является справочной, всегда используйте симкрафт</p>
 
-### Что такое БиС лист
+<br>
+<a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-БиС лист (BiS - best in slot)- это список из лучшего снаряжения доступного в игре из всех источников.
+<details>
+ <summary><i>История изменений</i></summary>
+    <details open>
+     <summary><i>Патч 9.1</i></summary>
+      <ul>
+        <li><a href="https://ru.wowhead.com/item=183463">Неестественная злоба</a> - Теперь усиливает урон от ДоТа Охоты.</li>
+        <li>Добавлен новый Кондуит <a href="https://ru.wowhead.com/spell=357902">Фрагмент адаптивной брони</a> - Когда вы получаете исцеление от другого игрока, ваша основная характеристика повышается на 2-3.6% на 15 секунд. Срабатывает не чаще раза в 30 секунд.</li>
+        <li>Добавлен новый Кондуит <a href="https://ru.wowhead.com/spell=357888">Сфера концентрированной анимы</a> - Когда вы получаете урон, вы восполняете 2.5-4.5% максимального запаса здоровья. Срабатывает не чаще раза в 10 секунд. </li>
+      </ul>
+    </details>
+</details>
 
-Снаряжение не вошедшие в этот список, может быть столь же хорошими, поэтому вам следует ссылаться на приоритеты характеристик, указанные на странице <a href="{{ site.url }}/guide/vengeance/stats.html"> Характеристики</a> и наше руководство по<a href="{{ site.url }}/guide/general/raidbots.html"> Raidbots</a>, которое поможет определить лучший набор снаряжения на основе того, что находиться у вас в инвентаре.	   
+<hr>
+
+## Проводники Охотников на Демонов Месть
+
+### <img src="/assets/img/guide/havoc/potency.png" width="15" height="100%"> Проводники силы
 
 <div class="table-box" markdown="1">
 
-|Слот|Название|Камень господства|Добывается|
-|Голова|[Колпак извивающегося зла](https://ru.wowhead.com/item=186292/)|[Осколок Диз](https://ru.wowhead.com/item=187073)|[Душа Нер'зула](https://ru.wowhead.com/npc=175729)|
-|Шея|[Межпланарный краеугольный камень](https://ru.wowhead.com/item=186379)| - |[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Плечо|[Наплеч доверенного-предателя](https://ru.wowhead.com/item=186336)|[Осколок Кор](https://ru.wowhead.com/item=187063)|[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Плащ|[Самовоспроизводящаяся ткань](https://ru.wowhead.com/item=186374/)| - |[Стражница Предвечных](https://ru.wowhead.com/npc=175731)|
-|Грудь|[Клепаная кираса иссохшего сердца](https://ru.wowhead.com/item=186334)|[Осколок Бек](https://ru.wowhead.com/item=187057)|[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
-|Запястье|[Путы с нитями судьбы](https://ru.wowhead.com/item=186335)| - |[Писарь судьбы Ро-Кало](https://ru.wowhead.com/npc=179390)|
-|Руки|[Повязки верного квалдира](https://ru.wowhead.com/item=186295)|[Осколок Рев](https://ru.wowhead.com/item=187061)|[Око Тюремщика](https://ru.wowhead.com/npc=180018)|
-|Пояс|[Перевязь Ветрокрылой](https://ru.wowhead.com/item=186332)| - |[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
-|Ноги|[Брюки элитного аранакка](https://ru.wowhead.com/item=186331)| - |[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Сапоги|[Сапоги нестабильной энергии](https://ru.wowhead.com/item=186363)|[Осколок Джас](https://ru.wowhead.com/item=187059)|[Стражница Предвечных](https://ru.wowhead.com/npc=175731)|
-|Кольцо 1|[Потускневший знак Кель'Таласа](https://ru.wowhead.com/item=186377)| - |[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
-|Кольцо 2|[Миниатюрное колесо для казни](https://ru.wowhead.com/item=186375)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
-|Аксессуар 1|[Забрызганная кровью чешуйка](https://ru.wowhead.com/item=179331)| - |[Та Сторона](https://ru.wowhead.com/de-other-side)|
-|Аксессуар 2|[Осколок эгиды Аннгильды](https://ru.wowhead.com/item=1864241)| - |[Скайя](https://ru.wowhead.com/npc=175726)|
-|Основная рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
-|Левая рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
+|Проводник|Описание|Рейд|Мифик+|
+|<a href="https://ru.wowhead.com/spell=357902" target="blank" data-wh-icon-size="medium" > **Фрагмент адаптивной брони**</a>|Это приличный бафф основного стата 50% аптаймом, так как нас всегда лечит другой игрок.|Незначительный прирост ДПС|Незначительный прирост ДПС|
+|<a href="https://ru.wowhead.com/spell=339231" target="blank" data-wh-icon-size="medium" > **Нарастающий жар преисподней**</a>|Сильный бафф [Обжигающего жар](https://ru.wowhead.com/spell=258920/). Кондуит значительное увеличивает его урон, особенно в AoE.|Хороший прирост ДПС|Сильный прирост ДПС|
+|<a href="https://ru.wowhead.com/spell=339423" target="blank" data-wh-icon-size="medium" > **Кузня души**</a>|Это небольшой бафф для [Раскалывание душ](https://ru.wowhead.com/spell=228477) за каждые 10 использованных фрагментов души. В целом он почти ничего не делает и не является лучшим выбором.|Незначительный прирост ДПС|Незначительный прирост ДПС|
 
 </div>
-<br>
 
-<p style="color:#ff4040;font-size:1.7em;">Предоставленная тут информация является справочной, всегда используйте симкрафт</p>
+### <img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg" width="15" height="100%"> Проводники Ковенантов
 
-## Легендарные предметы
+<div class="table-box" markdown="1">
 
-* {{ site.data.legendary.Razelikhs_Defilement }} — несмотря на нерф, все еще хорошая легендарка, хотя и потеряла основную свою привлекательность. Полезна в М+ контенте или исключительно для ДПС в рейде
-> Можно применить на штаны или наручи
+|Ковенант|Проводник|Описание|Рейд|Мифик+|
+|<span class="c8">Кирии</span>|<a href="https://ru.wowhead.com/spell=339895" target="blank" data-wh-icon-size="medium" > **Повторный указ**</a>|Проводник повторно активирует [Элизийский декрет](https://ru.wowhead.com/spell=306830), который наносит часть урона. Повторная активация не генерирует дает дополнительные души. Тем не менее, это сильное увеличение одной из наших самых мощных АоЕ способностей.|Сильный прирост ДПС|Сильный прирост ДПС|
+|<span class="r3">Некролорды</span>|<a href="https://ru.wowhead.com/spell=340063" target="blank" data-wh-icon-size="medium" > **Мрачное пламя**</a>|Проводник увеличивает время действия баффа от поглощения [Душа демона](https://ru.wowhead.com/spell=347765). Отличный выбор, если вы играете в ковенанте <span class="r3">Некролордов</span>, так как он может продлить время действия баффа до 11 секунд.|Сильно увеличивает аптайм баффа|Сильно увеличивает аптайм баффа|
+|<span class="c12">Ночной Народец</span>|<a href="https://ru.wowhead.com/spell=344358" target="blank" data-wh-icon-size="medium" > **Неестественная злоба**</a>|Сильное усилителе ДоТа [Охоты](https://ru.wowhead.com/spell=323639).|Хороший прирост ДПС|Сильный прирост ДПС|
+|<span class="q10">Вентиры</span>|<a href="https://ru.wowhead.com/spell=340028" target="blank" data-wh-icon-size="medium" > **Повышенная бдительность**</a>|Хорошее сокращение перезарядки [Клеймо греха](https://ru.wowhead.com/spell=317009).|Хороший прирост ДПС|Хороший прирост ДПС|
 
-Рецепт на этот легендарный предмет добывается с босса {{ site.data.mplus.Xav_the_Unfallen }} подземелья {{ site.data.mplus.Theater_of_Pain }}.
+</div>
 
-* {{ site.data.legendary.Fiery_Soul }} — основа нашего клеймобилда. Очень хорошая легендарка как для рейда, так и для М+. Не советуется использовать в паре со  {{ site.data.talent.Spirit_Bomb }}
-> Можно применить на наручи
-	
-Рецепт на этот легендарный предмет добывается в Торгасте с 3го уровня и выше.
+### <img src="/assets/img/guide/havoc/endurance.png" width="15" height="100%"> Проводники выносливости
 
-* {{ site.data.legendary.Darkglare_Boon }} — очень маленький шанс отката для способности с большим временем восстановления. Слабый вариант
-> Можно применить на амулет или пояс
- 
- Рецепт на этот легендарный предмет добывается с босса {{ site.data.mplus.Margrave_Stradama }} подземелья {{ site.data.mplus.Plaguefall }}.
- 
-* {{ site.data.legendary.Collective_Anguish }} — как и предыдущий легендарный эффект, слабый в первую очередь из-за большого КД нашего {{ site.data.spell.Fel_Devastation }}
-> Можно применить на плащ или наручи.
+<div class="table-box" markdown="1">
 
-Рецепт на этот легендарный предмет добывается с предпоследнего босса {{ site.data.mplus.General_Kaal }} рейда {{ site.data.mplus.Castle_Nathria }}.
+|Проводник|Описание|Рейд|Мифик+|
+|<a href="https://ru.wowhead.com/spell=338671" target="blank" data-wh-icon-size="medium" > **Защитник Скверны**</a>|Уменьшает время восстановления [Опустошение Скверной](https://ru.wowhead.com/spell=198212084589).|Используем всегда|Используем всегда|
+|<a href="https://ru.wowhead.com/spell=338793" target="blank" data-wh-icon-size="medium" > **Расколотое исцеление**</a>|Проводник улучшает наше самоисцеление, особенно при использовании.|Высокий приоритет|Высокий приоритет|
+|<a href="https://ru.wowhead.com/spell=338682" target="blank" data-wh-icon-size="medium" > **Вязкие чернила**</a>|Постоянное снижение магического урона. Очень хороший защитный бафф, особенно в боях, где много магического урона.|Хороший выбор|Хороший выбор|
+|<a href="https://ru.wowhead.com/spell=339587" target="blank" data-wh-icon-size="medium" > **Демонический намордник**</a>|Это строго более слабая версия [Вязких чернил](https://ru.wowhead.com/spell=338682), поскольку она имеет меньшее уменьшение урона и работает только в течение 8 секунд после использования [Печати немоты](https://ru.wowhead.com/spell=202137).|Плохой выбор|Плохой выбор|
+|<a href="https://ru.wowhead.com/spell=339644" target="blank" data-wh-icon-size="medium" > **Ревущий огонь**</a>|Очень незначительное исцеление. [Опустошение Скверной](https://ru.wowhead.com/spell=212084/) исцеляет примерно на 10-15% от максимального запаса здоровья. Даже на высоких рангах кондуита это в лучшем случае дает около 5% исцеления.|Очень слабый|Очень слабый|
 
-* {{ site.data.legendary.Fel_Flame_Fortification }} — в теории неплохой легендарный эффект в боях против магии, на практике будет играться разве что возможным вторым слотом
-> Можно применить на пояс или кольцо
+</div>
 
-Рецепт на этот легендарный предмет добывается с босса {{ site.data.mplus.Lady_Inerva_Darkvein }} подземелья {{ site.data.mplus.Castle_Nathria}}.
+## Лучшие проводники для Рейда
 
-## Аксессуары
+<img src="/assets/img/guide/havoc/potency.png" width="15" height="100%"> <u>Проводники силы</u>
 
-* {{ site.data.item.Blood_Spattered_Scale }} очень сильный дополнительный сейв. Дает много абсорба и хороший урон. Отличный вариант для М+ контента и прочих АОЕ сценариев
-* {{ site.data.item.Anima_Field_Emitter }} дает много скорости с высоким аптаймом, что могло быть хорошим бонусом, если бы не привязка к позиции. Лужа, дающая скорость, довольно небольшая, что делает использование трини на большинстве энкаунтеров проблемным
-* {{ site.data.item.Splintered_Heart_of_Alar }} просто читдез. Огромное кд, шанс осечки крайне мал. Неплохо, если вам нужен еще один читдез, но в целом крайне слабый и ситуативный аксессуар
-* [Осколок эгиды Аннгильды](https://ru.wowhead.com/item=1864241)| - Хороший защитный аксессуары, который поглощает много урона.
+1. [Нарастающий жар преисподней](https://ru.wowhead.com/spell=339231/)  **используем всегда**.
+1. [Повторный указ](https://ru.wowhead.com/spell=339895/) 
+1. [Фрагмент адаптивной брони](https://ru.wowhead.com/spell=357902/) 
+1. [Кузня души](https://ru.wowhead.com/spell=339423/) 
 
-## Уровни предметов в 2 сезоне эпохальных+ подземелий Shadowlands
+<p class="tanknotes-section-error" markdown="1">
+У нас всегда будет занят один слот проводником силы [Нарастающий жар преисподней](https://ru.wowhead.com/spell=339231/), а второй слот ковенанским проводником. 
+</p>
 
-<table class="grid" style="max-width:750px">
-<tbody>
-<tr>
-<td style="text-align: center;"><b>Уровень ключа</b></td>
-<td style="text-align: center;"><b>В конце подземелья</b></td>
-<td style="text-align: center;"><b>В недельном сундуке</b></td>
-</tr>
-<tr><td>Эпохальный 2</td>
-<td style="text-align: center;">213</td>
-<td style="text-align: center;">226</td>
-</tr>
-<tr><td>Эпохальный 3</td>
-<td style="text-align: center;">216</td>
-<td style="text-align: center;">229</td>
-</tr>
-<tr>
-<td>Эпохальный 4</td>
-<td style="text-align: center;">220</td>
-<td style="text-align: center;">233</td>
-</tr>
-<tr><td>Эпохальный 5</td>
-<td style="text-align: center;">220</td>
-<td style="text-align: center;">236</td>
-</tr>
-<tr>
-<td>Эпохальный 6</td>
-<td style="text-align: center;">223</td>
-<td style="text-align: center;">236</td>
-</tr>
-<tr>
-<td>Эпохальный 7</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">239</td>
-</tr>
-<tr>
-<td>Эпохальный 8</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">242</td>
-</tr>
-<tr>
-<td>Эпохальный 9</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">242</td>
-</tr>
-<tr>
-<td>Эпохальный 10</td>
-<td style="text-align: center;">229</td>
-<td style="text-align: center;">246</td>
-</tr>
-<tr>
-<td>Эпохальный 11</td>
-<td style="text-align: center;">229</td>
-<td style="text-align: center;">246</td>
-</tr>
-<tr>
-<td>Эпохальный 12</td>
-<td style="text-align: center;">233</td>
-<td style="text-align: center;">249</td>
-</tr><tr><td>Эпохальный 13</td>
-<td style="text-align: center;">233</td>
-<td style="text-align: center;">249</td>
-</tr>
-<tr>
-<td>Эпохальный 14</td>
-<td style="text-align: center;">233</td>
-<td style="text-align: center;">252</td>
-</tr>
-<tr>
-<td>Эпохальный 15+</td>
-<td style="text-align: center;">236</td>
-<td style="text-align: center;">252</td>
-</tr>
-</tbody>
-</table>
+<img src="/assets/img/guide/havoc/endurance.png" width="15" height="100%"> <u>Проводники выносливости</u>
 
-## Уровни предметов в рейде Святилища господства
+1. {{ site.data.conduits.Fel_Defender }}
+1. [Конденсированная сфера анимы](https://ru.wowhead.com/spell=357888)
+1. [Расколотое исцеление](https://ru.wowhead.com/spell=338793/)
+1. {{ site.data.conduits.Viscous_Ink }}
 
-<table class="grid" style="max-width:750px">
-<tbody>
-<tr>
-<td style="text-align: center;"><b>Сложность</b></td>
-<td style="text-align: center;"><b>Первые 8 боссов</b></td>
-<td style="text-align: center;"><b>Последние 2 босса</b></td>
-</tr>
-<tr><td>ЛФР</td>
-<td style="text-align: center;">213</td>
-<td style="text-align: center;">220</td>
-</tr>
-<tr><td>Обычная</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">233</td>
-</tr>
-<tr>
-<td>Героическая</td>
-<td style="text-align: center;">239</td>
-<td style="text-align: center;">246</td>
-</tr>
-<tr><td>Эпохальный</td>
-<td style="text-align: center;">252</td>
-<td style="text-align: center;">259</td>
-</tr>
-</tbody>
-</table>
+<p class="tanknotes-section-error" markdown="1">
+Это приоритет выбора кондуитов для в которых мало магического урона, в боях где преобладает магия {{ site.data.conduits.Viscous_Ink }} уйдет на второе место в приоритете. 
+</p>
+
+<img src="/assets/img/guide/havoc/finesse.png" width="15" height="100%"> <u>Проводники точности</u>
+
+1. {{ site.data.conduits.Felfire_Haste }}
+1. {{ site.data.conduits.Ravenous_Consumption }}
+
+## Лучшие проводники для Мифик+
+
+<img src="/assets/img/guide/havoc/potency.png" width="15" height="100%"> <u>Проводники силы</u>
+
+1. [Нарастающий жар преисподней](https://ru.wowhead.com/spell=339231/)  **используем всегда**.
+1. [Повторный указ](https://ru.wowhead.com/spell=339895/) 
+1. [Фрагмент адаптивной брони](https://ru.wowhead.com/spell=357902/) 
+1. [Кузня души](https://ru.wowhead.com/spell=339423/) 
+
+<p class="tanknotes-section-error" markdown="1">
+У нас всегда будет занят один слот проводником силы [Нарастающий жар преисподней](https://ru.wowhead.com/spell=339231/), а второй слот ковенанским проводником. 
+</p>
+
+<img src="/assets/img/guide/havoc/endurance.png" width="15" height="100%"> <u>Проводники выносливости</u>
+
+1. {{ site.data.conduits.Fel_Defender }}
+1. [Конденсированная сфера анимы](https://ru.wowhead.com/spell=357888)
+1. [Расколотое исцеление](https://ru.wowhead.com/spell=338793/)
+1. {{ site.data.conduits.Viscous_Ink }}
+
+<p class="tanknotes-section-error" markdown="1">
+Это приоритет выбора кондуитов для в которых мало магического урона, в боях где преобладает магия {{ site.data.conduits.Viscous_Ink }} уйдет на второе место в приоритете. 
+</p>
+
+<img src="/assets/img/guide/havoc/finesse.png" width="15" height="100%"> <u>Проводники точности</u>
+
+1. {{ site.data.conduits.Felfire_Haste }}
+1. {{ site.data.conduits.Ravenous_Consumption }}
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/stats.html">Назад:<br>Характеристики</a></div> 
 <div class="minibox"><a href="{{ site.url }}/guide/vengeance/covenant.html">Далее:<br>Ковенанты</a></div>
