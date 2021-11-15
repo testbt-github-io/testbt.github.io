@@ -145,10 +145,12 @@ image:
 1. {{ site.data.conduits.Felfire_Haste }}
 1. {{ site.data.conduits.Ravenous_Consumption }}
 
+<hr>
+
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/stats.html">Назад:<br>Характеристики</a></div> 
 <div class="minibox"><a href="{{ site.url }}/guide/vengeance/covenant.html">Далее:<br>Ковенанты</a></div>
 
-
+<br>
 
 
 
