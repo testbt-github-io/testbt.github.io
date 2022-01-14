@@ -11,25 +11,25 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Кратко и Быстро</span></a>
-<a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
-<a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
-<a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
-<a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
-<a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a href="{{ site.url }}/guide/havoc/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a href="{{ site.url }}/guide/havoc/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
-<a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
-<a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_mekkatorque_bot_bluegear.jpg"> Ротация</a>
-<a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
-<a href="{{ site.url }}/guide/havoc/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
-<a href="{{ site.url }}/guide/havoc/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
-<a href="{{ site.url }}/guide/havoc/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
-<a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Кратко и Быстро</span></a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_mekkatorque_bot_bluegear.jpg"> Ротация</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
 
@@ -223,31 +223,31 @@ image:
 <br>
 
 <div style="text-align: -webkit-center;">
-<a class="c12 cta-button" href="{{ site.url }}/guide/havoc/talent-builds.html" data-border="strong" data-markup-content-target="1" data-icon="true">
+<a class="c12 cta-button" href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/talent-builds.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
 </span>Гайд по талантам Охотников на Демонов</a></div><br>
 
 ## Какой ковенант выбрать
 
 **Лучший выбор для рейда.**
-1. Ночной народец <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22">
-1. Вентиры <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24">
-1. Кирии <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24">
-1. Некролорды <img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24">
+1. Ночной народец <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_5/nightfae.png" width="22" height="22">
+1. Вентиры <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_5/venthyr.png" width="16" height="24">
+1. Кирии <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_5/kyrian.png" width="16" height="24">
+1. Некролорды <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_5/nekrolords.png" width="16" height="24">
 
 <p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">
 
-На 30 уровне известности ковенант <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="24" height="24"> **Ночного народца** получает сильную прибавку в уроне и обгоняет ближайших конкурентов примерно на 100-150 урона.  Для рейдов советую рассматривать либо <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="24" height="24"> **Ночной народец** либо <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> **Вентиров**.
+На 30 уровне известности ковенант <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_5/nightfae.png" width="24" height="24"> **Ночного народца** получает сильную прибавку в уроне и обгоняет ближайших конкурентов примерно на 100-150 урона.  Для рейдов советую рассматривать либо <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_5/nightfae.png" width="24" height="24"> **Ночной народец** либо <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_5/venthyr.png" width="16" height="24"> **Вентиров**.
 
 </span></p>
 
 **Лучший выбор для М+**
-1. Ночной народец <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22"> / Вентиры <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> / Некролорды <img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24">
-1. Кирии <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24">
+1. Ночной народец <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_5/nightfae.png" width="22" height="22"> / Вентиры <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_5/venthyr.png" width="16" height="24"> / Некролорды <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_5/nekrolords.png" width="16" height="24">
+1. Кирии <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_5/kyrian.png" width="16" height="24">
 
 <p class="tanknotes-section-success" markdown="1"><span style="font-weight: 400;">
 
-Для М+ на данный момент выбор ковенанта особой роли не играет, т.к. игра в каждом ковенанте имеет свои плюсы и минусы. Если вы проводите львиную долю игры в ключах, а мифик рейды вас не интересуют, а ПвП вам всю жизнь было противно - то можете выбрать любой ковенант. Если вы планируете играть ключи и покорять  "прогулочным шагом" мифик рейды - то стоит выбирать между <img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> Вентирами и <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22"> Ночным народцем . Если вы играете во все аспекты игры (мифик рейды, М+ и пвп) то ваш выбор ограничен (увы) Ночной народец <img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="22" height="22"> Ночным народцем.
+Для М+ на данный момент выбор ковенанта особой роли не играет, т.к. игра в каждом ковенанте имеет свои плюсы и минусы. Если вы проводите львиную долю игры в ключах, а мифик рейды вас не интересуют, а ПвП вам всю жизнь было противно - то можете выбрать любой ковенант. Если вы планируете играть ключи и покорять  "прогулочным шагом" мифик рейды - то стоит выбирать между <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_5/venthyr.png" width="16" height="24"> Вентирами и <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_5/nightfae.png" width="22" height="22"> Ночным народцем . Если вы играете во все аспекты игры (мифик рейды, М+ и пвп) то ваш выбор ограничен (увы) Ночной народец <img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_1_5/nightfae.png" width="22" height="22"> Ночным народцем.
 
 </span></p>
 
@@ -284,10 +284,10 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 Больше информации про ковенанты:
 
 <div id="smooth-nav-сovencolum">
-<a class="c12 cta-button" href="{{ site.url }}/guide/havoc/night-fae.html" style="border-color: #a330c9"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a class="r3 cta-button" href="{{ site.url }}/guide/havoc/necrolord.html" style="border-color: #40bf40"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a class="q10 cta-button" href="{{ site.url }}/guide/havoc/venthyr.html" style="border-color: #ff4040"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a class="c8 cta-button" href="{{ site.url }}/guide/havoc/kyrian.html" style="border-color: #68ccef"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
+<a class="c12 cta-button" href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/night-fae.html" style="border-color: #a330c9"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
+<a class="r3 cta-button" href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/necrolord.html" style="border-color: #40bf40"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
+<a class="q10 cta-button" href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/venthyr.html" style="border-color: #ff4040"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
+<a class="c8 cta-button" href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/kyrian.html" style="border-color: #68ccef"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
 </div>
 
 <br>
@@ -296,7 +296,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 
 ### Рейд
 
-<img src="/assets/img/guide/havoc/potency.png" width="15" height="100%"> <u>Проводники силы</u>
+<img src="/assets/img/guide/archive/havoc/Shadowlands_9_1_5/potency.png" width="15" height="100%"> <u>Проводники силы</u>
 
 * {{ site.data.conduits.Growing_Inferno }} — урон способности {{ site.data.spell.Immolation_Aura }} дополнительно увеличивается на 10-18% каждый раз, когда она наносит урон. 
 Очень сильно увеличивает урон от {{site.data.spell.Immolation_Aura }}, **используем всегда**.
@@ -311,7 +311,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 * {{ site.data.conduits.Demons_Touch }} —  {{ site.data.spell.Chaos_Strike }} с вероятностью 5-9% сработает еще раз.
 > Добыча: подземелье [Чумные каскады](https://ru.wowhead.com/plaguefall) босс [Домина Отравленный Клинок](https://ru.wowhead.com/npc=164266)
 
-<img src="/assets/img/guide/havoc/endurance.png" width="15" height="100%"> <u>Проводники выносливости</u>
+<img src="/assets/img/guide/archive/havoc/Shadowlands_9_1_5/endurance.png" width="15" height="100%"> <u>Проводники выносливости</u>
 
 * {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} снижает получаемый вами урон от магии дополнительно на 6-13%. Очень сильный проводник, берем когда в бою присутствует магический урон.
 > Добыча: подземелье [Тайный рынок Тазавеш](https://ru.wowhead.com/zone=13577/) босс [Со'азми](https://ru.wowhead.com/npc=175806)
@@ -322,7 +322,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 * [Конденсированная сфера анимы](https://ru.wowhead.com/spell=357888) — При получении любого урона вы восполняете 0.25-0.45% максимального запаса здоровья. Эффект срабатывает не чаще раза в 10 сек.
 > Добыча: мировой босс [Мор'гет](https://ru.wowhead.com/npc=178958/)
 
-<img src="/assets/img/guide/havoc/finesse.png" width="15" height="100%"> <u>Проводники точности</u>
+<img src="/assets/img/guide/archive/havoc/Shadowlands_9_1_5/finesse.png" width="15" height="100%"> <u>Проводники точности</u>
 
 * {{ site.data.conduits.Felfire_Haste }} — ваша скорость передвижения повышается на 5-20% после использования способности {{ site.data.spell.Fel_Rush }}. Дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку.
 > Добыча: рейд [Святилище Господства](https://ru.wowhead.com/zone=13561/) босс [Сир Денатрий](https://ru.wowhead.com/npc=179390/)
@@ -332,7 +332,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 
 ### Мифик+
 
-<img src="/assets/img/guide/havoc/potency.png" width="15" height="100%"> <u>Проводники силы</u>
+<img src="/assets/img/guide/archive/havoc/Shadowlands_9_1_5/potency.png" width="15" height="100%"> <u>Проводники силы</u>
 
 * {{ site.data.conduits.Growing_Inferno }} — урон способности {{ site.data.spell.Immolation_Aura }} дополнительно увеличивается на 10-18% каждый раз, когда она наносит урон. 
 Очень сильно увеличивает урон от {{site.data.spell.Immolation_Aura }}, **используем всегда**.
@@ -347,7 +347,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 * [Неестественная злоба](https://ru.wowhead.com/spell=344358) — Увеличивает урон ДоТа "Охоты" , на 25-45%.
 > Добыча: рейд [Замок Нафрия](https://ru.wowhead.com/castle-nathria) босс [Сир Денатрий](https://ru.wowhead.com/npc=167406) и мировые боссы
 
-<img src="/assets/img/guide/havoc/endurance.png" width="15" height="100%"> <u>Проводники выносливости</u>
+<img src="/assets/img/guide/archive/havoc/Shadowlands_9_1_5/endurance.png" width="15" height="100%"> <u>Проводники выносливости</u>
 
 * {{ site.data.conduits.Viscous_Ink }} — {{ site.data.spell.Demonic_WardsHDH }} снижает получаемый вами урон от магии дополнительно на 6-13%. Очень сильный проводник, берем когда в бою присутствует магический урон.
 > Добыча: подземелье [Tazavesh, the Veiled Market](https://ru.wowhead.com/zone=13577/) босс [So'azmi](https://ru.wowhead.com/npc=175806)
@@ -358,7 +358,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 * [Конденсированная сфера анимы](https://ru.wowhead.com/spell=357888) — При получении любого урона вы восполняете 0.25-0.45% максимального запаса здоровья. Эффект срабатывает не чаще раза в 10 сек.
 > Добыча: мировой босс [Мор'гет](https://ru.wowhead.com/npc=178958/)
 
-<img src="/assets/img/guide/havoc/finesse.png" width="15" height="100%"> <u>Проводники точности</u>
+<img src="/assets/img/guide/archive/havoc/Shadowlands_9_1_5/finesse.png" width="15" height="100%"> <u>Проводники точности</u>
 
 * {{ site.data.conduits.Felfire_Haste }} — ваша скорость передвижения повышается на 5-20% после использования способности {{ site.data.spell.Fel_Rush }}. Дает дополнительную мобильность и без того мобильному классу. Все же является единственным универсальным выбором проводника в эту ячейку.
 > Добыча: рейд [Святилище Господства](https://ru.wowhead.com/zone=13561/) босс [Fatescribe Roh-Kalo](https://ru.wowhead.com/npc=179390/)
@@ -369,7 +369,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 <br>
 
 <div style="text-align: -webkit-center; text-align: -moz-center;">
-<a class="c12 cta-button" href="{{ site.url }}/guide/havoc/conduits-shadowlands.html" data-border="strong" data-markup-content-target="1" data-icon="true">
+<a class="c12 cta-button" href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/conduits-shadowlands.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
 </span>Гайд по Проводникам (Кондуитам) Охотников на Демонов</a></div><br>
 
@@ -423,7 +423,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 <br>
 
 <div style="text-align: -webkit-center; text-align: -moz-center;">
-<a class="c12 cta-button" href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html" data-border="strong" data-markup-content-target="1" data-icon="true">
+<a class="c12 cta-button" href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/legendaries-shadowlands.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
 </span>Гайд Легендарным предметам Охотников на Демонов</a></div><br>
 
@@ -462,7 +462,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 <br>
 
 <div style="text-align: -webkit-center; text-align: -moz-center;">
-<a class="c12 cta-button" href="{{ site.url }}/guide/havoc/domination-set-bonuses.html" data-border="strong" data-markup-content-target="1" data-icon="true">
+<a class="c12 cta-button" href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/domination-set-bonuses.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
 </span>Гайд Осколкам Господства Охотников на Демонов</a></div><br>
 
@@ -556,7 +556,7 @@ DPS = a1 х Crit+a2 х Haste+a3 х Mastery+a4 х Versatility+a5 х Agility + а6
 <br>
 
 <div style="text-align: -webkit-center; text-align: -moz-center;">
-<a class="c12 cta-button" href="{{ site.url }}/guide/havoc/stats.html" data-border="strong" data-markup-content-target="1" data-icon="true">
+<a class="c12 cta-button" href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/stats.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
 </span>Гайд по Приоритету характеристик Охотников на Демонов</a></div><br>
 
@@ -584,7 +584,7 @@ DPS = a1 х Crit+a2 х Haste+a3 х Mastery+a4 х Versatility+a5 х Agility + а6
 <br>
 
 <div style="text-align: -webkit-center; text-align: -moz-center;">
-<a class="c12 cta-button" href="{{ site.url }}/guide/havoc/gear.html" data-border="strong" data-markup-content-target="1" data-icon="true">
+<a class="c12 cta-button" href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/gear.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
 </span>Полный БиС лист Охотников на Демонов</a></div><br>
 
@@ -604,7 +604,7 @@ DPS = a1 х Crit+a2 х Haste+a3 х Mastery+a4 х Versatility+a5 х Agility + а6
 * [Точильный камень секущих ветров](https://ru.wowhead.com/item=137486) - Добываеться с ключей легиона во время события путишествий во времени. Очень сильный АоЕ трыньке с оверолом 7%+, стоит выфармить пока есть возможность.
 * [Неисправная система безопасности](https://ru.wowhead.com/item=137539) - Добываеться с ключей легиона во время события путишествий во времени. Очень сильный трынькет для СТ боя, по цифрам лучше катализатора.
 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/overview.html">Далее:<br>Обзор</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/overview.html">Далее:<br>Обзор</a></div>
 
 
 <script>

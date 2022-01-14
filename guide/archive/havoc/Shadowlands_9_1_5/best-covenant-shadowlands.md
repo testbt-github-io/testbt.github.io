@@ -11,25 +11,25 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
-<a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"><span style="color: white;"> Лучший ковенант</span></a>
-<a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
-<a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
-<a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
-<a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a href="{{ site.url }}/guide/havoc/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a href="{{ site.url }}/guide/havoc/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
-<a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
-<a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_mekkatorque_bot_bluegear.jpg"> Ротация</a>
-<a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
-<a href="{{ site.url }}/guide/havoc/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
-<a href="{{ site.url }}/guide/havoc/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
-<a href="{{ site.url }}/guide/havoc/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
-<a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"><span style="color: white;"> Лучший ковенант</span></a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_mekkatorque_bot_bluegear.jpg"> Ротация</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
 
@@ -53,24 +53,24 @@ image:
 <td style="text-align: center;"><b>Лучший Медиум</b></td>
 </tr>
 <tr>
-<td><span class="q8"><a href="{{ site.url }}/guide/havoc/kyrian.html">Кирии</a></span></td>
+<td><span class="q8"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/kyrian.html">Кирии</a></span></td>
 <td>Хороший</td>
 <td><a href="https://ru.wowhead.com/soulbind-calc/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fCBUszwgldg4IIxUq-gglKu8INXYACA">Пелагос</a></td>
 </tr>
 <tr>
 <td>
-<a href="{{ site.url }}/guide/havoc/necrolord.html"><span class="r3">Некролорды</span></a></td>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/necrolord.html"><span class="r3">Некролорды</span></a></td>
 <td>Сильный</td>
 <td><a href="https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvCBMFLR8IFTBfCCUszwgiFSr6CCUq7wg">Изобретатель чумы Марилет</a></td>
 </tr>
 <tr>
-<td><span class="q4"><a href="{{ site.url }}/guide/havoc/night-fae.html">Ночной Народец</a></span></td>
+<td><span class="q4"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/night-fae.html">Ночной Народец</a></span></td>
 <td>Сильный</td>
 <td><a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/AwaZZr4BJStvCBMFLR8IFS0cCCUszwgiBSrvCCUq-gg">Творец Снов (СТ)</a> / 
 <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн (АоЕ)</a></td>
 </tr>
 <tr>
-<td><span class="q10"><a href="{{ site.url }}/guide/havoc/venthyr.html">Вентиры</a></span></td>
+<td><span class="q10"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/venthyr.html">Вентиры</a></span></td>
 <td>Сильный</td>
 <td><a href="https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/demon-hunter/AwaWZZYBJStvCBMFLR8IFSzPCCUwPAgiBSr6CBUq7wg">Безумный герцог Теотар</a></td>
 </tr>
@@ -95,22 +95,22 @@ image:
 <td style="text-align: center;"><b>Лучший Медиум</b></td>
 </tr>
 <tr>
-<td><span class="q8"><a href="{{ site.url }}/guide/havoc/kyrian.html">Кирии</a></span></td>
+<td><span class="q8"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/kyrian.html">Кирии</a></span></td>
 <td><b>Низкие Ключи</b>: Сильный<br><b>Высокие Ключи</b>: Хороший</td>
 <td><a href="https://ru.wowhead.com/soulbind-calc/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvCBIFLR8IJS-3CCMVKvoIJSrvCDV2AAg">Миканикос</a></td>
 </tr>
 <tr>
-<td><a href="{{ site.url }}/guide/havoc/necrolord.html"><span class="r3">Некролорды</span></a></td>
+<td><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/necrolord.html"><span class="r3">Некролорды</span></a></td>
 <td><b>Низкие Ключи</b>: Хороший<br><b>Высокие Ключи</b>: Хороший</td>
 <td><a href="https://ru.wowhead.com/soulbind-calc/necrolord/bonesmith-heirmir/demon-hunter/AwaW6pYBBStvCBIFLR8IJTBfCCMVKvoIJSrvCDV2AAg">Костоплав Гейрмир</a></td>
 </tr>
 <tr>
-<td><span class="q4"><a href="{{ site.url }}/guide/havoc/night-fae.html">Ночной Народец</a></span></td>
+<td><span class="q4"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/night-fae.html">Ночной Народец</a></span></td>
 <td><b>Низкие Ключи</b>: Сильный<br><b>Высокие Ключи</b>: Сильный</td>
 <td><a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн</a></td>
 </tr>
 <tr>
-<td><span class="q10"><a href="{{ site.url }}/guide/havoc/venthyr.html">Вентиры</a></span></td>
+<td><span class="q10"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/venthyr.html">Вентиры</a></span></td>
 <td><b>Низкие Ключи</b>: Хороший<br><b>Высокие Ключи</b>: Сильный</td>
 <td><a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWqpYCBStvCCUszQgSBS0fCCUszwgiFSr6CCUq7wg">Наджия</a></td>
 </tr>
@@ -193,10 +193,10 @@ image:
 Безумный герцог Теотар - отличный выбор на все случаи жизни, поскольку все 3 его связи дух последнего уровня предлагают очень мощные баффы.
 
 <div id="smooth-nav-coven">
-<a class="c12 cta-button" href="{{ site.url }}/guide/havoc/night-fae.html" style="border-color: #a330c9"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a class="r3 cta-button" href="{{ site.url }}/guide/havoc/necrolord.html" style="border-color: #40bf40"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a class="q10 cta-button" href="{{ site.url }}/guide/havoc/venthyr.html" style="border-color: #ff4040"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a class="c8 cta-button" href="{{ site.url }}/guide/havoc/kyrian.html" style="border-color: #68ccef"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
+<a class="c12 cta-button" href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/night-fae.html" style="border-color: #a330c9"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
+<a class="r3 cta-button" href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/necrolord.html" style="border-color: #40bf40"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
+<a class="q10 cta-button" href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/venthyr.html" style="border-color: #ff4040"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
+<a class="c8 cta-button" href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/kyrian.html" style="border-color: #68ccef"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
 </div>
 
 ## Симуляция медиумов и связей душ
@@ -205,7 +205,7 @@ image:
 
 <hr>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/overview.html">Назад:<br>Обзор</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/gear.html">Длаее:<br>Бис лист</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/overview.html">Назад:<br>Обзор</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_1_5/gear.html">Длаее:<br>Бис лист</a></div>
 
 <br>
