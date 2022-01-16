@@ -47,65 +47,28 @@ image:
 
 <div class="table-box" markdown="1">
 
-|Слот|Название|Камень господства|Добывается|
-|Голова|[Клобук навязчивого предвидения](https://ru.wowhead.com/item=186330/)|[Осколок Кор](https://ru.wowhead.com/item=187063)|[Писарь судьбы Ро-Кало](https://ru.wowhead.com/npc=179390)|
-|Шея|[Межпланарный краеугольный камень](https://ru.wowhead.com/item=186379)| - |[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Плечо|[Наплеч доверенного-предателя](https://ru.wowhead.com/item=186336)|[Осколок Тел](https://ru.wowhead.com/spell=355748/)|[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Плащ|[Самовоспроизводящаяся ткань](https://ru.wowhead.com/item=186374/)| - |[Стражница Предвечных](https://ru.wowhead.com/npc=175731)|
-|Грудь|[Клепаная кираса иссохшего сердца](https://ru.wowhead.com/item=186334)|[Осколок Кир](https://ru.wowhead.com/spell=355743)|[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
-|Запястье|[Путы с нитями судьбы](https://ru.wowhead.com/item=186335)| - |[Писарь судьбы Ро-Кало](https://ru.wowhead.com/npc=179390)|
-|Руки|[Повязки верного квалдира](https://ru.wowhead.com/item=186295)|[Осколок Бек](https://ru.wowhead.com/item=187057)|[Око Тюремщика](https://ru.wowhead.com/npc=180018)|
-|Пояс|[Перевязь Ветрокрылой](https://ru.wowhead.com/item=186332)| - |[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
-|Ноги|[Брюки элитного аранакка](https://ru.wowhead.com/item=186331)| - |[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Сапоги|[Ботфорты отваги Дашлы](https://ru.wowhead.com/item=186299)|[Осколок Диз](https://ru.wowhead.com/item=187073)|[Девять](https://ru.wowhead.com/npc=178738)|
-|Кольцо 1|[Потускневший знак Кель'Таласа](https://ru.wowhead.com/item=186377)| - |[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
-|Кольцо 2|[Миниатюрное колесо для казни](https://ru.wowhead.com/item=186375)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
-|Аксессуар 1|[Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432)| - |[Стражница Предвечных](https://ru.wowhead.com/npc=175731)|
-|Аксессуар 2|[Флакон тлетворной массы](https://ru.wowhead.com/item=178771)| - |[Чумные каскады](https://ru.wowhead.com/plaguefall)|
-|Основная рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
-|Левая рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
+|Слот|Название|Добывается|
+|Голова|[Клобук навязчивого предвидения](https://ru.wowhead.com/item=186330/)|[Писарь судьбы Ро-Кало](https://ru.wowhead.com/npc=179390)|
+|Шея|[Межпланарный краеугольный камень](https://ru.wowhead.com/item=186379)|[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
+|Плечо|[Наплеч доверенного-предателя](https://ru.wowhead.com/item=186336)|[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
+|Плащ|[Самовоспроизводящаяся ткань](https://ru.wowhead.com/item=186374/)|[Стражница Предвечных](https://ru.wowhead.com/npc=175731)|
+|Грудь|[Клепаная кираса иссохшего сердца](https://ru.wowhead.com/item=186334)|[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
+|Запястье|[Путы с нитями судьбы](https://ru.wowhead.com/item=186335)|[Писарь судьбы Ро-Кало](https://ru.wowhead.com/npc=179390)|
+|Руки|[Повязки верного квалдира](https://ru.wowhead.com/item=186295)|[Око Тюремщика](https://ru.wowhead.com/npc=180018)|
+|Пояс|[Перевязь Ветрокрылой](https://ru.wowhead.com/item=186332)|[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
+|Ноги|[Брюки элитного аранакка](https://ru.wowhead.com/item=186331)|[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
+|Сапоги|[Ботфорты отваги Дашлы](https://ru.wowhead.com/item=186299)|[Девять](https://ru.wowhead.com/npc=178738)|
+|Кольцо 1|[Потускневший знак Кель'Таласа](https://ru.wowhead.com/item=186377)|[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
+|Кольцо 2|[Миниатюрное колесо для казни](https://ru.wowhead.com/item=186375)|[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
+|Аксессуар 1|[Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432)|[Стражница Предвечных](https://ru.wowhead.com/npc=175731)|
+|Аксессуар 2|[Флакон тлетворной массы](https://ru.wowhead.com/item=178771)|[Чумные каскады](https://ru.wowhead.com/plaguefall)|
+|Основная рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)|[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
+|Левая рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)|[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
 
 </div>
 <br>
 
 <p style="color:#ff4040;font-size:1.7em;">Предоставленная тут информация является справочной, всегда используйте симкрафт</p>
-
-Осколки Господства – это новая система из дополнения Цепи Господства, которая сделает добывающуюся в рейде Святилище Господства экипировку наиболее мощной именно в нем. Об этой системе известно следующее:
-
-## Лучший сет Осколков Господства
-
-Охотники на Демонов могут использовать два сетовых набора камней, сет <span style="color: #40bf40">Нечестивости (Анхоли)</span> либо сет <span style="color: #2359ff">Льда (Фрост)</span>
-
-### Рейд сет <span style="color: #40bf40"> Нечестивости (Анхоли)</span>
-
-* [Осколок Диз](https://ru.wowhead.com/item=187073)
-* [Осколок Зед](https://ru.wowhead.com/item=187079)
-* [Осколок От](https://ru.wowhead.com/item=187076)
-* [Осколок Бек](https://ru.wowhead.com/item=187057)
-* [Осколок Кор](https://ru.wowhead.com/item=187063)
-
-### Рейд сет <span style="color: #2359ff">Льда (Фрост)</span>
-
-После усиления Фрост сета он стал обгонять по урону Анхоли сет, особенно в АоЕ и клив боях, а в СТ у них примерно равные показатели. Для игры с Фрост сетом требуется много крита, рекомендую собрать как минимум 40%. 
-
-* [Осколок Кор](https://ru.wowhead.com/item=187063)
-* [Осколок Тел](https://ru.wowhead.com/spell=355748/)
-* [Осколок Кир](https://ru.wowhead.com/spell=355743)
-* [Осколок Бек](https://ru.wowhead.com/item=187057)
-* [Осколок Диз](https://ru.wowhead.com/item=187073)
-
-
-### Мифик+
-
-* [Осколок Кор](https://ru.wowhead.com/item=187063)
-* [Осколок Бек](https://ru.wowhead.com/item=187057)
-* [Осколок Диз](https://ru.wowhead.com/item=187073)
-* [Осколок Кир](https://ru.wowhead.com/spell=355743)
-* [Осколок Рев](https://ru.wowhead.com/item=187061)
-
-Больше информации по Осколкам господства вы можете найти в разделе:
-
-<div style="text-align: -webkit-center; text-align: -moz-center;"><a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html" class="cta-button" data-border="strong"><b>Осколки Господства</b></a></div>
 
 ## Рекомендуемое снаряжение с Мифик+
 
@@ -140,10 +103,7 @@ image:
     * Уменьшение времени восстановления  не всегда срабатывает даже на обычных мобах, даже когда сам тотем атакует дважды и наносит последний удар.
     * Урон от тотема может быть критическим.
     * Зона поражения составляет примерно 50 ярдов _ от тотема, _ не от вашего персонажа.
-* [Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432) - наносит много урона и имеет небольшое КД.
-* [Тикающий мешок ужаса](https://ru.wowhead.com/item=185844) - трынькет с высоким уроном, минус только в его уровне (максимальный илвл 233) и искусности.
-* [Точильный камень секущих ветров](https://ru.wowhead.com/item=137486) - Добываеться с ключей легиона во время события путишествий во времени. Очень сильный АоЕ трыньке с оверолом 7%+, стоит выфармить пока есть возможность.
-* [Неисправная система безопасности](https://ru.wowhead.com/item=137539) - Добываеться с ключей легиона во время события путишествий во времени. Очень сильный трынькет для СТ боя, по цифрам лучше катализатора.
+* [Неисправная система безопасности](https://ru.wowhead.com/item=137539) - Добывается с ключей легиона во время события путешествий во времени. Очень сильный трынькет для СТ боя.
 
 ### Patchwerk
 <div id="bloodmallet_patchwerk" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222" data-language="ru" data-entries="10">Loading...</div>

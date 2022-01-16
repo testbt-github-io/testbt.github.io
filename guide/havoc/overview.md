@@ -1,17 +1,16 @@
 ---
 layout: guide
 title: Обзор
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-10-30 09:00:00
-game_version: 9.1.5 Shadowlands
-author: "Rodriguezz. Оригинал: Wowhead."
+description: Гайд для Охотников на Демонов Истребление 9.2 PvE Shadowlands
+last_update: 2022-01-16 09:00:00
+game_version: 9.2 Shadowlands
+author: Rodriguezz
 toc: true
 image:
     path: assets/img/blog/prev/spec_logo.png
 ---
 
 <div id="smooth-nav-outer">
-
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"><span style="color: white;"> Обзор</span></a>
 <a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
@@ -35,23 +34,33 @@ image:
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## Изменения Охотников на Демонов в патче 9.1.5
+## Изменения Охотников на Демонов в патче 9.2
+В дополнении 9.2 у нас будет возможность носить 2 легендарных предмета: одну любую на ваш выбор, вторую ковенанскую.
+* [Повязка единства](https://ptr.wowhead.com/item=190464/cord-of-unity) - Готовый легендарный предмет который продает НПЦ.
+* [Воспоминание о единстве](https://ptr.wowhead.com/item=190584/memory-of-unity) - Рецепт который позволит создать ковенанский легендарный предмет в любой слот.
+    * [Повязка единства](https://ptr.wowhead.com/item=190464/cord-of-unity) или созданный вами легендарный предмет с помощью [Воспоминания о единстве](https://ptr.wowhead.com/item=190584/memory-of-unity) будут автоматически изменяться при смене ковенанта.
 
-У следующих АоЕ способностей, убрано ограничение на количество целей. Вместо этого они наносят уменьшенный урон всем целям после 5-й:
-* [Танец клинков](https://ru.wowhead.com/spell=188499)  
-* [Буря клинков](https://ru.wowhead.com/spell=342817)<br>
-
-У следующей АоЕ способности, убрано ограничение на количество целей. Вместо этого она наносит уменьшенный урон всем целям после 8-й.
-* [Обстрел Скверны ](https://ru.wowhead.com/spell=258925)
-
-* [Клеймо греха](https://ru.wowhead.com/spell=317009) сокращено время восстановления способности с 1 минуты до 45 секунд.
-* [Танец с судьбой](https://ru.wowhead.com/spell=339228/) - урон от проводника повышен на 300%.
-* [Слепая вера](https://ru.wowhead.com/spell=355893) - теперь за малый фрагмент души,  ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева.
-
+Возвращение сетовых бонусов
+* 2 предмета: [Смертельный танец](https://ru.wowhead.com/spell=364438) - Увеличивает урон [Смертоносного взмаха](https://ru.wowhead.com/spell=210152) / [Танца клинков](https://ru.wowhead.com/spell=188499) и [Аннигиляции](https://ru.wowhead.com/spell=201427) / [Удара Хаоса](https://ru.wowhead.com/spell=162794) на 20%.
+* 4 предмета: [Смертельный танец](https://ru.wowhead.com/spell=363736) - Время действия [Метаморфозы](https://ru.wowhead.com/spell=191427) увеличено на 6 сек. Каждые 60 ед. израсходованного Гнева сокращают время восстановления [Метаморфозы](https://ru.wowhead.com/spell=191427) на 1 сек.
 
 <details>
  <summary><i>История изменений</i></summary>
-    <details open>
+  <details open>
+     <summary><i>Патч 9.1.5</i></summary>
+      <ul>
+    У следующих АоЕ способностей, убрано ограничение на количество целей. Вместо этого они наносят уменьшенный урон всем целям после 5-й:
+        <li><a href="https://ru.wowhead.com/spell=188499"> Танец клинков</a></li>
+        <li><a href="https://ru.wowhead.com/spell=342817"> Буря клинков</a></li>
+    У следующей АоЕ способности, убрано ограничение на количество целей. Вместо этого она наносит уменьшенный урон всем целям после 8-й.У следующей АоЕ способности, убрано ограничение на количество целей. Вместо этого она наносит уменьшенный урон всем целям после 8-й.
+        <li><a href="https://ru.wowhead.com/spell=258925"> Обстрел Скверны</a></li>
+    <br>
+        <li><a href="https://ru.wowhead.com/spell=317009"> Клеймо греха</a> - сокращено время восстановления способности с 1 минуты до 45 секунд.</li>
+        <li><a href="https://ru.wowhead.com/spell=339228"> Танец с судьбой</a> - урон от проводника повышен на 300%.</li>
+        <li><a href="https://ru.wowhead.com/spell=355893"> Слепая вера</a> - теперь за малый фрагмент души,  ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева.</li>
+      </ul>
+    </details>
+    <details>
      <summary><i>Патч 9.1</i></summary>
       <ul>
         <li><a href="https://ru.wowhead.com/spell=344862"> Удар Хаоса</a> - Урон увеличен на 15%</li>
@@ -147,7 +156,9 @@ image:
 <li> {{ site.data.talent.Glaive_Tempest }} - это новый талант вдохновленный {{ site.data.spell.Fury_of_the_Illidari }}, нашей старой способностью «Артефактного оружия».</li>
 <li> {{ site.data.talent.Nemesis }} удален из игры.</li>
 </ul>
+
 ## Изменения Охотниками на Демонов Истребление в Shadowlands
+
 <ul>
 <li> Гнев стал общим ресурсом для класса.</li>
 <li> {{ site.data.spell.Blade_Dance }} / {{ site.data.spell.Death_Sweep }} – больше не увеличивает ваш шанс увернуться на 100% на 1 сек.</li>
@@ -164,6 +175,7 @@ image:
 <li> {{ site.data.talent.Fel_Barrage }} - стал талантом последнего тира, бьет одновременно 8 целей.</li>
 <li> Добавлена пассивная способность {{ site.data.spell.Furious_Gaze }} дающая 15% скорости на 12 сек. после применения {{ site.data.spell.Eye_Beam }}</li>
 </ul>
+
 ## Новые возможности трансмогрификации артефакта для Охотников на Демонов Истребление
 
 В Shadowlands появится новая возможность трансмогрификации <a href="https://www.wowhead.com/news=317669/artifact-transmog-in-shadowlands-new-creative-weapon-combinations"> артефакта</a>, позволяя игрокам преобразовывать свое оружие в любой вид артефакта.
