@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Лучший Ковенанты
-description: Лучший Ковенанты для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
-last_update: 2021-10-30 09:00:00
-game_version: 9.1.5 Shadowlands
+description: Лучший Ковенанты для Охотников на Демонов Истребление 9.2 PvE Shadowlands
+last_update: 2022-01-16 09:00:00
+game_version: 9.2 Shadowlands
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -66,7 +66,7 @@ image:
 <tr>
 <td><span class="q4"><a href="{{ site.url }}/guide/havoc/night-fae.html">Ночной Народец</a></span></td>
 <td>Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/embed/night-fae/dreamweaver/demon-hunter/AwaZZr4BJStvCBMFLR8IFS0cCCUszwgiBSrvCCUq-gg">Творец Снов (СТ)</a> / 
+<td><a href="https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/demon-hunter/AwaZZr4BJStvCBMFLR8IFS0cCCUszwgiBSrvCCUq-gg">Творец Снов (СТ)</a> / 
 <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн (АоЕ)</a></td>
 </tr>
 <tr>
