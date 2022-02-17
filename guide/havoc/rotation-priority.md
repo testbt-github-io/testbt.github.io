@@ -12,6 +12,7 @@ image:
 
 <div id="smooth-nav-outer">
 
+<a href="{{ site.url }}/guide/havoc/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
@@ -349,7 +350,7 @@ image:
       <li class="bf-apl ih-apl mom-apl nf-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
       <li class="bf-apl ih-apl dem-apl nf-apl" style="display: none;"> Используйте {{ site.data.rotation.TheHunt }}</li>
       <li class="fb-apl tor-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }}</li>
-      <li class="fb-apl gt-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }}</li>
+      <li class="fb-apl gt-apl be-apl" style="display: none;"> Используйте {{ site.data.rotation.Felblade }}</li>
         <ul>
          <li class="boon-apl dem-apl" style="display: none;"> Если прокнула лега.</li> 
          <li class="boon-apl dem-apl" style="display: none;"> I. Сливаем гнев до 60 способностью {{ site.data.rotation.Annihilation }}</li> 
@@ -397,6 +398,7 @@ image:
       <li class="mom-apl" style="display: none;"> {{ site.data.rotation.VengefulRetreat }}</li>
       <li class="mom-apl" style="display: none;"> {{ site.data.rotation.FelRush }} </li>
       <li class="felb-apl" style="display: none;"> {{ site.data.rotation.FelBarrage }} </li>
+      <li class="dem-apl" style="display: none;"> {{ site.data.rotation.ImmolationAura }}</li>
       <li class="uh-apl" style="display: none;"> {{ site.data.rotation.ImmolationAura }}</li>
       <li class="fbald-apl" style="display: none;"> {{ site.data.rotation.DeathSweep }}</li> 
       <li class="gt-apl" style="display: none;"> {{ site.data.rotation.GlaiveTempest }}</li>
