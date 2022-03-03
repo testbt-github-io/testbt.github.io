@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Ковенант Кирии
-description: Гайд Ковенант Кирии для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
-last_update: 2021-10-30 09:00:00
-game_version: 9.1.5 Shadowlands 
+description: Гайд Ковенант Кирии для Охотников на Демонов Истребление 9.2 PvE Shadowlands
+last_update: 2022-03-02 09:00:00
+game_version: 9.2 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -35,12 +35,25 @@ image:
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## Новинки патча 9.1.5
+## Новинки патча 9.2
 
-* [Слепая вера](https://ru.wowhead.com/spell=355893) - теперь за малый фрагмент души,  ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева.
+* [Слепая вера](https://ru.wowhead.com/spell=355893)- Элизийский декрет откалывает еще 2 малых фрагмента души и дает вам эффект "Слепая вера" на 20 сек. За каждый малый фрагмент души, поглощенный во время действия "Слепой веры", вы получаете 10 ед. гнева, а ваша универсальность повышается на 1% вплоть до 20% (Было не ограничено).
 
 <details>
  <summary><i>История изменений</i></summary>
+ <details open>
+     <summary><i>Патч 9.1.5</i></summary>
+      <ul>
+        <li>Легендарный предмет ковенанта <span class="covenant-kyrian">Кирии</span> <a href="https://ru.wowhead.com/spell=355893">Слепая вера</a>: теперь за малый фрагмент души,  ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева. 
+        </li> 
+      </ul>
+    </details>
+    <details>
+     <summary><i>Патч 9.1</i></summary>
+      <ul>
+        <li>Легендарный предмет ковенанта <span class="covenant-kyrian">Кирии</span> <a href="https://ru.wowhead.com/spell=355893">Слепая вера</a>: <a href="https://ru.wowhead.com/spell=306830">Элизийский декрет</a> откалывает еще 2 малый фрагмент души и дает вам эффект <a href="https://ru.wowhead.com/spell=355893">Слепая вера</a> на 20 секунд. За каждый малый фрагмент души, поглощенный во время действия <a href="https://ru.wowhead.com/spell=355893">Слепой веры</a>, вы получаете 10 ед. гнева, а ваша искусность повышается на 1%.</li> 
+      </ul>
+    </details>
     <details open>
      <summary><i>Патч 9.1</i></summary>
       <ul>
