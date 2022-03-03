@@ -85,10 +85,10 @@ image:
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-33">
-        <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fCBUszwgldg4IIxUq-gglKu8INXYACA" target="blank">anything</a>
+        <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fChUszwolLRwKIxUq-golKu8KNXYACg" target="blank">anything</a>
       </div>
       <div class="tabs__pane" id="content-44">
-        <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvCBIFLR8IJS-3CCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+        <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvChIFLR8KJS0cCiMVKvoKJSrvCjV2AAo" target="blank">anything</a>
       </div>
     </div>
   </div>
@@ -111,7 +111,7 @@ image:
 * [Новообретенная стойкость](https://ru.wowhead.com/spell=351149) - вам нужно отслеживать появления ваших копий, чтоб быстро расправится с ними, так как 12% ловкости это довольно сильный бафф.
 
 Рекомендуемое дерево развития медиума Пелагий:
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fCBUszwgldg4IIxUq-gglKu8INXYACA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fChUszwolLRwKIxUq-golKu8KNXYACg" target="blank">anything</a>
 </div>      
 	  </div>
       <div class="tabs__pane" id="content-1">
@@ -126,7 +126,7 @@ image:
 
 Рекомендуемое дерево развития медиума Клея:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/demon-hunter/AwaWapYBBStvCBIFLR8IJSzPCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/kleia/demon-hunter/AwaWapYBBStvChIFLR8KJS0cCiMVKvoKJSrvCjV2AAo" target="blank">anything</a>
 </div>     
 	 </div>
 	  <div class="tabs__pane" id="content-3">
@@ -140,7 +140,7 @@ image:
 
 Рекомендуемое дерево развития медиума Верховный автоматург Миканикос:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvCBIFLR8IJS-3CCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvChIFLR8KJS0cCiMVKvoKJSrvCjV2AAo" target="blank">anything</a>
 </div>      
 	  </div>
     </div>
