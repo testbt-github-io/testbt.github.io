@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Ковенант Некролордов
-description: Гайд Ковенант Некролордов для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
-last_update: 2021-10-30 09:00:00
-game_version: 9.1.5 Shadowlands 
+description: Гайд Ковенант Некролордов для Охотников на Демонов Истребление 9.2 PvE Shadowlands
+last_update: 2021-03-03 09:00:00
+game_version: 9.2 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -11,7 +11,7 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>

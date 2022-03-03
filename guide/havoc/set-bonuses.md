@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
-title: Осколки господства
-description: Гайд для Охотников на Демонов Истребление 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
+title: Сетовый бонус
+description: Сетовый бонус Гайд для Охотников на Демонов Истребление 9.2 PvE Shadowlands
+last_update: 2022-03-03 09:00:00
+game_version: 9.2 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -34,6 +34,16 @@ image:
 <br>
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+<p align="center" width="100%"> <img src="https://wow.zamimg.com/uploads/screenshots/normal/1040281.jpg" style="outline: 2px solid #000;"> </p>
+
+## Способ добычи
+
+* **Рейд** - выпадает из определенных боссов в Гробнице Первых.
+* **Великое хранилище** — можно получить за все действия, которые обычно дают награды за Великое хранилище, включая рейды, эпохальный+ и PvP.
+* **Крафт** — Создание сетовых вещей с помощью новой системы крафта.
+
+## Сетовые бонусыы
 
 * 2 предмета: [Смертельный танец](https://ru.wowhead.com/spell=364438) - Увеличивает урон [Смертоносного взмаха](https://ru.wowhead.com/spell=210152) / [Танца клинков](https://ru.wowhead.com/spell=188499) и [Аннигиляции](https://ru.wowhead.com/spell=201427) / [Удара Хаоса](https://ru.wowhead.com/spell=162794) на 20%.
 * 4 предмета: [Смертельный танец](https://ru.wowhead.com/spell=363736) - Время действия [Метаморфозы](https://ru.wowhead.com/spell=191427) увеличено на 6 сек. Каждые 60 ед. израсходованного Гнева сокращают время восстановления [Метаморфозы](https://ru.wowhead.com/spell=191427) на 1 сек.
