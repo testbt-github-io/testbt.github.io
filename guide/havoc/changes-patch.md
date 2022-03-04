@@ -95,22 +95,22 @@ image:
 
 ### Один легендарный предмет 
 
-#### Рейд
+#### Рейд 
 
-* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - [Терзающий взгляд](https://ru.wowhead.com/spell=355886)
-* <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span> - [Жгучая рана](https://ru.wowhead.com/spell=346279)
-* <span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - [Жгучая рана](https://ru.wowhead.com/spell=346279)
+* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - <span class="q5">[**Терзающий взгляд**](https://ru.wowhead.com/spell=355886)</span> 
+* <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span> - <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> 
+* <span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> 
 
 #### Мифик+
 
-* <span class="q5">[Жгучая рана](https://ru.wowhead.com/spell=346279)</span> 
-* <span class="q5">[Всеобщая тоска](https://ru.wowhead.com/spell=337504)</span> 
+* <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> 
+* <span class="q5">[**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
 
 ### Два легендарных предмета
 
 #### Рейд
 
-* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - [Терзающий взгляд](https://ru.wowhead.com/spell=355886) + []()
+* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - <span class="q5">[**Терзающий взгляд**](https://ru.wowhead.com/spell=355886) + [**Дар созерцателя тьмы**](https://ru.wowhead.com/spell=337534)</span> 
 
 
 <hr>
