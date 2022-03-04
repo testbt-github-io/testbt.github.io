@@ -2,7 +2,7 @@
 layout: guide
 title: Обзор
 description: Гайд для Охотников на Демонов Истребление 9.2 PvE Shadowlands
-last_update: 2022-01-16 09:00:00
+last_update: 2022-03-03 09:00:00
 game_version: 9.2 Shadowlands
 author: Rodriguezz
 toc: true
@@ -11,6 +11,7 @@ image:
 ---
 
 <div id="smooth-nav-outer">
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"><span style="color: white;"> Обзор</span></a>
 <a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
@@ -33,48 +34,6 @@ image:
 <br>
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-
-## Изменения Охотников на Демонов в патче 9.2
-В дополнении 9.2 у нас будет возможность носить 2 легендарных предмета: одну любую на ваш выбор, вторую ковенанскую.
-* [Повязка единства](https://ptr.wowhead.com/item=190464/cord-of-unity) - Готовый легендарный предмет который продает НПЦ.
-* [Воспоминание о единстве](https://ptr.wowhead.com/item=190584/memory-of-unity) - Рецепт который позволит создать ковенанский легендарный предмет в любой слот.
-    * [Повязка единства](https://ptr.wowhead.com/item=190464/cord-of-unity) или созданный вами легендарный предмет с помощью [Воспоминания о единстве](https://ptr.wowhead.com/item=190584/memory-of-unity) будут автоматически изменяться при смене ковенанта.
-
-Возвращение сетовых бонусов
-* 2 предмета: [Смертельный танец](https://ru.wowhead.com/spell=364438) - Увеличивает урон [Смертоносного взмаха](https://ru.wowhead.com/spell=210152) / [Танца клинков](https://ru.wowhead.com/spell=188499) и [Аннигиляции](https://ru.wowhead.com/spell=201427) / [Удара Хаоса](https://ru.wowhead.com/spell=162794) на 20%.
-* 4 предмета: [Смертельный танец](https://ru.wowhead.com/spell=363736) - Время действия [Метаморфозы](https://ru.wowhead.com/spell=191427) увеличено на 6 сек. Каждые 60 ед. израсходованного Гнева сокращают время восстановления [Метаморфозы](https://ru.wowhead.com/spell=191427) на 1 сек.
-
-<details>
- <summary><i>История изменений</i></summary>
-  <details open>
-     <summary><i>Патч 9.1.5</i></summary>
-      <ul>
-    У следующих АоЕ способностей, убрано ограничение на количество целей. Вместо этого они наносят уменьшенный урон всем целям после 5-й:
-        <li><a href="https://ru.wowhead.com/spell=188499"> Танец клинков</a></li>
-        <li><a href="https://ru.wowhead.com/spell=342817"> Буря клинков</a></li>
-    У следующей АоЕ способности, убрано ограничение на количество целей. Вместо этого она наносит уменьшенный урон всем целям после 8-й.У следующей АоЕ способности, убрано ограничение на количество целей. Вместо этого она наносит уменьшенный урон всем целям после 8-й.
-        <li><a href="https://ru.wowhead.com/spell=258925"> Обстрел Скверны</a></li>
-    <br>
-        <li><a href="https://ru.wowhead.com/spell=317009"> Клеймо греха</a> - сокращено время восстановления способности с 1 минуты до 45 секунд.</li>
-        <li><a href="https://ru.wowhead.com/spell=339228"> Танец с судьбой</a> - урон от проводника повышен на 300%.</li>
-        <li><a href="https://ru.wowhead.com/spell=355893"> Слепая вера</a> - теперь за малый фрагмент души,  ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева.</li>
-      </ul>
-    </details>
-    <details>
-     <summary><i>Патч 9.1</i></summary>
-      <ul>
-        <li><a href="https://ru.wowhead.com/spell=344862"> Удар Хаоса</a> - Урон увеличен на 15%</li>
-        <li><a href="https://ru.wowhead.com/spell=201427"> Аннигиляция</a> - Урон увеличен на 15%</li>
-        <li><a href="https://ru.wowhead.com/spell=162243"> Укус демона</a> - Урон увеличен на 15%</li>
-        <li><a href="https://ru.wowhead.com/spell=203555"> Демонические клинки</a> - Урон увеличен на 15%</li>
-        <li><a href="https://ru.wowhead.com/spell=347461"> Необузданный хаос</a> - Увеличивает урон <a href="https://ru.wowhead.com/spell=195072"> Рывка скверны</a> на 500% ( было на 600%)</li>
-        <li><a href="https://ru.wowhead.com/spell=217996"> Раздирание души</a> - теперь увеличивает самоисцеление на 10% (было 5%) и еще на 20% (было 25%), когда активна <a href="https://ru.wowhead.com/spell=320421"> Метаморфоза</a></li>
-        <li><a href="https://ru.wowhead.com/spell=205411"> Инстинкт самосохранения</a> - Затуманивание теперь срабатывает с уменьшением продолжительности на 50% и сокращением времени восстановления на 50%, когда ваше здоровье падает ниже 35%.</li>
-        <li><a href="https://ru.wowhead.com/spell=196555"> Путь Пустоты</a> - Продолжительность увеличена до 6 секунд (было 5 секунд).</li>
-        <li><a href="https://ru.wowhead.com/item=183463"> Неестественная злоба</a> - Теперь усиливает урон от ДоТа Охоты.</li>
-      </ul>
-    </details>
-</details>
 
 ## Основная информация
 	   
@@ -187,7 +146,7 @@ image:
 
 <hr>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/quick_faq.html">Назад:<br>Кратко и Быстро</a></div> 
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/changes-patch.html">Назад:<br>Изменения в патче 9.2</a></div> 
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html">Далее:<br>Лучший ковенант</a></div>
 
 <br>
