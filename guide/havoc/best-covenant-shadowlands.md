@@ -80,6 +80,51 @@ image:
 
 </div>
 
+<div style="text-align: -moz-center;">
+<table class="grid" style="width: 550px;">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="4"><b>Best Havoc Demon Hunter Covenants and Soulbinds for Raid</b>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 50%;" colspan="2"><b>Single Legendary</b>
+</td>
+<td style="text-align: center; width: 50%;" colspan="2"><b>Double Legendary</b>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<a href="/guides/venthyr-havoc-demon-hunter-covenant-best-soulbinds-shadowlands"><span class="covenant-venthyr">Venthyr</span></a>
+</td>
+<td style="text-align: center;">
+<a href="https://www.wowhead.com/guides/venthyr-havoc-demon-hunter-covenant-best-soulbinds-shadowlands#best-renown-80-soulbind">Nadjia</a>
+</td>
+<td style="text-align: center;">
+<a href="/guides/venthyr-havoc-demon-hunter-covenant-best-soulbinds-shadowlands"><span class="covenant-venthyr">Venthyr</span></a>
+</td>
+<td style="text-align: center;">
+<a href="https://www.wowhead.com/guides/venthyr-havoc-demon-hunter-covenant-best-soulbinds-shadowlands#best-renown-80-soulbind">Nadjia</a>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<a href="/guides/night-fae-havoc-demon-hunter-covenant-best-soulbinds-shadowlands"><span class="covenant-night-fae">Night Fae</span></a>
+</td>
+<td style="text-align: center;">
+<a href="https://www.wowhead.com/guides/night-fae-havoc-demon-hunter-covenant-best-soulbinds-shadowlands#best-renown-80-soulbind">Niya</a>
+</td>
+<td style="text-align: center;">
+<a href="/guides/night-fae-havoc-demon-hunter-covenant-best-soulbinds-shadowlands"><span class="covenant-night-fae">Night Fae</span></a>
+</td>
+<td style="text-align: center;">
+<a href="https://www.wowhead.com/guides/night-fae-havoc-demon-hunter-covenant-best-soulbinds-shadowlands#best-renown-80-soulbind">Niya</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
 <div class="table-box" markdown="1">
 
 <div style="text-align: -webkit-center; text-align: -moz-center;">
