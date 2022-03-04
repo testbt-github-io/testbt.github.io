@@ -41,45 +41,6 @@ image:
 
 <div class="table-box" markdown="1">
 
-<div style="text-align: -webkit-center; text-align: -moz-center;">
-<table class="grid" style="width: 750px;">
-<tbody>
-<tr>
-<td colspan="3" style="text-align: center;"><b>Лучший Ковенант для Рейда</b></td>
-</tr>
-<tr>
-<td style="text-align: center;"><b>Ковенант</b></td>
-<td style="text-align: center;"><b>Оценка</b></td>
-<td style="text-align: center;"><b>Лучший Медиум</b></td>
-</tr>
-<tr>
-<td><span class="q8"><a href="{{ site.url }}/guide/havoc/kyrian.html">Кирии</a></span></td>
-<td>Хороший</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fCBUszwgldg4IIxUq-gglKu8INXYACA">Пелагос</a></td>
-</tr>
-<tr>
-<td>
-<a href="{{ site.url }}/guide/havoc/necrolord.html"><span class="r3">Некролорды</span></a></td>
-<td>Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvCBMFLR8IFTBfCCUszwgiFSr6CCUq7wg">Изобретатель чумы Марилет</a></td>
-</tr>
-<tr>
-<td><span class="q4"><a href="{{ site.url }}/guide/havoc/night-fae.html">Ночной Народец</a></span></td>
-<td>Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/demon-hunter/AwaZZr4BJStvCBMFLR8IFS0cCCUszwgiBSrvCCUq-gg">Творец Снов (СТ)</a> / 
-<a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн (АоЕ)</a></td>
-</tr>
-<tr>
-<td><span class="q10"><a href="{{ site.url }}/guide/havoc/venthyr.html">Вентиры</a></span></td>
-<td>Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/venthyr/theotar-the-mad-duke/demon-hunter/AwaWZZYBJStvCBMFLR8IFSzPCCUwPAgiBSr6CBUq7wg">Безумный герцог Теотар</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-
-</div>
-
 <div style="text-align: -moz-center;">
 <table class="grid" style="width: 550px;">
 <tbody>
@@ -95,34 +56,36 @@ image:
 </tr>
 <tr>
 <td style="text-align: center;">
-<a href="/guides/venthyr-havoc-demon-hunter-covenant-best-soulbinds-shadowlands"><span class="covenant-venthyr">Venthyr</span></a>
+<a href="{{ site.url }}/guide/havoc/venthyr.html"><span class="covenant-venthyr">Вентиры</span></a>
 </td>
 <td style="text-align: center;">
-<a href="https://www.wowhead.com/guides/venthyr-havoc-demon-hunter-covenant-best-soulbinds-shadowlands#best-renown-80-soulbind">Nadjia</a>
+<a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr5YDBStvChUrkwolLM0KEgUtHwolLM8KIhUq-go1dgAK">Наджия</a>
 </td>
 <td style="text-align: center;">
-<a href="/guides/venthyr-havoc-demon-hunter-covenant-best-soulbinds-shadowlands"><span class="covenant-venthyr">Venthyr</span></a>
+<a href="{{ site.url }}/guide/havoc/venthyr.html"><span class="covenant-venthyr">Вентиры</span></a>
 </td>
 <td style="text-align: center;">
-<a href="https://www.wowhead.com/guides/venthyr-havoc-demon-hunter-covenant-best-soulbinds-shadowlands#best-renown-80-soulbind">Nadjia</a>
+<a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr5YDBStvChUrkwolLM0KEgUtHwolLM8KIhUq-go1dgAK">Наджия</a>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;">
-<a href="/guides/night-fae-havoc-demon-hunter-covenant-best-soulbinds-shadowlands"><span class="covenant-night-fae">Night Fae</span></a>
+<a href="/guides/night-fae-havoc-demon-hunter-covenant-best-soulbinds-shadowlands"><span class="covenant-night-fae">Ночной народец</span></a>
 </td>
 <td style="text-align: center;">
-<a href="https://www.wowhead.com/guides/night-fae-havoc-demon-hunter-covenant-best-soulbinds-shadowlands#best-renown-80-soulbind">Niya</a>
+<a href="https://ru.wowhead.com/soulbind-calc/night-fae/niya/demon-hunter/AwaWZZYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Ния СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
 </td>
 <td style="text-align: center;">
-<a href="/guides/night-fae-havoc-demon-hunter-covenant-best-soulbinds-shadowlands"><span class="covenant-night-fae">Night Fae</span></a>
+<a href="/guides/night-fae-havoc-demon-hunter-covenant-best-soulbinds-shadowlands"><span class="covenant-night-fae">Ночной народец</span></a>
 </td>
 <td style="text-align: center;">
-<a href="https://www.wowhead.com/guides/night-fae-havoc-demon-hunter-covenant-best-soulbinds-shadowlands#best-renown-80-soulbind">Niya</a>
+<a href="https://ru.wowhead.com/soulbind-calc/night-fae/niya/demon-hunter/AwaWZZYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Ния СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
+
 </div>
 
 <div class="table-box" markdown="1">
