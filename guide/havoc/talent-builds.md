@@ -49,7 +49,7 @@ image:
 
 <div class="tabs__content">
 
-<div class="tabs__pane" id="content-7">
+<div class="tabs__pane tabs__pane_show" id="content-7">
 <div class="tabs_in" markdown="1">
 {% include BurningWound.html %}
 <p class="tanknotes-section-success" markdown="1">
@@ -91,7 +91,7 @@ image:
 <div class="tabs" id="tabs-1">
 <div class="tabs__nav">
 <a class="tabs__link tabs__link_active" href="#content-1">ФБ + ДБ</a>
-<a class="tabs__link " href="#content-2">Демонизм</a>
+<a class="tabs__link" href="#content-2">Демонизм</a>
 
 </div>
 <div class="tabs__content">
