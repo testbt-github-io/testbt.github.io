@@ -17,7 +17,7 @@ image:
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Сет бонусы</span></a>
+<a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
 <a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
@@ -111,6 +111,7 @@ image:
 #### Рейд
 
 * <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - <span class="q5">[**Терзающий взгляд**](https://ru.wowhead.com/spell=355886) + [**Дар созерцателя тьмы**](https://ru.wowhead.com/spell=337534)</span> 
+* <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span> - <span class="q5">[**Пылающая бойня**](https://ru.wowhead.com/spell=355890)</span> + <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span>
 
 Играя за <span class="q4">Ночной Народец</span> мы будем использовать [Жгучую рану](https://ru.wowhead.com/spell=346279), чтоб увеличить наш СТ/Клив урон, а [Всеобщую тоску](https://ru.wowhead.com/spell=337504) для АоЕ урон. [Жгучая рана](https://ru.wowhead.com/spell=346279) и [Пылающая бойня](https://ru.wowhead.com/spell=355890) отлично дополняют друг друга, первая обеспечивает нам стабильный высокий СТ/Клив урон, а вторая дает нам бурст урон каждые 90 секунд и увеличивает аптайм жара. Для ключей и Клив боев в рейде такая связка смотрится очень сильно, а вот для СТ боя такой набор довольно слаб, так как [Пылающая бойня](https://ru.wowhead.com/spell=355890) в СТ нам дает очень слабое усиление.
 
