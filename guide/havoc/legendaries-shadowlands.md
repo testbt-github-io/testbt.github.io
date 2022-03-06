@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Легендарные предметы
-description: Лучшие легендарные предметы для Охотников на Демонов Истребление 9.1.6 PvE Shadowlands
-last_update: 2021-10-30 09:00:00
-game_version: 9.1.5 Shadowlands 
+description: Лучшие легендарные предметы для Охотников на Демонов Истребление 9.2 PvE Shadowlands
+last_update: 2022-03-03 09:00:00
+game_version: 9.2 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -11,13 +11,13 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"><span style="color: white;"> Легендарные предметы</span></a>
-<a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
 <a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
@@ -34,13 +34,23 @@ image:
 <br>
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## Изменение легендарных предметов в 9.1.5
+## Изменение легендарных предметов в 9.2
 
-* [Слепая вера](https://ru.wowhead.com/spell=355893) - теперь за малый фрагмент души, ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева.
+В патче 9.2 у игроков появится возможность экипировать два легендарных предмета. Эта станет доступно после завершения 7 главы кампании в Зерет Мортисе. После чего вам станет доступен пояс [Повязка единства](https://ru.wowhead.com/item=190464/), либо создать вторую легендарку, используя рецепт [Воспоминание о единстве](https://ru.wowhead.com/item=190584/).
+
+Первый легендарный предмет может быть одет какой угодно, а вторым одетым может быть только легендарный предмет вашего ковенанта. Как [Повязка единства](https://ru.wowhead.com/item=190464/), так и легендарки, созданные с помощью рецепта [Воспоминание о единстве](https://ru.wowhead.com/item=190584/), изменяют свой эффект в зависимости от вашего текущего ковенанта, поэтому вам не нужно создавать четыре отдельных легендарных предмета.
+
+* [Слепая вера](https://ru.wowhead.com/spell=355893)- Элизийский декрет откалывает еще 2 малых фрагмента души и дает вам эффект "Слепая вера" на 20 сек. За каждый малый фрагмент души, поглощенный во время действия "Слепой веры", вы получаете 10 ед. гнева, а ваша универсальность повышается на 1% вплоть до 20% (Было не ограничено).
 
 <details>
  <summary><i>История изменений</i></summary>
     <details open>
+     <summary><i>Патч 9.1.5</i></summary>
+      <ul>
+        <li><a href="https://ru.wowhead.com/spell=355893"> Слепая вера</a> - теперь за малый фрагмент души,  ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева.</li>
+      </ul>
+    </details>
+    <details>
      <summary><i>Патч 9.1</i></summary>
       <ul>
         <li>Легендарный предмет ковенанта <span class="covenant-kyrian">Кирии</span> <a href="https://ru.wowhead.com/spell=355893">Слепая вера</a>: <a href="https://ru.wowhead.com/spell=306830">Элизийский декрет</a> откалывает еще 2 малый фрагмент души и дает вам эффект <a href="https://ru.wowhead.com/spell=355893">Слепая вера</a> на 20 секунд. За каждый малый фрагмент души, поглощенный во время действия <a href="https://ru.wowhead.com/spell=355893">Слепой веры</a>, вы получаете 10 ед. гнева, а ваша искусность повышается на 1%.</li>

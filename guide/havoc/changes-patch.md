@@ -37,7 +37,7 @@ image:
 
 ## Изменения Охотников на Демонов в патче 9.2
 В дополнении 9.2 у нас будет возможность носить 2 легендарных предмета: одну любую на ваш выбор, вторую ковенанскую.
-* [Повязка единства](https://ru.wowhead.com/item=190464/) - Готовый легендарный предмет который продает НПЦ.
+* [Повязка единства](https://ru.wowhead.com/item=190464/) - станет доступен после завершения 7 главы кампании в Зерет Мортисе.
 * [Воспоминание о единстве](https://ru.wowhead.com/item=190584/) - Рецепт который позволит создать ковенанский легендарный предмет в любой слот.
     * [Повязка единства](https://ru.wowhead.com/item=190464/) или созданный вами легендарный предмет с помощью [Воспоминания о единстве](https://ru.wowhead.com/item=190584/) будут автоматически изменяться при смене ковенанта.
 
@@ -117,10 +117,16 @@ image:
 <span class="q10">Вентиры</span> будут играть со связкой легендарных предметов [Всеобщая тоска](https://ru.wowhead.com/spell=337504) и [Терзающий взгляд](https://ru.wowhead.com/spell=355886), очень сильная синергия, благодаря такой связке вы сможете поддерживать [Клеймо греха](https://ru.wowhead.com/spell=317009/) до 90% времени боя (а в некоторых случаях 100%), это стает возможным благодаря легендарному эффекту [Дара созерцателя тьмы](https://ru.wowhead.com/spell=337534),а также
 [Всеобщей тоски](https://ru.wowhead.com/spell=337504), та как призванный ДХ использует [Опустошение Скверной](https://ru.wowhead.com/spell=212084) которое также продлевает время действия [Клейма греха](https://ru.wowhead.com/spell=317009/) на цели. [Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534) будем использовать в Кливе и СТ, а [Всеобщую тоску](https://ru.wowhead.com/spell=337504) в АоЕ.
 
+#### Мифик+
+
+* <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span> - <span class="q5">[**Пылающая бойня**](https://ru.wowhead.com/spell=355890)</span> + <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> или <span class="q5">[**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
+* <span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - <span class="q5">[**Демоническая клятва**](https://ru.wowhead.com/spell=355996)</span> + <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> или <span class="q5">[**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
+
+
 ## Какие легедарые предметы нужно перекрафтить
 
 * <span class="q5">[**Дар созерцателя тьмы**](https://ru.wowhead.com/spell=337534)</span> - **Шея**
-* <span class="q5">[**Единство**](https://ru.wowhead.com/spell=364824)</span> - **Кольцо**
+* <span class="q5">[**Единство**](https://ru.wowhead.com/spell=364824)</span> - **Наручи**
 
 ## Ковенанты
 
