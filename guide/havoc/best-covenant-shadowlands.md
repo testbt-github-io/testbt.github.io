@@ -42,48 +42,48 @@ image:
 <div class="table-box" markdown="1">
 
 <div style="text-align: -moz-center;">
-<table class="grid" style="width: 550px;">
-<tbody>
-<tr>
-<td style="text-align: center;" colspan="4"><b>Best Havoc Demon Hunter Covenants and Soulbinds for Raid</b>
-</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 50%;" colspan="2"><b>Single Legendary</b>
-</td>
-<td style="text-align: center; width: 50%;" colspan="2"><b>Double Legendary</b>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<a href="{{ site.url }}/guide/havoc/venthyr.html"><span class="covenant-venthyr">Вентиры</span></a>
-</td>
-<td style="text-align: center;">
-<a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr5YDBStvChUrkwolLM0KEgUtHwolLM8KIhUq-go1dgAK">Наджия</a>
-</td>
-<td style="text-align: center;">
-<a href="{{ site.url }}/guide/havoc/venthyr.html"><span class="covenant-venthyr">Вентиры</span></a>
-</td>
-<td style="text-align: center;">
-<a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr5YDBStvChUrkwolLM0KEgUtHwolLM8KIhUq-go1dgAK">Наджия</a>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<a href="/guides/night-fae-havoc-demon-hunter-covenant-best-soulbinds-shadowlands"><span class="covenant-night-fae">Ночной народец</span></a>
-</td>
-<td style="text-align: center;">
-<a href="https://ru.wowhead.com/soulbind-calc/night-fae/niya/demon-hunter/AwaWZZYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Ния СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
-</td>
-<td style="text-align: center;">
-<a href="/guides/night-fae-havoc-demon-hunter-covenant-best-soulbinds-shadowlands"><span class="covenant-night-fae">Ночной народец</span></a>
-</td>
-<td style="text-align: center;">
-<a href="https://ru.wowhead.com/soulbind-calc/night-fae/niya/demon-hunter/AwaWZZYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Ния СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
-</td>
-</tr>
-</tbody>
-</table>
+ <table class="grid" style="width: 550px;">
+  <tbody>
+   <tr>
+    <td style="text-align: center;" colspan="4"><b>Лучший ковенант и медиум для рейда</b></td>
+   </tr>
+   <tr>
+    <td style="text-align: center; width: 50%;" colspan="2"><b>Одна легендарка</b></td>
+    <td style="text-align: center; width: 50%;" colspan="2"><b>Две легендарки</b></td>
+   </tr>
+   <tr>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/venthyr.html"><span class="covenant-venthyr">Вентиры</span></a></td>
+    <td style="text-align: center;">
+     <a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr5YDBStvChUrkwolLM0KEgUtHwolLM8KIhUq-go1dgAK">Наджия</a>
+    </td>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/venthyr.html"><span class="covenant-venthyr">Вентиры</span></a></td>
+    <td style="text-align: center;">
+     <a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr5YDBStvChUrkwolLM0KEgUtHwolLM8KIhUq-go1dgAK">Наджия</a></td>
+   </tr>
+   <tr>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/night-fae.html"><span class="covenant-night-fae">Ночной народец</span></a></td>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/night-fae.html">Ния СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
+    </td>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/night-fae.html"><span class="covenant-night-fae">Ночной народец</span></a>
+    </td>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/night-fae.html">Ния СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
+    </td>
+   </tr>
+   <tr>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/necrolord.html"><span class="covenant-necrolord">Некролорды</span></a></td>
+    <td style="text-align: center;">
+     <a href="https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/demon-hunter/AwaWZpYTBS0fChUtHAolMF8KIxUq-goldgAKNSrvCg">Марилет</a>
+    </td>
+   </tr>
+  </tbody>
+ </table>
 </div>
 
 </div>
