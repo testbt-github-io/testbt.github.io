@@ -2,8 +2,8 @@
 layout: highcharts_page
 title: Бис Лист
 description: Лучшая экиперовка для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
-last_update: 2021-10-30 09:00:00
-game_version: 9.1.5 Shadowlands 
+last_update: 2022-03-03 09:00:00
+game_version: 9.2 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -48,25 +48,41 @@ image:
 <div class="table-box" markdown="1">
 
 |Слот|Название|Добывается|
-|Голова|[Клобук навязчивого предвидения](https://ru.wowhead.com/item=186330/)|[Писарь судьбы Ро-Кало](https://ru.wowhead.com/npc=179390)|
-|Шея|[Межпланарный краеугольный камень](https://ru.wowhead.com/item=186379)|[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Плечо|[Наплеч доверенного-предателя](https://ru.wowhead.com/item=186336)|[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Плащ|[Самовоспроизводящаяся ткань](https://ru.wowhead.com/item=186374/)|[Стражница Предвечных](https://ru.wowhead.com/npc=175731)|
-|Грудь|[Клепаная кираса иссохшего сердца](https://ru.wowhead.com/item=186334)|[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
-|Запястье|[Путы с нитями судьбы](https://ru.wowhead.com/item=186335)|[Писарь судьбы Ро-Кало](https://ru.wowhead.com/npc=179390)|
-|Руки|[Повязки верного квалдира](https://ru.wowhead.com/item=186295)|[Око Тюремщика](https://ru.wowhead.com/npc=180018)|
-|Пояс|[Перевязь Ветрокрылой](https://ru.wowhead.com/item=186332)|[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
-|Ноги|[Брюки элитного аранакка](https://ru.wowhead.com/item=186331)|[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Сапоги|[Ботфорты отваги Дашлы](https://ru.wowhead.com/item=186299)|[Девять](https://ru.wowhead.com/npc=178738)|
-|Кольцо 1|[Потускневший знак Кель'Таласа](https://ru.wowhead.com/item=186377)|[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
-|Кольцо 2|[Миниатюрное колесо для казни](https://ru.wowhead.com/item=186375)|[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
-|Аксессуар 1|[Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432)|[Стражница Предвечных](https://ru.wowhead.com/npc=175731)|
-|Аксессуар 2|[Флакон тлетворной массы](https://ru.wowhead.com/item=178771)|[Чумные каскады](https://ru.wowhead.com/plaguefall)|
-|Основная рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)|[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
-|Левая рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)|[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
+|Голова|[Капюшон изменчивого карателя](https://ru.wowhead.com/item=188892/)|[Андуин Ринн](https://ru.wowhead.com/npc=181954/)|
+|Шея|[Знак принадлежности к картелю Зи](https://ru.wowhead.com/item=189827/)|[Изобретатель Зи'мокс](https://ru.wowhead.com/npc=183501/)|
+|Плечо|[Наплечники изменчивого карателя](https://ru.wowhead.com/item=188896/)|[Мал'Ганис](https://ru.wowhead.com/npc=181398/)|
+|Плащ|[Покров избранных Владыки](https://ru.wowhead.com/item=189847/)|[Мал'Ганис](https://ru.wowhead.com/npc=181398)|
+|Грудь|[Жакет изменчивого карателя](https://ru.wowhead.com/item=188894/)|[Ригелон](https://ru.wowhead.com/npc=182777/)|
+|Запястье|[Затертые песком наручи пожирателя](https://ru.wowhead.com/item=189812/)|[Сколекс](https://ru.wowhead.com/npc=183937/)|
+|Руки|[Захваты похищенной судьбы](https://ru.wowhead.com/item=189843/)|[Мал'Ганис](https://ru.wowhead.com/npc=181398)|
+|Пояс|[Искаженный оберег Резчика Рун](https://ru.wowhead.com/item=189856/)|[Тюремщик](https://ru.wowhead.com/npc=185421/)|
+|Ноги|[Штаны изменчивого карателя](https://ru.wowhead.com/item=188893/)|[Галондрий](https://ru.wowhead.com/npc=184915/)|
+|Сапоги|[Мокасины ужасного отпущения](https://ru.wowhead.com/item=189798/)|[Прототип Войны](https://ru.wowhead.com/npc=181549/)|
+|Кольцо 1|[Перидот говорливого хранителя](https://ru.wowhead.com/item=189802/)|[Лихувим](https://ru.wowhead.com/npc=182169/)|
+|Кольцо 2|[Улучшенная защитная матрица](https://ru.wowhead.com/item=189772/)|[Бдительный Страж](https://ru.wowhead.com/npc=180773/)|
+|Аксессуар 1|[Первая печать](https://ru.wowhead.com/item=188271/)|[Прототип Войны](https://ru.wowhead.com/npc=181549/)|
+|Аксессуар 2|[Элегия Вечных](https://ru.wowhead.com/item=188270/)|[Прототип Войны](https://ru.wowhead.com/npc=181549/)|
+|Основная рука|[Парные клинки страданий Аландиен](https://ru.wowhead.com/item=189846/)|[Мал'Ганис](https://ru.wowhead.com/npc=181398/)|
+|Левая рука|[Парные клинки страданий Аландиен](https://ru.wowhead.com/item=189846/)|[Мал'Ганис](https://ru.wowhead.com/npc=181398/)|
 
 </div>
 <br>
+
+## Сетовые бонусыы
+
+* 2 предмета: [Смертельный танец](https://ru.wowhead.com/spell=364438) - Увеличивает урон [Смертоносного взмаха](https://ru.wowhead.com/spell=210152) / [Танца клинков](https://ru.wowhead.com/spell=188499) и [Аннигиляции](https://ru.wowhead.com/spell=201427) / [Удара Хаоса](https://ru.wowhead.com/spell=162794) на 20%.
+* 4 предмета: [Смертельный танец](https://ru.wowhead.com/spell=363736) - Время действия [Метаморфозы](https://ru.wowhead.com/spell=191427) увеличено на 6 сек. Каждые 60 ед. израсходованного Гнева сокращают время восстановления [Метаморфозы](https://ru.wowhead.com/spell=191427) на 1 сек.
+
+
+Сетовый набор состоит из пяти предметов снаряжения:
+
+* <span class="q4">[Капюшон изменчивого карателя](https://ru.wowhead.com/item=188892/)</span> (**Голова** [**Андуин Ринн**](https://ru.wowhead.com/npc=181954/))
+* []()
+* []()
+* []()
+* []()
+
+
 
 <p style="color:#ff4040;font-size:1.7em;">Предоставленная тут информация является справочной, всегда используйте симкрафт</p>
 
@@ -93,6 +109,7 @@ image:
 |Левая рука|[Моровая Буря, меч эпидемии](https://ru.wowhead.com/item=178754)|[Чумные каскады](https://ru.wowhead.com/plaguefall)|
 
 </div>
+
 
 ## Аксессуар
 
