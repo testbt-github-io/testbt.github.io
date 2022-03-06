@@ -138,7 +138,7 @@ image:
 <div id="bloodmallet_hecticaddcleave" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-fight-style="hecticaddcleave" data-font-color="#eee" data-background-color="#222" data-language="ru">Loading...</div>
 
 
-## Уровни предметов в 2 сезоне эпохальных+ подземелий Shadowlands
+## Уровни предметов в 3 сезоне эпохальных+ подземелий Shadowlands
 
 <table class="grid" style="max-width:750px">
 <tbody>
@@ -148,98 +148,98 @@ image:
 <td style="text-align: center;"><b>В недельном сундуке</b></td>
 </tr>
 <tr><td>Эпохальный 2</td>
-<td style="text-align: center;">213</td>
 <td style="text-align: center;">226</td>
+<td style="text-align: center;">252</td>
 </tr>
 <tr><td>Эпохальный 3</td>
-<td style="text-align: center;">216</td>
 <td style="text-align: center;">229</td>
+<td style="text-align: center;">252</td>
 </tr>
 <tr>
 <td>Эпохальный 4</td>
-<td style="text-align: center;">220</td>
-<td style="text-align: center;">233</td>
+<td style="text-align: center;">232</td>
+<td style="text-align: center;">252</td>
 </tr>
 <tr><td>Эпохальный 5</td>
-<td style="text-align: center;">220</td>
 <td style="text-align: center;">236</td>
+<td style="text-align: center;">255</td>
 </tr>
 <tr>
 <td>Эпохальный 6</td>
-<td style="text-align: center;">223</td>
-<td style="text-align: center;">236</td>
+<td style="text-align: center;">239</td>
+<td style="text-align: center;">255</td>
 </tr>
 <tr>
 <td>Эпохальный 7</td>
-<td style="text-align: center;">226</td>
 <td style="text-align: center;">239</td>
+<td style="text-align: center;">259</td>
 </tr>
 <tr>
 <td>Эпохальный 8</td>
-<td style="text-align: center;">226</td>
 <td style="text-align: center;">242</td>
+<td style="text-align: center;">262</td>
 </tr>
 <tr>
 <td>Эпохальный 9</td>
-<td style="text-align: center;">226</td>
 <td style="text-align: center;">242</td>
+<td style="text-align: center;">262</td>
 </tr>
 <tr>
 <td>Эпохальный 10</td>
-<td style="text-align: center;">229</td>
-<td style="text-align: center;">246</td>
+<td style="text-align: center;">245</td>
+<td style="text-align: center;">265</td>
 </tr>
 <tr>
 <td>Эпохальный 11</td>
-<td style="text-align: center;">229</td>
-<td style="text-align: center;">246</td>
+<td style="text-align: center;">245</td>
+<td style="text-align: center;">268</td>
 </tr>
 <tr>
 <td>Эпохальный 12</td>
-<td style="text-align: center;">233</td>
 <td style="text-align: center;">249</td>
+<td style="text-align: center;">272</td>
 </tr><tr><td>Эпохальный 13</td>
-<td style="text-align: center;">233</td>
 <td style="text-align: center;">249</td>
+<td style="text-align: center;">272</td>
 </tr>
 <tr>
 <td>Эпохальный 14</td>
-<td style="text-align: center;">233</td>
 <td style="text-align: center;">252</td>
+<td style="text-align: center;">275</td>
 </tr>
 <tr>
 <td>Эпохальный 15+</td>
-<td style="text-align: center;">236</td>
 <td style="text-align: center;">252</td>
+<td style="text-align: center;">278</td>
 </tr>
 </tbody>
 </table>
 
-## Уровни предметов в рейде Святилища господства
+## Уровни предметов в рейде Гробница предвечных
 
 <table class="grid" style="max-width:750px">
 <tbody>
 <tr>
 <td style="text-align: center;"><b>Сложность</b></td>
 <td style="text-align: center;"><b>Первые 8 боссов</b></td>
-<td style="text-align: center;"><b>Последние 2 босса</b></td>
+<td style="text-align: center;"><b>Последние 3 босса</b></td>
 </tr>
 <tr><td>ЛФР</td>
-<td style="text-align: center;">213</td>
-<td style="text-align: center;">220</td>
-</tr>
-<tr><td>Обычная</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">233</td>
-</tr>
-<tr>
-<td>Героическая</td>
 <td style="text-align: center;">239</td>
 <td style="text-align: center;">246</td>
 </tr>
-<tr><td>Эпохальный</td>
+<tr><td>Обычная</td>
 <td style="text-align: center;">252</td>
 <td style="text-align: center;">259</td>
+</tr>
+<tr>
+<td>Героическая</td>
+<td style="text-align: center;">265</td>
+<td style="text-align: center;">272</td>
+</tr>
+<tr><td>Эпохальный</td>
+<td style="text-align: center;">278</td>
+<td style="text-align: center;">285</td>
 </tr>
 </tbody>
 </table>
