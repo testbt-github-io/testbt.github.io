@@ -64,12 +64,51 @@ image:
 
 ## Какие легендарные предметы улучшать в первую очередь?
 
-Добавление осколков господства, которые можно вставить только в определенные части снаряжения, означает, 
-что нам придется переделать некоторые легендарные предметы, чтобы в полной мере воспользоваться этой новой системой. 
+Идеальный порядок обновления будет зависеть от контента в который вы играете, но в обоих случаях он довольно прост.
 
-1. Улучшайте [Жгучую рану](https://ru.wowhead.com/spell=346279) до 6 ранга.
-1. Улучшайте [Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534) до 6 ранга.
-1. Улучшайте [Всеобщая тоска](https://ru.wowhead.com/spell=337504) до 6 ранга.
+#### Рейд
+
+1. Улучшайте [Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534)
+1. Улучшайте [Всеобщая тоска](https://ru.wowhead.com/spell=337504)
+1. Улучшайте [Жгучую рану](https://ru.wowhead.com/spell=346279) 
+
+#### Мифик+
+
+1. Улучшайте [Жгучую рану](https://ru.wowhead.com/spell=346279) 
+1. Улучшайте [Всеобщая тоска](https://ru.wowhead.com/spell=337504)
+
+## Лучший легендарный предмет 
+
+### Один легендарный предмет 
+
+#### Рейд 
+
+* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - <span class="q5">[**Терзающий взгляд**](https://ru.wowhead.com/spell=355886)</span> 
+* <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span> - <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> 
+* <span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> 
+
+#### Мифик+
+
+* <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> 
+* <span class="q5">[**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
+
+### Два легендарных предмета
+
+#### Рейд
+
+* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - <span class="q5">[**Терзающий взгляд**](https://ru.wowhead.com/spell=355886) + [**Дар созерцателя тьмы**](https://ru.wowhead.com/spell=337534)</span> 
+* <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span> - <span class="q5">[**Пылающая бойня**](https://ru.wowhead.com/spell=355890)</span> + <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span>
+
+#### Мифик+
+
+* <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span> - <span class="q5">[**Пылающая бойня**](https://ru.wowhead.com/spell=355890)</span> + <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> или <span class="q5">[**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
+* <span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - <span class="q5">[**Демоническая клятва**](https://ru.wowhead.com/spell=355996)</span> + <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> или <span class="q5">[**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
+
+Самый сильный легендарный предмет для Охотников на Демонов Истребления, ориентированных на рейды, будет зависеть от выбора ковенанта и комбинации легендарок. Самая сильная комбинация у Ветиров. Ни один дргуой легендарный предмет не будет конкурировать с ними в СТ боях. Когда битва с боссом завязана на Кливе, [**Всеобщая тоска**](https://ru.wowhead.com/spell=337504) становится хорошим выбором, а так же хорошо сочетается как с <span style="color:#ff4040;font-size:1em;">Вентирами</span>, так и с <span style="color:#a330c9;font-size:1em;">Ночным народцем</span>.
+
+Два легендарных предмета не сильно влияют на Охотника на Демонов Истребления. [Терзающий взгляд](https://ru.wowhead.com/spell=355886) остается нашим лучшим выбором, для СТ боем мы сочетаем его с [Даром созерцателя тьмы](https://ru.wowhead.com/spell=337534), а для Клива — с [Всеобщей тоской](https://ru.wowhead.com/spell=337504).
+
+Для Мифик+ я бы порекомендовали [Всеобщую тоску](https://ru.wowhead.com/spell=337504) или [Жгучая рана](https://ru.wowhead.com/spell=346279). [Всеобщая тоска](https://ru.wowhead.com/spell=337504) — хороший легендарный предмет который дает неплохой АоЕ урон и СТ, отлично подойдет для спокойной игры . [Жгучая рана](https://ru.wowhead.com/spell=346279) также является хорошим выбором, с ее помощью можно нанести больший урон, но для этого потребует гораздо более активный стиль игры, чтобы удерживать ДоТ на как можно большем количестве целей во время длительных сражений.
 
 ## Лучшие легендарные предметы
 
