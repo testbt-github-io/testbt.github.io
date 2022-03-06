@@ -81,6 +81,11 @@ image:
     <td style="text-align: center;">
      <a href="https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/demon-hunter/AwaWZpYTBS0fChUtHAolMF8KIxUq-goldgAKNSrvCg">Марилет</a>
     </td>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/necrolord.html"><span class="covenant-necrolord">Некролорды</span></a></td>
+    <td style="text-align: center;">
+     <a href="https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/demon-hunter/AwaWZpYTBS0fChUtHAolMF8KIxUq-goldgAKNSrvCg">Марилет</a>
+    </td>
    </tr>
   </tbody>
  </table>
@@ -90,64 +95,65 @@ image:
 
 <div class="table-box" markdown="1">
 
-<div style="text-align: -webkit-center; text-align: -moz-center;">
-<table class="grid" style="width: 750px;">
-<tbody>
-<tr>
-<td colspan="3" style="text-align: center;"><b>Лучший Ковенант для М+</b></td>
-</tr>
-<tr>
-<td style="text-align: center;"><b>Ковенант</b></td>
-<td style="text-align: center;"><b>Оценка</b>
-</td>
-<td style="text-align: center;"><b>Лучший Медиум</b></td>
-</tr>
-<tr>
-<td><span class="q8"><a href="{{ site.url }}/guide/havoc/kyrian.html">Кирии</a></span></td>
-<td><b>Низкие Ключи</b>: Сильный<br><b>Высокие Ключи</b>: Хороший</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvCBIFLR8IJS-3CCMVKvoIJSrvCDV2AAg">Миканикос</a></td>
-</tr>
-<tr>
-<td><a href="{{ site.url }}/guide/havoc/necrolord.html"><span class="r3">Некролорды</span></a></td>
-<td><b>Низкие Ключи</b>: Хороший<br><b>Высокие Ключи</b>: Хороший</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/necrolord/bonesmith-heirmir/demon-hunter/AwaW6pYBBStvCBIFLR8IJTBfCCMVKvoIJSrvCDV2AAg">Костоплав Гейрмир</a></td>
-</tr>
-<tr>
-<td><span class="q4"><a href="{{ site.url }}/guide/havoc/night-fae.html">Ночной Народец</a></span></td>
-<td><b>Низкие Ключи</b>: Сильный<br><b>Высокие Ключи</b>: Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн</a></td>
-</tr>
-<tr>
-<td><span class="q10"><a href="{{ site.url }}/guide/havoc/venthyr.html">Вентиры</a></span></td>
-<td><b>Низкие Ключи</b>: Хороший<br><b>Высокие Ключи</b>: Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWqpYCBStvCCUszQgSBS0fCCUszwgiFSr6CCUq7wg">Наджия</a></td>
-</tr>
-</tbody>
-</table>
+<div style="text-align: -moz-center;">
+ <table class="grid" style="width: 550px;">
+  <tbody>
+   <tr>
+    <td style="text-align: center;" colspan="4"><b>Лучший ковенант и медиум для Мифик+</b></td>
+   </tr>
+   <tr>
+    <td style="text-align: center; width: 50%;" colspan="2"><b>Одна легендарка</b></td>
+    <td style="text-align: center; width: 50%;" colspan="2"><b>Две легендарки</b></td>
+   </tr>
+   <tr>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/venthyr.html"><span class="covenant-venthyr">Вентиры</span></a></td>
+    <td style="text-align: center;">
+     <a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr5YDBStvChUrkwolLM0KEgUtHwolLM8KIhUq-go1dgAK">Наджия</a>
+    </td>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/venthyr.html"><span class="covenant-venthyr">Вентиры</span></a></td>
+    <td style="text-align: center;">
+     <a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr5YDBStvChUrkwolLM0KEgUtHwolLM8KIhUq-go1dgAK">Наджия</a></td>
+   </tr>
+   <tr>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/night-fae.html"><span class="covenant-night-fae">Ночной народец</span></a></td>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/night-fae.html">Ния СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
+    </td>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/night-fae.html"><span class="covenant-night-fae">Ночной народец</span></a>
+    </td>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/night-fae.html">Ния СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
+    </td>
+   </tr>
+   <tr>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/necrolord.html"><span class="covenant-necrolord">Некролорды</span></a></td>
+    <td style="text-align: center;">
+     <a href="https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/demon-hunter/AwaWZpYTBS0fChUtHAolMF8KIxUq-goldgAKNSrvCg">Марилет</a>
+    </td>
+    <td style="text-align: center;">
+     <a href="{{ site.url }}/guide/havoc/necrolord.html"><span class="covenant-necrolord">Некролорды</span></a></td>
+    <td style="text-align: center;">
+     <a href="https://ru.wowhead.com/soulbind-calc/necrolord/plague-deviser-marileth/demon-hunter/AwaWZpYTBS0fChUtHAolMF8KIxUq-goldgAKNSrvCg">Марилет</a>
+    </td>    
+   </tr>
+  </tbody>
+ </table>
 </div>
 
 </div>
 
 ## Лучший Ковенант для Рейда
 
-В Святилище Господства есть бой как с одиночной целью (СТ), так и AoE бои. <span class="c12">Ночной Народец</span> и <span class="c6">Вентиры</span> будут лучшим выбором для рейдового контента, поскольку они оба имеют превосходный урон в СТ боях. 
-В целом, у всех четырех ковенантов есть свои плюсы и минусы, но для рейдового контента лучшие два ковенанта <span class="c12">Ночной Народец</span> для Клив боя, а 
-<span class="c6">Вентиры</span> очень сильные в СТ бою.
+Никаких изменений для ковенантов в патче 9.2 не было. <span class="c6">Вентиры</span> остаются лидером в СТ/Клив боях без долгого свитча целей, на некоторых боссах мы будем использовать <span class="c12">Ночной Народец</span>, а также не забываем про <span class="covenant-necrolord">Некролорды</span> они не уступают <span class="c12">Ночной Народец</span> но имеет один минус, рандом это минус.
 
-## Лучший Ковенант для М+
+## Лучший Ковенант для Мифик+
 
-Для М+ на данный момент выбор ковенанта особой роли не играет, т.к. игра в каждом ковенанте имеет свои плюсы и минусы. Если вы проводите львиную долю игры в ключах, а мифик рейды вас не интересуют, 
-а ПвП вам всю жизнь было противно - то можете выбрать любой ковенант. Если вы планируете играть ключи и покорять "прогулочным шагом" мифик рейды - то стоит выбирать между 
-<span class="c12">Ночным народцем</span>, <span class="c6">Вентирами</span> и <span class="c10">Некролордами</span>. 
-В 9.2 ковенант <span class="c12">Ночной народцем</span> все так же будет предпочтительный для мифик ключей, 
-но так как теперь мы можем без ограничений менять свой ковенат, тем самым попробовав их все и выбрав для себя найболее подходящий вариант, если вас чем то не устроил ковенант <span class="c12">Ночной народцем</span>.
-
-## Популярность Ковенантов
-
-<div><div class="top-covenants"><div><span class="covenant-kyrian icon-kyrian">Кирии 19,3% </span>
-<span class="covenant-necrolord icon-necrolord">Некролорды 2,5% </span><span class="covenant-night-fae icon-night-fae">Ночной Народец 58,4% </span>
-<span class="covenant-venthyr icon-venthyr">Вентиры 19,7% </span></div>
-<div class="top-covenants-time">Информация с 16 Сентябрь по 2 Октября.</div></div></div>
+Опять же, без изменений в 9.2 в отношении ковенантов, ковенаты с которыми мы играли в 9.1.5 остаются лучшими и в 9.2. Однако для Мифик+ <span class="c12">Ночной Народец</span> опережает конкурентов благодаря медиуму Корейн, но <span class="covenant-necrolord">Некролорды</span> также показывают достойный результат. <span class="c6">Вентиры</span> также будут хорошим выбором, вы можете пожертвовать небольшим АоЕ уроном ради сильного урона СТ урона.
 
 ## Ковенанты Охотников на Демонов
 
