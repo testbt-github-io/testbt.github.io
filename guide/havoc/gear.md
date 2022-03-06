@@ -11,13 +11,13 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"><span style="color: white;"> Бис лист</span></a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
 <a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
@@ -77,12 +77,21 @@ image:
 Сетовый набор состоит из пяти предметов снаряжения:
 
 * <span class="q4">[Капюшон изменчивого карателя](https://ru.wowhead.com/item=188892/)</span> (**Голова** [**Андуин Ринн**](https://ru.wowhead.com/npc=181954/))
-* []()
-* []()
-* []()
-* []()
+* <span class="q4">[Наплечники изменчивого карателя](https://ru.wowhead.com/item=188896/)</span> (**Плечи** [**Мал'Ганис**](https://ru.wowhead.com/npc=181398/))
+* <span class="q4">[Жакет изменчивого карателя ](https://ru.wowhead.com/item=188894/)</span> (**Грудь** [**Ригелон**](https://ru.wowhead.com/npc=182777/))
+* <span class="q4">[Захваты изменчивого карателя](https://ru.wowhead.com/item=188898/)</span> (**Перчатки** [**Лихувим**](https://ru.wowhead.com/npc=182169/))
+* <span class="q4">[Штаны изменчивого карателя](https://ru.wowhead.com/item=188893/)</span> (**Ноги** [**Галондрий**](https://ru.wowhead.com/npc=184915/))
 
+Чтобы разблокировать бонусы сета, Охотнику на Демонов Истребления рекомендуется экипировать голову, плечи, грудь и ноги. Однако вы можете использовать любые 4 комбинации из пяти предметов, стремясь достичь наивысшего уровня предметов.
 
+Не самый креативный бонус из тех, которые мы когда-либо видели у Охотника на Демонов Истребления, новый сет [Облачение боли изменчивого карателя](https://ru.wowhead.com/item-set=1501/) не так уж и плох. Сет увеличивает наш урон примерно на 5% в одну цель. Бонус от 4 предметов — это рандом, если он позволит сократить время восстановления [Метаморфозы](https://ru.wowhead.com/spell=162264/) настолько, что вы сможете эффективно ее использовать на протяжении всего времени действия, бонус 4 предметов будет довольно мощным в СТ бою, однако во многих случаях она будет просто потрачено впустую из-за короткого времени боя с боссом. 
+
+Для получения дополнительной информации о сет бонусах для Охотников на Демонов Истребления можете  перейти по ссылке ниже: 
+
+<div style="text-align: -webkit-center; text-align: -moz-center;">
+<a class="c12 cta-button" href="{{ site.url }}/guide/havoc/set-bonuses.html" data-border="strong" data-markup-content-target="1" data-icon="true">
+<span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg&quot;);">
+</span>Гайд по сет бонусам Охотников на Демонов</a></div><br>
 
 <p style="color:#ff4040;font-size:1.7em;">Предоставленная тут информация является справочной, всегда используйте симкрафт</p>
 
