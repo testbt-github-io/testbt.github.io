@@ -2,7 +2,7 @@
 layout: highcharts_page
 title: Ковенант Некролордов
 description: Гайд Ковенант Некролордов для Охотников на Демонов Истребление 9.2 PvE Shadowlands
-last_update: 2021-03-03 09:00:00
+last_update: 2022-03-03 09:00:00
 game_version: 9.2 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
@@ -17,7 +17,7 @@ image:
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
 <a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"><span style="color: white;"> Некролорды</span></a>
@@ -37,7 +37,13 @@ image:
 
 <details>
  <summary><i>История изменений</i></summary>
-    <details open>
+ <details open>
+     <summary><i>Патч 9.1.5</i></summary>
+      <ul>
+        <li>Легендарный предмет ковенанта <span class="covenant-necrolord">Некролордов</span> <a href="https://ru.wowhead.com/spell=355996">Демоническая клятва</a>: Когда демон, призванный <a href="https://ru.wowhead.com/spell=329554">Подпиткой для пламени</a>, взрывается, к 5 находящемуся рядом противнику применяется <a href="https://ru.wowhead.com/spell=178940">Огненное клеймо</a>. Время действия – 5 секунд. Кроме того, время действия <a href="https://ru.wowhead.com/spell=178940">Огненное клеймо</a> увеличивается на 8 секунд.</li> 
+      </ul>
+    </details>
+    <details>
      <summary><i>Патч 9.1</i></summary>
       <ul>
         <li>Легендарный предмет ковенанта <span class="covenant-necrolord">Некролордов</span> <a href="https://ru.wowhead.com/spell=355996">Демоническая клятва</a>: Когда демон, призванный <a href="https://ru.wowhead.com/spell=329554">Подпиткой для пламени</a>, взрывается, к 5 находящемуся рядом противнику применяется <a href="https://ru.wowhead.com/spell=178940">Огненное клеймо</a>. Время действия – 5 секунд. Кроме того, время действия <a href="https://ru.wowhead.com/spell=178940">Огненное клеймо</a> увеличивается на 8 секунд.</li> 

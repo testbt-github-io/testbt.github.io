@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Ковенант Вентиров
-description: Гайд Ковенант Вентиров для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
-last_update: 2021-10-30 09:00:00
-game_version: 9.1.5 Shadowlands 
+description: Гайд Ковенант Вентиров для Охотников на Демонов Истребление 9.2 PvE Shadowlands
+last_update: 2022-03-03 09:00:00
+game_version: 9.2 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -11,13 +11,13 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
 <a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
@@ -36,13 +36,19 @@ image:
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## Новинки патча 9.1.5 
+## Новинки патча 9.2
 
-* [Клеймо греха](https://ru.wowhead.com/spell=317009) сокращено время восстановления способности с 1 минуты до 45 секунд.
+* <span class="covenant-venthyr">Вентиры</span> - [Клеймо греха](https://ru.wowhead.com/spell=317009) больше не может быть обновлено [Клеймом греха](https://ru.wowhead.com/spell=317009) меньшей продолжительности при применении [Метаморфозы](https://ru.wowhead.com/spell=191427).
 
 <details>
  <summary><i>История изменений</i></summary>
     <details open>
+     <summary><i>Патч 9.1.5</i></summary>
+      <ul>
+        <li> <a href="https://ru.wowhead.com/spell=317009">Клеймо греха</a> -  сокращено время восстановления способности с 1 минуты до 45 секунд.</li> 
+      </ul>
+    </details>
+    <details >
      <summary><i>Патч 9.1</i></summary>
       <ul>
         <li>Легендарный предмет ковенанта <span class="covenant-venthyr">Вентиров</span> <a href="https://ru.wowhead.com/spell=355886">Терзающий взгляд</a>: Увеличивает урон, наносимый <a href="https://ru.wowhead.com/spell=317009">Клеймом греха</a>, на 10%. Урон от <a href="https://ru.wowhead.com/spell=198013">Пронзающего взгляда</a> продлевает время действия <a href="https://ru.wowhead.com/spell=317009">Клейма греха</a> на 0.75 секунд.</li> 
@@ -75,15 +81,11 @@ image:
 
 <div class="tabs" id="tabs-2">
     <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-33">СТ</a>
-      <a class="tabs__link" href="#content-44">АоЕ</a>
+      <a class="tabs__link tabs__link_active" href="#content-33">СТ/АоЕ</a>
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-33">
-        <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/demon-hunter/AwaWZZYBJStvCBMFLR8IFSzPCCUwPAgiBSr6CBUq7wg" target="blank">anything</a>
-      </div>
-      <div class="tabs__pane" id="content-44">
-        <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWqpYCBStvCCUszQgSBS0fCCUszwgiFSr6CCUq7wg" target="blank">anything</a>
+        <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr74CBStvChUrkwoSBS0fCiUszwoiFSrvCjUq-go" target="blank">anything</a>
       </div>
     </div>
   </div>
@@ -110,7 +112,7 @@ image:
 
 Рекомендуемое дерево развития медиума Наджия:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwCWr5YDBStvABUrkwAlLM0AEgUtHwAlLM8AIRUq-gA" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr74CBStvChUrkwoSBS0fCiUszwoiFSrvCjUq-go" target="blank">anything</a>
 </div>      
 	  </div>
       <div class="tabs__pane" id="content-1">
@@ -123,7 +125,7 @@ image:
 
 Рекомендуемое дерево развития медиума Безумный герцог Теотар:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/demon-hunter/AwaWZZYBJStvCBMFLR8IFSzPCCUwPAgiBSr6CBUq7wg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/demon-hunter/AwaWZZYBJStvChMFLR8KFSzPCiUwPAoiBSr6ChUq7wo" target="blank">anything</a>
 
 </div>     
 	 </div>
@@ -138,7 +140,7 @@ image:
 
 Рекомендуемое дерево развития медиума Генерал Дрейвен:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/demon-hunter/AwaWb5YCFStvCCUszQgSBS0fCCUszwgiBSrvCBUq-gg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/demon-hunter/AwaWb5YCFStvCiUszQoSBS0fCiUszwoiBSrvChUq-go" target="blank">anything</a>
 </div>      
 	  </div>
     </div>
