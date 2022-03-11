@@ -1,9 +1,9 @@
 ---
 layout: guide
 title: Расходники
-description: Гайд Расходники для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
-last_update: 2021-10-30 09:00:00
-game_version: 9.1.5 Shadowlands 
+description: Гайд Расходники для Охотников на Демонов Истребление 9.2 PvE Shadowlands
+last_update: 2022-03-03 09:00:00
+game_version: 9.2 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -11,13 +11,13 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/havoc/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
 <a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
@@ -59,11 +59,10 @@ image:
 * Настой: {{ site.data.prof.Eternal_Flask }}
 * Зелья: {{ site.data.prof.Potion_of_Phantom_Fire }} СТ
 * Зелья: [Зелье призрачной ловкости](https://ru.wowhead.com/item=171270/) АОЕ
-* Исцеление: {{ site.data.prof.Spiritual_Healing_Potion }}
+* Исцеление: [Зелье космического исцеления](https://ptr.wowhead.com/spell=359870)
 
 ## Лучшие Камни
 
-* {{ site.data.prof.Deadly_Jewel_Cluster }} — +16 к вероятности критического удара
 * {{ site.data.prof.Quick_Jewel_Cluster }} — +16 к скорости
 * {{ site.data.prof.Versatile_Jewel_Cluster }} — +16 к универсальности
 
@@ -75,9 +74,9 @@ image:
 * {{ site.data.prof.Feast_of_Gluttonous_Hedonism }} —  повышает ловкость на 20.
 
 Если пиры не доступны используйте еду которая повышает вторичные характеристики 
-* {{ site.data.prof.Phantasmal_Souffle_and_Fries }} —  повышает вероятность критического удара на 30. 
-* {{ site.data.prof.Steak_a_la_Mode }} — повышает  универсальность на 30. 
 * {{ site.data.prof.Tenebrous_Crown_Roast_Aspic }} — повышает скорость на 30.
+* {{ site.data.prof.Steak_a_la_Mode }} — повышает  универсальность на 30. 
+
 
 ## Масло и Заточки для оружия
 
