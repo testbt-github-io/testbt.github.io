@@ -67,16 +67,13 @@ image:
 
 <div class="tabs" id="tabs-2">
     <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-33">СТ</a>
-      <a class="tabs__link" href="#content-44">АоЕ</a>
+      <a class="tabs__link tabs__link_active" href="#content-33">СТ/АоЕ</a>
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-33">
-        <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvCBMFLR8IFTBfCCUszwgiFSr6CCUq7wg" target="blank">anything</a>
+        <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvChMFLR8KFTBfCiUszwoiFSr6CiUq7wo" target="blank">anything</a>
       </div>
-      <div class="tabs__pane" id="content-44">
-        <a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/AwaW6pYBBStvCBIFLR8IJTBfCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
-      </div>
+   
     </div>
   </div>
 <br>
@@ -102,7 +99,7 @@ image:
 
 Рекомендуемое дерево развития медиума Изобретатель чумы Марилет:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvCBMFLR8IFTBfCCUszwgiFSr6CCUq7wg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/plague-deviser-marileth/demon-hunter/AwaWZr4BJStvChMFLR8KFTBfCiUszwoiFSr6CiUq7wo" target="blank">anything</a>
 </div>      
 	  </div>
       <div class="tabs__pane" id="content-1">
@@ -115,7 +112,7 @@ image:
 
 Рекомендуемое дерево развития медиума Эмени:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/demon-hunter/AwaWar4CBStvCCUrkwgSBS0fCCUwXwgiFSr6CCUq7wg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/emeni/demon-hunter/AwaWar4CBStvCiUrkwoSBS0fCiUwXwoiFSr6CiUq7wo" target="blank">anything</a>
 </div>     
 	 </div>
 	  <div class="tabs__pane" id="content-3">
@@ -127,7 +124,7 @@ image:
 
 Рекомендуемое дерево развития медиума Костоплав Гейрмир:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/AwaW6pYBBStvCBIFLR8IJTBfCCMVKvoIJSrvCDV2AAg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/necrolord/bonesmith-heirmir/demon-hunter/AwaW6pYBBStvChIFLR8KJTBfCiMVKvoKJSrvCjV2AAo" target="blank">anything</a>
 </div>      
 	  </div>
     </div>
