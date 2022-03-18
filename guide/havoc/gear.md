@@ -84,7 +84,7 @@ image:
 
 Чтобы разблокировать бонусы сета, Охотнику на Демонов Истребления рекомендуется экипировать голову, плечи, грудь и ноги. Однако вы можете использовать любые 4 комбинации из пяти предметов, стремясь достичь наивысшего уровня предметов.
 
-Не самый креативный бонус из тех, которые мы когда-либо видели у Охотника на Демонов Истребления, новый сет [Облачение боли изменчивого карателя](https://ru.wowhead.com/item-set=1501/) не так уж и плох. Сет увеличивает наш урон примерно на 5% в одну цель. Бонус от 4 предметов — это рандом, если он позволит сократить время восстановления [Метаморфозы](https://ru.wowhead.com/spell=162264/) настолько, что вы сможете эффективно ее использовать на протяжении всего времени действия, бонус 4 предметов будет довольно мощным в СТ бою, однако во многих случаях она будет просто потрачено впустую из-за короткого времени боя с боссом. 
+Не самый креативный бонус из тех, которые мы когда-либо видели у Охотника на Демонов Истребления, новый сет [Облачение боли изменчивого карателя](https://ru.wowhead.com/item-set=1501/) не так уж и плох. Сет увеличивает наш урон примерно на 5% в одну цель. Бонус от 4 предметов — если он позволит сократить время восстановления [Метаморфозы](https://ru.wowhead.com/spell=162264/) настолько, что вы сможете эффективно ее использовать на протяжении всего времени действия, бонус будет довольно мощным в СТ бою, однако во многих случаях он будет просто потрачен впустую из-за короткого времени боя с боссом.
 
 Для получения дополнительной информации о сет бонусах для Охотников на Демонов Истребления можете  перейти по ссылке ниже: 
 
@@ -123,20 +123,21 @@ image:
 ## Аксессуар
 
 * {{ site.data.item.Phial_of_Putrefaction }} - Наносит высокий урон и показывает высокий оверолл, аксессуар обязателен к получению.
+* [Тикающий мешок ужаса](https://ru.wowhead.com/item=190652/) - Аксессуар с высоким уроном, в средний оверол 3-5%.
 * [Тотем хватки смерти](https://ru.wowhead.com/item=179356) - очень хороший аксессуар, отлично себя показывает в СТ боях.
     * Перезарядка может быть уменьшена как минимум  6 раз (90 секунд). 
     * Уменьшение времени восстановления не срабатывает для обычных мобов, таких как миньоны, второстепенные мобы или мобы значительно более низкого уровня.
     * Уменьшение времени восстановления  не всегда срабатывает даже на обычных мобах, даже когда сам тотем атакует дважды и наносит последний удар.
     * Урон от тотема может быть критическим.
     * Зона поражения составляет примерно 50 ярдов _ от тотема, _ не от вашего персонажа.
-* [Неисправная система безопасности](https://ru.wowhead.com/item=137539) - Добывается с ключей легиона во время события путешествий во времени. Очень сильный трынькет для СТ боя.
+* [Тайник с присвоенными сокровищами](https://ru.wowhead.com/item=188265/) - если на боссе нет мест где нужно придерживать использование трыни то она будет отличным выбором вместо тотема. 
+* [Бесконечно разделяющаяся слизь](https://ru.wowhead.com/item=178769/) - примерный оверол 2.5-3%
 
 ### Patchwerk
 <div id="bloodmallet_patchwerk" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222" data-language="ru" data-entries="10">Loading...</div>
 
 ### Hectic Add Cleave
 <div id="bloodmallet_hecticaddcleave" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-fight-style="hecticaddcleave" data-font-color="#eee" data-background-color="#222" data-language="ru">Loading...</div>
-
 
 ## Уровни предметов в 3 сезоне эпохальных+ подземелий Shadowlands
 
@@ -148,40 +149,40 @@ image:
 <td style="text-align: center;"><b>В недельном сундуке</b></td>
 </tr>
 <tr><td>Эпохальный 2</td>
-<td style="text-align: center;">226</td>
+<td style="text-align: center;">236</td>
 <td style="text-align: center;">252</td>
 </tr>
 <tr><td>Эпохальный 3</td>
-<td style="text-align: center;">229</td>
+<td style="text-align: center;">239</td>
 <td style="text-align: center;">252</td>
 </tr>
 <tr>
 <td>Эпохальный 4</td>
-<td style="text-align: center;">232</td>
+<td style="text-align: center;">242</td>
 <td style="text-align: center;">252</td>
 </tr>
 <tr><td>Эпохальный 5</td>
-<td style="text-align: center;">236</td>
+<td style="text-align: center;">246</td>
 <td style="text-align: center;">255</td>
 </tr>
 <tr>
 <td>Эпохальный 6</td>
-<td style="text-align: center;">239</td>
+<td style="text-align: center;">249</td>
 <td style="text-align: center;">255</td>
 </tr>
 <tr>
 <td>Эпохальный 7</td>
-<td style="text-align: center;">239</td>
+<td style="text-align: center;">249</td>
 <td style="text-align: center;">259</td>
 </tr>
 <tr>
 <td>Эпохальный 8</td>
-<td style="text-align: center;">242</td>
+<td style="text-align: center;">252</td>
 <td style="text-align: center;">262</td>
 </tr>
 <tr>
 <td>Эпохальный 9</td>
-<td style="text-align: center;">242</td>
+<td style="text-align: center;">252</td>
 <td style="text-align: center;">262</td>
 </tr>
 <tr>
@@ -191,25 +192,27 @@ image:
 </tr>
 <tr>
 <td>Эпохальный 11</td>
-<td style="text-align: center;">245</td>
+<td style="text-align: center;">255</td>
 <td style="text-align: center;">268</td>
 </tr>
 <tr>
 <td>Эпохальный 12</td>
-<td style="text-align: center;">249</td>
+<td style="text-align: center;">259</td>
 <td style="text-align: center;">272</td>
-</tr><tr><td>Эпохальный 13</td>
-<td style="text-align: center;">249</td>
+</tr>
+<tr>
+<td>Эпохальный 13</td>
+<td style="text-align: center;">259</td>
 <td style="text-align: center;">272</td>
 </tr>
 <tr>
 <td>Эпохальный 14</td>
-<td style="text-align: center;">252</td>
+<td style="text-align: center;">262</td>
 <td style="text-align: center;">275</td>
 </tr>
 <tr>
 <td>Эпохальный 15+</td>
-<td style="text-align: center;">252</td>
+<td style="text-align: center;">262</td>
 <td style="text-align: center;">278</td>
 </tr>
 </tbody>

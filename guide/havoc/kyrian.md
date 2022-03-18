@@ -66,8 +66,8 @@ image:
 ## Ковенант Кирий
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/kiri_logo.png"> </p>
 
-<span style="color:#68ccef;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> <b>Кирии</b></span> сильный ковенант для Мифик+ 
-контента из-за {{ site.data.covenant.Elysian_Decree }} который дает высокий АоЕ бурст и сильными защитными свойствами {{ site.data.covenant.Phial_of_Serenity }}, 
+<span style="color:#68ccef;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> <b>Кирии</b></span> не лучший ковенат для Истребления,
+ {{ site.data.covenant.Elysian_Decree }} дает высокий АоЕ бурст, но в СТ урон очень слаю, {{ site.data.covenant.Phial_of_Serenity }} обладает сильными защитными свойствами, 
 который не только может восстановить ваше здоровье но и развеять вредоносные эффекты, особенно будет полезен когда группе нет персонажа способного сдиспелить определенный тип вредоносного эффекта.
 
 После вступления в ковенант нам откроются две способности:
@@ -80,16 +80,13 @@ image:
 
 <div class="tabs" id="tabs-2">
     <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-33">СТ</a>
-      <a class="tabs__link" href="#content-44">АоЕ</a>
+      <a class="tabs__link tabs__link_active" href="#content-33">СТ/АоЕ</a>
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-33">
-        <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/pelagos/demon-hunter/AwaWZpYTBS0fChUszwolLRwKIxUq-golKu8KNXYACg" target="blank">anything</a>
-      </div>
-      <div class="tabs__pane" id="content-44">
         <a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaWapYBBStvChIFLR8KJS0cCiMVKvoKJSrvCjV2AAo" target="blank">anything</a>
       </div>
+      ы
     </div>
   </div>
 <br>

@@ -70,7 +70,7 @@ image:
 <tr>
 <td><span class="q4"><a href="{{ site.url }}/guide/havoc/night-fae.html">Ночной Народец</a></span></td>
 <td>Сильный</td>
-<td><a href="https://ru.wowhead.com/soulbind-calc/night-fae/niya/demon-hunter/AwaW5ZYBBStvCBIFLR8IJSzPCCMVKvoIJSrvCDV2AAg">Ния (СТ)</a> / 
+<td><a href="https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/demon-hunter/AwaZbpYBJStvChMFLR8KFS0cCiUszwojBSr6CiUq7wo1dgAK">Творец Снов СТ</a> / 
 <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvCBIFLR8IJUEmCCMVKvoIJSrvCDV2AAg">Корейн (АоЕ)</a></td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 ## Лучший легендарный предмет 
 
 Легендарные предметы у Охотников на Демонов делятся на два типа, в зависимости от типа предпочтенного контента. [Жгучая рана](https://ru.wowhead.com/spell=346279) в основном используется в бою с одной целью, 
-в то время как [Всеобщая тоска](https://ru.wowhead.com/spell=337504) предпочтительней для Клива и АоЕ, например в подземелья эпохального+ уровня. Если вы можете сделать только одину или 
+в то время как [Всеобщая тоска](https://ru.wowhead.com/spell=337504) предпочтительней для Клива и АоЕ, например в подземелья эпохального+ уровня. Если вы можете сделать только одну или 
 также планируете играть в Истреблении, сначала создайте [Жгучую рану](https://ru.wowhead.com/spell=346279).
 
 [Жгучая рана](https://ru.wowhead.com/spell=346279) - для рейдов.
@@ -203,12 +203,6 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 веса характеристик и графики масштабирования в Руководстве <a href="{{ site.url }}/guide/havoc/stats.html">Характеристики</a>, или вы можете посмотреть обзор снаряжения, 
 на которое стоит обратить внимание в подземельях и рейдах, в Руководстве <a href="{{ site.url }}/guide/havoc/gear.html"> Бис лист</a>.  
 
-- Приоритет характеристик:
-	1. **Уровень предмета**
-	1. **Скорость**
-    1. **Универсальность**
-    1. **Критический урон**
-    1. **Искусность**
 	
 <div style="text-align: -webkit-center; text-align: -moz-center;"><a class="c12 cta-button" href="{{ site.url }}/guide/havoc/stats.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
@@ -219,7 +213,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 ### Зачарование
 
 <ul>
-<li>Оружие: 2х{{ site.data.prof.Enchant_Weapon_Lightless_Force }}</li>
+<li>Оружие: 1х {{ site.data.prof.Celestial_Guidance }} и 1х {{ site.data.prof.Sinful_Revelation }}</li>
 <li>Кольца: 2х{{ site.data.prof.Enchant_Ring_Tenet_of_Versatility }}</li>
 <li>Сапоги: {{ site.data.prof.Enchant_Boots_Eternal_Agility }}</li>
 <li>Нагрудник: {{ site.data.prof.Enchant_Chest_Eternal_Stats }}</li>
@@ -231,7 +225,7 @@ data-icon="true"><span class="cta-button-icon" style="background-image: url(&quo
 <li>Настой: {{ site.data.prof.Eternal_Flask }}</li>
 <li>Зелья: {{ site.data.prof.Potion_of_Phantom_Fire }} СТ</li>
 <li>Зелья: {{ site.data.prof.Potion_of_Empowered_Exorcisms }} АОЕ</li>
-<li>Исцеление: {{ site.data.prof.Spiritual_Healing_Potion }} </li>
+<li>Исцеление: [Зелье космического исцеления](https://ptr.wowhead.com/spell=359870) </li>
 </ul>
 
 ### Камни

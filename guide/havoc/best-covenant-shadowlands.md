@@ -66,13 +66,13 @@ image:
     <td style="text-align: center;">
      <a href="{{ site.url }}/guide/havoc/night-fae.html"><span class="covenant-night-fae">Ночной народец</span></a></td>
     <td style="text-align: center;">
-     <a href="{{ site.url }}/guide/havoc/night-fae.html">Ния СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
+     <a href="https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/demon-hunter/AwaZbpYBJStvChMFLR8KFS0cCiUszwojBSr6CiUq7wo1dgAK">Творец Снов СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
     </td>
     <td style="text-align: center;">
      <a href="{{ site.url }}/guide/havoc/night-fae.html"><span class="covenant-night-fae">Ночной народец</span></a>
     </td>
     <td style="text-align: center;">
-     <a href="{{ site.url }}/guide/havoc/night-fae.html">Ния СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
+     <a href="https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/demon-hunter/AwaZbpYBJStvChMFLR8KFS0cCiUszwojBSr6CiUq7wo1dgAK">Творец Снов СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
     </td>
    </tr>
    <tr>
@@ -120,13 +120,13 @@ image:
     <td style="text-align: center;">
      <a href="{{ site.url }}/guide/havoc/night-fae.html"><span class="covenant-night-fae">Ночной народец</span></a></td>
     <td style="text-align: center;">
-     <a href="{{ site.url }}/guide/havoc/night-fae.html">Ния СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
+     <a href="https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/demon-hunter/AwaZbpYBJStvChMFLR8KFS0cCiUszwojBSr6CiUq7wo1dgAK">Творец Снов СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
     </td>
     <td style="text-align: center;">
      <a href="{{ site.url }}/guide/havoc/night-fae.html"><span class="covenant-night-fae">Ночной народец</span></a>
     </td>
     <td style="text-align: center;">
-     <a href="{{ site.url }}/guide/havoc/night-fae.html">Ния СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
+     <a href="https://ru.wowhead.com/soulbind-calc/night-fae/dreamweaver/demon-hunter/AwaZbpYBJStvChMFLR8KFS0cCiUszwojBSr6CiUq7wo1dgAK">Творец Снов СТ</a> / <a href="https://ru.wowhead.com/soulbind-calc/night-fae/korayn/demon-hunter/AwaW6pYBBStvChIFLR8KJSzPCiMVKvoKJSrvCjV2AAo">Корейн АоЕ</a>
     </td>
    </tr>
    <tr>
@@ -149,11 +149,11 @@ image:
 
 ## Лучший Ковенант для Рейда
 
-Никаких изменений для ковенантов в патче 9.2 не было. <span class="c6">Вентиры</span> остаются лидером в СТ/Клив боях без долгого свитча целей, на некоторых боссах мы будем использовать <span class="c12">Ночной Народец</span>, а также не забываем про <span class="covenant-necrolord">Некролорды</span> они не уступают <span class="c12">Ночной Народец</span> но имеет один минус, рандом это минус.
+Никаких изменений для ковенантов в патче 9.2 не было. <span class="c6">Вентиры</span> остаются лидером в СТ/Клив боях без долгого свитча целей, на некоторых боссах мы будем использовать <span class="c12">Ночной Народец</span>, а также не забываем про <span class="covenant-necrolord">Некролордов</span> они не уступают <span class="c12">Ночному Народцу</span> но имеют один минус, прок демона случайный рандом это минус.
 
 ## Лучший Ковенант для Мифик+
 
-Опять же, без изменений в 9.2 в отношении ковенантов, ковенаты с которыми мы играли в 9.1.5 остаются лучшими и в 9.2. Однако для Мифик+ <span class="c12">Ночной Народец</span> опережает конкурентов благодаря медиуму Корейн, но <span class="covenant-necrolord">Некролорды</span> также показывают достойный результат. <span class="c6">Вентиры</span> также будут хорошим выбором, вы можете пожертвовать небольшим АоЕ уроном ради сильного урона СТ урона.
+Опять же, без изменений в 9.2 в отношении ковенантов, ковенаты с которыми мы играли в 9.1.5 остаются лучшими и в 9.2. Однако для Мифик+ <span class="c12">Ночной Народец</span> опережает конкурентов благодаря медиуму Корейн, но <span class="covenant-necrolord">Некролорды</span> также показывают достойный результат. <span class="c6">Вентиры</span> также будут хорошим выбором, вы можете пожертвовать небольшим АоЕ ради сильного СТ урона.
 
 ## Ковенанты Охотников на Демонов
 
@@ -165,35 +165,35 @@ image:
 
 Связи души не самые сильные, но и не самые худшие. Ковенант Криий дает нам приличные баффы характеристик, что никогда не бывает плохо. 
 Связи душ Клеи могут улучшить ваш [Флакон безмятежности](https://ru.wowhead.com/item=177278) до [Флакон перерожденного](https://ru.wowhead.com/spell=329776/), 
-после чего он вам будет давать полную невосприимчивость к негативным эффектам на 5 секунд.
+после чего он вам будет давать полную невосприимчивость к негативным эффектам на 8 секунд.
 
 <h3 id="necrolord" class="heading-size-3"><span class="c10">Некролорды</span></h3>
 
 Изменение способности [Подпитка для пламени](https://ru.wowhead.com/spell=329554) делает ковенант более привлекательным, но все еще не достаточно. 
 Механика способности изменена с призванного демона с перезарядкой 2 минуты на случайное появление демона ( вероятность срабатывания 1,5 раз в минуту ). Бафф, 
-полученный от демона, довольно мощный, и переработка способности увеличит время его работы, но этого не достаточно чтоб обойти другие ковенанты.
+полученный от демона, довольно мощный, и переработка способности увеличит время его работы, но случайность срабатывания это минус.
 
 [Скульптор плоти](https://ru.wowhead.com/spell=324631/) очень сильная способность. Большой щит очень хорош, а также снижает урон во время его использования. 
 Однако пока вы его используете вы не можете наносить урон - большая потеря для роли ДПС.
 
 Ковенант Некролордов открывает доступ к очень сильным связям душ. У Изобретатель чумы Марилет есть [Совершенный облик](https://ru.wowhead.com/spell=323095), дающая иммунитет к контролю, 
 что может быть полезно, если правильно ее использовать в PvP. 
-Эмени, самый сильный медиум благодаря [Образцу для подражания](https://ru.wowhead.com/spell=342156/), он дает всем дружественным целям Бафф основной характеристики, и [Скрежещущие зубы](https://ru.wowhead.com/spell=323919/), 
+Эмени сильный медиум благодаря [Образцу для подражания](https://ru.wowhead.com/spell=342156/), он дает всем дружественным целям Бафф основной характеристики, и [Скрежещущие зубы](https://ru.wowhead.com/spell=323919/), 
 связь дает большое количество скорости, которая не зависит от того кто добил врага. 
 Костоплав Гейрмир дает нам хороший бонус к основным характеристикам через [Откровения мастера кузни](https://ru.wowhead.com/spell=326514) и [Арсенал Гейрмир: оссеиновый самоцвет](https://ru.wowhead.com/spell=326572/), дающий приличный прирост ДПС.
 
 <h3 id="night-fae" class="heading-size-3"><span class="c12">Ночной Народец</span></h3>
 
-[Охота](https://ru.wowhead.com/spell=323639) очень мощная способность. Недавние исправления сделали ее ДоТа преимуществом как за счет скорости, 
-так и за счет критического удара, что сделало способность еще лучше. Тем не менее у нее есть минуса, применение иногда требует выхода с зоны ближнего боя для применения способности, 
-проблемные хитбоксы мобов, что приводит к потере АоЕ урона, а иногда может даже промахнуться в одиночной цели. А также способность имеет хард кап в 5 целей.
+[Охота](https://ru.wowhead.com/spell=323639) очень мощная способность. На ее ДоТ действует скорость 
+и критический удар, что делает способность еще лучше. Тем не менее у нее есть минуса, применение способности иногда требует выхода с зоны ближнего боя для ее применения, 
+проблемные хитбоксы мобов из-за чего на них не накладывается ДоТ, что приводит к потере АоЕ урона. А также способность имеет хард кап в 5 целей.
 
-[Облик души](https://ru.wowhead.com/spell=310143) хороша способность для мгновенного телепорта, чтобы уклониться от некоторых механик, может спасти вам жизнь в критических ситуациях, особенно когда вы играете с Импульсом.
+[Облик души](https://ru.wowhead.com/spell=310143) хороша способность для мгновенного телепорта, чтобы уклониться от некоторых механик, может спасти вам жизнь в критических ситуациях.
 
-Медиум Ния будет чрезвычайно сильна в СТ боях благодаря [Инструменты Нии: колючая лоза](https://ru.wowhead.com/spell=320659). 
-Творец Снов - лучший выбор на раннем этапе игры, поскольку он дает нам доступ к двум проводникам Силы раньше других. 
-Творец Снов также обладает мощными связями душ, [Украшение компании](https://ru.wowhead.com/spell=319210), дающая универсальность почти на 100% временем работы, и [Цветочное поле](https://ru.wowhead.com/spell=319191), дающее много скорости. 
-Благодаря связи душ медиума Корейн [Первый удар](https://ru.wowhead.com/spell=325069/) очень сильно увеличивает АоЕ урон.
+Медиум Ния сильна в СТ боях благодаря [Инструменты Нии: колючая лоза](https://ru.wowhead.com/spell=320659). 
+Творец Снов - лучший выбор для СТ боя, поскольку он дает нам доступ к трём проводникам Силы. 
+Творец Снов также обладает мощной связью душ [Цветочное поле](https://ru.wowhead.com/spell=319191) которая дает много скорости.
+Благодаря связи душ медиума Корейн [Первый удар](https://ru.wowhead.com/spell=325069/) очень сильно увеличивается АоЕ урон.
 
 <h3 id="venthyr" class="heading-size-3"><span class="c6">Вентиры</span></h3>
 
@@ -204,7 +204,7 @@ image:
 Вентиры обладают сильными связями душ. Они очень сильны на ранних и поздних этапах известности. 
 У Наджия, Клинок Туманов [Поиск острых ощущений](https://ru.wowhead.com/spell=331586/) - ее первая связь, которая дает нам приличный бафф скорости с хорошим временем постоянной работы, 
 которая становится только лучше с увеличением количеством целей. Кроме того, у ее последних связей душ есть несколько очень хороших вариантов в зависимости от ситуации. 
-Безумный герцог Теотар - отличный выбор на все случаи жизни, поскольку все 3 его связи дух последнего уровня предлагают очень мощные баффы.
+Безумный герцог Теотар - отличный выбор на все случаи жизни, поскольку все 3 его связи душ последнего уровня предлагают очень мощные баффы.
 
 <div id="smooth-nav-coven">
 <a class="c12 cta-button" href="{{ site.url }}/guide/havoc/night-fae.html" style="border-color: #a330c9"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
