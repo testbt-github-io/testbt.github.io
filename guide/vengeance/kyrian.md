@@ -98,13 +98,13 @@ image:
 
 В боях где много магического урона, используйте [Вязкие чернила](https://ru.wowhead.com/spell=338682) вместо [Расколотое исцеление](https://ru.wowhead.com/spell=338793). Например в рейде **Святилище господства**.
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaW6r4CBStvCCUszQgSBS0fCCV2DggiFSrvCCV2AAg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaW6r4CBStvCCUszQgSBS0fCCUvtwgiFSrvCCV2AAg" target="blank">anything</a>
 </div>      
 	  </div>
       <div class="tabs__pane" id="content-2">
 <div class="tabs_in" markdown="1">
 В боях где много магического урона, используйте [Вязкие чернила](https://ru.wowhead.com/spell=338682) вместо [Расколотое исцеление](https://ru.wowhead.com/spell=338793). Например в рейде **Святилище господства**.      
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaW6pYBBStvCBIFLR8IJXYOCCMVKu8IJXYACDUraQg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaW6pYBBStvCBIFLR8IJS-3CCMVKu8IJXYACDUraQg" target="blank">anything</a>
 </div>     
 	 </div>
 	  <div class="tabs__pane" id="content-3">
@@ -171,7 +171,7 @@ image:
 
 Рекомендуемое дерево развития медиума Верховный автоматург Миканикос:
 
-<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaW6r4CBStvCCUszQgSBS0fCCV2DggiFSrvCCV2AAg" target="blank">anything</a>
+<a href="https://ru.wowhead.com/soulbind-calc/embed/kyrian/forgelite-prime-mikanikos/demon-hunter/AwaW6r4CBStvCCUszQgSBS0fCCUvtwgiFSrvCCV2AAg" target="blank">anything</a>
 </div>      
 	  </div>
     </div>
