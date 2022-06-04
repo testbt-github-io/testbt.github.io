@@ -105,11 +105,7 @@ image:
 * <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span> - <span class="q5">[**Пылающая бойня**](https://ru.wowhead.com/spell=355890)</span> + <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> или <span class="q5">[**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
 * <span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - <span class="q5">[**Демоническая клятва**](https://ru.wowhead.com/spell=355996)</span> + <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> или <span class="q5">[**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
 
-<<<<<<< Updated upstream
-Самый сильный легендарный предмет для Охотников на Демонов Истребления, ориентированных на рейды, будет зависеть от выбора ковенанта и комбинации легендарок. Самая сильная комбинация у Ветиров. Ни один другой легендарный предмет не будет конкурировать с ними в СТ боях. Когда битва с боссом завязана на АоЕ, [**Всеобщая тоска**](https://ru.wowhead.com/spell=337504) становится хорошим выбором, а так же хорошо сочетается как с <span style="color:#ff4040;font-size:1em;">Вентирами</span>, так и с <span style="color:#a330c9;font-size:1em;">Ночным народцем</span>.
-=======
 Самый сильный легендарный предмет для Охотников на Демонов Истребления, ориентированных на рейды, будет зависеть от выбора ковенанта и комбинации легендарок. Самая сильная комбинация у Ветиров. Ни один другой легендарный предмет не будет конкурировать с ними в СТ боях. Когда битва с боссом завязана на АоЕ [**Всеобщая тоска**](https://ru.wowhead.com/spell=337504) становится хорошим выбором, а так же хорошо сочетается как с <span style="color:#ff4040;font-size:1em;">Вентирами</span>, так и с <span style="color:#a330c9;font-size:1em;">Ночным народцем</span>.
->>>>>>> Stashed changes
 
 Два легендарных предмета не сильно влияют на Охотника на Демонов Истребления. [Терзающий взгляд](https://ru.wowhead.com/spell=355886) остается нашим лучшим выбором для СТ/Клив боев мы сочетаем его с [Даром созерцателя тьмы](https://ru.wowhead.com/spell=337534), а для Клива — с [Всеобщей тоской](https://ru.wowhead.com/spell=337504).
 
