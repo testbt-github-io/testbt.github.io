@@ -1,22 +1,22 @@
 ---
 layout: guide
 title: БиС лист
-description: Гайд для Охотников на Демонов Месть 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
-author: Airithez и Rodriguezz
+description: Гайд для Охотников на Демонов Месть 9.2 PvE Shadowlands
+last_update: 2022-06-15 09:00:00
+game_version: 9.2 Shadowlands 
+author: Rodriguezz
 image:
     path: assets/img/blog/prev/spec_logo_VDH.png
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/vengeance/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/vengeance/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
 <a href="{{ site.url }}/guide/vengeance/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/vengeance/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/vengeance/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"><span style="color: white;"> Бис лист</span></a>
 <a href="{{ site.url }}/guide/vengeance/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/vengeance/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/vengeance/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/vengeance/Set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сетовый набор</a>
 <a href="{{ site.url }}/guide/vengeance/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/vengeance/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a href="{{ site.url }}/guide/vengeance/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
@@ -45,53 +45,40 @@ image:
 
 <div class="table-box" markdown="1">
 
-|Слот|Название|Камень господства|Добывается|
-|Голова|[Колпак извивающегося зла](https://ru.wowhead.com/item=186292/)|[Осколок Диз](https://ru.wowhead.com/item=187073)|[Душа Нер'зула](https://ru.wowhead.com/npc=175729)|
-|Шея|[Межпланарный краеугольный камень](https://ru.wowhead.com/item=186379)| - |[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Плечо|[Наплеч доверенного-предателя](https://ru.wowhead.com/item=186336)|[Осколок Кор](https://ru.wowhead.com/item=187063)|[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Плащ|[Самовоспроизводящаяся ткань](https://ru.wowhead.com/item=186374/)| - |[Стражница Предвечных](https://ru.wowhead.com/npc=175731)|
-|Грудь|[Клепаная кираса иссохшего сердца](https://ru.wowhead.com/item=186334)|[Осколок Бек](https://ru.wowhead.com/item=187057)|[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
-|Запястье|[Путы с нитями судьбы](https://ru.wowhead.com/item=186335)| - |[Писарь судьбы Ро-Кало](https://ru.wowhead.com/npc=179390)|
-|Руки|[Повязки верного квалдира](https://ru.wowhead.com/item=186295)|[Осколок Рев](https://ru.wowhead.com/item=187061)|[Око Тюремщика](https://ru.wowhead.com/npc=180018)|
-|Пояс|[Перевязь Ветрокрылой](https://ru.wowhead.com/item=186332)| - |[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
-|Ноги|[Брюки элитного аранакка](https://ru.wowhead.com/item=186331)| - |[Кел'Тузад](https://ru.wowhead.com/npc=15990/kelthuzad)|
-|Сапоги|[Сапоги нестабильной энергии](https://ru.wowhead.com/item=186363)|[Осколок Джас](https://ru.wowhead.com/item=187059)|[Стражница Предвечных](https://ru.wowhead.com/npc=175731)|
-|Кольцо 1|[Потускневший знак Кель'Таласа](https://ru.wowhead.com/item=186377)| - |[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=180828)|
-|Кольцо 2|[Миниатюрное колесо для казни](https://ru.wowhead.com/item=186375)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
-|Аксессуар 1|[Забрызганная кровью чешуйка](https://ru.wowhead.com/item=179331)| - |[Та Сторона](https://ru.wowhead.com/de-other-side)|
-|Аксессуар 2|[Осколок эгиды Аннгильды](https://ru.wowhead.com/item=186424)| - |[Скайя](https://ru.wowhead.com/npc=175726)|
-|Основная рука|[Элетиевая глефа](https://ru.wowhead.com/item=186381)| - |[Таррагр](https://ru.wowhead.com/npc=152253)|
-|Левая рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)| - |[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523)|
+|Слот|Название|Добывается|
+|Голова|[Капюшон изменчивого карателя](https://ru.wowhead.com/item=188892/)|[Андуин Ринн](https://ru.wowhead.com/npc=181954)|
+|Шея|[Знак принадлежности к картелю Зи](https://ru.wowhead.com/item=189827)|[Изобретатель Зи'мокс Картель Зи](https://ru.wowhead.com/npc=183501)|
+|Плечо|[Наплечники изменчивого карателя](https://ru.wowhead.com/item=188896)|[Властители Ужаса](https://ru.wowhead.com/npc=181398)|
+|Плащ|[Покров избранных Владыки](https://ru.wowhead.com/item=189847/)|[Властители Ужаса](https://ru.wowhead.com/npc=181398)|
+|Грудь|[Жакет изменчивого карателя](https://ru.wowhead.com/item=188894)|[Ригелон](https://ru.wowhead.com/npc=182777)|
+|Запястье|[Затертые песком наручи пожирателя](https://ru.wowhead.com/item=189812)|[Сколекс](https://ru.wowhead.com/npc=183937)|
+|Руки|[Захваты изменчивого карателя](https://ru.wowhead.com/item=188898)|[Лихувим](https://ru.wowhead.com/npc=182169)|
+|Пояс|[Искаженный оберег Резчика Рун](https://ru.wowhead.com/item=189856)|[Тюремщик](https://ru.wowhead.com/npc=185421)|
+|Ноги|[Штаны изменчивого карателя](https://ru.wowhead.com/item=188893)|[Галондрий](https://ru.wowhead.com/npc=184915)|
+|Сапоги|[Мокасины ужасного отпущения](https://ru.wowhead.com/item=189798)|[Прототип Войны](https://ru.wowhead.com/npc=181549)|
+|Кольцо 1|[Перидот говорливого хранителя](https://ru.wowhead.com/item=189802)|[Лихувим](https://ru.wowhead.com/npc=182169)|
+|Кольцо 2|[Улучшенная защитная матрица](https://ru.wowhead.com/item=189772)|[Бдительный Страж](https://ru.wowhead.com/npc=180773)|
+|Аксессуар 1|[Забрызганная кровью чешуйка](https://ru.wowhead.com/item=179331)|[Та Сторона](https://ru.wowhead.com/de-other-side)|
+|Аксессуар 2|[Тикающий мешок ужаса](https://ru.wowhead.com/item=185844)|[Тайный рынок Тазавеш](https://ru.wowhead.com/tazavesh-the-veiled-market)|
+|Основная рука|[Парные клинки страданий Аландиен](https://ru.wowhead.com/item=189846)|[Властители Ужаса](https://ru.wowhead.com/npc=181398)|
+|Левая рука|[Парные клинки страданий Аландиен](https://ru.wowhead.com/item=189846)|[Властители Ужаса](https://ru.wowhead.com/npc=181398)|
 
 </div>
 <br>
 
 <p style="color:#ff4040;font-size:1.7em;">Предоставленная тут информация является справочной, всегда используйте симкрафт</p>
 
-## Лучший сет Осколков Господства
+Сетовый набор состоит из пяти предметов снаряжения:
 
-Осколки Господства – это новая система из дополнения Цепи Господства, которая сделает добывающуюся в рейде Святилище Господства экипировку наиболее мощной именно в нем. Об этой системе известно следующее:
+* <span class="q4">[Капюшон изменчивого карателя](https://ru.wowhead.com/item=188892/)</span> (**Голова** [**Андуин Ринн**](https://ru.wowhead.com/npc=181954/))
+* <span class="q4">[Наплечники изменчивого карателя](https://ru.wowhead.com/item=188896/)</span> (**Плечи** [**Мал'Ганис**](https://ru.wowhead.com/npc=181398/))
+* <span class="q4">[Жакет изменчивого карателя ](https://ru.wowhead.com/item=188894/)</span> (**Грудь** [**Ригелон**](https://ru.wowhead.com/npc=182777/))
+* <span class="q4">[Захваты изменчивого карателя](https://ru.wowhead.com/item=188898/)</span> (**Перчатки** [**Лихувим**](https://ru.wowhead.com/npc=182169/))
+* <span class="q4">[Штаны изменчивого карателя](https://ru.wowhead.com/item=188893/)</span> (**Ноги** [**Галондрий**](https://ru.wowhead.com/npc=184915/))
 
-### Рейд
+Чтобы разблокировать бонусы сета, Охотнику на Демонов Истребления рекомендуется экипировать голову, плечи, грудь и ноги. Однако вы можете использовать любые 4 комбинации из пяти предметов, стремясь достичь наивысшего уровня предметов.
 
-* [Осколок Диз](https://ru.wowhead.com/item=187073)
-* [Осколок Кор](https://ru.wowhead.com/item=187063)
-* [Осколок Бек](https://ru.wowhead.com/item=187057)
-* [Осколок Рев](https://ru.wowhead.com/item=187061)
-* [Осколок Джас](https://ru.wowhead.com/item=187059)
-
-### Мифик+
-
-* [Осколок Диз](https://ru.wowhead.com/item=187073)
-* [Осколок Кор](https://ru.wowhead.com/item=187063)
-* [Осколок Бек](https://ru.wowhead.com/item=187057)
-* [Осколок Джас](https://ru.wowhead.com/item=187059)
-* [Осколок Кир](https://ru.wowhead.com/spell=355743)
-
-<div style="text-align: -webkit-center; text-align: -moz-center;">
-<a class="c12 cta-button" href="{{ site.url }}/guide/vengeance/domination-set-bonuses.html" data-border="strong" data-markup-content-target="1" data-icon="true">
-<span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_spectank.jpg&quot;);">
-</span>Гайд Осколкам Господства Охотников на Демонов</a></div><br>
+Бонус сета довольно силен в AoE, но  слаб в СТ. Он обеспечивает минимальное увеличение урона в СТ бою и прилично увеличивает время действия [Метаморфозы](https://ru.wowhead.com/spell=187827) благодаря дополнительным применениям [Опустошения Скверны](https://ru.wowhead.com/spell=212084) с талантом [Демонизм](https://ru.wowhead.com/spell=321453). В AoE он обеспечивает довольно значительный прирост DPS, а также больше времени защиты.
 
 ## Рекомендуемое снаряжение с Мифик+
 
@@ -121,13 +108,11 @@ image:
 ## Аксессуары
 
 * {{ site.data.item.Blood_Spattered_Scale }} очень сильный дополнительный сейв. Дает много абсорба и хороший урон. Отличный вариант для М+ контента и прочих АОЕ сценариев.
-* [Осколок эгиды Аннгильды](https://ru.wowhead.com/item=186424) - Хороший защитный аксессуары, который поглощает много урона.
-* [Матрица реактивной защиты](https://ru.wowhead.com/item=186433) - 2 + Скорость RPPM отражения урона и автоматически срабатывает, когда ваше здоровье падает ниже 20%, с внутренним кулдауном 30 секунд, что потенциально дает возможность срабатывать 4 + Скорость RPPM. Если вы можете получить бонусное срабатывание, постоянно опускаясь ниже 20%, он поглотит примерно столько же, сколько и {{ site.data.item.Blood_Spattered_Scale }} того же уровня, и нанесет больше урона. Если вы не будете получать бонусное срабатывание, он наносит аналогичный урон, но примерно на половину меньше поглотит урона.
-* {{ site.data.item.Anima_Field_Emitter }} дает много скорости с высоким аптаймом, что могло быть хорошим бонусом, если бы не привязка к позиции. Лужа, дающая скорость, довольно небольшая, что делает использование трини на большинстве энкаунтеров проблемным.
-* {{ site.data.item.Splintered_Heart_of_Alar }} просто читдез. Огромное кд, шанс осечки крайне мал. Неплохо, если вам нужен еще один читдез, но в целом крайне слабый и ситуативный аксессуар.
+* [Кодекс первой техники](https://ru.wowhead.com/item=185836) - срабатывает в среднем 2,5 раза в минуту, отражает 10% всего входящего урона в течение 12 секунд. Это работает так же против магии и имеет около 50% времени постоянной работы, так что это довольно сильный трынькет. Единственная минус, он дает выносливость, что снижает его ценность. Кроме того, в СТ он немного слаб из-за того, что его нельзя контролировать, но в АоЕ в среднем он довольно силен.
+* [Осколок эгиды Аннгильды](https://ru.wowhead.com/item=186424) - очень сильный аксессуар для АоЕ сражений, у него нет ограничений по снижению урона во время ее действия. Даже учитывая что она с прошлого рейда и у нее ниже уровень, она все так же остается довольно сильной.
 
 
-## Уровни предметов в 2 сезоне эпохальных+ подземелий Shadowlands
+## Уровни предметов в 3 сезоне эпохальных+ подземелий Shadowlands
 
 <table class="grid" style="max-width:750px">
 <tbody>
@@ -137,98 +122,100 @@ image:
 <td style="text-align: center;"><b>В недельном сундуке</b></td>
 </tr>
 <tr><td>Эпохальный 2</td>
-<td style="text-align: center;">213</td>
-<td style="text-align: center;">226</td>
+<td style="text-align: center;">236</td>
+<td style="text-align: center;">252</td>
 </tr>
 <tr><td>Эпохальный 3</td>
-<td style="text-align: center;">216</td>
-<td style="text-align: center;">229</td>
+<td style="text-align: center;">239</td>
+<td style="text-align: center;">252</td>
 </tr>
 <tr>
 <td>Эпохальный 4</td>
-<td style="text-align: center;">220</td>
-<td style="text-align: center;">233</td>
+<td style="text-align: center;">242</td>
+<td style="text-align: center;">252</td>
 </tr>
 <tr><td>Эпохальный 5</td>
-<td style="text-align: center;">220</td>
-<td style="text-align: center;">236</td>
+<td style="text-align: center;">246</td>
+<td style="text-align: center;">255</td>
 </tr>
 <tr>
 <td>Эпохальный 6</td>
-<td style="text-align: center;">223</td>
-<td style="text-align: center;">236</td>
+<td style="text-align: center;">249</td>
+<td style="text-align: center;">255</td>
 </tr>
 <tr>
 <td>Эпохальный 7</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">239</td>
+<td style="text-align: center;">249</td>
+<td style="text-align: center;">259</td>
 </tr>
 <tr>
 <td>Эпохальный 8</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">242</td>
+<td style="text-align: center;">252</td>
+<td style="text-align: center;">262</td>
 </tr>
 <tr>
 <td>Эпохальный 9</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">242</td>
+<td style="text-align: center;">252</td>
+<td style="text-align: center;">262</td>
 </tr>
 <tr>
 <td>Эпохальный 10</td>
-<td style="text-align: center;">229</td>
-<td style="text-align: center;">246</td>
+<td style="text-align: center;">245</td>
+<td style="text-align: center;">265</td>
 </tr>
 <tr>
 <td>Эпохальный 11</td>
-<td style="text-align: center;">229</td>
-<td style="text-align: center;">246</td>
+<td style="text-align: center;">255</td>
+<td style="text-align: center;">268</td>
 </tr>
 <tr>
 <td>Эпохальный 12</td>
-<td style="text-align: center;">233</td>
-<td style="text-align: center;">249</td>
-</tr><tr><td>Эпохальный 13</td>
-<td style="text-align: center;">233</td>
-<td style="text-align: center;">249</td>
+<td style="text-align: center;">259</td>
+<td style="text-align: center;">272</td>
+</tr>
+<tr>
+<td>Эпохальный 13</td>
+<td style="text-align: center;">259</td>
+<td style="text-align: center;">272</td>
 </tr>
 <tr>
 <td>Эпохальный 14</td>
-<td style="text-align: center;">233</td>
-<td style="text-align: center;">252</td>
+<td style="text-align: center;">262</td>
+<td style="text-align: center;">275</td>
 </tr>
 <tr>
 <td>Эпохальный 15+</td>
-<td style="text-align: center;">236</td>
-<td style="text-align: center;">252</td>
+<td style="text-align: center;">262</td>
+<td style="text-align: center;">278</td>
 </tr>
 </tbody>
 </table>
 
-## Уровни предметов в рейде Святилища господства
+## Уровни предметов в рейде Гробница предвечных
 
 <table class="grid" style="max-width:750px">
 <tbody>
 <tr>
 <td style="text-align: center;"><b>Сложность</b></td>
 <td style="text-align: center;"><b>Первые 8 боссов</b></td>
-<td style="text-align: center;"><b>Последние 2 босса</b></td>
+<td style="text-align: center;"><b>Последние 3 босса</b></td>
 </tr>
 <tr><td>ЛФР</td>
-<td style="text-align: center;">213</td>
-<td style="text-align: center;">220</td>
-</tr>
-<tr><td>Обычная</td>
-<td style="text-align: center;">226</td>
-<td style="text-align: center;">233</td>
-</tr>
-<tr>
-<td>Героическая</td>
 <td style="text-align: center;">239</td>
 <td style="text-align: center;">246</td>
 </tr>
-<tr><td>Эпохальный</td>
+<tr><td>Обычная</td>
 <td style="text-align: center;">252</td>
 <td style="text-align: center;">259</td>
+</tr>
+<tr>
+<td>Героическая</td>
+<td style="text-align: center;">265</td>
+<td style="text-align: center;">272</td>
+</tr>
+<tr><td>Эпохальный</td>
+<td style="text-align: center;">278</td>
+<td style="text-align: center;">285</td>
 </tr>
 </tbody>
 </table>

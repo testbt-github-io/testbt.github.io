@@ -1,22 +1,22 @@
 ---
 layout: guide
 title: Таланты и Билды
-description: Лучшие Таланты и Билды для Охотников на Демонов Месть 9.1.5 PvE Shadowlands
-last_update: 2021-11-13 09:00:00
-game_version: 9.1.5 Shadowlands 
+description: Лучшие Таланты и Билды для Охотников на Демонов Месть 9.2 PvE Shadowlands
+last_update: 2022-06-15 09:00:00
+game_version: 9.2 Shadowlands 
 author: Rodriguezz
 image:
     path: assets/img/blog/prev/spec_logo_VDH.png
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/vengeance/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/vengeance/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
 <a href="{{ site.url }}/guide/vengeance/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/vengeance/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/vengeance/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/vengeance/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"><span style="color: white;"> Таланты и Билды</span></a>
 <a href="{{ site.url }}/guide/vengeance/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/vengeance/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/vengeance/Set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сетовый набор</a>
 <a href="{{ site.url }}/guide/vengeance/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/vengeance/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a href="{{ site.url }}/guide/vengeance/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
@@ -68,34 +68,52 @@ image:
 
 <div class="tabs">
 <div class="tabs__nav">
-<a class="tabs__link tabs__link_active" href="#content-1">Клеймобилд</a>
-<a class="tabs__link" href="#content-2">ДПС Билд</a>
+<a class="tabs__link tabs__link_active" href="#content-2">ДПС Билд</a>
+<a class="tabs__link" href="#content-3">Откат печатей</a>
+<a class="tabs__link" href="#content-1">Клеймобилд</a>
 </div>
 
 <div class="tabs__content">
-<div class="tabs__pane tabs__pane_show" id="content-1" >
+<div class="tabs__pane" id="content-1" >
 
 <div class="tabs_in" markdown="1">
 
-Клеймобилд с высокой выживаемостью через легендарный эффект {{ site.data.legendary.Fiery_Soul }}. Основной билд ВДХ в высокие ключи и мифик рейд
-
 {% include FierySoul.html %} 
+
 <br>
-> {{ site.data.talent.Quickened_Sigils }} перманентный выбор только с ковенантом <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> Кирий.
+
+Предпочтительный легендарный предмет
+
+<span class="q5"><strong>[Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534/)</strong></span>
 
 </div>
 </div>
 
-<div class="tabs__pane" id="content-2">
+<div class="tabs__pane" id="content-3" >
+
+<div class="tabs_in" markdown="1">
+
+{% include pechti.html %} 
+
+<br>
+
+Предпочтительный легендарный предмет
+
+<span class="q5"><strong>[Осквернение Разелиха](https://ru.wowhead.com/spell=337544/)</strong></span>
+
+</div>
+</div>
+
+<div class="tabs__pane tabs__pane_show" id="content-2">
    
 <div class="tabs_in"  markdown="1">
-
-ДПС вариант через {{ site.data.talent.Spirit_Bomb }}. Выживаемость в этом варианте на порядок ниже.
-При игре с ковенантом <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> Кирий используем легендарный предмет {{ site.data.legendary.Razelikhs_Defilement }}, с остальными ковенантами - {{ site.data.legendary.Collective_Anguish }} либо {{ site.data.legendary.Darkglare_Boon }}.
-
 {% include RazelikhsDefilement.html %}
+
 <br>
-> {{ site.data.talent.Quickened_Sigils }} перманентный выбор только с ковенантом <img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> Кирий.
+
+Предпочтительный легендарный предмет
+
+<span class="q5"><strong>[Пылающая душа](https://ru.wowhead.com/spell=337547/)</strong></span>
 
 </div>
 </div>
@@ -127,7 +145,7 @@ image:
 <ul>
 <li>{{ site.data.talent.Infernal_Armor }} Не самый лучший выбор в тире так как дает не так и много брони и проигрывает {{ site.data.talent.Spirit_Bomb }}.</li> 
 <li>{{ site.data.talent.Charred_Flesh }} Увеличение длительности {{ site.data.spell.Fiery_Brand  }} от этого таланта минимально и обычно бесполезно, особенно в когда нужно AoE.</li>
-<li>{{ site.data.talent.Spirit_Bomb }} Этот талант наносит самый высокий урон в тире в паре с легендарным предметом  [Слепая вера](https://ru.wowhead.com/spell=355893)</a></li>
+<li>{{ site.data.talent.Spirit_Bomb }} Этот талант наносит самый высокий урон в тире в паре с легендарным предметом <a href="https://ru.wowhead.com/spell=355893">Слепая вера</a></li>
 </ul>
 
 ### Таланты четвертого тира (35 Уровень)

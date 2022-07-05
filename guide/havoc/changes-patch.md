@@ -114,16 +114,16 @@ image:
 
 #### Рейд
 
-* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - <span class="q5">[**Терзающий взгляд**](https://ru.wowhead.com/spell=355886) + [**Дар созерцателя тьмы**](https://ru.wowhead.com/spell=337534)</span> 
-* <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span> - <span class="q5">[**Пылающая бойня**](https://ru.wowhead.com/spell=355890)</span> + <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span>
+* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - <span class="q5">[**Терзающий взгляд**](https://ru.wowhead.com/spell=355886) + [**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
 
-Играя за <span class="q4">Ночной Народец</span> мы будем использовать [Жгучую рану](https://ru.wowhead.com/spell=346279), чтоб увеличить наш СТ/Клив урон, а [Всеобщую тоску](https://ru.wowhead.com/spell=337504) АоЕ урон. [Жгучая рана](https://ru.wowhead.com/spell=346279) и [Пылающая бойня](https://ru.wowhead.com/spell=355890) отлично дополняют друг друга, первая обеспечивает нам стабильный высокий СТ/Клив урон, а вторая дает нам бурст урон каждые 90 секунд и увеличивает аптайм жара. Для ключей и Клив боев в рейде такая связка смотрится очень сильно, а вот для СТ боя такой набор довольно слаб, так как [Пылающая бойня](https://ru.wowhead.com/spell=355890) в СТ нам дает очень слабое усиление.
-
-<span class="q10">Вентиры</span> будут играть со связкой легендарных предметов [Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534) и [Терзающий взгляд](https://ru.wowhead.com/spell=355886), очень сильная синергия, благодаря такой связке вы сможете поддерживать [Клеймо греха](https://ru.wowhead.com/spell=317009/) до 90% времени боя (а в некоторых случаях 100%), это стает возможным благодаря легендарному эффекту [Дара созерцателя тьмы](https://ru.wowhead.com/spell=337534),а также
-[Всеобщей тоски](https://ru.wowhead.com/spell=337504), та как призванный ДХ использует [Опустошение Скверной](https://ru.wowhead.com/spell=212084) которое также продлевает время действия [Клейма греха](https://ru.wowhead.com/spell=317009/) на цели. [Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534) будем использовать в СТ, а [Всеобщую тоску](https://ru.wowhead.com/spell=337504) в АоЕ/Кливе.
+<span class="q10">Вентиры</span> будут играть со связкой легендарных предметов [Всеобщая тоска](https://ru.wowhead.com/spell=337504) и [Терзающий взгляд](https://ru.wowhead.com/spell=355886), очень сильная синергия, благодаря такой связке вы сможете поддерживать [Клеймо греха](https://ru.wowhead.com/spell=317009/) до 90% времени боя (а в некоторых случаях 100%), это стает возможным благодаря легендарному эффекту [Всеобщей тоски](https://ru.wowhead.com/spell=337504), та как призванный ДХ использует [Опустошение Скверной](https://ru.wowhead.com/spell=212084) которое также продлевает время действия [Клейма греха](https://ru.wowhead.com/spell=317009/) на цели. 
 
 #### Мифик+
 
+Для высоких ключей 20+ используем ковенант Вентиров.
+* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - <span class="q5">[**Терзающий взгляд**](https://ru.wowhead.com/spell=355886) + [**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
+
+Для низких ключей 15+ используем ковенант Ночного народца или Некролордов.
 * <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span> - <span class="q5">[**Пылающая бойня**](https://ru.wowhead.com/spell=355890)</span> + <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> или <span class="q5">[**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
 * <span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - <span class="q5">[**Демоническая клятва**](https://ru.wowhead.com/spell=355996)</span> + <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> или <span class="q5">[**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
 
@@ -132,10 +132,11 @@ image:
 
 * <span class="q5">[**Дар созерцателя тьмы**](https://ru.wowhead.com/spell=337534)</span> - **Шея**
 * <span class="q5">[**Единство**](https://ru.wowhead.com/spell=364824)</span> - **Голова** или **Наручи** 
+* <span class="q5">[**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> - **Спина** или **Наручи** 
 
 ## Ковенанты
 
-В плане ковенантов сет мало вносит изменений и самыми популярными ковенантами, скорей всего, в ПВЕ останутся <span class="q4">Ночной Народец</span> для Клив/АоЕ и <span class="q10">Вентиры</span> для СТ. {{ site.data.covenant.Sinful_Brand }} <span class="q10">Вентиров</span> можно будет поддерживать на цели 90% (а в некоторых случаях 100%) благодаря легендарному предмету [Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534), что очень сильно увеличит СТ урон и делает их несомненным лидером в СТ боях, а <span class="q4">Ночной Народец</span> в свою очередь получит сильный бурст урон в связке легендарного предмета [Пылающая бойня](https://ru.wowhead.com/spell=355890) и таланта [Необузданный хаос](https://ru.wowhead.com/spell=347461), а так же увеличит время действия [Обжигающего жара](https://ru.wowhead.com/spell=258920), что в свою очередь тоже позитивно скажется на Клив/АоЕ уроне.
+В плане ковенантов сет мало вносит изменений и самыми популярными ковенантами, скорей всего, в ПВЕ останутся <span class="q4">Ночной Народец</span> для Клив/АоЕ и <span class="q10">Вентиры</span> для СТ и высокоуровневого контента, мифик рейд 20+ ключи. {{ site.data.covenant.Sinful_Brand }} <span class="q10">Вентиров</span> можно будет поддерживать на цели 90% (а в некоторых случаях 100%) благодаря легендарному предмету [Всеобщая тоска](https://ru.wowhead.com/spell=337504), что очень сильно увеличит СТ урон и делает их несомненным лидером в СТ боях, а <span class="q4">Ночной Народец</span> в свою очередь получит сильный бурст урон в связке легендарного предмета [Пылающая бойня](https://ru.wowhead.com/spell=355890) и таланта [Необузданный хаос](https://ru.wowhead.com/spell=347461), а так же увеличит время действия [Обжигающего жара](https://ru.wowhead.com/spell=258920), что в свою очередь тоже позитивно скажется на Клив/АоЕ уроне, но этого будет все равно мало по сравнением с клеймом <span class="q10">Вентиров</span>.
 
 ### Рейд
 
@@ -143,6 +144,10 @@ image:
 
 ### Мифик+
 
+Высокие ключи 20+ 
+* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span>
+
+Низкие ключи 15+
 * <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span>
 
 <hr>

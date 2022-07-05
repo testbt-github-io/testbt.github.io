@@ -16,7 +16,7 @@ image:
 <a href="{{ site.url }}/guide/vengeance/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/vengeance/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/vengeance/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/vengeance/Set-Bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Осколки господства</span></a>
+<a href="{{ site.url }}/guide/vengeance/Set-Bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Сет бонус</span></a>
 <a href="{{ site.url }}/guide/vengeance/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/vengeance/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a href="{{ site.url }}/guide/vengeance/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
@@ -33,17 +33,18 @@ image:
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-* 2 части: [Burning Hunger](https://ptr.wowhead.com/spell=364454) - каждый раз, когда [Обжигающий жар](https://ru.wowhead.com/spell=258920) наносит урон, с вероятностью 10% создастся малый [Малый фрагмент души](https://ru.wowhead.com/spell=215393).
-* 4 части: [Хищный голод](https://ru.wowhead.com/spell=363737) - поглощение [Малого фрагмента души](https://ru.wowhead.com/spell=215393) сокращает восстановления [Обжигающего жара](https://ru.wowhead.com/spell=258920) или [Опустошения Скверной](https://ru.wowhead.com/spell=212084) на 1 сек.
+<p align="center" width="100%"> <img src="https://wow.zamimg.com/uploads/screenshots/normal/1040281.jpg" style="outline: 2px solid #000;"> </p>
 
+## Способ добычи
 
-#### Главные изменения 
+* **Рейд** - выпадает из определенных боссов в Гробнице Первых.
+* **Великое хранилище** — можно получить за все действия, которые обычно дают награды за Великое хранилище, включая рейды, эпохальный+ и PvP.
+* **Крафт** — Создание сетовых вещей с помощью новой системы крафта.
 
-В последней сборке на PTR 9.2 бонус от сетового набора из 4 предметов для Мести [Ненасытный голод](https://ptr.wowhead.com/spell=363737), теперь вместо продления [Обжигающий жар](https://ru.wowhead.com/spell=258920) на 2 секунды за каждый фрагмент [Малого фрагмента души](https://ru.wowhead.com/spell=215393), он сокращает время восстановления [Обжигающего жара](https://ru.wowhead.com/spell=258920) или [Опустошения Скверной](https://ru.wowhead.com/spell=212084) на 1 секунду за каждый поглощенный [Малый фрагмент души](https://ru.wowhead.com/spell=215393).
+## Сетовые бонусыы
 
-Это изменение устраняет две основные проблемы с первой вариации сетового набора:
-1. Взаимодействие "cancelaur" с нашим талантом [Жаркий выброс](https://ru.wowhead.com/spell=227174/) больше не существует, поэтому мы больше не можем получать абсурдно большое количество стаков [Слепой веры](https://ru.wowhead.com/spell=356070), делающие нас фактически бессмертными в любых ситуациях.
-1. Мы больше не можем продлевать время действия [Обжигающего жара](https://ru.wowhead.com/spell=258920) до бесконечности, поэтому наш урон от [Нарастающего жара преисподней](https://ru.wowhead.com/spell=339231) уже не такой высокий.
+* 2 части: [Пылающий голод](https://ru.wowhead.com/spell=364454) - каждый раз, когда [Обжигающий жар](https://ru.wowhead.com/spell=258920) наносит урон, с вероятностью 10% создастся малый [Малый фрагмент души](https://ru.wowhead.com/spell=215393).
+* 4 части: [Ненасытный голод](https://ru.wowhead.com/spell=363737) - поглощение [Малого фрагмента души](https://ru.wowhead.com/spell=215393) сокращает восстановления [Обжигающего жара](https://ru.wowhead.com/spell=258920) или [Опустошения Скверной](https://ru.wowhead.com/spell=212084) на 1 сек.
 
 #### Слабые и сильные стороны
 
@@ -75,50 +76,6 @@ image:
 #### Ковенант
 
 <span class="q8">Кирии</span> — явный победитель в боях с несколькими целями, поскольку универсальность и гнев которые обеспечивает [Слепая вера](https://ru.wowhead.com/spell=355893), позволяют использовать почти бесконечный цикл траты сгенерированных душ, а также обеспечивают довольно стабильное снижение урона. <span class="q10">Вентиры</span> могут быть конкурентоспособны в боях с одной целью, потенциально превосходя Кирии, но они не так постоянны.
-
-#### Таланты
-
-У нас будет несколько наборов талантов в зависимости от ситуации, но главное изменение заключается в том, что [Жаркий выброс](https://ru.wowhead.com/spell=227174/) становится значительно сильнее, чем другие таланты в этом ряду, а [Взрывная душа](https://ru.wowhead.com/spell=247454), вероятно, станет выбором по умолчанию.
-
-<div class="tabs" id="tabs-1">
-<div class="tabs__nav">
-<a class="tabs__link tabs__link_active" href="#content-3">Стандартный</a>
-<a class="tabs__link " href="#content-4">Максимум Меты</a>
-<a class="tabs__link " href="#content-5">Клеймо</a>
-</div>
-<div class="tabs__content">
-<div class="tabs__pane tabs__pane_show" id="content-3">
-<div class="tabs_in" markdown="1">	
-
-Это стандартный набор талантов, наиболее гибкий для большинства ситуаций. Он обеспечивает хорошее сочетание урона и живучести. В ключах с аффиксом укрепленный, где все еще возможны большие пуллы, может быть предпочтительнее брать талант [Кормление демона](https://ru.wowhead.com/spell=218612/) для большего времени работы защитных способностей, поскольку потеря урона не особенно высока в AoE.
-
-{% include RazelikhsDefilement.html %} 
-
-</div>      
-</div>
-<div class="tabs__pane" id="content-4">
-<div class="tabs_in" markdown="1">
-
-Этот набор талантов обеспечит максимальное время постоянной работы [Метаморфозы](https://ru.wowhead.com/spell=18782) за счет нашего ДПС. Как ни странно, третий ряд талантов становится совершенно бесполезным, потому что вы никогда не будете нажимать другие кнопки, кроме [Элизийский декрет](https://ru.wowhead.com/spell=306830), [Опустошения Скверной](https://ru.wowhead.com/spell=212084) или [Иссечения](https://ru.wowhead.com/spell=203782), чтобы максимизировать генерацию душ для уменьшения времени восстановления [Опустошения Скверной](https://ru.wowhead.com/spell=212084).
-
-{% include max_meta.html %} 
-
-</div>
-</div>
-
-<div class="tabs__pane" id="content-5">
-<div class="tabs_in" markdown="1">
-
-Стандартная набор талантов для большого времени постоянной работы [Огненное клеймо](https://ru.wowhead.com/spell=204021/), которая хорошо себя показывает в боях с магическим уроном.
-
-{% include brand_magic.html %} 
-
-</div>
-</div>
-</div>
-</div>
-
-<br>
 
 #### Легендарные предметы
 

@@ -1,22 +1,22 @@
 ---
 layout: guide
 title: Расходники
-description: Гайд для Охотников на Демонов Месть 9.1.0 PvE Shadowlands
-last_update: 2021-06-24 09:00:00
-game_version: 9.1.0 Shadowlands 
-author: Airithez и Rodriguezz
+description: Гайд для Охотников на Демонов Месть 9.2 PvE Shadowlands
+last_update: 2022-06-24 09:00:00
+game_version: 9.2.0 Shadowlands 
+author: Rodriguezz
 image:
     path: assets/img/blog/prev/spec_logo_VDH.png
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/vengeance/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/vengeance/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
 <a href="{{ site.url }}/guide/vengeance/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/vengeance/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/vengeance/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/vengeance/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/vengeance/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/vengeance/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/vengeance/Set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сетовый набор</a>
 <a href="{{ site.url }}/guide/vengeance/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/vengeance/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a href="{{ site.url }}/guide/vengeance/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
@@ -30,6 +30,7 @@ image:
 <a href="{{ site.url }}/guide/vengeance/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
+
 ## Лучшие зачарованние для Охотника на Демонов Месть
 
 * Оружие: 2х{{ site.data.prof.Enchant_Weapon_Lightless_Force }}
@@ -41,9 +42,8 @@ image:
 ## Настой и  Зелья
 
 * Настой: {{ site.data.prof.Eternal_Flask }}
-* Зелья: {{ site.data.prof.Potion_of_Phantom_Fire }} СТ
-* Зелья: {{ site.data.prof.Potion_of_Empowered_Exorcisms }} АоЕ
-* Исцеление: {{ site.data.prof.Spiritual_Healing_Potion }}
+* Зелья: [Зелье призрачной ловкости](https://ru.wowhead.com/item=171270)
+* Исцеление: [Зелье космического исцеления](https://ru.wowhead.com/spell=359870/)
 
 ## Лучшая Камни
 

@@ -33,7 +33,6 @@ image:
 </div>
 <br>
 
-
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ## Новинки патча 9.2
@@ -45,27 +44,28 @@ image:
     <details open>
      <summary><i>Патч 9.1.5</i></summary>
       <ul>
-        <li> <a href="https://ru.wowhead.com/spell=317009">Клеймо греха</a> -  сокращено время восстановления способности с 1 минуты до 45 секунд.</li> 
+        <li> <a href="https://ru.wowhead.com/spell=317009">Клеймо греха</a> -  сокращено время восстановления способности с 1 минуты до 45 секунд.</li>
       </ul>
     </details>
     <details >
      <summary><i>Патч 9.1</i></summary>
       <ul>
-        <li>Легендарный предмет ковенанта <span class="covenant-venthyr">Вентиров</span> <a href="https://ru.wowhead.com/spell=355886">Терзающий взгляд</a>: Увеличивает урон, наносимый <a href="https://ru.wowhead.com/spell=317009">Клеймом греха</a>, на 10%. Урон от <a href="https://ru.wowhead.com/spell=198013">Пронзающего взгляда</a> продлевает время действия <a href="https://ru.wowhead.com/spell=317009">Клейма греха</a> на 0.75 секунд.</li> 
+        <li>Легендарный предмет ковенанта <span class="covenant-venthyr">Вентиров</span> <a href="https://ru.wowhead.com/spell=355886">Терзающий взгляд</a>: Увеличивает урон, наносимый <a href="https://ru.wowhead.com/spell=317009">Клеймом греха</a>, на 10%. Урон от <a href="https://ru.wowhead.com/spell=198013">Пронзающего взгляда</a> продлевает время действия <a href="https://ru.wowhead.com/spell=317009">Клейма греха</a> на 0.75 секунд.</li>
       </ul>
     </details>
 </details>
 <br>
 
 ## Ковенат Вентиров
+
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/blog/conduits/ventyr_logo.png"> </p>
 
 <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> хороший ковенант, {{ site.data.covenant.Sinful_Brand }} наносит большой урон по одной цели, что будет полезно в рейдовом контенте.
 
 После вступления в ковенант нам откроются две способности:
 
-{{ site.data.covenant.Sinful_Brand }} - Отмечает противника клеймом вентиров, которое наносит урон от темной магии в течение 8 сек, так же снижая скорость атаки и скорость произнесения заклинаний цели на 30%. Клеймо греха ДоТ, а это значит, что количество "тиков" зависит от параметра скорости. {{ site.data.covenant.Sinful_Brand }} накладывается на всех противников по кому вы попадете "прыжком" {{ site.data.spell.Metamorphosis }}. 
-Данная способность наносит сильный урон в одну цель и очень сильный урон в АоЕ, т.к. он не имеет ограничения целей. 
+{{ site.data.covenant.Sinful_Brand }} - Отмечает противника клеймом вентиров, которое наносит урон от темной магии в течение 8 сек, так же снижая скорость атаки и скорость произнесения заклинаний цели на 30%. Клеймо греха ДоТ, а это значит, что количество "тиков" зависит от параметра скорости. {{ site.data.covenant.Sinful_Brand }} накладывается на всех противников по кому вы попадете "прыжком" {{ site.data.spell.Metamorphosis }}.
+Данная способность наносит сильный урон в одну цель и очень сильный урон в АоЕ, т.к. он не имеет ограничения целей.
 Этот ковенант может стать неплохим выбором для Рейдов.
 
 {{ site.data.covenant.Door_of_Shadows }} - Способность дающая нам дополнительную мобильность, с ее помощью можно пропускать группы мобов и избегать механики.
@@ -81,14 +81,19 @@ image:
 
 <div class="tabs" id="tabs-2">
     <div class="tabs__nav">
-      <a class="tabs__link tabs__link_active" href="#content-33">СТ/АоЕ</a>
+      <a class="tabs__link tabs__link_active" href="#content-33">СТ</a>
+      <a class="tabs__link" href="#content-34">АоЕ</a>
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-33">
         <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr74CBStvChUrkwoSBS0fCiUszwoiFSrvCjUq-go" target="blank">anything</a>
-      </div>
+    </div>
+      <div class="tabs__pane" id="content-34">
+        <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWpb4CBStvCiUszQoTBS0fChUtHAolLM8KIhUq-go1Ku8K" target="blank">anything</a>
     </div>
   </div>
+</div>
+
 <br>
 
 ## Медиумы Ковенанта Вентиров
@@ -97,26 +102,26 @@ image:
     <div class="tabs__nav">
       <a class="tabs__link tabs__link_active" href="#content-2">Наджия</a>
       <a class="tabs__link" href="#content-1">Безумный герцог Теотар</a>
-	  <a class="tabs__link" href="#content-3">Генерал Дрейвен</a>
+   <a class="tabs__link" href="#content-3">Генерал Дрейвен</a>
     </div>
     <div class="tabs__content">
       <div class="tabs__pane tabs__pane_show" id="content-2">
-<div class="tabs_in" markdown="1">	  
+<div class="tabs_in" markdown="1">
 У Наджии доступно несколько очень сильных трейтов:
-* {{ site.data.covenant.Thrill_Seeker }} - Сильный баф скорости с хорошим аптаймом в рейде и мифик+.
+*{{ site.data.covenant.Thrill_Seeker }} - Сильный баф скорости с хорошим аптаймом в рейде и мифик+.
 * {{ site.data.covenant.Agent_of_Chaos }} - теперь {{ site.data.covenant.Door_of_Shadows }} можно использовать для прерывания опасных заклинаний, очень сильный трейт для мифик+.
-* {{ site.data.covenant.Exacting_Preparation }} - постоянный баф нашей химии, зачарований и еды.
-* {{ site.data.covenant.Dauntless_Duelist }} - сильный трейт дающий нам 3% дополнительного урона по цели которую мы атакуем, очень сильный трейт для СТ боев. 
-* [Греховное сохранение](https://ru.wowhead.com/spell=352405) - хороший защитный бафф, дает нам щит, когда мы используем зелье / камень здоровья.
+*{{ site.data.covenant.Exacting_Preparation }} - постоянный баф нашей химии, зачарований и еды.
+* {{ site.data.covenant.Dauntless_Duelist }} - сильный трейт дающий нам 3% дополнительного урона по цели которую мы атакуем, очень сильный трейт для СТ боев.
+*[Греховное сохранение](https://ru.wowhead.com/spell=352405) - хороший защитный бафф, дает нам щит, когда мы используем зелье / камень здоровья.
 * [Фатальный изъян](https://ru.wowhead.com/spell=352373) - очень сильный бафф, после окончания действия баффа скорости от {{ site.data.covenant.Thrill_Seeker }}, дает нам 20% крита или универсальности на 10 сек. ( смотря каких статов у вас больше).
 
 Рекомендуемое дерево развития медиума Наджия:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr74CBStvChUrkwoSBS0fCiUszwoiFSrvCjUq-go" target="blank">anything</a>
-</div>      
-	  </div>
+</div>
+   </div>
       <div class="tabs__pane" id="content-1">
-<div class="tabs_in" markdown="1">	
+<div class="tabs_in" markdown="1">
 * {{ site.data.covenant.Soothing_Shade }} - сильный баф мастери с приличным аптаймом, из минусов вы будете привязаны к месту.
 * {{ site.data.covenant.Refined_Palate }} - очень сильный трейт, так как боевые зелья очень сильны в Shadowlands.
 * {{ site.data.covenant.Wasteland_Propriety }} - самый сильный трейт для нас, но к сожалению он скрыт за проводником Точности.
@@ -127,12 +132,12 @@ image:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/theotar-the-mad-duke/demon-hunter/AwaWZZYBJStvChMFLR8KFSzPCiUwPAoiBSr6ChUq7wo" target="blank">anything</a>
 
-</div>     
-	 </div>
-	  <div class="tabs__pane" id="content-3">
+</div>
+  </div>
+   <div class="tabs__pane" id="content-3">
 <div class="tabs_in" markdown="1">
 * {{ site.data.covenant.Service_In_Stone }} - уменьшает входящий урон когда здоровье падает ниже 40%, очень сильный защитный трейт.
-* {{ site.data.covenant.Enduring_Gloom }} - способность дает нам отличный щит, но тогда нам приодеться брать проводник Точности. 
+* {{ site.data.covenant.Enduring_Gloom }} - способность дает нам отличный щит, но тогда нам приодеться брать проводник Точности.
 * {{ site.data.covenant.Superior_Tactics }} - имеет потенциал в мифик+, в рейде не найдет места для применения.
 * {{ site.data.covenant.Built_for_War }} - сильный баф основной характеристики, предположительно должен иметь высокий аптайм, но к сожалению он скрыт за проводником Точности.
 * [Регенерирующая каменная кожа](https://ru.wowhead.com/spell=352365) и [Тактика устрашения](https://ru.wowhead.com/spell=352415) - обе связи довольно слабые, но последний открывает путь к кондуиту Защиты, что делает его немного лучше.
@@ -141,19 +146,19 @@ image:
 Рекомендуемое дерево развития медиума Генерал Дрейвен:
 
 <a href="https://ru.wowhead.com/soulbind-calc/embed/venthyr/general-draven/demon-hunter/AwaWb5YCFStvCiUszQoSBS0fCiUszwoiBSrvChUq-go" target="blank">anything</a>
-</div>      
-	  </div>
+</div>
+   </div>
     </div>
   </div>
 <br>
 
-## Сим от Bloodmallet 
+## Сим от Bloodmallet
 
 <div class="bloodmallet_chart" id="wowhead-guid-1634795572276-1634795567000-1277055173-4" data-wow-class="demon_hunter" data-wow-spec="havoc" data-axis-color="#9d9d9d" data-background-color="#242424" data-chart-mode="nodes" data-covenant="Venthyr" data-font-color="#ccc" data-type="soul_binds" data-highcharts-chart="0" style="overflow: hidden; height: 410px;" data-language="ru" data-entries="10">Loading...</div>
 
 <hr>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/necrolord.html">Назад:<br>Некролорды</a></div> 
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/necrolord.html">Назад:<br>Некролорды</a></div>
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/kyrian.html">Далее:<br>Кирии</a></div>
 
 <br>
@@ -185,7 +190,7 @@ image:
           document.dispatchEvent(_eventTabsShow);
         },
         _switchTabTo = function (tabsLinkIndex) {
-          var tabsLinks = _elemTabs.querySelectorAll('.tabs__link');
+var tabsLinks =_elemTabs.querySelectorAll('.tabs__link');
           if (tabsLinks.length > 0) {
             if (tabsLinkIndex > tabsLinks.length) {
               tabsLinkIndex = tabsLinks.length;
@@ -196,7 +201,7 @@ image:
           }
         };
 
-      _eventTabsShow = new CustomEvent('tab.show', { detail: _elemTabs });
+      _eventTabsShow = new CustomEvent('tab.show', { detail:_elemTabs });
 
       _elemTabs.addEventListener('click', function (e) {
         var tabsLinkTarget = e.target;
@@ -245,4 +250,4 @@ image:
         localStorage.setItem(nameKey, JSON.stringify(mytabsStorage));
       })
     })();
-</script>	
+</script>

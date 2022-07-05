@@ -2,7 +2,7 @@
 layout: guide
 title: Изменения в патче 9.2
 description: Обзор изменений Охотников на Демонов Месть 9.2 PvE Shadowlands
-last_update: 2022-02-19 09:00:00
+last_update: 2022-06-12 09:00:00
 game_version: 9.2 Shadowlands 
 author: Rodriguezz
 image:
@@ -68,8 +68,8 @@ image:
 
 Наконец-то что-то новое! В дополнении "Конец вечности" возвращаются сетовый наборы. Они буду доступны для всех типов контента, рейды, ключи и PvP, части сета могут даже выпасть из Великого Хранилища. Хотя можно использовать любую комбинацию из четырех предметов из пяти, Охотникам на Демонов Истребления предпочтительней экипировать шлем, наплечники, нагрудник и поножи, предполагая одинаковый уровень предмета.
 
-* 2 части: [Burning Hunger](https://ptr.wowhead.com/spell=364454) - каждый раз, когда [Обжигающий жар](https://ru.wowhead.com/spell=258920) наносит урон, с вероятностью 10% создастся малый [Малый фрагмент души](https://ru.wowhead.com/spell=215393).
-* 4 части: [Хищный голод](https://ru.wowhead.com/spell=363737) - поглощение [Малого фрагмента души](https://ru.wowhead.com/spell=215393) сокращает восстановления [Обжигающего жара](https://ru.wowhead.com/spell=258920) или [Опустошения Скверной](https://ru.wowhead.com/spell=212084) на 1 сек.
+* 2 части: [Пылающий голод](https://ptr.wowhead.com/spell=364454) - каждый раз, когда [Обжигающий жар](https://ru.wowhead.com/spell=258920) наносит урон, с вероятностью 10% создастся малый [Малый фрагмент души](https://ru.wowhead.com/spell=215393).
+* 4 части: [Ненасытный голод](https://ru.wowhead.com/spell=363737) - поглощение [Малого фрагмента души](https://ru.wowhead.com/spell=215393) сокращает восстановления [Обжигающего жара](https://ru.wowhead.com/spell=258920) или [Опустошения Скверной](https://ru.wowhead.com/spell=212084) на 1 сек.
 
 <p class="tanknotes-section-success" markdown="1">
 <span style="font-weight: 400;">
@@ -85,35 +85,35 @@ image:
 
 #### Рейд
 
-* [Пылающая душа](https://ru.wowhead.com/spell=337547), [Слепая вера](https://ru.wowhead.com/spell=355893) или [Осквернение Разелиха](https://ru.wowhead.com/spell=337544)
+* <span class="covenant-kyrian"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> <b>Кирии</b></span> - <span class="q5">[**Пылающая душа**](https://ru.wowhead.com/spell=337547)</span>, <span class="q5">[**Слепая вера**](https://ru.wowhead.com/spell=355893)</span> или <span class="q5">[**Осквернение Разелиха**](https://ru.wowhead.com/spell=337544)</span>
 
 
 #### Мифик+
 
-* [Пылающая душа](https://ru.wowhead.com/spell=337547), [Слепая вера](https://ru.wowhead.com/spell=355893) или [Осквернение Разелиха](https://ru.wowhead.com/spell=337544)
+* <span class="covenant-kyrian"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> <b>Кирии</b></span> - <span class="q5">[**Пылающая душа**](https://ru.wowhead.com/spell=337547)</span>, <span class="q5">[**Слепая вера**](https://ru.wowhead.com/spell=355893)</span> или <span class="q5">[**Осквернение Разелиха**](https://ru.wowhead.com/spell=337544)</span>
 
 ### Два легендарных предмета
 
 #### Рейд
 
-* [Слепая вера](https://ru.wowhead.com/spell=355893) + [Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534), [Пылающая душа](https://ru.wowhead.com/spell=337547) или [Осквернение Разелиха](https://ru.wowhead.com/spell=337544)
-* Вариант для СТ: [Терзающий взгляд](https://ru.wowhead.com/spell=355886) + [Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534)
+* <span class="covenant-kyrian"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> <b>Кирии</b></span> - <span class="q5">[**Слепая вера**](https://ru.wowhead.com/spell=355893)</span> + <span class="q5">[**Дар созерцателя тьмы**](https://ru.wowhead.com/spell=337534)</span>, <span class="q5">[**Пылающая душа**](https://ru.wowhead.com/spell=337547)</span> или <span class="q5">[**Осквернение Разелиха**](https://ru.wowhead.com/spell=337544)</span>
+* <span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - <span class="q5"><strong>[Демоническая клятва](https://ru.wowhead.com/spell=355996/demonic-oath)</strong></span> <span class="q5">[**Дар созерцателя тьмы**](https://ru.wowhead.com/spell=337534)
 
 #### Мифик+
 
-* [Слепая вера](https://ru.wowhead.com/spell=355893) + [Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534), [Пылающая душа](https://ru.wowhead.com/spell=337547) или [Осквернение Разелиха](https://ru.wowhead.com/spell=337544)
-
+* <span class="covenant-kyrian"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> <b>Кирии</b></span> - <span class="q5">[**Слепая вера**](https://ru.wowhead.com/spell=355893)</span> + <span class="q5">[**Дар созерцателя тьмы**](https://ru.wowhead.com/spell=337534)</span>, <span class="q5">[**Пылающая душа**](https://ru.wowhead.com/spell=337547)</span> или <span class="q5">[**Осквернение Разелиха**](https://ru.wowhead.com/spell=337544)</span>
 
 ## Лучший ковенант
 
 #### Рейд
 
-* <span class="covenant-kyrian">Кирии</span>
+* <span class="covenant-kyrian"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> <b>Кирии</b></span>
+* <span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span>
 
 
 #### Мифик+ 
 
-* <span class="covenant-kyrian">Кирии</span>
+* <span class="covenant-kyrian"><img src="{{ site.url }}/assets/img/guide/havoc/kyrian.png" width="16" height="24"> <b>Кирии</b></span>
 
 <hr>
 

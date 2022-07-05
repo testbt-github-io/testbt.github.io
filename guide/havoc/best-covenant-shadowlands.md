@@ -109,12 +109,12 @@ image:
     <td style="text-align: center;">
      <a href="{{ site.url }}/guide/havoc/venthyr.html"><span class="covenant-venthyr">Вентиры</span></a></td>
     <td style="text-align: center;">
-     <a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr5YDBStvChUrkwolLM0KEgUtHwolLM8KIhUq-go1dgAK">Наджия</a>
+     <a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWpb4CBStvCiUszQoTBS0fChUtHAolLM8KIhUq-go1Ku8K">Наджия</a>
     </td>
     <td style="text-align: center;">
      <a href="{{ site.url }}/guide/havoc/venthyr.html"><span class="covenant-venthyr">Вентиры</span></a></td>
     <td style="text-align: center;">
-     <a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWr5YDBStvChUrkwolLM0KEgUtHwolLM8KIhUq-go1dgAK">Наджия</a></td>
+     <a href="https://ru.wowhead.com/soulbind-calc/venthyr/nadjia-the-mistblade/demon-hunter/AwaWpb4CBStvCiUszQoTBS0fChUtHAolLM8KIhUq-go1Ku8K">Наджия</a></td>
    </tr>
    <tr>
     <td style="text-align: center;">
@@ -149,11 +149,11 @@ image:
 
 ## Лучший Ковенант для Рейда
 
-Никаких изменений для ковенантов в патче 9.2 не было. <span class="c6">Вентиры</span> остаются лидером в СТ/Клив боях без долгого свитча целей, на некоторых боссах мы будем использовать <span class="c12">Ночной Народец</span>, а также не забываем про <span class="covenant-necrolord">Некролордов</span> они не уступают <span class="c12">Ночному Народцу</span> но имеют один минус, прок демона случайный рандом это минус.
+Никаких изменений для ковенантов в патче 9.2 не было. <span class="c6">Вентиры</span> остаются лидером в СТ/Клив боях без долгого свитча целей, их мы будем использовать во всем высокоуровневом контенте.
 
 ## Лучший Ковенант для Мифик+
 
-Опять же, без изменений в 9.2 в отношении ковенантов, ковенаты с которыми мы играли в 9.1.5 остаются лучшими и в 9.2. Однако для Мифик+ <span class="c12">Ночной Народец</span> опережает конкурентов благодаря медиуму Корейн, но <span class="covenant-necrolord">Некролорды</span> также показывают достойный результат. <span class="c6">Вентиры</span> также будут хорошим выбором, вы можете пожертвовать небольшим АоЕ ради сильного СТ урона.
+<span class="c6">Вентиры</span> лучший ковенант для 20+ ключей, если вы ходите в низкие ключи 15+ можете играть <span class="c12">Ночным Народецем</span> или <span class="covenant-necrolord">Некролорды</span>
 
 ## Ковенанты Охотников на Демонов
 

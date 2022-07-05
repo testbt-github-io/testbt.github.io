@@ -1,22 +1,22 @@
 ---
 layout: highcharts_page
 title: Ковенант Кирии
-description: Гайд Ковенант Кирии для Охотников на Демонов Месть 9.1.5 PvE Shadowlands
-last_update: 2021-11-15 09:00:00
-game_version: 9.1.5 Shadowlands 
+description: Гайд Ковенант Кирии для Охотников на Демонов Месть 9.2 PvE Shadowlands
+last_update: 2022-06-20 09:00:00
+game_version: 9.2 Shadowlands 
 author: Rodriguezz
 image:
     path: assets/img/blog/prev/spec_logo_VDH.png
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/vengeance/quick_faq.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Кратко и Быстро</a>
+<a href="{{ site.url }}/guide/vengeance/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
 <a href="{{ site.url }}/guide/vengeance/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
 <a href="{{ site.url }}/guide/vengeance/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/vengeance/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/vengeance/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
 <a href="{{ site.url }}/guide/vengeance/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/vengeance/domination-set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Осколки господства</a>
+<a href="{{ site.url }}/guide/vengeance/Set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сетовый набор</a>
 <a href="{{ site.url }}/guide/vengeance/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
 <a href="{{ site.url }}/guide/vengeance/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
 <a href="{{ site.url }}/guide/vengeance/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
@@ -33,13 +33,15 @@ image:
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## Новинки патча 9.1.5
-
-* [Слепая вера](https://ru.wowhead.com/spell=355893) - теперь за малый фрагмент души,  ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева.
-
 <details>
  <summary><i>История изменений</i></summary>
-    <details open>
+ <details open>
+     <summary><i>Патч 9.1</i></summary>
+      <ul>
+        <li><a href="https://ru.wowhead.com/spell=355893">Слепая вера</a> - теперь за малый фрагмент души,  ваша универсальность (а не искусность) повышается на 1%, и вы получаете 10 ед. гнева.</li> 
+      </ul>
+    </details>
+    <details>
      <summary><i>Патч 9.1</i></summary>
       <ul>
         <li>Легендарный предмет ковенанта <span class="covenant-kyrian">Кирии</span> <a href="https://ru.wowhead.com/spell=355893">Слепая вера</a>: <a href="https://ru.wowhead.com/spell=306830">Элизийский декрет</a> откалывает еще 2 малый фрагмент души и дает вам эффект <a href="https://ru.wowhead.com/spell=355893">Слепая вера</a> на 20 секунд. За каждый малый фрагмент души, поглощенный во время действия <a href="https://ru.wowhead.com/spell=355893">Слепой веры</a>, вы получаете 10 ед. гнева, а ваша искусность повышается на 1%.</li> 
