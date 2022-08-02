@@ -1,8 +1,8 @@
 ---
 layout: highcharts_page
 title: Бис Лист
-description: Лучшая экиперовка для Охотников на Демонов Истребление 9.1.5 PvE Shadowlands
-last_update: 2022-03-03 09:00:00
+description: Лучшая экиперовка для Охотников на Демонов Истребление 9.2.7 PvE Shadowlands
+last_update: 2022-08-02 09:00:00
 game_version: 9.2.7 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
