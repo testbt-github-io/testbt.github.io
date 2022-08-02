@@ -125,42 +125,12 @@ image:
 
 <p style="color:#ff4040;font-size:1.7em;">Предоставленная тут информация является справочной, всегда используйте симкрафт</p>
 
-## Рекомендуемое снаряжение с Мифик+
-
-<div class="table-box" markdown="1">
-
-|Слот|Название|Добывается|
-|Голова|[Боевая маска жестокого импульса](https://ru.wowhead.com/item=180106)|[Шпили Перерождения](https://ru.wowhead.com/spires-of-ascension)|
-|Шея|[Колье лазурного яда](https://ru.wowhead.com/item=180115)|[Шпили Перерождения](https://ru.wowhead.com/spires-of-ascension)|
-|Плечо|[Наплечники дальних странствий](https://ru.wowhead.com/item=179344)|[Та Сторона](https://ru.wowhead.com/de-other-side)|
-|Плащ|[Плащ чумной маркграфини](https://ru.wowhead.com/item=178755)|[Чумные каскады](https://ru.wowhead.com/plaguefall)|
-|Грудь|[Хауберк радужной тени](https://ru.wowhead.com/item=178698)|[Туманы Тирна Скитта](https://ru.wowhead.com/mists-of-tirna-scithe)|
-|Запястье|[Манжеты восставшего чудовища](https://ru.wowhead.com/item=178741)|[Смертельная тризна](https://ru.wowhead.com/the-necrotic-wake)|
-|Руки|[Перчатки пугающего сосредоточения](https://ru.wowhead.com/item=178832)|[Чертоги Покаяния](https://ru.wowhead.com/halls-of-atonement)|
-|Пояс|[Пояс поглотителя живицы](https://ru.wowhead.com/item=178699)|[Туманы Тирна Скитта](https://ru.wowhead.com/mists-of-tirna-scithe)|
-|Ноги|[Штаны глубинной дисгармонии](https://ru.wowhead.com/item=180108)|[Шпили Перерождения](https://ru.wowhead.com/spires-of-ascension)|
-|Сапоги|[Башмаки поверженного узурпатора](https://ru.wowhead.com/item=178797)|[Театр Боли](https://ru.wowhead.com/theater-of-pain)|
-|Кольцо 1|[Потерянная печатка Трупошва](https://ru.wowhead.com/item=178736)|[Смертельная тризна](https://ru.wowhead.com/the-necrotic-wake)|
-|Кольцо 2|[Печатка клятвы на крови](https://ru.wowhead.com/item=178871)|[Чумные каскады](https://ru.wowhead.com/plaguefall)|
-|Аксессуар 1|[Тотем хватки смерти](https://ru.wowhead.com/item=179356)|[Та Сторона](https://ru.wowhead.com/de-other-side)|
-|Аксессуар 2|[Флакон тлетворной массы](https://ru.wowhead.com/item=178771)|[Чумные каскады](https://ru.wowhead.com/plaguefall)|
-|Основная рука|[Моровая Буря, меч эпидемии](https://ru.wowhead.com/item=178754)|[Чумные каскады](https://ru.wowhead.com/plaguefall)|
-|Левая рука|[Моровая Буря, меч эпидемии](https://ru.wowhead.com/item=178754)|[Чумные каскады](https://ru.wowhead.com/plaguefall)|
-
-</div>
-
 
 ## Аксессуар
 
-* {{ site.data.item.Phial_of_Putrefaction }} - Наносит высокий урон и показывает высокий оверолл, аксессуар обязателен к получению.
-* [Тотем хватки смерти](https://ru.wowhead.com/item=179356) - очень хороший аксессуар, отлично себя показывает в СТ боях.
-    * Перезарядка может быть уменьшена как минимум  6 раз (90 секунд). 
-    * Уменьшение времени восстановления не срабатывает для обычных мобов, таких как миньоны, второстепенные мобы или мобы значительно более низкого уровня.
-    * Уменьшение времени восстановления  не всегда срабатывает даже на обычных мобах, даже когда сам тотем атакует дважды и наносит последний удар.
-    * Урон от тотема может быть критическим.
-    * Зона поражения составляет примерно 50 ярдов _ от тотема, _ не от вашего персонажа.
+* [Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432) - наносит много урона и имеет небольшое КД.
 * [Тайник с присвоенными сокровищами](https://ru.wowhead.com/item=188265/) - если на боссе нет мест где нужно придерживать использование трыни то она будет отличным выбором вместо тотема, очень сильная для м+.
-* [Бесконечно разделяющаяся слизь](https://ru.wowhead.com/item=178769/) - примерный оверол 2.5-3%
+
 
 ### Patchwerk
 <div id="bloodmallet_patchwerk" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-font-color="#eee" data-background-color="#222" data-language="ru" data-entries="10">Loading...</div>
@@ -168,115 +138,6 @@ image:
 ### Hectic Add Cleave
 <div id="bloodmallet_hecticaddcleave" class="bloodmallet_chart" data-wow-class="demon_hunter" data-wow-spec="havoc" data-fight-style="hecticaddcleave" data-font-color="#eee" data-background-color="#222" data-language="ru">Loading...</div>
 
-## Уровни предметов в 3 сезоне эпохальных+ подземелий Shadowlands
-
-<table class="grid" style="max-width:750px">
-<tbody>
-<tr>
-<td style="text-align: center;"><b>Уровень ключа</b></td>
-<td style="text-align: center;"><b>В конце подземелья</b></td>
-<td style="text-align: center;"><b>В недельном сундуке</b></td>
-</tr>
-<tr><td>Эпохальный 2</td>
-<td style="text-align: center;">236</td>
-<td style="text-align: center;">252</td>
-</tr>
-<tr><td>Эпохальный 3</td>
-<td style="text-align: center;">239</td>
-<td style="text-align: center;">252</td>
-</tr>
-<tr>
-<td>Эпохальный 4</td>
-<td style="text-align: center;">242</td>
-<td style="text-align: center;">252</td>
-</tr>
-<tr><td>Эпохальный 5</td>
-<td style="text-align: center;">246</td>
-<td style="text-align: center;">255</td>
-</tr>
-<tr>
-<td>Эпохальный 6</td>
-<td style="text-align: center;">249</td>
-<td style="text-align: center;">255</td>
-</tr>
-<tr>
-<td>Эпохальный 7</td>
-<td style="text-align: center;">249</td>
-<td style="text-align: center;">259</td>
-</tr>
-<tr>
-<td>Эпохальный 8</td>
-<td style="text-align: center;">252</td>
-<td style="text-align: center;">262</td>
-</tr>
-<tr>
-<td>Эпохальный 9</td>
-<td style="text-align: center;">252</td>
-<td style="text-align: center;">262</td>
-</tr>
-<tr>
-<td>Эпохальный 10</td>
-<td style="text-align: center;">245</td>
-<td style="text-align: center;">265</td>
-</tr>
-<tr>
-<td>Эпохальный 11</td>
-<td style="text-align: center;">255</td>
-<td style="text-align: center;">268</td>
-</tr>
-<tr>
-<td>Эпохальный 12</td>
-<td style="text-align: center;">259</td>
-<td style="text-align: center;">272</td>
-</tr>
-<tr>
-<td>Эпохальный 13</td>
-<td style="text-align: center;">259</td>
-<td style="text-align: center;">272</td>
-</tr>
-<tr>
-<td>Эпохальный 14</td>
-<td style="text-align: center;">262</td>
-<td style="text-align: center;">275</td>
-</tr>
-<tr>
-<td>Эпохальный 15+</td>
-<td style="text-align: center;">262</td>
-<td style="text-align: center;">278</td>
-</tr>
-</tbody>
-</table>
-
-## Уровни предметов в рейде Гробница предвечных
-
-<table class="grid" style="max-width:750px">
-<tbody>
-<tr>
-<td style="text-align: center;"><b>Сложность</b></td>
-<td style="text-align: center;"><b>Первые 8 боссов</b></td>
-<td style="text-align: center;"><b>Последние 3 босса</b></td>
-</tr>
-<tr><td>ЛФР</td>
-<td style="text-align: center;">239</td>
-<td style="text-align: center;">246</td>
-</tr>
-<tr><td>Обычная</td>
-<td style="text-align: center;">252</td>
-<td style="text-align: center;">259</td>
-</tr>
-<tr>
-<td>Героическая</td>
-<td style="text-align: center;">265</td>
-<td style="text-align: center;">272</td>
-</tr>
-<tr><td>Эпохальный</td>
-<td style="text-align: center;">278</td>
-<td style="text-align: center;">285</td>
-</tr>
-</tbody>
-</table>
-
-<hr>
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html">Назад:<br>Лучший ковенант</a></div> 
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Далее:<br>Таланты и Билды</a></div>
