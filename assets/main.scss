@@ -1132,40 +1132,41 @@ details[open] summary {
 	display: grid;
     grid-gap: 10px;
     grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
-    padding-top: 10px;
+  padding-top: 10px;
 }
 
 #smooth-nav-outer img {
 	content: "";
-    display: inline-block;
-    position: relative;
-    background-color: #080808;
-    background-size: contain;
-    border-radius: 100%;
-    float: left;
-    height: 24px;
-    left: -2px;
-    margin-right: 6px;
-    top: 3px;
-    width: 24px;
+  display: inline-block;
+  position: relative;
+  background-color: #080808;
+  background-size: contain;
+  border-radius: 100%;
+  float: left;
+  height: 24px;
+  left: -2px;
+  margin-right: 6px;
+  top: 3px;
+  width: 24px;
 }
 
 #smooth-nav-outer a {
 	border: 1px solid #3b3b3b;
-    border-radius: 4px;
-    background-clip: padding-box;
-    /* height: 30px; */
-    flex-grow: 1;
-    font-size: 15px;
-    font-weight: 600;
-    line-height: 30px;
-    overflow: hidden;
-    padding: 5px 10px;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+  border-radius: 4px;
+  background-clip: padding-box;
+  /* height: 30px; */
+  flex-grow: 1;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 30px;
+  overflow: hidden;
+  padding: 5px 10px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 	color: #a94ac8;
 	white-space: nowrap;
 	text-decoration: none;
+  background-color: #222;
 }
 
 #smooth-nav-outer a :active {
@@ -1173,16 +1174,16 @@ details[open] summary {
 }
 
 #smooth-nav-outer a:hover {
-    box-shadow: none;
-    color: #fff!important;
+  box-shadow: none;
+  color: #fff!important;
 	background-color: #8226a0;
-    border-color: #8226a0;
+  border-color: #8226a0;
 }
 
 .wrapper-content {
-    flex: 1;
-    background-color: #1f1e1e;
-    padding: 30px 40px;
+  flex: 1;
+  background-color: #1f1e1e;
+  padding: 30px 40px;
 	box-shadow: 0 1px 4px rgba(0, 0, 0, 1),
                 -23px 0 20px -23px rgba(0, 0, 0, .8),
                 23px 0 20px -23px rgba(0, 0, 0, .8),
