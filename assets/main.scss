@@ -819,16 +819,19 @@ hr {
     margin-left: $spacing-unit !important;
     margin-bottom: $spacing-unit !important;
     margin-top: -120px !important;
-    padding-top: $spacing-unit / 2 !important;
+  //  padding-top: $spacing-unit / 2 !important;
     padding-bottom: $spacing-unit / 2 !important;
-    padding-left: $spacing-unit / 2 !important;
+  //  padding-left: $spacing-unit / 2 !important;
     position: fixed !important;
     right: 1% !important;
-    border-left: 3px solid $grey-color;
+  //  border-left: 3px solid $grey-color;
     width: 420px !important;
+    background-color: #1f1e1e;
+    border: 2px solid #1a1716;
     h3 {
         @include relative-font-size(1.425);
-
+        background-color: #222222;
+        text-align: center;
         @include media-query($on-laptop) {
             @include relative-font-size(1.275);
         }
@@ -1248,8 +1251,8 @@ a.dropdown-item:visited {
 }
 
 // Side menu for all pages within a category. Lists all siblings
-.side-menu {
-  //background-color: $grey-color-dark;
+/* .side-menu {
+  background-color: $grey-color-dark;
   margin-left: $spacing-unit;
   margin-bottom: $spacing-unit;
   padding-top: $spacing-unit / 2;
@@ -1258,7 +1261,7 @@ a.dropdown-item:visited {
   position: fixed;
   right: 5%;
   border-left: 3px solid $grey-color;
-}
+} */
 
 @media screen and (max-width: 800px){
 .wrapper-content {
