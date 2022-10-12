@@ -1,9 +1,9 @@
 ---
 layout: guide
-title: Изменения в патче 10.0
-description: Изменения в патче Гайд для Охотников на Демонов Истребление 10.0 PvE Dragonflight
-last_update: 2022-10-09 09:00:00
-game_version: 10.0 Dragonflight
+title: Изменения в патче 9.2
+description: Изменения в патче Гайд для Охотников на Демонов Истребление 9.2 PvE Shadowlands
+last_update: 2022-03-03 09:00:00
+game_version: 9.2 Shadowlands
 author: Rodriguezz
 toc: true
 image:
@@ -11,51 +11,31 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"><span style="color: white;"> Изменения в патче</span></a>
-<a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
-<a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
-<a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
-<a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
-<a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a href="{{ site.url }}/guide/havoc/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a href="{{ site.url }}/guide/havoc/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
-<a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
-<a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_mekkatorque_bot_bluegear.jpg"> Ротация</a>
-<a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
-<a href="{{ site.url }}/guide/havoc/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
-<a href="{{ site.url }}/guide/havoc/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
-<a href="{{ site.url }}/guide/havoc/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
-<a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"><span style="color: white;"> Изменения в патче 9.2</span></a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_mekkatorque_bot_bluegear.jpg"> Ротация</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## Главные изменения Охотников на Демонов в патче 10.0
-
-1. Изменена формула нанесения урона способности [Пронзающий взгляд](https://ru.wowhead.com/spell=198013).
-1. Изменен талант [Демонические клинки](https://ru.wowhead.com/spell=203555), теперь он восстанавливает 7-12 ед. гнева за каждое попадание, раньше восстанавливал гнев с шансом 60%. 
-1. Измененный талант [Первая кровь](https://ru.wowhead.com/spell=206416/), теперь не уменьшает стоимость [Танца клинков](https://ru.wowhead.com/spell=188499/), а только увеличивает урон.
-1. Сетовый бонус
-* 2 предмета: шанс критического удара [Удар Хаоса](https://ru.wowhead.com/spell=162794/)/[Аннигиляция](https://ru.wowhead.com/spell=201427) и [Танец клинков](https://ru.wowhead.com/spell=188499)/[Смертоносный взмах](https://www.wowhead.com/spell=210152) увеличен на 5%, а их критический урон увеличен на 10%.
-* 4 предмета: [Удар Хаоса](https://ru.wowhead.com/spell=162794/)/[Аннигиляция](https://ru.wowhead.com/spell=201427) и [Танец клинков](https://ru.wowhead.com/spell=188499)/[Смертоносный взмах](https://www.wowhead.com/spell=210152) с вероятностью 20% увеличивают наносимый вами урон на 8% на 6 секунд. Ваши критические удары увеличивают этот шанс.
-1. Полностью переделанное дерево талантов, которое добавляет гибкости для билдов и геймплея. 
-> подробнее <a href="{{ site.url }}/guide/havoc/talent-builds.html"><b>Таланты и Билды</b></a>
-1. Классовое дерево талантов
-
-
-
-
-
-
-
-
-
-
+## Изменения Охотников на Демонов в патче 9.2
 В дополнении 9.2 у нас будет возможность носить 2 легендарных предмета: один любой на ваш выбор, второй ковенанский.
 * [Повязка единства](https://ru.wowhead.com/item=190464/) - станет доступен после завершения 7 главы кампании в Зерет Мортисе.
 * [Воспоминание о единстве](https://ru.wowhead.com/item=190584/) - Рецепт который позволит создать ковенанский легендарный предмет в любой слот.
@@ -121,9 +101,9 @@ image:
 
 #### Рейд 
 
-* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - <span class="q5">[**Терзающий взгляд**](https://ru.wowhead.com/spell=355886)</span> 
-* <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span> - <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> 
-* <span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> 
+* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_2.5/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - <span class="q5">[**Терзающий взгляд**](https://ru.wowhead.com/spell=355886)</span> 
+* <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_2.5/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span> - <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> 
+* <span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_2.5/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> 
 
 #### Мифик+
 
@@ -134,18 +114,18 @@ image:
 
 #### Рейд
 
-* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - <span class="q5">[**Терзающий взгляд**](https://ru.wowhead.com/spell=355886) + [**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
+* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_2.5/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - <span class="q5">[**Терзающий взгляд**](https://ru.wowhead.com/spell=355886) + [**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
 
 <span class="q10">Вентиры</span> будут играть со связкой легендарных предметов [Всеобщая тоска](https://ru.wowhead.com/spell=337504) и [Терзающий взгляд](https://ru.wowhead.com/spell=355886), очень сильная синергия, благодаря такой связке вы сможете поддерживать [Клеймо греха](https://ru.wowhead.com/spell=317009/) до 90% времени боя (а в некоторых случаях 100%), это стает возможным благодаря легендарному эффекту [Всеобщей тоски](https://ru.wowhead.com/spell=337504), та как призванный ДХ использует [Опустошение Скверной](https://ru.wowhead.com/spell=212084) которое также продлевает время действия [Клейма греха](https://ru.wowhead.com/spell=317009/) на цели. 
 
 #### Мифик+
 
 Для высоких ключей 20+ используем ковенант Вентиров.
-* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - <span class="q5">[**Терзающий взгляд**](https://ru.wowhead.com/spell=355886) + [**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
+* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_2.5/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> - <span class="q5">[**Терзающий взгляд**](https://ru.wowhead.com/spell=355886) + [**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
 
 Для низких ключей 15+ используем ковенант Ночного народца или Некролордов.
-* <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span> - <span class="q5">[**Пылающая бойня**](https://ru.wowhead.com/spell=355890)</span> + <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> или <span class="q5">[**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
-* <span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - <span class="q5">[**Демоническая клятва**](https://ru.wowhead.com/spell=355996)</span> + <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> или <span class="q5">[**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
+* <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_2.5/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span> - <span class="q5">[**Пылающая бойня**](https://ru.wowhead.com/spell=355890)</span> + <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> или <span class="q5">[**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
+* <span style="color:#40bf40;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_2.5/nekrolords.png" width="16" height="24"> <b>Некролорды</b></span> - <span class="q5">[**Демоническая клятва**](https://ru.wowhead.com/spell=355996)</span> + <span class="q5">[**Жгучая рана**](https://ru.wowhead.com/spell=346279)</span> или <span class="q5">[**Всеобщая тоска**](https://ru.wowhead.com/spell=337504)</span> 
 
 
 ## Какие легендарые предметы нужно перекрафтить
@@ -160,19 +140,19 @@ image:
 
 ### Рейд
 
-* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> 
+* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_2.5/venthyr.png" width="16" height="24"> <b>Вентиры</b></span> 
 
 ### Мифик+
 
 Высокие ключи 20+ 
-* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/venthyr.png" width="16" height="24"> <b>Вентиры</b></span>
+* <span style="color:#ff4040;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_2.5/venthyr.png" width="16" height="24"> <b>Вентиры</b></span>
 
 Низкие ключи 15+
-* <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/havoc/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span>
+* <span style="color:#a330c9;font-size:1em;"><img src="{{ site.url }}/assets/img/guide/archive/havoc/Shadowlands_9_2.5/nightfae.png" width="20" height="20"> <b>Ночной народец</b></span>
 
 <hr>
 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/overview.html">Далее:<br>Обзор</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/overview.html">Далее:<br>Обзор</a></div>
 
 <br>
  

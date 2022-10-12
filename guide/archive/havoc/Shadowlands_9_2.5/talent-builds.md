@@ -1,9 +1,9 @@
 ---
 layout: guide
 title: Таланты и Билды
-description: Изменения в патче Гайд для Охотников на Демонов Истребление 10.0 PvE Dragonflight
+description: Таланты и Билды для Охотников на Демонов Истребление 9.2 PvE Shadowlands
 last_update: 2022-03-03 09:00:00
-game_version: 10.0 Dragonflight
+game_version: 9.2 Shadowlands 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -11,25 +11,25 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче</a>
-<a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
-<a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
-<a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"><span style="color: white;"> Таланты и Билды</span></a>
-<a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
-<a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
-<a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
-<a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a href="{{ site.url }}/guide/havoc/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a href="{{ site.url }}/guide/havoc/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
-<a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
-<a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_mekkatorque_bot_bluegear.jpg"> Ротация</a>
-<a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
-<a href="{{ site.url }}/guide/havoc/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
-<a href="{{ site.url }}/guide/havoc/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
-<a href="{{ site.url }}/guide/havoc/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
-<a href="{{ site.url }}/guide/havoc/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"><span style="color: white;"> Таланты и Билды</span></a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_mekkatorque_bot_bluegear.jpg"> Ротация</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/macros-addons.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_eng_gearspringparts.jpg"> Макросы и Аддоны</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/weakauras.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_holy_auramastery.jpg"> WeakAuras</a>
+<a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/common-terms.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_chat.jpg"> Сокращения</a>
 </div>
 <br>
 
@@ -134,40 +134,7 @@ image:
   
 ## Обзор талантов
 
-### Первый ряд
-
-* [Пронзающий взгляд](https://ru.wowhead.com/spell=198013) – способность которая открывает наше дерево навыков.
-
-### Второй ряд
-
-* [Улучшенный Удар Хаоса](https://ru.wowhead.com/spell=343206) – в прошлом третий тир способности [Удар Хаоса](https://ru.wowhead.com/spell=162794) который теперь стал нашим талантом.
-* Ячейка с выбором одного из двух талантов:
-  * [Неутолимый голод](https://ru.wowhead.com/spell=258876) – достаточно простой талант, [Укус демона](https://ru.wowhead.com/spell=162243) генерирует от 5 до 10 ед. дополнительного гнева за одно использование.
-  * [Демонические клинки](https://ru.wowhead.com/spell=203555) – талант переработали и теперь он стал еще сильней, благодаря чему теперь у нас не будет долгих простоев без гнева, как это случалось в прошлых аддонах.
-* [Сердце Пламени Скверны](https://www.wowhead.com/beta/spell=388109) – продлевает время действия печатей и [Обжигающего жара](https://ru.wowhead.com/spell=258920), имеет синергию с другими талантами дерева и при их комбинации прилично усиливают урон способности [Обжигающий жар](https://ru.wowhead.com/spell=258920)
-
-### Третий ряд
-
-* [Демонический аппетит](https://ru.wowhead.com/spell=206478/) – хороший талан, генерирует 30 ед. гнева за каждую поглощенную душу, а так же повышает нашу выживаемость. Генерирует примерно 6 душ в минуту.
-* [Улучшенный Рывок Скверны](https://www.wowhead.com/spell=343017) – в прошлом третий тир способности [Рывок Скверны](https://ru.wowhead.com/spell=343017) который перебрался в таланты. Повышает урон способности [Рывок Скверны](https://ru.wowhead.com/spell=343017).
-* [Первая кровь](https://ru.wowhead.com/spell=206416/) – измененный талант, теперь не уменьшает стоимость [Танца клинков](https://ru.wowhead.com/spell=188499/), а только увеличивает урон, талант остается сильным и мы будем использовать его всегда.
-* [Яростные броски](https://www.wowhead.com/beta/spell=393029) – [Бросок боевого клинка](https://ru.wowhead.com/spell=185123) теперь стоит 25 ед. гнева и запускает дополнительную глефу в цель. Хорошо дополняет таланты в последних тирах.
-
-### Четвертый ряд
-
-* [Critical Chaos](https://www.wowhead.com/beta/spell=320413) – 
-* []() – 
-* []() – 
-* []() – 
-* []() – 
-* []() – 
-* []() – 
-* []() – 
-* []() – 
-* []() – 
-
-
-
+### Таланты первого тира (15 Уровень)
 
 <ul>
 <li>{{ site.data.talent.BlindFury }} Чрезвычайно хороший талант, усиливающий одну из наших лучших способностей на 50% и генерирующий много гнева.</li> 
@@ -227,8 +194,8 @@ image:
 
 <hr>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/gear.html">Назад:<br>Бис лист</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html">Далее:<br>Легендарные предметы</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/gear.html">Назад:<br>Бис лист</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/archive/havoc/Shadowlands_9_2.5/legendaries-shadowlands.html">Далее:<br>Легендарные предметы</a></div>
 
 <br>
 
