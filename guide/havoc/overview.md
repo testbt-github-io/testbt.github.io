@@ -1,9 +1,9 @@
 ---
 layout: guide
 title: Обзор
-description: Гайд для Охотников на Демонов Истребление 9.2 PvE Shadowlands
-last_update: 2022-03-03 09:00:00
-game_version: 9.2 Shadowlands
+description: Гайд для Охотников на Демонов Истребление 10.0 PvE Dragonflight
+last_update: 2022-10-25 09:00:00
+game_version: 10.0 Dragonflight
 author: Rodriguezz
 toc: true
 image:
@@ -11,18 +11,11 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"><span style="color: white;"> Обзор</span></a>
-<a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
 <a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
-<a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
-<a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a href="{{ site.url }}/guide/havoc/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a href="{{ site.url }}/guide/havoc/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
 <a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
 <a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_mekkatorque_bot_bluegear.jpg"> Ротация</a>
 <a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
@@ -107,6 +100,96 @@ image:
             </ul>
         </li>
 
+## Дерево классовых талантов
+
+Классовые таланты общие для специализации Истребление и Месть. В дереве вы можете взять дополнительные способности, например [Печать огня](https://www.wowhead.com/ru/spell=204596), [Коварное отступление](https://www.wowhead.com/ru/spell=198793/), [Всеобщая тоска](https://www.wowhead.com/ru/spell=390152). Обе специализации Охотника на Демонов могут использовать печати и защитную способность [Мрак](https://www.wowhead.com/ru/spell=196718/).
+
+#### Первый ряд
+
+* [Коварное отступление](https://www.wowhead.com/ru/spell=198793) – [Коварное отступление](https://www.wowhead.com/ru/spell=198793) стало и бейзлайн способности классовым талантом.
+* [Рывок Скверны](https://www.wowhead.com/ru/spell=320416/) – дополнительный заряд [Рывка Скверны](https://wowhead.com/ru/spell=195072). 
+* [Печать огня](https://www.wowhead.com/ru/spell=204596) – печати которые используют Охотники на Демонов Месть, теперь могут использовать обе специализации если взять ее в талантах.
+
+#### Второй ряд
+
+* [Необузданный гнев](https://www.wowhead.com/ru/spell=320770/) – талант с двумя уровнями, увеличивает максимальное количество гнева на 10 ед. и 20 ед. соответственно.
+* [Пленение](https://www.wowhead.com/ru/spell=217832) – еще одна способность перешла с бейзлайна в классовый талант.
+* [Расколотое исцеление](https://www.wowhead.com/ru/spell=389824) – в прошлом дополнении был кондуитом, теперь классовый талант с двумя уровнями, увеличивает исцеление от [Расколотой души](https://www.wowhead.com/ru/spell=178940) на 5% и на 10% соответственно. 
+
+#### Третий ряд
+
+* [Коварное отступление](https://www.wowhead.com/ru/spell=320635) – использование [Коварного отступление](https://www.wowhead.com/ru/spell=198793) замедляет всех задетых врагов на 70% в течении 3 сек.
+* [Прерывание](https://www.wowhead.com/ru/spell=320361) – ранги [Прерывания](https://www.wowhead.com/ru/spell=320361) вынесены в отдельные таланты, увеличивает дальность прерывания способности до 10 метров.
+* [Бросок боевого клинка](https://www.wowhead.com/ru/spell=320386) – дополнительный рикошет [Броска боевого клинка](https://wowhead.com/ru/spell=185123).
+* [Поглощение магии](https://www.wowhead.com/ru/spell=278326) – диспел вынесли в таланты и разделили его ранги в разные группы.
+* [Пламя ярости](https://www.wowhead.com/ru/spell=389694) – [Печать огня](https://www.wowhead.com/ru/spell=204596) восполняет 2 ед. гнева за каждый тик по врагу.
+
+#### Четвертый ряд
+
+* [Преследование](https://www.wowhead.com/ru/spell=320654) – не только наши способности подверглись дроблению, теперь чтоб искусность давала скорость передвижения нужно взять талант в дереве.
+* [Прерывание](https://www.wowhead.com/ru/spell=183782/) – успешное прерывание восстанавливает 30 ед гнева.
+* Ячейка с выбором одного из двух талантов:
+    * [Аура боли](https://www.wowhead.com/ru/spell=207347) – увеличивает шанс критического удара [Обжигающего жара](https://wowhead.com/ru/spell=258920).
+    * [Клинок Скверны](https://www.wowhead.com/ru/spell=232893) – вы устремляетесь к цели и восстанавливаете 40 ед. гнева
+* [Поглощение магии](https://www.wowhead.com/ru/spell=320313) – при успешном снятии с цели благотворного магического эффекта [Поглощение магии](https://www.wowhead.com/ru/spell=278326) дает 20 ед. гнева.
+* [Обугленные боевые клинки](https://www.wowhead.com/ru/spell=213010) – в прошлом пассивная способность артефакта Охотника на Демонов Месть, теперь это общий классовый талант. 
+
+#### Пятый ряд
+
+* [Скорость огня Скверны](https://www.wowhead.com/ru/spell=389846/) – увеличивает скорость передвижения на 10% в течении 8 сек. после использования [Рывка Скверны](https://wowhead.com/ru/spell=343017).
+* [Мастер боевого клинка](https://www.wowhead.com/ru/spell=389763) – дает второй заряд способности [Броска боевого клинка](https://wowhead.com/ru/spell=185123) и замедляет задетых врагов.
+* [Метаморфоза](https://www.wowhead.com/ru/spell=320421/) – уменьшает время восстановления [Метаморфозы](https://www.wowhead.com/ru/spell=191427/) на 60 сек.
+* Ячейка с выбором одного из двух талантов:
+    * [Средоточие печатей](https://www.wowhead.com/ru/spell=207666) – все ваши печати будут применяться под вашим персонажем.
+    * [Точные печати](https://www.wowhead.com/ru/spell=389799) – все ваши печати будут применяться под вашей целью.
+* [Затерянные во тьме](https://www.wowhead.com/ru/spell=389849) – [Призрачное зрение](https://www.wowhead.com/ru/spell=188501/) действует еще 6 сек., если оно прерывается атакой или получением урона.
+
+#### Шестой ряд
+
+* [Кольцо Хаоса](https://www.wowhead.com/ru/spell=179057) – АоЕ стан, теперь тоже берется в общих классовых талантах.
+* [Раздирание души](https://www.wowhead.com/ru/spell=204909) – талант с двумя уровнями, увеличивает самоистребление на 5% на первом уровне и на 10% на втором, а также дополнительно увеличивает самоистребление во время действия [Метаморфозы](https://www.wowhead.com/ru/spell=191427/) на 5% и на 10% соответственно.
+* [Инфернальная броня](https://www.wowhead.com/ru/spell=320331) – наделяет способность [Обжигающий жар](https://wowhead.com/ru/spell=258920) защитными свойствами и дополнительно наносит урон атакующим вас врагов, талант имеет два уровня на первом увеличивает броню на 10%, а на втором на 20%.
+* [Печать страдания](https://www.wowhead.com/ru/spell=207684) – талант добавляет в наш арсенал дополнительную способность контроля.
+
+#### Седьмой ряд
+
+* Ячейка с выбором одного из двух талантов:
+    * [Фрагменты Хаоса](https://www.wowhead.com/ru/spell=320412) – дает 30% шанс того, что из законтроллерного моба появится [Фрагмент души](https://www.wowhead.com/ru/spell=204062).
+    * [Освобожденная сила](https://www.wowhead.com/ru/spell=206477) – уменьшает время восстановления [Кольца Хаоса](https://www.wowhead.com/ru/spell=179057) на 20%, а стоимость на 50%.
+* [Знание иллидари](https://www.wowhead.com/ru/spell=389696) – талант артефактного оружия с дополнения Легион, снижает получаемый магический урон на 3% на первом уровне таланта и на 6% на втором.
+* Ячейка с выбором одного из двух талантов:
+    * [Демонизм](https://www.wowhead.com/ru/spell=213410/) – Когда [Пронзающий взгляд](https://wowhead.com/ru/spell=198013) перестает наносить урон, вы на 6 сек. превращаетесь в демона.
+    * [Первый из иллидари](https://www.wowhead.com/ru/spell=235893) – во время действия [Метаморфозы](https://www.wowhead.com/ru/spell=191427/) вы получаете 10% универсальности, а также время ее восстановления уменьшается на 60 сек.
+* [Воля иллидари](https://www.wowhead.com/ru/spell=389695) – талант с двумя уровнями, увеличивает максимальный уровень здоровья на 3% на первом уровне и на 6% на втором.
+* Ячейка с выбором одного из двух талантов:
+    * [Улучшенная печать страдания](https://www.wowhead.com/ru/spell=320418) – уменьшает время восстановления [Печати страдания](https://www.wowhead.com/ru/spell=207684) на 30 сек.
+    * [Горечь поражения](https://www.wowhead.com/ru/spell=388110) – увеличивает получаемый урон целью на 20% в течении 5 сек. если [Печать страдания](https://www.wowhead.com/ru/spell=207684) наложит на цель страх. 
+
+#### Восьмой ряд
+
+* [Внутренняя борьба](https://www.wowhead.com/ru/spell=393822) – повышает вашу искусность.
+* [Мрак](https://www.wowhead.com/ru/spell=196718) – расстилает под вами мрак в котором союзники с вероятностью 20% не получают урона в течении 8 сек., очень сильный групповой сейв.
+* [Печати души](https://www.wowhead.com/ru/spell=395446/) – когда вы поражаете противника печатью, вы накапливаете 1 малый осколок души. На бете не имело значение количество пораженных целей и за одну печать давало одну душу.
+* [Альдрахийский эскиз](https://www.wowhead.com/ru/spell=391409) – повышает вероятность парирования на 3%.
+
+#### Девятый ряд
+
+* [Беспокойное сердце Скверны](https://www.wowhead.com/ru/spell=391397) – талант с двумя уровнями, уменьшает время восстановления [Рывока Скверны](https://wowhead.com/ru/spell=343017)  на 10% на первом уровне и на 20% на втором.
+* Ячейка с выбором одного из двух талантов:
+    * [Долгая ночь](https://www.wowhead.com/ru/spell=389781) – продлевает время действия [Мрака](https://www.wowhead.com/ru/spell=196718/) на 3 сек. Довольно слабый талант по сравнению со вторым выбором в этой ячейке.
+    * [Непроницаемая тьма](https://www.wowhead.com/ru/spell=389783) – уменьшает время восстановления [Мрака](https://www.wowhead.com/ru/spell=196718/) на 120 сек.
+* [Охота](https://www.wowhead.com/ru/spell=370965) – ковенантская способность Ночного Народца теперь классовый талант Охотников на Демонов.
+* [Демонический намордник](https://www.wowhead.com/ru/spell=388111/) – противники, пораженные вашей печатью, наносят вам на 8% меньше магического урона в течение 8 сек.
+* [Усиленные печати](https://www.wowhead.com/ru/spell=389697/) – талант с двумя уровнями, продлевает время действия наших печатей на 1 сек. на первом уровне и на 2 сек. на втором.
+
+#### Десятый ряд
+
+* [Всеобщая тоска](https://www.wowhead.com/ru/spell=390152/) – [Пронзающий взгляд](https://wowhead.com/ru/spell=198013) призывает союзного охотника на демонов со специализацией "Месть" который применяет [Опустошение Скверной](https://www.wowhead.com/ru/spell=320639).
+* Ячейка с выбором одного из двух талантов:
+    * [Неестественная злоба](https://www.wowhead.com/ru/spell=389811) – усиливает урон от ДоТы [Охоты](https://www.wowhead.com/ru/spell=370965) на 30%.
+    * [Непреклонное преследование](https://www.wowhead.com/ru/spell=389819) – когда противник погибает под действием ДоТа [Охоты](https://www.wowhead.com/ru/spell=370965), время восстановления [Охоты](https://www.wowhead.com/ru/spell=370965) сокращается на 12 сек.
+* [Ускоренные печати](https://www.wowhead.com/ru/spell=209281) – все печати активируются на 1 сек. быстрее, а время их восстановления сокращается на 20%.
+
 ## Значительные изменения Охотников на Демонов Истребление в Shadowlands
 <ul>
 <li> {{ site.data.spell.Immolation_Aura }} – стала базовой способностью.</li>
@@ -146,7 +229,7 @@ image:
 
 <hr>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/changes-patch.html">Назад:<br>Изменения в патче 9.2</a></div> 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html">Далее:<br>Лучший ковенант</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/changes-patch.html">Назад:<br>Изменения в патче</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/gear.html">Далее:<br>Бис лист</a></div>
 
 <br>

@@ -1,9 +1,9 @@
 ---
 layout: highcharts_page
 title: Сетовый бонус
-description: Сетовый бонус Гайд для Охотников на Демонов Истребление 9.2 PvE Shadowlands
-last_update: 2022-03-03 09:00:00
-game_version: 9.2 Shadowlands 
+description: Сетовый бонус Гайд для Охотников на Демонов Истребление 10.0 PvE Dragonflight
+last_update: 2022-10-15 09:00:00
+game_version: 10.0 Dragonflight 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -11,18 +11,11 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
 <a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"><span style="color: white;"> Сет бонусы</span></a>
-<a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
-<a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a href="{{ site.url }}/guide/havoc/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a href="{{ site.url }}/guide/havoc/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
 <a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
 <a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_mekkatorque_bot_bluegear.jpg"> Ротация</a>
 <a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
@@ -35,7 +28,12 @@ image:
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-<p align="center" width="100%"> <img src="https://wow.zamimg.com/uploads/screenshots/normal/1040281.jpg" style="outline: 2px solid #000;"> </p>
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/dragonflight/1079717.jpg" style="outline: 2px solid #000;"> </p>
+
+<div class="video-container">
+<iframe src="https://www.wowhead.com/video-stream/240748-df-dh-s1-mythic" height="315" width="560" allowfullscreen="" frameborder="0">
+</iframe>
+</div> 
 
 ## Способ добычи
 
@@ -45,33 +43,18 @@ image:
 
 ## Сетовые бонусы
 
-* 2 предмета: [Смертельный танец](https://ru.wowhead.com/spell=364438) - Увеличивает урон [Смертоносного взмаха](https://ru.wowhead.com/spell=210152) / [Танца клинков](https://ru.wowhead.com/spell=188499) и [Аннигиляции](https://ru.wowhead.com/spell=201427) / [Удара Хаоса](https://ru.wowhead.com/spell=162794) на 20%.
-* 4 предмета: [Смертельный танец](https://ru.wowhead.com/spell=363736) - Время действия [Метаморфозы](https://ru.wowhead.com/spell=191427) увеличено на 6 сек. Каждые 60 ед. израсходованного Гнева сокращают время восстановления [Метаморфозы](https://ru.wowhead.com/spell=191427) на 1 сек.
+* 2 предмета: шанс критического удара [Удар Хаоса](https://ru.wowhead.com/spell=162794/)/[Аннигиляция](https://ru.wowhead.com/spell=201427) и [Танец клинков](https://ru.wowhead.com/spell=188499)/[Смертоносный взмах](https://www.wowhead.com/spell=210152) увеличен на 5%, а их критический урон увеличен на 10%.
+* 4 предмета: [Удар Хаоса](https://ru.wowhead.com/spell=162794/)/[Аннигиляция](https://ru.wowhead.com/spell=201427) и [Танец клинков](https://ru.wowhead.com/spell=188499)/[Смертоносный взмах](https://www.wowhead.com/spell=210152) с вероятностью 20% увеличивают наносимый вами урон на 8% на 6 секунд. Ваши критические удары увеличивают этот шанс.
 
-**2 предмета:** Очень приличный баф для наших основных наносящих урон способностей, благодаря кондуитам [Непреклонный натиск](https://ru.wowhead.com/spell=339151) и [Танец с судьбой](https://ru.wowhead.com/spell=339228) этот баф еще сильнее ощущается. Главная особенность новых изменений сета это решение конфликта между ковенантами.
+Бонус сетового набора для Охотников на Демонов Истребления относительно прост, набор с 2 вещей направлен на повышение ценности критического удара для наших основных ДПС способностей,а набор из 4 — это фиксированное увеличение урона с высоким временем постоянной работы (70%-90% аптайм баффа).
 
-**4 предмета:** Очень слабый бонус за 4 куска сета, продление [Метаморфозы](https://ru.wowhead.com/spell=191427) на 6 сек работает ТОЛЬКО от прожатой способности, на [Демонизм](https://ru.wowhead.com/spell=213410) это не распространяется. Сократить время восстановления можно будет примерно на одну минуту, при условии, что мы постоянно атакуем цель. Усиление очень слабое как для комплекта из 4 предметов, возможно еще будет изменено.
+Бонус сетового набора дает нам только чистый урон и не влияют на изменение нашей ротации или влияние на проки. Наш стиль игры остается совершенно неизменным, сет имеет сильную синергию с нашими талантами. Из-за [Know Your Enemy](https://www.wowhead.com/beta/spell=388118/) мы будем накапливать критический удар в качестве нашей основной вторичной характеристики, а увеличение шанса критического удара от 2 предметов дает большие преимущества, это также значительно увеличивает шанс срабатывания бонуса от 4 предметов. Бонус от 4 предметов имеет гораздо более высокое время постоянной работы, чем можно было бы ожидать, шанс срабатывания зависит от нанесения урона, так как [Удар Хаоса](https://ru.wowhead.com/spell=162794/) наносит два удара за применение, а [Танец клинков](https://ru.wowhead.com/spell=188499) поражает цель четыре раза за применение, время действия бафа даже по одной цели легко может превысить 80%+, однако на АоЕ [Танец клинков](https://ru.wowhead.com/spell=188499) почти гарантированно дает прок при каждом применении способности.
 
-#### Ковенанты
-
-В плане ковенантов сет мало вносит изменений и самыми популярными ковенантами, скорей всего, в ПВЕ останутся <span class="q4">Ночной Народец</span> для Клив/АоЕ и <span class="q10">Вентиры</span> для СТ. {{ site.data.covenant.Sinful_Brand }} <span class="q10">Вентиров</span> можно будет поддерживать на цели 90% (а в некоторых случаях 100%) благодаря легендарному предмету [Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534), что очень сильно увеличит СТ урон и делает их несомненным лидером в СТ боях, а <span class="q4">Ночной Народец</span> в свою очередь получит сильный бурст урон в связке легендарного предмета [Пылающая бойня](https://ru.wowhead.com/spell=355890) и таланта [Необузданный хаос](https://ru.wowhead.com/spell=347461), а так же увеличит время действия [Обжигающего жара](https://ru.wowhead.com/spell=258920), что в свою очередь тоже позитивно скажется на Клив/АоЕ уроне.
-
-#### Легендарные предметы 
-
-Играя за <span class="q4">Ночной Народец</span> мы будем использовать [Жгучую рану](https://ru.wowhead.com/spell=346279), чтоб увеличить наш СТ/Клив урон, а [Всеобщую тоску](https://ru.wowhead.com/spell=337504) АоЕ урон. [Жгучая рана](https://ru.wowhead.com/spell=346279) и [Пылающая бойня](https://ru.wowhead.com/spell=355890) отлично дополняют друг друга, первая обеспечивает нам стабильный высокий СТ/Клив урон, а вторая дает нам бурст урон каждые 90 секунд и увеличивает аптайм жара. Для ключей и Клив боев в рейде такая связка смотрится очень сильно, а вот для СТ боя такой набор довольно слаб, так как [Пылающая бойня](https://ru.wowhead.com/spell=355890) в СТ нам дает очень слабое усиление.
-
-<span class="q10">Вентиры</span> будут играть со связкой легендарных предметов [Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534) и [Терзающий взгляд](https://ru.wowhead.com/spell=355886), очень сильная синергия, благодаря такой связке вы сможете поддерживать [Клеймо греха](https://ru.wowhead.com/spell=317009/) до 90% времени боя (а в некоторых случаях 100%), это стает возможным благодаря легендарному эффекту [Дара созерцателя тьмы](https://ru.wowhead.com/spell=337534),а также
-[Всеобщей тоски](https://ru.wowhead.com/spell=337504), та как призванный ДХ использует [Опустошение Скверной](https://ru.wowhead.com/spell=212084) которое также продлевает время действия [Клейма греха](https://ru.wowhead.com/spell=317009/) на цели. [Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534) будем использовать в Кливе и СТ, а [Всеобщую тоску](https://ru.wowhead.com/spell=337504) в АоЕ.
-
-<p class="tanknotes-section-success" markdown="1">
-<span style="font-weight: 400;">
-Новое изменение сета убрало конфликт с Вентирами и делает его нейтральным по отношению к ковенантам, а это означает что он не навязывает нам игру в каком-то конкретном ковенанте. Тем самым Blizzard смогла сохранить разнообразие наших билдов. Скорей всего, мы будем играть в любом из ковенантов не испытывая особых трудностей. В теории один ковенант может быть лучше других в определенных обстоятельствах, но случаи когда один ковенант намного сильней трех других встречаются редко. 
-Ни любители Вентиров, ни фанаты Ночного народца не должны беспокоится, ваш выбор ковенанта, вероятно, все еще будет жизнеспособным в большинстве случаев.
-</span></p>
+Сетовый набор Охотников на Демонов Истребления по сравнению с другими сетами на самом деле относительно силен. В боях с одиночной целью он обеспечивает увеличение урона 8,5–11%, с вариациями, зависящими от того, насколько велик шанс критического удара у вашего персонажа и от набора талантов. С предполагаемыми талантами для СТ боев время работы 8% БАФа урона составляет около 90%. На AoE доля урона от [Удар Хаоса](https://ru.wowhead.com/spell=162794/) и [Танец клинков](https://ru.wowhead.com/spell=188499) СУЩЕСТВЕННО падает, что сильно снижает эффективность бонуса от 2 вещей, однако время работы баффа на 8% урона почти постоянно.
 
 <hr>
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html">Назад:<br>Легендарные предметы</a></div> 
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html">Далее:<br>Проводники (Кондуиты)</a></div>
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/talent-builds.html">Назад:<br>Таланты и Билды</a></div> 
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/beginners.html">Далее:<br>Новичкам</a></div>
 
 <br>

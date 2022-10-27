@@ -2,7 +2,7 @@
 layout: guide
 title: Таланты и Билды
 description: Изменения в патче Гайд для Охотников на Демонов Истребление 10.0 PvE Dragonflight
-last_update: 2022-03-03 09:00:00
+last_update: 2022-10-25 09:00:00
 game_version: 10.0 Dragonflight
 author: Rodriguezz и Gaussiana
 toc: true
@@ -13,16 +13,9 @@ image:
 <div id="smooth-nav-outer">
 <a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"><span style="color: white;"> Таланты и Билды</span></a>
-<a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
 <a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
-<a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
-<a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a href="{{ site.url }}/guide/havoc/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a href="{{ site.url }}/guide/havoc/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
 <a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
 <a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_mekkatorque_bot_bluegear.jpg"> Ротация</a>
 <a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
@@ -41,96 +34,18 @@ image:
 
 ### СТ билды
 
-<div class="tabs" id="tabs-2">
-<div class="tabs__nav">
-<a class="tabs__link tabs__link_active" href="#content-7">Демонизм</a>
-<a class="tabs__link" href="#content-9">ФБ + ДБ</a>
-</div>
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/dragonflight/hdh10_0.png" style="outline: 2px solid #000;"> </p>
+ 
+Строка для импорта
 
-<div class="tabs__content">
+<pre>
+<code class="language-less">
+BEkAAAAAAAAAAAAAAAAAAAAAAgkkkkIlg0SSSkgWSAAAAAAA0SSgWakElgkkWSgEIB
+</code>
+</pre>
 
-<div class="tabs__pane tabs__pane_show" id="content-7">
-<div class="tabs_in" markdown="1">
-{% include BurningWound.html %}
-<p class="tanknotes-section-success" markdown="1">
-<span style="font-weight: 400;">На **35 и 45** уровне можете брать любой талант который подходит больше по стилю вашей игры.
-</span></p>
-<p class="tanknotes-section-error" markdown="1">
-<span style="font-weight: 400;">Если вы выбрали данный билд, в рейде используйте с ним следующие легендарные предметы:<br>
-<span class="q5"><strong>[Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534/)</strong></span><br>
-<span class="q5"><strong>[Всеобщая тоска](https://ru.wowhead.com/spell=337504)</strong></span>
-</span></p>
-</div>
-</div>
-
-<div class="tabs__pane" id="content-9">
-<div class="tabs_in" markdown="1">
-{% include ChaosTheory.html %}
-<p class="tanknotes-section-success" markdown="1">
-<span style="font-weight: 400;">На **35** уровне можете брать любой талант который подходит больше по стилю вашей игры.<br>
-Если вы в ковенанте <span class="covenant-necrolord">Некролордов</span> на **30** уровне можете использовать талант [Буря кликов](https://ru.wowhead.com/spell=342817).<br>
-<br>
-**Используйте кондуит**<br>
-<br>
-[**Танец с судьбой**](https://ru.wowhead.com/spell=339228) - с этим кондуитом и талантом [Первая кровь](https://ru.wowhead.com/spell=206416/) используйте способность {{ site.data.rotation.DeathSweep }} / {{ site.data.rotation.BladeDance }} по КД даже в 1 цель. <br>
-<br>
-</span></p>
-<p class="tanknotes-section-error" markdown="1">
-<span style="font-weight: 400;">Если вы выбрали данный билд, в рейде используйте с ним следующие легендарные предметы:<br>
-<span class="q5"><strong>{{ site.data.legendary.Burning_Wound }}</strong></span><br>
-<span class="q5"><strong>[Всеобщая тоска](https://ru.wowhead.com/spell=337504)</strong></span>
-</span></p>
-</div>
-</div>
-</div>
-</div>
-<br>
 
 ### АоЕ/Клив Билды
-
-<div class="tabs" id="tabs-1">
-<div class="tabs__nav">
-<a class="tabs__link tabs__link_active" href="#content-1">ФБ + ДБ</a>
-<a class="tabs__link" href="#content-2">Демонизм</a>
-
-</div>
-<div class="tabs__content">
-<div class="tabs__pane tabs__pane_show" id="content-1">
-<div class="tabs_in" markdown="1">	
-{% include ChaosTheory.html %}
-<p class="tanknotes-section-success" markdown="1">
-<span style="font-weight: 400;">На **35** уровнях можете брать любой талант который подходит больше по стилю вашей игры.<br>
-Если вы в ковенанте <span class="covenant-necrolord">Некролордов</span> на **30** уровне можете использовать талант [Буря кликов](https://ru.wowhead.com/spell=342817).
-</span></p>
-<p class="tanknotes-section-error" markdown="1">
-<span style="font-weight: 400;">Если вы выбрали данный билд, в Мифик+ используйте с ним следующие легендарные предметы:<br>
-<span class="q5"><strong>{{ site.data.legendary.Collective_Anguish }}</strong></span><br>
-<span class="q5"><strong>{{ site.data.legendary.Burning_Wound }}</strong></span><br>
-
-**Используйте кондуит**<br>
-<br>
-[**Танец с судьбой**](https://ru.wowhead.com/spell=339228) - с этим кондуитом и талантом [Первая кровь](https://ru.wowhead.com/spell=206416/) используйте способность {{ site.data.rotation.DeathSweep }} / {{ site.data.rotation.BladeDance }} по КД даже в 1 цель. <br>
-</span></p>
-</div>      
-</div>
-<div class="tabs__pane" id="content-2">
-<div class="tabs_in" markdown="1">
-{% include DarkglareBoon.html %}
-<p class="tanknotes-section-success" markdown="1">
-<span style="font-weight: 400;">На **35 и 45** уровне можете брать любой талант который подходит больше по стилю вашей игры.
-</span></p>
-<p class="tanknotes-section-error" markdown="1">
-<span style="font-weight: 400;">Если вы выбрали данный билд, в Мифик+ используйте с ним следующие легендарные предметы:<br>
-<span class="q5"><strong>{{ site.data.legendary.Collective_Anguish }}</strong></span><br>
-<span class="q5"><strong>[Дар созерцателя тьмы](https://ru.wowhead.com/spell=337534/)</strong></span>
-</span></p>
-</div>
-</div>
-
-</div>
-</div>
-<br>
-
   
 ## Обзор талантов
 
@@ -144,91 +59,78 @@ image:
 * Ячейка с выбором одного из двух талантов:
   * [Неутолимый голод](https://ru.wowhead.com/spell=258876) – достаточно простой талант, [Укус демона](https://ru.wowhead.com/spell=162243) генерирует от 5 до 10 ед. дополнительного гнева за одно использование.
   * [Демонические клинки](https://ru.wowhead.com/spell=203555) – талант переработали и теперь он стал еще сильней, благодаря чему теперь у нас не будет долгих простоев без гнева, как это случалось в прошлых аддонах.
-* [Сердце Пламени Скверны](https://www.wowhead.com/beta/spell=388109) – продлевает время действия печатей и [Обжигающего жара](https://ru.wowhead.com/spell=258920), имеет синергию с другими талантами дерева и при их комбинации прилично усиливают урон способности [Обжигающий жар](https://ru.wowhead.com/spell=258920)
+* [Сердце Пламени Скверны](https://www.wowhead.com/ru/spell=388109) – продлевает время действия печатей и [Обжигающего жара](https://ru.wowhead.com/spell=258920), имеет синергию с другими талантами дерева и при их комбинации прилично усиливают урон способности [Обжигающий жар](https://ru.wowhead.com/spell=258920).
 
 ### Третий ряд
 
-* [Демонический аппетит](https://ru.wowhead.com/spell=206478/) – хороший талан, генерирует 30 ед. гнева за каждую поглощенную душу, а так же повышает нашу выживаемость. Генерирует примерно 6 душ в минуту.
+* [Демонический аппетит](https://wowhead.com/ru/spell=206478/) – хороший талан, генерирует 30 ед. гнева за каждую поглощенную душу, а так же повышает нашу выживаемость. Генерирует примерно 6 душ в минуту.
 * [Улучшенный Рывок Скверны](https://www.wowhead.com/spell=343017) – в прошлом третий тир способности [Рывок Скверны](https://ru.wowhead.com/spell=343017) который перебрался в таланты. Повышает урон способности [Рывок Скверны](https://ru.wowhead.com/spell=343017).
-* [Первая кровь](https://ru.wowhead.com/spell=206416/) – измененный талант, теперь не уменьшает стоимость [Танца клинков](https://ru.wowhead.com/spell=188499/), а только увеличивает урон, талант остается сильным и мы будем использовать его всегда.
-* [Яростные броски](https://www.wowhead.com/beta/spell=393029) – [Бросок боевого клинка](https://ru.wowhead.com/spell=185123) теперь стоит 25 ед. гнева и запускает дополнительную глефу в цель. Хорошо дополняет таланты в последних тирах.
+* [Первая кровь](https://wowhead.com/ru/spell=206416/) – измененный талант, теперь не уменьшает стоимость [Танца клинков](https://ru.wowhead.com/spell=188499/), а только увеличивает урон, талант остается сильным и мы будем использовать его всегда.
+* [Яростные броски](https://www.wowhead.com/ru/spell=393029) – [Бросок боевого клинка](https://ru.wowhead.com/spell=185123) теперь стоит 25 ед. гнева и запускает дополнительную глефу в цель. Хорошо дополняет таланты в последних тирах.
 
 ### Четвертый ряд
 
-* [Critical Chaos](https://www.wowhead.com/beta/spell=320413) – 
+* [Критический хаос](https://www.wowhead.com/ru/spell=320413) – талант с двумя уровнями, дополнительно повышает шанс на восстановление гнева, 25% на первом уровне и 50% на втором от нашего крит шанса.
 * [Смертельный танец](https://ru.wowhead.com/spell=328725) – талант перешел к нам с PvP, уменьшает исцеление цели после применения [Танца клинков](https://ru.wowhead.com/spell=188499/), в PvE скорей всего не найдет применения и будет доп опцией для любителей PvP.
-* []() – 
-* []() – 
-* []() – 
-* []() – 
-* []() – 
-* []() – 
-* []() – 
-* []() – 
+* [Танец с судьбой](https://www.wowhead.com/ru/spell=389978/) – увеличивает урон последнего удара [Танца клинков](https://ru.wowhead.com/spell=188499/).
 
+### Пятый ряд
 
+* [Инициатива](https://www.wowhead.com/ru/spell=388108) – очень приятный бонус крита, в прошлом это была связь душ медиума Корейн, у нее был минус так как она работала один раз в бою если босс не призывает миньонов, а теперь мы можем ее повторно активировать в СТ боях при помощи [Коварного отступления](https://wowhead.com/ru/spell=198793), что повышает ценность таланта.
+* Ячейка с выбором одного из двух талантов:
+  * [Инстинкт самосохранения](https://wowhead.com/ru/spell=205411) – Неплохой талант за счет увеличения защитных свойств {{ site.data.spell.Blur }}, но используется очень редко так как может сработать в неподходящий момент.
+  * [Путь Пустоты](https://wowhead.com/ru/spell=196555) – Очень сильный сейв кулдаун который позволяет игнорировать сложные механики боя.
+* [Хаотичное преображение](https://www.wowhead.com/ru/spell=388112) – сбрасывает КД [Танца клинков](https://wowhead.com/ru/spell=188499/) и [Пронзающего взгляда](https://wowhead.com/ru/spell=198013) при использовании способности [Метаморфоза](https://wowhead.com/ru/spell=191427). Еще одна пассивная способность которая стала талантом, неплохой мини бурст раз в 3 минуты.
+* [Извержение Скверны](https://wowhead.com/ru/spell=211881) – Таргетный стан, незаменимый инструмент для ключей, так как много контроля не бывает.
+* [Остатки разрушений](https://www.wowhead.com/ru/spell=258881) – дополнительный урон для [Танца клинков](https://wowhead.com/ru/spell=188499/), хороший талант так как [Танец клинков](https://wowhead.com/ru/spell=188499/) мы будем использовать всегда.
 
+### Шестой ряд
 
-<ul>
-<li>{{ site.data.talent.BlindFury }} Чрезвычайно хороший талант, усиливающий одну из наших лучших способностей на 50% и генерирующий много гнева.</li> 
-<li>{{ site.data.talent.Demonic_Appetite }} С изменением возмещения гнева за {{ site.data.spell.Chaos_Strike }} в BFA этот талант сильно изменился. Генерирует примерно 6 душ в минуту. </li>
-<li>{{ site.data.talent.Felblade }} Очень конкурентоспособный талант, дает много гнева, имеет небольшое время восстановления. </li>
-</ul>
+* [Необузданный хаос](https://wowhead.com/ru/spell=347461) –  увеличивает урон нашего [Рывок Скверны](https://wowhead.com/ru/spell=195072) после применения [Обжигающий жар](https://wowhead.com/ru/spell=258920), очень сильный талант.
+* [Слепая ярость](https://wowhead.com/ru/spell=203550) – сильный талант, продлевает время действия [Пронзающего взгляда](https://wowhead.com/ru/spell=198013) и восстанавливает много гнева. У таланта два уровня, на первом продлевает время действия на 25% и восстанавливает 20ед. гнева в секунду, на втором продлевает время на 50% и восстанавливает 40ед. гнева в секунду.
+* [Убийственный взгляд](https://www.wowhead.com/ru/spell=320415) – снова пассивный эффект [Пронзающего взгляда](https://wowhead.com/ru/spell=198013) стал нашим талантом.
+* [Зазубренный клинок](https://www.wowhead.com/ru/spell=390154/) – кондуит ставший талантом, он был слаб в шадовлендсе и его не использовали, скорей всего талант ждет та же судьба.
+* [Нарастающий жар преисподней](https://www.wowhead.com/ru/spell=390158) – талант с двумя уровнями, увеличивает урон [Обжигающего жара](https://www.wowhead.com/ru/spell=258920) каждый раз как способность наносит урон, очень сильный талант, полезен в СТ и АоЕ, так же имеет синергию с другими талантами дерева.
 
-### Таланты второго тира (25 Уровень)
+### Седьмой ряд
 
-<ul>
-<li>{{ site.data.talent.Insatiable_Hunger }} Достаточно простой талант, {{ site.data.spell.Demons_Bite }} генерирует от 5 до 10 ед. дополнительного гнева за одно использование.</li> 
-<li>{{ site.data.talent.Burning_Hatred }} Дополнительно накапливает 30 ед. гнева за 6 сек. Универсальный талант как для СТ так и АоЕ.</li>
-<li>{{ site.data.talent.Demon_Blades }} Позволяет генерировать гнев пассивно.</li>
-</ul>
+* [Тактическое отступление](https://www.wowhead.com/ru/spell=389688) – в прошлом это была часть бонуса от таланта [Импульс](https://www.wowhead.com/spell=206476/), очень полезный талан, генерирует дополнительный гнев, увеличивает аптайм баффа [Инициатива](https://www.wowhead.com/ru/spell=388108), а так же позволяет комбинировать каждое второе применение способности [Коварное отступление](https://www.wowhead.com/ru/spell=198793) с [Пронзающим взглядом](https://wowhead.com/ru/spell=198013) и [Разрыв сущности](https://www.wowhead.com/ru/spell=258860).
+* [Одиночная цель](https://www.wowhead.com/ru/spell=388113/) – талант перебрался к нам с PvP, улучшает [Рывок Скверны](https://www.wowhead.com/ru/spell=195072), [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013) и [Кольцо Хаоса](https://www.wowhead.com/ru/spell=179057). Талант полезен только на СТ боях которых не много в игре.
+* [Яростный взор](https://www.wowhead.com/ru/spell=343311) – пассивный бонус [Пронзающего взгляда](https://wowhead.com/ru/spell=198013) сделали талантом.
+* [Непреклонный натиск](https://www.wowhead.com/ru/spell=389977/) – 10% шанс на повторное срабатывание [Удара Хаоса](https://wowhead.com/ru/spell=162794), неплохой выбор для СТ.
+* [Жгучая рана](https://www.wowhead.com/ru/spell=391189) – свойство легендарного предмета стало талантом но претерпело изменений, теперь ДоТ накладывается не только от [Укуса демона](https://wowhead.com/ru/spell=162243), но и [Бросок боевого клинка](https://wowhead.com/ru/spell=185123), тем самым повышает эффективность способности [Обжигающий жар](https://ru.wowhead.com/spell=258920)
 
-### Таланты третьего тира (30 Уровень)
+### Восьмой ряд
 
-<ul>
-<li>{{ site.data.talent.Trail_of_Ruin }} Очень простой талант, последний удар способности {{ site.data.spell.Blade_Dance }} вешает на врагов ДоТ, который наносит урон от магии Хаоса в течение 4 сек.</li> 
-<li>{{ site.data.talent.Unbound_Chaos }} увеличивает урон нашего {{ site.data.spell.Fel_Rush }} после применения {{ site.data.spell.Immolation_Aura }}, очень сильный талант.</li>
-<li>{{ site.data.talent.Glaive_Tempest }} Способность артефакта Легиона. Скорость  восстановления зависит от рейтинга скорости персонажа. Больше скорости, значит быстрее восстанавливается способность.
-</li>
-</ul>
+* [Импульс](https://www.wowhead.com/ru/spell=206476) – талант был переработан, теперь у него больше источников для активации бонуса, но бафф урона был уменьшен с 15% до 8%, а время действия с 6 сек. до 5 сек.
+* [Теория хаоса](https://www.wowhead.com/ru/spell=389687) – талант усиливает [Удар Хаоса](https://wowhead.com/ru/spell=162794) на 14-30% и гарантировано возвращает гнев после каждого [Танца клинков](https://wowhead.com/ru/spell=188499/). 
+* [Неутомимый охотник](https://www.wowhead.com/ru/spell=390142) – после окончание действия демонической формы следующее применение [Танца клинков](https://wowhead.com/ru/spell=188499/) нанесет на 50% больше урона. 
+* [Внутренний демон](https://www.wowhead.com/ru/spell=389693) – каждый раз как вы получаете демоническую форму от [Пронзающего взгляда](https://wowhead.com/ru/spell=198013) или от [Метаморфозы](https://ru.wowhead.com/spell=191427), следующее применение [Аннигиляция](https://www.wowhead.com/ru/spell=201427) призовет демона который ударит по земле и нанесет ближайшим противникам АоЕ урон.
+* [Ускоряющийся клинок](https://www.wowhead.com/ru/spell=391275/) – [Бросок боевого клинка](https://wowhead.com/ru/spell=185123) наносит больше урона за каждого врага, хороший талант в связке с [Яростные броски](https://www.wowhead.com/ru/spell=393029) и [Раздирание души](https://www.wowhead.com/ru/spell=388106).
+* [Огненная бездна](https://www.wowhead.com/ru/spell=388107) – очень сильный талант который наносит много АоЕ урона, но у него есть один небольшой минус, если группа мобов умирает раньше чем закончиться действие [Обжигающего жара](https://wowhead.com/ru/spell=258920) то урон таланта уйдет в никуда.
 
-### Таланты четвертого тира (35 Уровень)
+### Девятый ряд
 
-<ul>
-<li>{{ site.data.talent.Soul_Rending }} Талант дает нам 10% пассивного самоисцеления, что делает нас более живучими и помогает пережить различные механики. Хороший выбор, если вам в бою не понадобится невосприимчивость к урону.</li> 
-<li>{{ site.data.talent.Desperate_Instincts }} Неплохой талант за счет увеличения защитных свойств {{ site.data.spell.Blur }}, но используется очень редко.</li>
-<li>{{ site.data.talent.Netherwalk }} Очень сильный сейв кулдаун который позволяет игнорировать сложные механики боя.</li>
-</ul>
+* [Врага нужно знать в лицо](https://www.wowhead.com/ru/spell=388118) – очень сильный талант, увеличивает ваш критический урон на 100% от вашего шанса критического удара. У таланта два уровня, на первом увеличивает крит урон на 50% от шанса критического удара, на втором на 100%. 
+* Ячейка с выбором одного из двух талантов:
+  * [Буря клинков](https://www.wowhead.com/ru/spell=342817) – способность артефакта Легиона. Скорость восстановления зависит от рейтинга скорости персонажа. Больше скорости, значит быстрее восстанавливается способность.
+  * [Обстрел Скверны](https://www.wowhead.com/ru/spell=258925) – сильный АоЕ бурст урон, но долгое КД и слабый урон в одну цель делает его менее привлекательным.
+* [Цикл ненависти](https://www.wowhead.com/ru/spell=258887) – переработанный талант, теперь уменьшает время восстановления [Пронзающего взгляда](https://wowhead.com/ru/spell=198013) на вторам ранге таланта на 1 сек. за каждое применение [Удара Хаоса](https://wowhead.com/ru/spell=162794), [Танца клинков](https://wowhead.com/ru/spell=188499/) и [Броска боевого клинка](https://wowhead.com/ru/spell=185123). У таланта два уровня, на первом уменьшает время восстановления на 0.5 сек, а на втором на 1 сек.
+* Ячейка с выбором одного из двух талантов:
+  * [Подпитка для пламени](https://www.wowhead.com/ru/spell=391429) – способность ковенанта Некролордов перенесенная в таланты, в бою может появиться демон которого можете атаковать только вы, а его убийство дает [Душу демона](https://www.wowhead.com/ru/spell=347765). В среднем демон появляется раз в 90 сек.
+  * [Элизийский декрет](https://www.wowhead.com/ru/spell=390163) – способность ковенанта Кирии, размещает печать в выбранном месте и наносить АоЕ урон в области, а так же генерирует 3 души. Хороший талант с приличным АоЕ уроном.
+* [Раздирание души](https://www.wowhead.com/ru/spell=388106) – после [Броска боевого клинка](https://wowhead.com/ru/spell=185123) оставляет на пораженных целях ДоТ который наносит урон хаоса в течении 6 сек. Хороший талант с сильной синергией с [Ускоряющийся клинок](https://www.wowhead.com/ru/spell=391275/) и [Яростными бросками](https://www.wowhead.com/ru/spell=393029).
 
-### Таланты пятого тира (40 Уровень)
+### Десятый ряд
 
-<ul>
-<li>{{ site.data.talent.Cycle_of_Hatred }} Очень сильный талант в этом тире, игра с этим талантом полностью исключит {{ site.data.spell.Blade_Dance }} из СТ ротации.</li> 
-<li>{{ site.data.talent.First_Blood }} Первая кровь хорошо сочетается с талантом из третьего тира {{ site.data.talent.Trail_of_Ruin }}.</li>
-<li>{{ site.data.talent.Essence_Break }} Хорошее усиление для СТ и АоЕ урона, после изменений стал конкурентно способным в 5 тире талантов. Пред использованием рекомендуется иметь максимальное количество гнева.</li>
-</ul>
-
-### Таланты шестого тира (45 Уровень)
-
-<ul>
-<li>{{ site.data.talent.Unleashed_Power }} Мы получаем бесплатный АоЕ стан.</li> 
-<li>{{ site.data.talent.Master_of_the_Glaive }} Довольно слабый талант, но с {{ site.data.legendary.Fel_Bombardment }} может себя очень хорошо показать, также берется по умолчанию для СТ билда.</li>
-<li>{{ site.data.talent.Fel_Eruption }} Таргетный стан, может быть полезным для контроля приоритетной цели.</li>
-</ul>
-
-### Таланты седьмого тира (50 Уровень)
-
-<ul>
-<li>{{ site.data.talent.Demonic }} Сильный талант, если вам нужен бурст каждые 30 секунд, хорош в AoE. Хорошо сочетается вместе с {{ site.data.talent.BlindFury }}.</li> 
-<li>{{ site.data.talent.Momentum }} Усложняет игровой процесс. Игра с этим талантом подразумевает, что вы должны следить за бафом урона и за своим положением, чтобы не улететь за край карты или не спулить новую группу врагов. Является уникальным для специализации Истребление. Чрезвычайно эффективен для нескольких целей, поскольку его модификатор урона применяется ко всему наносимому вами урону.</li>
-<li>{{ site.data.talent.Fel_Barrage }} Очень странное место для этого таланта в качестве замены {{ site.data.talent.Nemesis
- }}. Этот талант, по сути, мертвый талант в этом тире, если только его не усилят настолько, что он станет незаменим.</li>
-</ul>
+* [Разрыв сущности](https://www.wowhead.com/ru/spell=258860/) – талант был изменен в ДФ, теперь он усиливает [Удара Хаоса](https://wowhead.com/ru/spell=162794) и [Танец клинков](https://wowhead.com/ru/spell=188499/) на 80% в течении 5 сек., раньше было 40% на 8 сек. Очень мощный талант, с ним можно скомбинировать [Пронзающий взгляд](https://wowhead.com/ru/spell=198013) и [Коварное отступление](https://wowhead.com/ru/spell=198793), чтоб получить максимальное усиление для наши способностей.
+* [Расколотая судьба](https://www.wowhead.com/ru/spell=388116/) – продлевает нашу форму демона на 0.1 сек. за 8 ед. потраченного гнева. Неплохой талант который значительно продлевает действие нашей демонической формы. 
+* [Любыми средствами](https://www.wowhead.com/ru/spell=388114) – один из самых сильных талантов в дереве, с этим талантом все наши способности начнут наносить урон от магии хаоса, тем самый искусность получает сильный бафф и перестает быть бесполезной характеристикой.
 
 <hr>
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/gear.html">Назад:<br>Бис лист</a></div>
-<div class="minibox"><a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html">Далее:<br>Легендарные предметы</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/set-bonuses.html">Далее:<br>Сет бонусы</a></div>
 
 <br>
 

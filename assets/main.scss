@@ -792,6 +792,26 @@ hr {
 	text-decoration: none;
 }
 
+
+//start iframe video
+
+.video-container {
+  position: relative;
+  padding-bottom: 58.25%;
+  height: 0;
+  overflow: hidden;
+}
+ 
+.video-container iframe {
+  position: absolute;
+  top:0;
+  left: 6%;
+  width: 87%;
+  height: 100%;
+}
+
+//iframe
+
 //spec logo index
 
 #speclogo {
