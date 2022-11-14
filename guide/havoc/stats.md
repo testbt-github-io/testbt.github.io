@@ -1,9 +1,9 @@
 ---
 layout: guide
 title: Характеристики
-description: Гайд Характеристики для Охотников на Демонов Истребление 9.2 PvE Shadowlands
-last_update: 2022-03-03 09:00:00
-game_version: 9.2 Shadowlands 
+description: Гайд Характеристики для Охотников на Демонов Истребление 10.0 PvE Dragonflight
+last_update: 2022-10-15 09:00:00
+game_version: 10.0 Dragonflight 
 author: Rodriguezz и Gaussiana
 toc: true
 image:
@@ -11,18 +11,11 @@ image:
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
+<a href="{{ site.url }}/guide/havoc/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче</a>
 <a href="{{ site.url }}/guide/havoc/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/havoc/best-covenant-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/havoc/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/havoc/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/havoc/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
 <a href="{{ site.url }}/guide/havoc/set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сет бонусы</a>
-<a href="{{ site.url }}/guide/havoc/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
-<a href="{{ site.url }}/guide/havoc/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a href="{{ site.url }}/guide/havoc/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a href="{{ site.url }}/guide/havoc/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a href="{{ site.url }}/guide/havoc/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
 <a href="{{ site.url }}/guide/havoc/beginners.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_lifegivingseed.jpg"> Новичкам</a>
 <a href="{{ site.url }}/guide/havoc/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/spell_mekkatorque_bot_bluegear.jpg"> Ротация</a>
 <a href="{{ site.url }}/guide/havoc/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"><span style="color: white;"> Характеристики</span></a>
@@ -50,24 +43,6 @@ image:
 
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/sim.gif"> </p>
 
-**Почему веса статов "не имеют смысла", и почему лучше пользоваться Top Gear.**
-
-DPS = a1 х Crit+a2 х Haste+a3 х Mastery+a4 х Versatility+a5 х Agility + а6 х MH_DPS + a7 x OH_DPS. 
-Значения крита, хасты, и т.д. получаются исходя из вашей экипировки, а веса статов, это коэффициенты (а1, а2, а3... а7). 
-Чтобы получить эти самые коэффициенты ребята из симкрафта особо не заморачиваются и применяют простейшую множественную линейную регрессию для получения этих самых весов. 
-Сложно объяснить вообще не вдаваясь в подробности, по этому кратко: значения каждого стата **по отдельности** будут варьироваться на 115 единиц (это делается по историческим причинам. 
-когда-то давно эта вариации составляла 3.5% хасты, и отсюда и повелось).
-
-Из этого следует, что симкрафт присваивает статам линейный рост и влияние на урон, а так же то, что в игре есть ситуация где вы сможете изменить лишь один стат никак не изменив другой. 
-Очевидно, что оба этих "предположения" не точны. Более того, симкрафт не будет искать никакого "баланса в статах". Веса статов могут показать, если у вас (речь не о ДХ) катастрофически 
-мало, скажем крита. Симкрафт может вычислить, что повышение крита вам дает "огромный" прирост ДПС. Тогда он влепит, что вам "надо добрать крита", т.е. выдаст, 
-что вес крита выше, чем у остальных статов. В последнюю очередь, стоит так же уточнить, что веса статов, которые вы получаете не являются чем-то "точным и абсолютным". 
-Значения, которые вы получаете являются средними значениями коэф. этой множественной линейной регресии (см. функцию из первого абзаца), которые применимы к достаточно 
-большим изменениям в статах (если быть точнее к 115 единицам), именно по этому не совсем правильно говорить, что одна единица стата Х, вносит Y дпса. Гораздо правильнее говорить, 
-что "при увеличении стата Х на 115 единиц, каждый стат в среднем внесет Y ДПС". 
- 
-В заключении: веса статов, это простая математическая модель, которая не берет в расчет смену талантов, легендарок, медиумов, проводников. 
-Именно по этому **Лучшее решение, которые вы можете принять в вопросе выбора лучшего предмета экипировки это забыть напрочь о "приоритете статов" и использовать Top Gear.**
 
 #### Для каждого персонажа приоритет характеристик индивидуальный, всегда используйте <a href="https://www.raidbots.com/simbot">RaidBots</a> чтобы использовать актуальную для вас экипировку.
 

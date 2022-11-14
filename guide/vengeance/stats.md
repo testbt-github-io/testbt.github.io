@@ -1,27 +1,20 @@
 ---
 layout: guide
 title: Характеристики
-description: Гайд для Охотников на Демонов Месть 9.2 PvE Shadowlands
-last_update: 2022-06-20 09:00:00
-game_version: 9.2 Shadowlands 
+description: Гайд для Охотников на Демонов Месть 10.0 PvE Dragonflight
+last_update: 2022-10-15 09:00:00
+game_version: 10.0 Dragonflight 
 author: Rodriguezz
 image:
     path: assets/img/blog/prev/spec_logo_VDH.png
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/vengeance/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
+<a href="{{ site.url }}/guide/vengeance/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче</a>
 <a href="{{ site.url }}/guide/vengeance/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/vengeance/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/vengeance/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/vengeance/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/vengeance/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
 <a href="{{ site.url }}/guide/vengeance/Set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сетовый набор</a>
-<a href="{{ site.url }}/guide/vengeance/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
-<a href="{{ site.url }}/guide/vengeance/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a href="{{ site.url }}/guide/vengeance/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a href="{{ site.url }}/guide/vengeance/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a href="{{ site.url }}/guide/vengeance/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
 <a href="{{ site.url }}/guide/vengeance/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ротация</a>
 <a href="{{ site.url }}/guide/vengeance/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"><span style="color: white;"> Характеристики</span></a>
 <a href="{{ site.url }}/guide/vengeance/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"> Расходники</a>
@@ -38,21 +31,18 @@ image:
 
 Второстепенные характеристики:
 
-<ul>
-<li> <b>Критический удар:</b> увеличивает ваш шанс нанести критический удар, удваивая как урон, так и исцеление. Рейтинг критического удара также конвертируется в рейтинг парирования, увеличивая ваш шанс избежать ударов ближнего боя. Существует жесткое ограничение на уровне 100%, но в настоящее время оно недостижимо.</li>
-<li> <b>Скорость:</b> Уменьшает глобальное время восстановления, также уменьшает время восстановления некоторых способностей</li>
-<li> <b>Искусность:</b> Эта характеристика увеличивает вашу силу атаки, а также процент ловкости преобразованной в броню во время использования {{ site.data.spell.Demon_Spikes }}. Так как искусность работает только когда активны {{ site.data.spell.Demon_Spikes }}, в настоящее время это довольно посредственный показатель, чтобы перевесить ценность других характеристик.</li>
-<li> <b>Универсальность:</b> Эта характеристика обеспечивает общее увеличение урона и исцеления, а также снижает получаемый урон вдвое. Он работает против всех форм урона, поэтому это наиболее эффективная характеристика общего назначения для снижения урона.</li>
-</ul>
+* **Критический удар:** увеличивает ваш шанс нанести критический удар, удваивая как урон, так и исцеление. Рейтинг критического удара также конвертируется в рейтинг парирования, увеличивая ваш шанс избежать ударов ближнего боя. Существует жесткое ограничение на уровне 100%, но в настоящее время оно недостижимо.
+* **Скорость:** Уменьшает глобальное время восстановления, также уменьшает время восстановления некоторых способностей
+* **Искусность:** Эта характеристика увеличивает вашу силу атаки, а также процент ловкости преобразованной в броню во время использования {{ site.data.spell.Demon_Spikes }}. Так как искусность работает только когда активны {{ site.data.spell.Demon_Spikes }}, в настоящее время это довольно посредственный показатель, чтобы перевесить ценность других характеристик.
+* **Универсальность:** Эта характеристика обеспечивает общее увеличение урона и исцеления, а также снижает получаемый урон вдвое. Он работает против всех форм урона, поэтому это наиболее эффективная характеристика общего назначения для снижения урона.
 
 Третичные характеристики:
 
-<ul>
-<li> <b>Самоисцеление :</b> урон что вы наносите приводит к самоисцелению.</li>
-<li> <b>Скорость передвижения:</b> эта характеристика немного повышает скорость передвижения персонажа.</li>
-<li> <b>Избежание :</b> уменьшает урон, получаемый от действующих по области способностей.</li>
-<li> <b>Неразрушимость :</b> броня с этой характеристикой не теряет прочность.</li>
-</ul>
+* **Самоисцеление:** урон что вы наносите приводит к самоисцелению.
+* **Скорость передвижения:** эта характеристика немного повышает скорость передвижения персонажа.
+* **Избежание:** уменьшает урон, получаемый от действующих по области способностей.
+* ***Неразрушимость:** броня с этой характеристикой не теряет прочность.
+
 
 ## Приоритет характеристик для Охотника на Демонов Месть
 

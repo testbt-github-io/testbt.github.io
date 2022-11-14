@@ -190,33 +190,10 @@ image:
     * [Непреклонное преследование](https://www.wowhead.com/ru/spell=389819) – когда противник погибает под действием ДоТа [Охоты](https://www.wowhead.com/ru/spell=370965), время восстановления [Охоты](https://www.wowhead.com/ru/spell=370965) сокращается на 12 сек.
 * [Ускоренные печати](https://www.wowhead.com/ru/spell=209281) – все печати активируются на 1 сек. быстрее, а время их восстановления сокращается на 20%.
 
-## Значительные изменения Охотников на Демонов Истребление в Shadowlands
-<ul>
-<li> {{ site.data.spell.Immolation_Aura }} – стала базовой способностью.</li>
-<li> Защитные способности специализации были сильно ослаблены, в результате чего пострадала живучесть.</li>
-<li> {{ site.data.talent.Unbound_Chaos }} - добавлен новый талант, увеличивает урон нашего {{ site.data.spell.Fel_Rush }} после применения {{ site.data.spell.Immolation_Aura }}</li>
-<li> {{ site.data.talent.Glaive_Tempest }} - это новый талант вдохновленный {{ site.data.spell.Fury_of_the_Illidari }}, нашей старой способностью «Артефактного оружия».</li>
-<li> {{ site.data.talent.Nemesis }} удален из игры.</li>
-</ul>
 
-## Изменения Охотниками на Демонов Истребление в Shadowlands
+## Изменения Охотниками на Демонов Истребление в Dragonflight
 
-<ul>
-<li> Гнев стал общим ресурсом для класса.</li>
-<li> {{ site.data.spell.Blade_Dance }} / {{ site.data.spell.Death_Sweep }} – больше не увеличивает ваш шанс увернуться на 100% на 1 сек.</li>
-<li> {{ site.data.spell.Blur }} – урезали показатель уменьшения входящего урона с 35% до 20%</li>
-<li> {{ site.data.spell.Eye_Beam }} – Новая формула масштабирования урона => Урон по основной цели / Sqrt (количество пораженных целей).</li>
-<li> {{ site.data.talent.Insatiable_Hunger }} – {{ site.data.spell.Demons_Bite }} наносит на 20% больше урона и генерирует от 5 до 10 ед. дополнительного гнева.</li>
-<li> {{ site.data.talent.Burning_Hatred }} – {{ site.data.spell.Immolation_Aura }} дополнительно генерирует 30 ед. гнева в течении 6 сек</li>
-<li> {{ site.data.talent.Soul_Rending }} – Теперь пассивно дает 5% вместо 10%, а под метаморфозой дополнительно 25% вместо 10%</li>
-<li> {{ site.data.talent.Desperate_Instincts }} – {{ site.data.spell.Blur }} дополнительно уменьшает урон еще на 10% (было на 15%). Кроме того, вы автоматически активируете {{ site.data.spell.Blur }}, когда ваше здоровье падает ниже 35%. Этот эффект может сработать когда {{ site.data.spell.Blur }} не находится на перезарядке.</li>
-<li> {{ site.data.talent.Netherwalk }} – Изменено время восстановления способности. Было 2 минуты, стало 3.</li>
-<li> {{ site.data.talent.Cycle_of_Hatred }} – Когда {{ site.data.spell.Chaos_Strike }} восстанавливает гнев, оно также уменьшает время восстановления {{ site.data.spell.Eye_Beam }} на 3 сек. (Раньше уменьшал время восстановления {{ site.data.spell.Metamorphosis }}).</li>
-<li> {{ site.data.talent.Essence_Break }} - Наносит урон Хаоса всем врагам, находящимся перед вами и увеличивает урон, наносимый им вашими {{ site.data.spell.Chaos_Strike }} и {{ site.data.spell.Blade_Dance }}, на 40% в течение 8 сек.</li>
-<li> {{ site.data.talent.Demonic }} - После использования {{ site.data.spell.Eye_Beam }} вы принимаете форму демона на 6 сек. (было 8 сек.)</li>
-<li> {{ site.data.talent.Fel_Barrage }} - стал талантом последнего тира, бьет одновременно 8 целей.</li>
-<li> Добавлена пассивная способность {{ site.data.spell.Furious_Gaze }} дающая 15% скорости на 12 сек. после применения {{ site.data.spell.Eye_Beam }}</li>
-</ul>
+
 
 ## Новые возможности трансмогрификации артефакта для Охотников на Демонов Истребление
 

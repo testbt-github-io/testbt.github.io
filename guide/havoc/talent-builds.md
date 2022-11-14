@@ -32,17 +32,61 @@ image:
 
 Ищете краткую информацию о билде дпс дх? Тогда эта статья специально для вас! Тем не менее, если вас интересует что-то более специфичное, например, серьёзный рейдинг или мифик+, вас заинтересуют билды ниже.
 
-### СТ билды
 
-<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/dragonflight/hdh10_0.png" style="outline: 2px solid #000;"> </p>
+<div class="tabs">
+<div class="tabs__nav">
+<a class="tabs__link tabs__link_active" href="#content-2">СТ билд</a>
+<a class="tabs__link" href="#content-3">АоЕ билд</a>
+<a class="tabs__link" href="#content-1">AoE/Клив билд</a>
+</div>
+
+<div class="tabs__content">
+<div class="tabs__pane" id="content-1" >
+
+<div class="tabs_in" markdown="1">
+
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/dragonflight/Havoc_Essb_Demonic.jpg" style="outline: 2px solid #000;"> </p>
+
+Строка для импорта
+
+<pre>
+<code class="language-less">
+BEkAAAAAAAAAAAAAAAAAAAAAAQCIhUCSLJRkQpEBAAAAAAQLJBRKkkUgQaRKSSSSSC
+</code>
+</pre>
+
+
+</div>
+</div>
+
+<div class="tabs__pane" id="content-3" >
+
+<div class="tabs_in" markdown="1">
+
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/dragonflight/havoc_AoE_Essb_Mastery.jpg" style="outline: 2px solid #000;"> </p>
  
 Строка для импорта
 
 <pre>
 <code class="language-less">
-BEkAAAAAAAAAAAAAAAAAAAAAAgkkkkIlg0SSSkgWSAAAAAAA0SSgWakElgkkWSgEIB
+BEkAAAAAAAAAAAAAAAAAAAAAAgkkkkIlg0SSEJUKRAAAAAAAUSSQkCJRJIJplEIBSA
 </code>
 </pre>
+
+</div>
+</div>
+
+<div class="tabs__pane tabs__pane_show" id="content-2">
+   
+<div class="tabs_in"  markdown="1">
+ 
+ бид
+
+</div>
+</div>
+      
+</div>
+</div>
 
 
 ### АоЕ/Клив Билды
@@ -51,7 +95,7 @@ BEkAAAAAAAAAAAAAAAAAAAAAAgkkkkIlg0SSSkgWSAAAAAAA0SSgWakElgkkWSgEIB
 
 ### Первый ряд
 
-* [Пронзающий взгляд](https://ru.wowhead.com/spell=198013) – способность которая открывает наше дерево навыков.
+* [Пронзающий взгляд](https://ru.wowhead.com/spell=198013) – способность которая открывает наше дерево навыков. Наносит хороший АоЕ урон с талантом [Всеобщая тоска](https://www.wowhead.com/ru/spell=390152/) и активирует [Метаморфозу](https://www.wowhead.com/ru/spell=187827) если взят талант [Демонизм](https://www.wowhead.com/ru/spell=213410/)
 
 ### Второй ряд
 
@@ -196,29 +240,12 @@ BEkAAAAAAAAAAAAAAAAAAAAAAgkkkkIlg0SSSkgWSAAAAAAA0SSgWakElgkkWSgEIB
 
     };
 
-    (function () {
-      var
-        nameKey = 'mytabs2',
-        mytabs = {},
-        mytabsStorage = {},
-        listTabs = document.querySelectorAll('.tabs');
+    var mytabs = $tabs('.tabs');
+    if (localStorage.getItem('mytabs')) {
+      mytabs.showTab(document.querySelector('[href="' + localStorage.getItem('mytabs') + '"]'));
+    }
 
-      for (var i = 0, length = listTabs.length; i < length; i++) {
-        if (listTabs[i].id) {
-          mytabs[listTabs[i].id] = $tabs(listTabs[i]);
-        }
-      }
-      if (localStorage.getItem(nameKey)) {
-        mytabsStorage = JSON.parse(localStorage.getItem(nameKey));
-        for (var key in mytabsStorage) {
-          if (mytabs.hasOwnProperty(key)) {
-            mytabs[key].showTab(document.querySelector('[href="' + mytabsStorage[key] + '"]'));
-          }
-        }
-      }
-      document.addEventListener('tab.show', function (e) {
-        mytabsStorage[e.detail.closest('.tabs').getAttribute('id')] = e.detail.querySelector('.tabs__link_active').getAttribute('href');
-        localStorage.setItem(nameKey, JSON.stringify(mytabsStorage));
-      })
-    })();   
-</script>	
+    document.addEventListener('tab.show', function (e) {
+      localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
+    })
+</script>

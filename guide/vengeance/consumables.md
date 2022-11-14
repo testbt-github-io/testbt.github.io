@@ -1,27 +1,20 @@
 ---
 layout: guide
 title: Расходники
-description: Гайд для Охотников на Демонов Месть 9.2 PvE Shadowlands
-last_update: 2022-06-24 09:00:00
-game_version: 9.2.0 Shadowlands 
+description: Гайд для Охотников на Демонов Месть 10.0 PvE Dragonflight
+last_update: 2022-11-03 09:00:00
+game_version: 10.0 Dragonflight
 author: Rodriguezz
 image:
     path: assets/img/blog/prev/spec_logo_VDH.png
 ---
 
 <div id="smooth-nav-outer">
-<a href="{{ site.url }}/guide/vengeance/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче 9.2</a>
+<a href="{{ site.url }}/guide/vengeance/changes-patch.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Изменения в патче</a>
 <a href="{{ site.url }}/guide/vengeance/overview.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg"> Обзор</a>
-<a href="{{ site.url }}/guide/vengeance/covenant.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/achievement_mythicdungeons_shadowlands.jpg"> Лучший ковенант</a>
 <a href="{{ site.url }}/guide/vengeance/gear.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_03.jpg"> Бис лист</a>
 <a href="{{ site.url }}/guide/vengeance/talent-builds.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_marksmanship.jpg"> Таланты и Билды</a>
-<a href="{{ site.url }}/guide/vengeance/legendaries-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/runesmith_icon.jpg"> Легендарные предметы</a>
 <a href="{{ site.url }}/guide/vengeance/Set-bonuses.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Сетовый набор</a>
-<a href="{{ site.url }}/guide/vengeance/conduits-shadowlands.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_rollthebones02.jpg"> Проводники (Кондуиты)</a>
-<a href="{{ site.url }}/guide/vengeance/night-fae.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_nightfae.jpg"> Ночной Народец</a>
-<a href="{{ site.url }}/guide/vengeance/necrolord.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_necrolord.jpg"> Некролорды</a>
-<a href="{{ site.url }}/guide/vengeance/venthyr.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_venthyr.jpg"> Вентиры</a>
-<a href="{{ site.url }}/guide/vengeance/kyrian.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/ui_sigil_kyrian.jpg"> Кирии</a>
 <a href="{{ site.url }}/guide/vengeance/rotation-priority.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/wow_token01.jpg"> Ротация</a>
 <a href="{{ site.url }}/guide/vengeance/stats.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_inscription_80_warscroll_intellect.jpg"> Характеристики</a>
 <a href="{{ site.url }}/guide/vengeance/consumables.html"><img src="https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg"><span style="color: white;"> Расходники</span></a>
@@ -31,41 +24,75 @@ image:
 </div>
 <br>
 
-## Лучшие зачарованние для Охотника на Демонов Месть
+## Лучшие зачарование на предметы для Охотника на Демонов Месть
 
-* Оружие: 2х{{ site.data.prof.Enchant_Weapon_Lightless_Force }}
-* Кольца: 2х{{ site.data.prof.Enchant_Ring_Tenet_of_Versatility }}
-* Сапоги: {{ site.data.prof.Enchant_Boots_Eternal_Agility }}
-* Нагрудник: {{ site.data.prof.Enchant_Chest_Eternal_Stats }}
-* Плащ: {{ site.data.prof.Enchant_Cloak_Fortified_Leech }}
+* Кольца: 2х [Посвящение искусности](https://www.wowhead.com/ru/spell=389294) - повышает искусность. / [Посвящение критического удара](https://www.wowhead.com/ru/spell=389292) - повышает шанс критического удара.
+* Сапоги: [Глина дозорного](https://www.wowhead.com/ru/spell=389484) - повышает выносливость.
+* Нагрудник: [Пробужденные характеристики](https://www.wowhead.com/ru/spell=389410/) - повышает основную характеристику. 
+* Плащ: [Завет избежания](https://www.wowhead.com/ru/spell=389397/) - повышает избегание.
+* Наручи: [Посвящение избегания](https://www.wowhead.com/ru/spell=389301) - повышает избегание.
 
-## Настой и  Зелья
+**Оружие:**
+**Рейд СТ**
 
-* Настой: {{ site.data.prof.Eternal_Flask }}
-* Зелья: [Зелье призрачной ловкости](https://ru.wowhead.com/item=171270)
-* Исцеление: [Зелье космического исцеления](https://ru.wowhead.com/spell=359870/)
+* 1х [Посвящение титанов](https://www.wowhead.com/ru/spell=389550) - повышает основную характеристику.
+* 1х [Земляной завет](https://www.wowhead.com/ru/spell=389540/) - повышает искусность.
+* 1х [Пылающий завет](https://www.wowhead.com/ru/spell=389537) - повышает критический удар.
 
-## Лучшая Камни
+**M+ АоЕ**
 
-* {{ site.data.prof.Deadly_Jewel_Cluster }} — +16 к вероятности критического удара
-* {{ site.data.prof.Quick_Jewel_Cluster }} — +16 к скорости
-* {{ site.data.prof.Versatile_Jewel_Cluster }} — +16 к универсальности
+* 1х [Посвящение титанов](https://www.wowhead.com/ru/spell=389550) - повышает основную характеристику.
+* 1х [Земляной завет](https://www.wowhead.com/ru/spell=389540/) - повышает искусность.
+
+
+Для максимально точного подбора зачарований на кольца лучше воспользоваться рейдботсом.
+
+## Настой и Зелья
+
+* Настой: 
+    * [Флакон ледового неистовства](https://www.wowhead.com/ru/item=191333/)  
+    * [Флакон стихийного хаоса](https://www.wowhead.com/ru/item=191359) ?
+    * [Замерзший флакон оскверняющей ярости](https://www.wowhead.com/ru/item=191329) ?
+* Зелья: [Зелье великой мощи стихий](https://www.wowhead.com/ru/item=191383)
+* Исцеление: [Освежающее лечебное зелье](https://www.wowhead.com/ru/item=191380/)
+
+* Зелье невидимости [Зелье утихшего ветра](https://www.wowhead.com/ru/item=191395)
+
+
+## Лучшие Камни
+
+* [Мастерский бесконечный алмаз](https://www.wowhead.com/ru/item=192988) - +20 к основной характеристике и +18 к искусности.
+* [Покрытый письменами бесконечный алмаз](https://www.wowhead.com/ru/item=192982/) - +20 к основной характеристике и +18 к вероятности критического удара.
+
+* [Растрескавшийся нелтарит](https://www.wowhead.com/ru/item=192967) - +36 к искусности.
+* [Смертоносный алекстразит](https://www.wowhead.com/ru/item=192928/) - +36 к вероятности критического удара.
+* [Алекстразит сенсея](https://www.wowhead.com/ru/item=192922) - +22 к вероятности критического удара и +14 к искусности.
+
+Воспользуйтесь рейдботсом чтоб узнать какая характеристика вам дает максимальную прибавку урона
 
 ## Лучшая Еда
 
-* {{ site.data.prof.Feast_of_Gluttonous_Hedonism }} —  повышает ловкость на 20.
-* {{ site.data.prof.Phantasmal_Souffle_and_Fries }} —  повышает вероятность критического  удара повышается на 30. 
-* {{ site.data.prof.Steak_a_la_Mode }} — повышает  универсальность повышается на 30. 
-* {{ site.data.prof.Tenebrous_Crown_Roast_Aspic }} — повышает скорость на 30.
+Пиры:
 
-## Масло и Заточки для оружие
+* [Большой калуакский банкет](https://www.wowhead.com/ru/item=197794) —  повышает наивысшую второстепенную характеристику на 220 на 60 мин.
 
-* Масло:{{ site.data.prof.Shadowcore_Oil }} — При применении к оружию атаки и заклинания в течение 60 мин. с высокой вероятностью наносят противникам 220 ед. дополнительного урона от темной магии. 
-* Точильный камень: {{ site.data.prof.Shaded_Sharpening_Stone }} — Вы точите клинковое оружие, в результате чего сила атаки повышается на 20 на 1 час.
+Персональная еда:
+
+* [Филе с клыками](https://www.wowhead.com/ru/item=197779) - повышает вероятность критического удара на 220 на 60 мин.
+* [Запеченный в соли рыбный пирог](https://www.wowhead.com/ru/item=197781) - повышает искусность на 220 на 60 мин.
+
+* [Азсунский вареный омар](https://www.wowhead.com/ru/item=200893) - повышает все характеристики на 10% на 10 мин.
+* [Деликатесная панна-котта с вороникой](https://www.wowhead.com/ru/item=200902) - повышает силу атаки на 15% на 10 мин.
+
+
+## Заточки для оружия
+
+* [Изначальный абразивный камень](https://www.wowhead.com/ru/item=191950) - повышает силу атаки на 162 на 60 мин.
+* [Жужжащая руна](https://www.wowhead.com/ru/item=194823/) - повышает вероятность критического удара на 75 на 60 мин.
 
 ## Накладки 
 
-* {{ site.data.prof.Heavy_Desolate_Armor_Kit }} — Укрепляет нагрудник, повышая прибавку к выносливости на 32 на 2 часа.
+* [Укрепленные накладки для брони](https://www.wowhead.com/ru/item=193567) - Укрепленные поножи дополнительно повышают силу и ловкость на 404.
 
-<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/covenant.html">Назад:<br>Ковенанты</a></div> 
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/vengeance/stats.html">Назад:<br>Характеристики</a></div> 
 <div class="minibox"><a href="{{ site.url }}/guide/vengeance/macros-addons.html">Далее:<br>Макросы и Аддоны</a></div>
