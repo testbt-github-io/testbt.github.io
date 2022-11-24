@@ -35,32 +35,35 @@ image:
 
 <div class="tabs">
 <div class="tabs__nav">
-<a class="tabs__link tabs__link_active" href="#content-2">СТ билд</a>
-<a class="tabs__link" href="#content-3">АоЕ билд</a>
-<a class="tabs__link" href="#content-1">AoE/Клив билд</a>
+<a class="tabs__link tabs__link_active" href="#content-1">СТ билд</a>
+<a class="tabs__link" href="#content-2">АоЕ билд</a>
+<a class="tabs__link" href="#content-3">AoE/Клив билд</a>
 </div>
 
 <div class="tabs__content">
-<div class="tabs__pane" id="content-1" >
 
+<div class="tabs__pane tabs__pane_show" id="content-1" >
 <div class="tabs_in" markdown="1">
 
-<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/dragonflight/Havoc_Essb_Demonic.jpg" style="outline: 2px solid #000;"> </p>
+  
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/dragonflight/havoc_ST.jpg" style="outline: 2px solid #000;"> </p>
 
 Строка для импорта
 
 <pre>
 <code class="language-less">
-BEkAAAAAAAAAAAAAAAAAAAAAAQCIhUCSLJRkQpEBAAAAAAQLJBRKkkUgQaRKSSSSSC
+BEkAAAAAAAAAAAAAAAAAAAAAAQSSIhUCSLJRSCQAAAAAAAUiEkWKRSChQaoIRkkkE
 </code>
 </pre>
 
+**Ветка специализации**
+
+При необходимости можно перекинуть очко талантов с [Непреклонный натиск](https://www.wowhead.com/ru/spell=389977/) в [Путь Пустоты](https://www.wowhead.com/ru/spell=196555) если того будет требовать механика боя.
 
 </div>
 </div>
 
-<div class="tabs__pane" id="content-3" >
-
+<div class="tabs__pane" id="content-2" >
 <div class="tabs_in" markdown="1">
 
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/dragonflight/havoc_AoE_Essb_Mastery.jpg" style="outline: 2px solid #000;"> </p>
@@ -73,23 +76,47 @@ BEkAAAAAAAAAAAAAAAAAAAAAAgkkkkIlg0SSEJUKRAAAAAAAUSSQkCJRJIJplEIBSA
 </code>
 </pre>
 
+**Классовая ветка**
+
+В классовой ветке талантов есть таланты которые вы можете поменять под ваш стиль игры:
+
+Вы можете изменить талант [Освобожденная сила](https://www.wowhead.com/ru/spell=206477/) на [Фрагменты Хаоса](https://www.wowhead.com/ru/spell=320412) чтоб получить дополнительные [Малый фрагмент души](https://www.wowhead.com/ru/spell=215393) и гнев благодаря таланту [Демонический аппетит](https://wowhead.com/ru/spell=206478/).
+
+Так же вы можете поменять способ использования [Печать страдания](https://www.wowhead.com/ru/spell=207684) - с талантом [Средоточие печатей](https://www.wowhead.com/ru/spell=207666) печать будет применяться под вашим персонажем, а [Точными печатями](https://www.wowhead.com/ru/spell=389799) печать будет применяться под целью которая нахадиться в вашем таргете. Так же вы можете обойти эти таланты через [Затерянные во тьме](https://www.wowhead.com/ru/spell=389849/) если хотите свободно применять [Печать страдания](https://www.wowhead.com/ru/spell=207684).
+
+Билд с высоким АоЕ уроном и сильным бурстом, благодаря коротким КД у нас есть возможность наносить много урона в каждом запуле.
+
 </div>
 </div>
 
-<div class="tabs__pane tabs__pane_show" id="content-2">
-   
+<div class="tabs__pane" id="content-3">
 <div class="tabs_in"  markdown="1">
- 
- бид
+  
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/dragonflight/Havoc_Essb_Demonic.jpg" style="outline: 2px solid #000;"> </p>
+
+Строка для импорта
+
+<pre>
+<code class="language-less">
+BEkAAAAAAAAAAAAAAAAAAAAAAQCIhUCSLJRkQpEBAAAAAAQLJBRKkkUgQaRKSSSSSC
+</code>
+</pre>
+
+**Классовая ветка**
+
+В классовой ветке талантов есть таланты которые вы можете поменять под ваш стиль игры:
+
+Вы можете изменить талант [Освобожденная сила](https://www.wowhead.com/ru/spell=206477/) на [Фрагменты Хаоса](https://www.wowhead.com/ru/spell=320412) чтоб получить дополнительные [Малый фрагмент души](https://www.wowhead.com/ru/spell=215393).
+
+Так же вы можете поменять способ использования [Печать страдания](https://www.wowhead.com/ru/spell=207684) - с талантом [Средоточие печатей](https://www.wowhead.com/ru/spell=207666) печать будет применяться под вашим персонажем, а [Точными печатями](https://www.wowhead.com/ru/spell=389799) печать будет применяться под целью которая нахадиться в вашем таргете. Так же вы можете обойти эти таланты через [Затерянные во тьме](https://www.wowhead.com/ru/spell=389849/) если хотите свободно применять [Печать страдания](https://www.wowhead.com/ru/spell=207684).
+
+Билд подойдет для Клив боев и данжей без больших запулов, короткие КД обеспечат высокий урон, а центральная ветка талантов усилит наш СТ урон, что поможет в убийстве противников с большим количеством ХП.
 
 </div>
 </div>
       
 </div>
 </div>
-
-
-### АоЕ/Клив Билды
   
 ## Обзор талантов
 

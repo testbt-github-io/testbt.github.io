@@ -2,7 +2,7 @@
 layout: guide
 title: Таланты и Билды
 description: Лучшие Таланты и Билды для Охотников на Демонов Месть 10.0 PvE Dragonflight
-last_update: 2022-10-30 09:00:00
+last_update: 2022-11-23 09:00:00
 game_version: 10.0 Dragonflight
 author: Rodriguezz
 image:
@@ -28,44 +28,53 @@ image:
 
 ## Лучший набор талантов для Охотника на Демонов Месть
 
-**Это стандартные билды, который подойдет для новичков, чтоб познакомится с классом. Оптимальные билд будет зависеть от босса/подземелья/аффиксов/предпочтений игрока/состава группы и тд.**
-
-<div class="tabs__content">
-<div class="tabs_in"  markdown="1">
-талы
-</div></div><br>
-
 <div class="tabs">
 <div class="tabs__nav">
-<a class="tabs__link tabs__link_active" href="#content-2">ДПС Билд</a>
-<a class="tabs__link" href="#content-3">Откат печатей</a>
-<a class="tabs__link" href="#content-1">Клеймобилд</a>
+<a class="tabs__link tabs__link_active" href="#content-1">ДПС Билд</a>
+<a class="tabs__link" href="#content-2">АоЕ Билд</a>
+<a class="tabs__link" href="#content-3">Клеймобилд</a>
 </div>
 
 <div class="tabs__content">
-<div class="tabs__pane" id="content-1" >
+<div class="tabs__pane tabs__pane_show" id="content-1" >
 
 <div class="tabs_in" markdown="1">
 
-билд
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/vengeance/dragonflight/VDH_ST_Kleimo.jpg" style="outline: 2px solid #000;"> </p>
+
+Строка для импорта
+
+<pre>
+<code class="language-less">
+BUkAAAAAAAAAAAAAAAAAAAAAAAAgAlkERQDRCQSJBJRTkkEJIRLJSSSSkSIBAAAAA
+</code>
+</pre>
 
 </div>
 </div>
 
-<div class="tabs__pane" id="content-3" >
+<div class="tabs__pane" id="content-2" >
 
 <div class="tabs_in" markdown="1">
 
-билд
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/vengeance/dragonflight/VDH_SP.jpg" style="outline: 2px solid #000;"> </p>
+
+Строка для импорта
+
+<pre>
+<code class="language-less">
+BUkAAAAAAAAAAAAAAAAAAAAAAAAQJQJJRSSARCAFgEtkEJJJSSSLJiESkSIBAAAAA
+</code>
+</pre>
 
 </div>
 </div>
 
-<div class="tabs__pane tabs__pane_show" id="content-2">
+<div class="tabs__pane" id="content-3">
    
 <div class="tabs_in"  markdown="1">
  
- бид
+ бид 3
 
 </div>
 </div>
@@ -74,6 +83,22 @@ image:
 </div>
 
 <br> 
+
+### Почему Подпитка для пламени, а не Элизийский декрет
+
+Если кратко то [Подпитка для пламени](https://www.wowhead.com/ru/spell=391429) из-за баффа. Не обращайте внимания на детали, они вводят в заблуждение.
+
+Если вам срочно не нужно исцеление, не бросайте Глефу в демона, это не стоит ГКД. Он сам довольно быстро умрет от клива к тому же он не наносит вам урон.
+
+[Элизийский декрет](https://www.wowhead.com/ru/spell=390163/) и [Подпитка для пламени](https://www.wowhead.com/ru/spell=391429) наносят первоначальный урон; 
+[Элизийский декрет](https://www.wowhead.com/ru/spell=390163/) при использовании способности, [Подпитка для пламени](https://www.wowhead.com/ru/spell=391429) наносит урон, когда демон взрывается. [Подпитка для пламени](https://www.wowhead.com/ru/spell=391429) может проигрывать в цифрах но:
+
+- [Подпитка для пламени](https://www.wowhead.com/ru/spell=391429) также исцеляет на 25% от максимального запаса здоровья, поэтому он по своей сути имеет защитную ценность, помимо увеличения самоисцеления, в то время как [Элизийский декрет](https://www.wowhead.com/ru/spell=390163/) не имеет никакой защитной ценности, кроме генерации 3 душ которые проигрывают 1 душе демона.
+- убийство демона, порождает фрагмент души демона. Когда вы поглощаете его (как и любой другой фрагмент), вы получаете +20% урона на 15 секунд. Тем самым в течении 15 секунд все ваши способности наносят на 20% больше урона.
+- есть дополнительная защитная ценность, потому что чем больше урона от вы наносите, тем сильнее исцеляетесь!
+
+Хоть может показаться, что [Элизийский декрет](https://www.wowhead.com/ru/spell=390163/) дает больше прибавку, но это не так. Вы можете получить быстрый прирост урона в АоЕ, но если рассматривать нанесенный урон за весь бой либо ключ, [Подпитка для пламени](https://www.wowhead.com/ru/spell=391429) окажется лучше.
+
 
 ## Обзор талантов
 

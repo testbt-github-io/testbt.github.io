@@ -41,8 +41,67 @@ image:
 <li> Универсальность: Универсальная характеристика, увеличивает наносимый урон и уменьшает получаемый. </li>
 </ul>
 
-<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/sim.gif"> </p>
+### Эффективность роста вторичных характеристик
 
+* От 0% до 30% – не ослабевает
+* От 30% до 39% – растет на 10% медленнее
+* От 39% до 47% – растет на 20% медленнее
+* От 47% до 54% – растет на 30% медленнее
+* От 54% до 66% – растет на 40% медленнее
+* От 66% до 126% – растет на 50% медленнее
+* Более 126% – достигнуть нельзя
+
+### СТ ↓ 
+
+<div class="tabs__content">
+<div class="tabs_in" markdown="1">
+
+[Врага нужно знать в лицо](https://www.wowhead.com/ru/spell=388118) дает сильную прибавку в уроне и крит получает повышенный приоритет, искусность в даном билде уходит на второй план.
+
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" style="outline: 2px solid #000; width: 30px">  **Ловкость >**
+<img src="{{ site.url }}/assets/img/guide/havoc/crit.png" style="outline: 2px solid #000; width: 30px">  **Крит >**
+<img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" style="outline: 2px solid #000; width: 30px"> **Искусность >**
+<img src="{{ site.url }}/assets/img/guide/havoc/speed.png" style="outline: 2px solid #000; width: 30px"> **Скорость >=**
+<img src="{{ site.url }}/assets/img/guide/havoc/vers.png" style="outline: 2px solid #000; width: 30px">  **Универсальность**
+
+</div>
+</div>
+
+### АоЕ ↓ 
+
+<div class="tabs__content">
+<div class="tabs_in" markdown="1">
+
+Благодаря талантам [Врага нужно знать в лицо](https://www.wowhead.com/ru/spell=388118) и [Любыми средствами](https://www.wowhead.com/ru/spell=388114/) искусность и крит стают чрезвычайно сильным характеристиками и стают приоритетными для набора.
+
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" style="outline: 2px solid #000; width: 30px">  **Ловкость >**
+<img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" style="outline: 2px solid #000; width: 30px"> **Искусность = >**
+<img src="{{ site.url }}/assets/img/guide/havoc/crit.png" style="outline: 2px solid #000; width: 30px">  **Крит >**
+<img src="{{ site.url }}/assets/img/guide/havoc/speed.png" style="outline: 2px solid #000; width: 30px"> **Скорость >=**
+<img src="{{ site.url }}/assets/img/guide/havoc/vers.png" style="outline: 2px solid #000; width: 30px">  **Универсальность**
+
+</div>
+</div>
+
+### Клив/АоЕ ↓ 
+
+<div class="tabs__content">
+<div class="tabs_in" markdown="1">
+
+[Врага нужно знать в лицо](https://www.wowhead.com/ru/spell=388118) дает сильную прибавку в уроне и крит получает повышенный приоритет, искусность в даном билде уходит на второй план.
+
+<img src="{{ site.url }}/assets/img/guide/havoc/agil.png" style="outline: 2px solid #000; width: 30px">  **Ловкость >**
+<img src="{{ site.url }}/assets/img/guide/havoc/crit.png" style="outline: 2px solid #000; width: 30px">  **Крит >**
+<img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" style="outline: 2px solid #000; width: 30px"> **Искусность >**
+<img src="{{ site.url }}/assets/img/guide/havoc/speed.png" style="outline: 2px solid #000; width: 30px"> **Скорость >=**
+<img src="{{ site.url }}/assets/img/guide/havoc/vers.png" style="outline: 2px solid #000; width: 30px">  **Универсальность**
+
+</div>
+</div>
+
+<br>
+
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/sim.gif"> </p>
 
 #### Для каждого персонажа приоритет характеристик индивидуальный, всегда используйте <a href="https://www.raidbots.com/simbot">RaidBots</a> чтобы использовать актуальную для вас экипировку.
 
@@ -52,3 +111,75 @@ image:
 <div class="minibox"><a href="{{ site.url }}/guide/havoc/consumables.html">Далее:<br>Расходники</a></div>
 
 <br>
+
+<script>
+    var $tabs = function (target) {
+      var
+        _elemTabs = (typeof target === 'string' ? document.querySelector(target) : target),
+        _eventTabsShow,
+        _showTab = function (tabsLinkTarget) {
+          var tabsPaneTarget, tabsLinkActive, tabsPaneShow;
+          tabsPaneTarget = document.querySelector(tabsLinkTarget.getAttribute('href'));
+          tabsLinkActive = tabsLinkTarget.parentElement.querySelector('.tabs__link_active');
+          tabsPaneShow = tabsPaneTarget.parentElement.querySelector('.tabs__pane_show');
+          // если следующая вкладка равна активной, то завершаем работу
+          if (tabsLinkTarget === tabsLinkActive) {
+            return;
+          }
+          // удаляем классы у текущих активных элементов
+          if (tabsLinkActive !== null) {
+            tabsLinkActive.classList.remove('tabs__link_active');
+          }
+          if (tabsPaneShow !== null) {
+            tabsPaneShow.classList.remove('tabs__pane_show');
+          }
+          // добавляем классы к элементам (в завимости от выбранной вкладки)
+          tabsLinkTarget.classList.add('tabs__link_active');
+          tabsPaneTarget.classList.add('tabs__pane_show');
+          document.dispatchEvent(_eventTabsShow);
+        },
+        _switchTabTo = function (tabsLinkIndex) {
+          var tabsLinks = _elemTabs.querySelectorAll('.tabs__link');
+          if (tabsLinks.length > 0) {
+            if (tabsLinkIndex > tabsLinks.length) {
+              tabsLinkIndex = tabsLinks.length;
+            } else if (tabsLinkIndex < 1) {
+              tabsLinkIndex = 1;
+            }
+            _showTab(tabsLinks[tabsLinkIndex - 1]);
+          }
+        };
+
+      _eventTabsShow = new CustomEvent('tab.show', { detail: _elemTabs });
+
+      _elemTabs.addEventListener('click', function (e) {
+        var tabsLinkTarget = e.target;
+        // завершаем выполнение функции, если кликнули не по ссылке
+        if (!tabsLinkTarget.classList.contains('tabs__link')) {
+          return;
+        }
+        // отменяем стандартное действие
+        e.preventDefault();
+        _showTab(tabsLinkTarget);
+      });
+
+      return {
+        showTab: function (target) {
+          _showTab(target);
+        },
+        switchTabTo: function (index) {
+          _switchTabTo(index);
+        }
+      }
+
+    };
+
+    var mytabs = $tabs('.tabs');
+    if (localStorage.getItem('mytabs')) {
+      mytabs.showTab(document.querySelector('[href="' + localStorage.getItem('mytabs') + '"]'));
+    }
+
+    document.addEventListener('tab.show', function (e) {
+      localStorage.setItem('mytabs', e.detail.querySelector('.tabs__link_active').getAttribute('href'));
+    })
+</script>

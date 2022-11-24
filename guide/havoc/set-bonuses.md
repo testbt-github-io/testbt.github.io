@@ -31,7 +31,7 @@ image:
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/dragonflight/1079717.jpg" style="outline: 2px solid #000;"> </p>
 
 <div class="video-container">
-<iframe src="https://www.wowhead.com/video-stream/240748-df-dh-s1-mythic" height="315" width="560" allowfullscreen="" frameborder="0">
+<iframe src="https://nether.wowhead.com/video-stream/240748-df-dh-s1-mythic?dataEnv=1&locale=0" height="315" width="560" allowfullscreen="" frameborder="0">
 </iframe>
 </div> 
 
