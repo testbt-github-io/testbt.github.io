@@ -51,29 +51,27 @@ image:
 |Сапоги|[Мокасины из медвежьей кожи](https://www.wowhead.com/ru/item=134193/?bonus=1826:1472&class=12&ilvl=415&spec=577)|[Король-бог Сковальд](https://www.wowhead.com/ru/npc=95675)|
 |Кольцо 1|[Печать сыновнего долга](https://www.wowhead.com/ru/item=195526/)|[Broodkeeper Diurna](https://www.wowhead.com/ru/npc=190245/)|
 |Кольцо 2|[Украшенная самоцветами печатка Меландра](https://www.wowhead.com/ru/item=134542/?bonus=6652:7936:7979:1472:8767&ilvl=415&spec=577)|[Советник Меландр](https://www.wowhead.com/ru/npc=101831)|
-|Аксессуар 1|[Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432/)|[Стражница Предвечных](https://ru.wowhead.com/npc=175731/)|
-|Аксессуар 2|[Тайник с присвоенными сокровищами](https://ru.wowhead.com/item=188265/)|[Изобретатель Зи'мокс](https://ru.wowhead.com/npc=183501/)|
-|Основная рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)|[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523/)|
-|Левая рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)|[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523/)|
+|Аксессуар 1|[Одержимый светоч горя](https://www.wowhead.com/ru/item=194308)|[Broodkeeper Diurna](https://ru.wowhead.com/npc=190245/)|
+|Аксессуар 2|[Знак воплощения шепота](https://www.wowhead.com/ru/item=194301)|[Kadros Icewrath](https://www.wowhead.com/ru/npc=187771)|
+|Основная рука|[Кулак великого призывателя](https://www.wowhead.com/ru/item=195512)|[Kurog Grimtotem](https://www.wowhead.com/ru/npc=184986)|
+|Левая рука|[Насыщенные глефы бури](https://www.wowhead.com/ru/item=195491)|[Dathea, Ascended](https://www.wowhead.com/ru/npc=189813)|
 
 </div>
 <br>
 
 ## Сетовые бонусыы
 
-* 2 предмета: [Смертельный танец](https://ru.wowhead.com/spell=364438) - Увеличивает урон [Смертоносного взмаха](https://ru.wowhead.com/spell=210152) / [Танца клинков](https://ru.wowhead.com/spell=188499) и [Аннигиляции](https://ru.wowhead.com/spell=201427) / [Удара Хаоса](https://ru.wowhead.com/spell=162794) на 20%.
-* 4 предмета: [Смертельный танец](https://ru.wowhead.com/spell=363736) - Время действия [Метаморфозы](https://ru.wowhead.com/spell=191427) увеличено на 6 сек. Каждые 60 ед. израсходованного Гнева сокращают время восстановления [Метаморфозы](https://ru.wowhead.com/spell=191427) на 1 сек.
+* 2 предмета: шанс критического удара [Удар Хаоса](https://ru.wowhead.com/spell=162794/)/[Аннигиляция](https://ru.wowhead.com/spell=201427) и [Танец клинков](https://ru.wowhead.com/spell=188499)/[Смертоносный взмах](https://www.wowhead.com/spell=210152) увеличен на 5%, а их критический урон увеличен на 10%.
+* 4 предмета: [Удар Хаоса](https://ru.wowhead.com/spell=162794/)/[Аннигиляция](https://ru.wowhead.com/spell=201427) и [Танец клинков](https://ru.wowhead.com/spell=188499)/[Смертоносный взмах](https://www.wowhead.com/spell=210152) с вероятностью 20% увеличивают наносимый вами урон на 8% на 6 секунд. Ваши критические удары увеличивают этот шанс.
 
 
 Сетовый набор состоит из пяти предметов снаряжения:
 
-* <span class="q4">[Капюшон изменчивого карателя](https://ru.wowhead.com/item=188892/)</span> (**Голова** [**Андуин Ринн**](https://ru.wowhead.com/npc=181954/))
-* <span class="q4">[Наплечники изменчивого карателя](https://ru.wowhead.com/item=188896/)</span> (**Плечи** [**Мал'Ганис**](https://ru.wowhead.com/npc=181398/))
-* <span class="q4">[Жакет изменчивого карателя ](https://ru.wowhead.com/item=188894/)</span> (**Грудь** [**Ригелон**](https://ru.wowhead.com/npc=182777/))
-* <span class="q4">[Захваты изменчивого карателя](https://ru.wowhead.com/item=188898/)</span> (**Перчатки** [**Лихувим**](https://ru.wowhead.com/npc=182169/))
-* <span class="q4">[Штаны изменчивого карателя](https://ru.wowhead.com/item=188893/)</span> (**Ноги** [**Галондрий**](https://ru.wowhead.com/npc=184915/))
-
-Чтобы разблокировать бонусы сета, Охотнику на Демонов Истребления рекомендуется экипировать голову, плечи, грудь и ноги. Однако вы можете использовать любые 4 комбинации из пяти предметов, стремясь достичь наивысшего уровня предметов.
+* <span class="q4">[Шлем небесного мстителя](https://www.wowhead.com/ru/item=200345)</span> (**Голова** [**Colossal Stormfiend**](https://www.wowhead.com/ru/npc=197145/))
+* <span class="q4">[Элероны небесного мстителя](https://www.wowhead.com/ru/item=200347)</span> (**Плечи** [**Broodkeeper Diurna**](hhttps://www.wowhead.com/ru/npc=190245))
+* <span class="q4">[Портупея небесного мстителя](https://www.wowhead.com/ru/item=200342)</span> (**Грудь** [**Kurog Grimtotem**](https://www.wowhead.com/ru/npc=184986/))
+* <span class="q4">[Захваты небесного мстителя](https://www.wowhead.com/ru/item=200344)</span> (**Перчатки** [**Dathea, Ascended**](https://www.wowhead.com/ru/npc=189813))
+* <span class="q4">[Набедренники небесного мстителя](https://www.wowhead.com/ru/item=200346/)</span> (**Ноги** [**Caustic Spiderling**](https://www.wowhead.com/ru/npc=189233/))
 
 Для получения дополнительной информации о сет бонусах для Охотников на Демонов Истребления можете  перейти по ссылке ниже: 
 
