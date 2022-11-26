@@ -60,8 +60,8 @@ image:
 
 <img src="{{ site.url }}/assets/img/guide/havoc/agil.png" style="outline: 2px solid #000; width: 30px">  **Ловкость >**
 <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" style="outline: 2px solid #000; width: 30px">  **Крит >**
+<img src="{{ site.url }}/assets/img/guide/havoc/speed.png" style="outline: 2px solid #000; width: 30px"> **Скорость >**
 <img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" style="outline: 2px solid #000; width: 30px"> **Искусность >**
-<img src="{{ site.url }}/assets/img/guide/havoc/speed.png" style="outline: 2px solid #000; width: 30px"> **Скорость >=**
 <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" style="outline: 2px solid #000; width: 30px">  **Универсальность**
 
 </div>
@@ -75,8 +75,8 @@ image:
 Благодаря талантам [Врага нужно знать в лицо](https://www.wowhead.com/ru/spell=388118) и [Любыми средствами](https://www.wowhead.com/ru/spell=388114/) искусность и крит стают чрезвычайно сильным характеристиками и стают приоритетными для набора.
 
 <img src="{{ site.url }}/assets/img/guide/havoc/agil.png" style="outline: 2px solid #000; width: 30px">  **Ловкость >**
-<img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" style="outline: 2px solid #000; width: 30px"> **Искусность = >**
 <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" style="outline: 2px solid #000; width: 30px">  **Крит >**
+<img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" style="outline: 2px solid #000; width: 30px"> **Искусность >**
 <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" style="outline: 2px solid #000; width: 30px"> **Скорость >=**
 <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" style="outline: 2px solid #000; width: 30px">  **Универсальность**
 
@@ -92,8 +92,8 @@ image:
 
 <img src="{{ site.url }}/assets/img/guide/havoc/agil.png" style="outline: 2px solid #000; width: 30px">  **Ловкость >**
 <img src="{{ site.url }}/assets/img/guide/havoc/crit.png" style="outline: 2px solid #000; width: 30px">  **Крит >**
-<img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" style="outline: 2px solid #000; width: 30px"> **Искусность >**
 <img src="{{ site.url }}/assets/img/guide/havoc/speed.png" style="outline: 2px solid #000; width: 30px"> **Скорость >=**
+<img src="{{ site.url }}/assets/img/guide/havoc/mastry.png" style="outline: 2px solid #000; width: 30px"> **Искусность >=**
 <img src="{{ site.url }}/assets/img/guide/havoc/vers.png" style="outline: 2px solid #000; width: 30px">  **Универсальность**
 
 </div>

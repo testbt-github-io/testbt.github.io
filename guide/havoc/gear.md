@@ -39,18 +39,18 @@ image:
 <div class="table-box" markdown="1">
 
 |Слот|Название|Добывается|
-|Голова|[Капюшон изменчивого карателя](https://ru.wowhead.com/item=188892/) крафт из [Зловещая маска садиста](https://ru.wowhead.com/item=182980/)|[Сир Денатрий](https://ru.wowhead.com/npc=168938/)|
-|Шея|[Межпланарный краеугольный камень](https://ru.wowhead.com/item=186379/)|[Кел'Тузад](https://ru.wowhead.com/npc=175559/)|
-|Плечо|[Наплечники изменчивого карателя](https://ru.wowhead.com/item=188896/)|[Властители Ужаса](https://ru.wowhead.com/npc=181398/)|
-|Плащ|[Гордый плащ каменного генерала](https://ru.wowhead.com/item=183032/)|[Генералы Каменного легиона](https://ru.wowhead.com/npc=165318)|
-|Грудь|[Жакет изменчивого карателя](https://ru.wowhead.com/item=188894/)|[Ригелон](https://ru.wowhead.com/npc=182777/)|
-|Запястье|[Затертые песком наручи пожирателя](https://ru.wowhead.com/item=189812/)|[Сколекс](https://ru.wowhead.com/npc=183937/)|
-|Руки|[Захваты похищенной судьбы](https://ru.wowhead.com/item=189843/)|[Властители Ужаса](https://ru.wowhead.com/npc=181398)|
-|Пояс|[Перевязь Ветрокрылой](https://ru.wowhead.com/item=186332/)|[Сильвана Ветрокрылая](https://ru.wowhead.com/npc=175732/)|
-|Ноги|[Штаны изменчивого карателя](https://ru.wowhead.com/item=188893/) крафт из [Брюки элитного аранакка](https://ru.wowhead.com/item=186331/)|[Кел'Тузад](https://ru.wowhead.com/npc=175559/)|
-|Сапоги|[Сапоги изменчивого карателя](https://ru.wowhead.com/item=188899/) крафт из [Ботфорты неуемного любопытства](https://ru.wowhead.com/item=189848/)|[Ригелон](https://ru.wowhead.com/npc=182777)|
-|Кольцо 1|[Бинарное кольцо разгона](https://ru.wowhead.com/item=169159/)|[Главный машинист Искроточец](https://ru.wowhead.com/npc=144248/)|
-|Кольцо 2|[Кольцо логического цикла разделения](https://ru.wowhead.com/item=169157/)|[Воздушный подавитель ОУ-8](https://ru.wowhead.com/npc=155157/)|
+|Голова|[Шлем небесного мстителя](https://www.wowhead.com/ru/item=200345)|[]()|
+|Шея|[Аркан стихий](https://www.wowhead.com/ru/item=193001)|Ювелирное дело|
+|Плечо|[Элероны небесного мстителя](https://www.wowhead.com/ru/item=200347/)|[]()|
+|Плащ|[Плащ угасшей верности](https://www.wowhead.com/ru/item=193629)|[Azureblade](https://www.wowhead.com/ru/npc=186739)|
+|Грудь|[Портупея небесного мстителя](https://www.wowhead.com/ru/item=200342)|[]()|
+|Запястье|[Наручи преданного мастера огня](https://www.wowhead.com/ru/item=195525)|[Broodkeeper Diurna](https://www.wowhead.com/ru/npc=190245)|
+|Руки|[Обмотки коварного тотема](https://www.wowhead.com/ru/item=195514)|[Kurog Grimtotem](https://www.wowhead.com/ru/npc=184986/)|
+|Пояс|[Зачарованный жизнью пояс](https://www.wowhead.com/ru/item=193407/?bonus=8836:8840:8902:8801:8932:8960:8790&class=12&crafted-stats=49:32&ilvl=418&spec=577)|Кожевничество|
+|Ноги|[Набедренники небесного мстителя](https://www.wowhead.com/ru/item=200346)|[]()|
+|Сапоги|[Мокасины из медвежьей кожи](https://www.wowhead.com/ru/item=134193/?bonus=1826:1472&class=12&ilvl=415&spec=577)|[Король-бог Сковальд](https://www.wowhead.com/ru/npc=95675)|
+|Кольцо 1|[Печать сыновнего долга](https://www.wowhead.com/ru/item=195526/)|[Broodkeeper Diurna](https://www.wowhead.com/ru/npc=190245/)|
+|Кольцо 2|[Украшенная самоцветами печатка Меландра](https://www.wowhead.com/ru/item=134542/?bonus=6652:7936:7979:1472:8767&ilvl=415&spec=577)|[Советник Меландр](https://www.wowhead.com/ru/npc=101831)|
 |Аксессуар 1|[Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432/)|[Стражница Предвечных](https://ru.wowhead.com/npc=175731/)|
 |Аксессуар 2|[Тайник с присвоенными сокровищами](https://ru.wowhead.com/item=188265/)|[Изобретатель Зи'мокс](https://ru.wowhead.com/npc=183501/)|
 |Основная рука|[Крестовой вспарыватель вен](https://ru.wowhead.com/item=186388)|[Кузнец боли Разнал](https://ru.wowhead.com/npc=176523/)|
