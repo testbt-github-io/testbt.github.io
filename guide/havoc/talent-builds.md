@@ -36,8 +36,9 @@ image:
 <div class="tabs">
 <div class="tabs__nav">
 <a class="tabs__link tabs__link_active" href="#content-1">СТ билд</a>
-<a class="tabs__link" href="#content-2">АоЕ билд</a>
-<a class="tabs__link" href="#content-3">AoE/Клив билд</a>
+<a class="tabs__link" href="#content-2">СТ Импульс билд</a>
+<a class="tabs__link" href="#content-3">АоЕ билд</a>
+<a class="tabs__link" href="#content-4">AoE/Клив билд</a>
 </div>
 
 <div class="tabs__content">
@@ -66,6 +67,24 @@ BEkAAAAAAAAAAAAAAAAAAAAAAQSSIhUCSLJRSCQAAAAAAAUiEkWKRSChQaoIRkkkE
 <div class="tabs__pane" id="content-2" >
 <div class="tabs_in" markdown="1">
 
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/dragonflight/havoc_ST_momentum.jpg" style="outline: 2px solid #000;"> </p>
+ 
+Строка для импорта
+
+<pre>
+<code class="language-less">
+BEkAAAAAAAAAAAAAAAAAAAAAAQCIhUCSLJRSCQAAAAAAAUiEkWKRSSBCplESSkkkE
+</code>
+</pre>
+
+Билд с самым высоким ДПС по симкрафту.
+
+</div>
+</div>
+
+<div class="tabs__pane" id="content-3" >
+<div class="tabs_in" markdown="1">
+
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/dragonflight/havoc_AoE_Essb_Mastery.jpg" style="outline: 2px solid #000;"> </p>
  
 Строка для импорта
@@ -89,7 +108,7 @@ BEkAAAAAAAAAAAAAAAAAAAAAAgkkkkIlg0SSEJUKRAAAAAAAUSSQkCJRJIJplEIBSA
 </div>
 </div>
 
-<div class="tabs__pane" id="content-3">
+<div class="tabs__pane" id="content-4">
 <div class="tabs_in"  markdown="1">
   
 <p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/dragonflight/Havoc_Essb_Demonic.jpg" style="outline: 2px solid #000;"> </p>

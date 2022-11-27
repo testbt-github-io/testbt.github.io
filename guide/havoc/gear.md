@@ -68,7 +68,7 @@ image:
 Сетовый набор состоит из пяти предметов снаряжения:
 
 * <span class="q4">[Шлем небесного мстителя](https://www.wowhead.com/ru/item=200345)</span> (**Голова** [**Colossal Stormfiend**](https://www.wowhead.com/ru/npc=197145/))
-* <span class="q4">[Элероны небесного мстителя](https://www.wowhead.com/ru/item=200347)</span> (**Плечи** [**Broodkeeper Diurna**](hhttps://www.wowhead.com/ru/npc=190245))
+* <span class="q4">[Элероны небесного мстителя](https://www.wowhead.com/ru/item=200347)</span> (**Плечи** [**Broodkeeper Diurna**](https://www.wowhead.com/ru/npc=190245))
 * <span class="q4">[Портупея небесного мстителя](https://www.wowhead.com/ru/item=200342)</span> (**Грудь** [**Kurog Grimtotem**](https://www.wowhead.com/ru/npc=184986/))
 * <span class="q4">[Захваты небесного мстителя](https://www.wowhead.com/ru/item=200344)</span> (**Перчатки** [**Dathea, Ascended**](https://www.wowhead.com/ru/npc=189813))
 * <span class="q4">[Набедренники небесного мстителя](https://www.wowhead.com/ru/item=200346/)</span> (**Ноги** [**Caustic Spiderling**](https://www.wowhead.com/ru/npc=189233/))
@@ -84,8 +84,12 @@ image:
 
 ## Аксессуар
 
-* [Трофейный катализатор синтеза](https://ru.wowhead.com/item=186432) - наносит много урона и имеет небольшое КД.
-* [Тайник с присвоенными сокровищами](https://ru.wowhead.com/item=188265/) - если на боссе нет мест где нужно придерживать использование трыни то она будет отличным выбором вместо тотема, очень сильная для м+.
+* [Одержимый светоч горя](https://www.wowhead.com/ru/item=194308) - наносит много урона и имеет небольшое КД.
+* [Знак воплощения шепота](https://www.wowhead.com/ru/item=194301)
+* [Благословение Пожирательницы Бурь](https://www.wowhead.com/ru/item=194302/)
+* [Алгет'арская шкатулка с секретом](https://www.wowhead.com/ru/item=193701)
+* [Голод стаи](https://www.wowhead.com/ru/item=136975)
+* [Рог доблести](https://www.wowhead.com/ru/item=133642)
 
 ## Уровни предметов эпохальных+ подземелий и рейда в 1 сезоне Dragonflight
 

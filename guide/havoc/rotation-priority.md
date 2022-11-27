@@ -38,22 +38,22 @@ image:
 <div class="tabs__content">
 <div class="tabs_in" markdown="1">
 
-* В начала боя [Обжигающий жар](https://www.wowhead.com/ru/spell=258920)
-* [Рывок Скверны](https://www.wowhead.com/ru/spell=195072)
-* [Клинок Скверны](https://www.wowhead.com/ru/spell=213243/)
-* [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013)
-* [Охота](https://www.wowhead.com/ru/spell=370965)
-* [Буря клинков](https://www.wowhead.com/ru/spell=342817)
-* [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
-* [Коварное отступление](https://www.wowhead.com/ru/spell=198793)
-* [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152)
-* [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
-* [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
-* [Метаморфоза](https://www.wowhead.com/ru/spell=191427)
-* [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152)
-* [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
-* [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013)
-* [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
+1. В начала боя [Обжигающий жар](https://www.wowhead.com/ru/spell=258920)
+1. [Рывок Скверны](https://www.wowhead.com/ru/spell=195072)
+1. [Клинок Скверны](https://www.wowhead.com/ru/spell=213243/)
+1. [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013)
+1. [Охота](https://www.wowhead.com/ru/spell=370965)
+1. [Буря клинков](https://www.wowhead.com/ru/spell=342817)
+1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
+1. [Коварное отступление](https://www.wowhead.com/ru/spell=198793)
+1. [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152)
+1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
+1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
+1. [Метаморфоза](https://www.wowhead.com/ru/spell=191427)
+1. [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152)
+1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
+1. [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013)
+1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
 
 </div>
 </div>
@@ -64,44 +64,51 @@ image:
 <div class="tabs__content">
 <div class="tabs_in" markdown="1">
 
-* За 2 сек. до начала боя [Волшебный поток](https://www.wowhead.com/ru/spell=28730) 
-* В начала боя [Обжигающий жар](https://www.wowhead.com/ru/spell=258920)
-* [Рывок Скверны](https://www.wowhead.com/ru/spell=195072)
-* [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013)
-* [Охота](https://www.wowhead.com/ru/spell=370965)
-* [Буря клинков](https://www.wowhead.com/ru/spell=342817)
-* [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
-* [Коварное отступление](https://www.wowhead.com/ru/spell=198793)
-* [Разрыв сущности](https://www.wowhead.com/ru/spell=258860)
-* [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152)
-* [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
-* [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
-* [Клинок Скверны](https://www.wowhead.com/ru/spell=213243/) - если у вас < 60 гнева
-* [Метаморфоза](https://www.wowhead.com/ru/spell=191427)
-* [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152)
-* [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
-* [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013)
-* [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
+1. За 2 сек. до начала боя [Волшебный поток](https://www.wowhead.com/ru/spell=28730) 
+1. В начала боя [Обжигающий жар](https://www.wowhead.com/ru/spell=258920)
+1. [Рывок Скверны](https://www.wowhead.com/ru/spell=195072)
+1. [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013)
+1. [Охота](https://www.wowhead.com/ru/spell=370965)
+1. [Буря клинков](https://www.wowhead.com/ru/spell=342817)
+1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
+1. [Коварное отступление](https://www.wowhead.com/ru/spell=198793)
+1. [Разрыв сущности](https://www.wowhead.com/ru/spell=258860)
+1. [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152)
+1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
+1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
+1. [Клинок Скверны](https://www.wowhead.com/ru/spell=213243/) - если у вас < 60 гнева
+1. [Метаморфоза](https://www.wowhead.com/ru/spell=191427)
+1. [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152)
+1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
+1. [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013)
+1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
 
 </div>
 </div>
 
 **Список приоритетов**
 
-* [Метаморфоза](https://www.wowhead.com/ru/spell=191427) если КД [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013) больше 5 секунд и [Танец клинков](https://www.wowhead.com/ru/spell=188499/) / [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152) > 2 секунд
-* [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013) - сливаем гнев перед бимом
-* [Коварное отступление](https://www.wowhead.com/ru/spell=198793) (допустимо чуть придержать если [Обжигающий жар](https://www.wowhead.com/ru/spell=258920), а соответственно и [Необузданный хаос](https://www.wowhead.com/ru/spell=347461) будет скоро готов. То же самое касается [Охоты](https://www.wowhead.com/ru/spell=370965)). Как видно из списка приоритетов, <[Охота](https://www.wowhead.com/ru/spell=370965) под баффом имеет гораздо больший приоритет.
-* [Буря клинков](https://www.wowhead.com/ru/spell=342817)
-* [Охота](https://www.wowhead.com/ru/spell=370965)
-* [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152) / [Танец клинков](https://www.wowhead.com/ru/spell=188499/)
-* [Рывок Скверны](https://www.wowhead.com/ru/spell=195072) активация для активации [Необузданный хаос](https://www.wowhead.com/ru/spell=347461)
-* [Аннигиляция](https://www.wowhead.com/ru/spell=201427) / [Удар Хаоса](https://www.wowhead.com/ru/spell=162794)
-* [Обжигающий жар](https://www.wowhead.com/ru/spell=258920)
-* [Клинок Скверны](https://www.wowhead.com/ru/spell=213243/) 80 < гнева
-* [Волшебный поток](https://www.wowhead.com/ru/spell=28730) - ДЛЯ БЭ - если 30<  гнева 
-* [Бросок боевого клинка](https://www.wowhead.com/ru/spell=185123) филер
+1. [Метаморфоза](https://www.wowhead.com/ru/spell=191427) если КД [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013) больше 5 секунд и [Танец клинков](https://www.wowhead.com/ru/spell=188499/) / [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152) > 2 секунд
+1. [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013) - сливаем гнев перед бимом
+1. [Коварное отступление](https://www.wowhead.com/ru/spell=198793) (допустимо чуть придержать если [Обжигающий жар](https://www.wowhead.com/ru/spell=258920), а соответственно и [Необузданный хаос](https://www.wowhead.com/ru/spell=347461) будет скоро готов. То же самое касается [Охоты](https://www.wowhead.com/ru/spell=370965)). Как видно из списка приоритетов, <[Охота](https://www.wowhead.com/ru/spell=370965) под баффом имеет гораздо больший приоритет.
+1. [Буря клинков](https://www.wowhead.com/ru/spell=342817)
+1. [Охота](https://www.wowhead.com/ru/spell=370965)
+1. [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152) / [Танец клинков](https://www.wowhead.com/ru/spell=188499/)
+1. [Рывок Скверны](https://www.wowhead.com/ru/spell=195072) активация для активации [Необузданный хаос](https://www.wowhead.com/ru/spell=347461)
+1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427) / [Удар Хаоса](https://www.wowhead.com/ru/spell=162794)
+1. [Обжигающий жар](https://www.wowhead.com/ru/spell=258920)
+1. [Клинок Скверны](https://www.wowhead.com/ru/spell=213243/) 80 < гнева
+1. [Волшебный поток](https://www.wowhead.com/ru/spell=28730) - ДЛЯ БЭ - если 30<  гнева 
+1. [Бросок боевого клинка](https://www.wowhead.com/ru/spell=185123) филер
 
 Очень важно, после каждой активации формы демона **ВСЕГДА** использовать [Аннигиляцию](https://www.wowhead.com/ru/spell=201427)
 
 </div>
 </div>
+
+<hr>
+
+<div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/beginners.html">Назад:<br>Новичкам</a></div>
+<div class="minibox"><a href="{{ site.url }}/guide/havoc/stats.html">Далее:<br>Характеристики</a></div>
+
+<br>

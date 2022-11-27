@@ -33,13 +33,34 @@ image:
 <div class="tabs" id="tabs-1">
     <div class="tabs__nav">
       <a class="tabs__link tabs__link_active" href="#content-1">СТ/АоЕ/М+</a>
+</div>
 
-    </div>
-    <div class="tabs__content"> 
-      <div class="tabs__pane tabs__pane_show" id="content-1">
-<div class="tabs_in" markdown="1">	 
-Этот билд для Охотника на Демонов Истребления хорошо продуман и подходит для всех типов контента. Для более подробного изучения каждого таланта и более специализированных билдов для конкретных типов контента см. <a href="{{ site.url }}/guide/havoc/talent-builds.html"> Таланты и Билды</a>.
-{% include beginners.html %} 
+<div class="tabs__content"> 
+<div class="tabs__pane tabs__pane_show" id="content-1">
+<div class="tabs_in" markdown="1">	
+
+Билд отлично подойдет для тех кто хочет освоить Охотника на Демонов Истребление, этот билд поможет вам освоиться с основными механиками класса, а так же привыкнуть к использованию коротких бурст кд. Благодаря таланту [Демонический аппетит](https://wowhead.com/ru/spell=206478/) вы не будете испытывать нехватку гнева, а так же у вас не будет проблем с выживаемостью. Короткие КД помогут вам быстро справляться с врагами, что будет довольно полезно во время прокачки в новом дополнении. Так же билд подойдет для подземелий и рейдового контена. 
+
+> Для более подробного изучения каждого таланта и более специализированных билдов для конкретных типов контента см. [Таланты и Билды]({{site.url}}/guide/havoc/talent-builds.html).
+
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/havoc/dragonflight/Havoc_Essb_Demonic.jpg" style="outline: 2px solid #000;"> </p>
+
+Строка для импорта
+
+<pre>
+<code class="language-less">
+BEkAAAAAAAAAAAAAAAAAAAAAAQCIhUCSLJRkQpEBAAAAAAQLJBRKkkUgQaRKSSSSSC
+</code>
+</pre>
+
+**Классовая ветка**
+
+В классовой ветке талантов есть таланты которые вы можете поменять под ваш стиль игры:
+
+Вы можете изменить талант [Освобожденная сила](https://www.wowhead.com/ru/spell=206477/) на [Фрагменты Хаоса](https://www.wowhead.com/ru/spell=320412) чтоб получить дополнительные [Малый фрагмент души](https://www.wowhead.com/ru/spell=215393).
+
+Так же вы можете поменять способ использования [Печать страдания](https://www.wowhead.com/ru/spell=207684) - с талантом [Средоточие печатей](https://www.wowhead.com/ru/spell=207666) печать будет применяться под вашим персонажем, а [Точными печатями](https://www.wowhead.com/ru/spell=389799) печать будет применяться под целью которая нахадиться в вашем таргете. Так же вы можете обойти эти таланты через [Затерянные во тьме](https://www.wowhead.com/ru/spell=389849/) если хотите свободно применять [Печать страдания](https://www.wowhead.com/ru/spell=207684).
+
 </div>
       </div>
     </div>
@@ -58,14 +79,21 @@ image:
 <br>
 - Приоритет способностей:
 
-	1. [Метаморфоза](https://ru.wowhead.com/spell=191427)
-	1. {{ site.data.spell.Death_Sweep }} 3+ цели
-	1. [Буря клинков](https://ru.wowhead.com/spell=342817)
-    1. {{ site.data.spell.Eye_Beam }}
-	1. {{ site.data.spell.Immolation_Aura }} 
-	1. {{ site.data.spell.Blade_Dance }} 3+ цели
-    1. {{ site.data.spell.Annihilation }} / {{ site.data.spell.Chaos_Strike }}
-    1. {{ site.data.spell.Demons_Bite }}
+1. [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013) - сливаем гнев до 70 перед использованием
+1. [Метаморфоза](https://www.wowhead.com/ru/spell=191427) если КД [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013) больше 5 секунд и [Танец клинков](https://www.wowhead.com/ru/spell=188499/) / [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152) > 2 секунд
+1. [Коварное отступление](https://www.wowhead.com/ru/spell=198793) - придержите использование если до восстановления [Разрыв сущности](https://www.wowhead.com/ru/spell=258860) меньше 10 сек.
+1. [Разрыв сущности](https://www.wowhead.com/ru/spell=258860) - придержите использование если до восстановления [Коварное отступление](https://www.wowhead.com/ru/spell=198793) меньше 10 сек.
+1. [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152)
+1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427) - если активен бафф [Разрыва сущности](https://www.wowhead.com/ru/spell=258860)
+1. [Танец клинков](https://www.wowhead.com/ru/spell=188499/)
+1. [Рывок Скверны](https://www.wowhead.com/ru/spell=195072) активация для активации [Необузданный хаос](https://www.wowhead.com/ru/spell=347461)
+1. [Охота](https://www.wowhead.com/ru/spell=370965) - старайтесь использовать в окно демонизма, но если оно не пересекается с [Разрывом сущности](https://www.wowhead.com/ru/spell=258860)
+1. [Буря клинков](https://www.wowhead.com/ru/spell=342817)
+1. [Обжигающий жар](https://www.wowhead.com/ru/spell=258920)
+1. [Удар Хаоса](https://www.wowhead.com/ru/spell=162794)
+1. [Клинок Скверны](https://www.wowhead.com/ru/spell=213243/) 80 < гнева
+1. [Волшебный поток](https://www.wowhead.com/ru/spell=28730) - ДЛЯ БЭ - если 30<  гнева 
+1. [Бросок боевого клинка](https://www.wowhead.com/ru/spell=185123) филер
 		
 <div style="text-align: -webkit-center; text-align: -moz-center;"><a class="c12 cta-button" href="{{ site.url }}/guide/havoc/rotation-priority.html" data-border="strong" data-markup-content-target="1" data-icon="true">
 <span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
@@ -89,43 +117,46 @@ image:
 
 ### Зачарование
 
-<ul>
-<li>Оружие: 1х {{ site.data.prof.Celestial_Guidance }} и 1х {{ site.data.prof.Sinful_Revelation }}</li>
-<li>Кольца: 2х{{ site.data.prof.Enchant_Ring_Tenet_of_Versatility }}</li>
-<li>Сапоги: {{ site.data.prof.Enchant_Boots_Eternal_Agility }}</li>
-<li>Нагрудник: {{ site.data.prof.Enchant_Chest_Eternal_Stats }}</li>
-<li>Плащ: {{ site.data.prof.Enchant_Cloak_Fortified_Leech }}</li>
-</ul>
+* Кольца: 2х [Посвящение искусности](https://www.wowhead.com/ru/spell=389294) - повышает искусность. / [Посвящение критического удара](https://www.wowhead.com/ru/spell=389292) - повышает шанс критического удара.
+* Сапоги: [Глина дозорного](https://www.wowhead.com/ru/spell=389484) - повышает выносливость.
+* Нагрудник: [Пробужденные характеристики](https://www.wowhead.com/ru/spell=389410/) - повышает основную характеристику. 
+* Плащ: [Завет избежания](https://www.wowhead.com/ru/spell=389397/) - повышает избегание.
+* Наручи: [Посвящение избегания](https://www.wowhead.com/ru/spell=389301) - повышает избегание.
 
-### Настой и  Зелья
-<ul>
-<li>Настой: {{ site.data.prof.Eternal_Flask }}</li>
-<li>Зелья: {{ site.data.prof.Potion_of_Phantom_Fire }} СТ</li>
-<li>Зелья: {{ site.data.prof.Potion_of_Empowered_Exorcisms }} АОЕ</li>
-<li>Исцеление: [Зелье космического исцеления](https://ptr.wowhead.com/spell=359870) </li>
-</ul>
+**Оружие:**
+
+* 2х [Посвящение титанов](https://www.wowhead.com/ru/spell=389550) - повышает основную характеристику.
+
+Для максимально точного подбора зачарований на кольца лучше воспользоваться рейдботсом.
+
+## Настой, Зелья и Руны
+
+* Настой: [Флакон ледового неистовства](https://www.wowhead.com/ru/item=191335)
+* Зелья: [Зелье великой мощи стихий](https://www.wowhead.com/ru/item=191383)
+* Исцеление: [Освежающее лечебное зелье](https://www.wowhead.com/ru/item=191380/)
+* Зелье невидимости [Зелье утихшего ветра](https://www.wowhead.com/ru/item=191395)
+
+Руны
+* [Драконья руна усиления](https://www.wowhead.com/ru/item=201325)
 
 ### Камни
 
-* {{ site.data.prof.Deadly_Jewel_Cluster }} — +16 к вероятности критического удара
-* {{ site.data.prof.Quick_Jewel_Cluster }} — +16 к скорости
-* {{ site.data.prof.Versatile_Jewel_Cluster }} — +16 к универсальности
+* 1 х [Покрытый письменами бесконечный алмаз](https://www.wowhead.com/ru/item=192982) - +200 к основной характеристике и +176 к вероятности критического удара.
+* [Алекстразит сенсея](https://www.wowhead.com/ru/item=192922) - +187 к вероятности критического удара и +88 к искусности.
 
 ### Еда
 
-* {{ site.data.prof.Feast_of_Gluttonous_Hedonism }} —  повышает ловкость на 20.
-* {{ site.data.prof.Phantasmal_Souffle_and_Fries }} —  повышает вероятность критического удара на 30. 
-* {{ site.data.prof.Steak_a_la_Mode }} — повышает  универсальность на 30. 
-* {{ site.data.prof.Tenebrous_Crown_Roast_Aspic }} — повышает скорость на 30.
+* [Филе с клыками](https://www.wowhead.com/ru/item=197779) - повышает вероятность критического удара на 220 на 60 мин.
+* [Запеченный в соли рыбный пирог](https://www.wowhead.com/ru/item=197781) - повышает искусность на 220 на 60 мин.
 
 ### Масло и Заточки для оружия
 
-* Масло:{{ site.data.prof.Shadowcore_Oil }} — При применении к оружию атаки и заклинания в течение 60 мин. с высокой вероятностью наносят противникам 220 ед. дополнительного урона от темной магии. 
-* Точильный камень: {{ site.data.prof.Shaded_Sharpening_Stone }} — Вы точите клинковое оружие, в результате чего сила атаки повышается на 20 на 1 час.
+* [Изначальный абразивный камень](https://www.wowhead.com/ru/item=191950) - повышает силу атаки на 135 на 60 мин.
+* [Жужжащая руна](https://www.wowhead.com/ru/item=194823/) - повышает вероятность критического удара на 827 на 120 мин.
 
 ### Накладки 
 
-* {{ site.data.prof.Heavy_Desolate_Armor_Kit }} — Укрепляет нагрудник, повышая прибавку к выносливости на 32 на 2 часа.
+* [Лютые накладки для брони](https://www.wowhead.com/ru/item=193565) - повышает выносливость на 355. Укрепленные поножи дополнительно повышают силу и ловкость на 472.
 
 <hr>
 
