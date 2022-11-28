@@ -79,7 +79,7 @@ image:
 
 * [Прочная чешуйка Гранита](https://www.wowhead.com/ru/item=193689/)
 * [Украшение пламени](https://www.wowhead.com/ru/item=194299/)
-
+* [Бутылка вьющихся вихрей](https://www.wowhead.com/ru/item=193697)
 * [Одержимый светоч горя](https://www.wowhead.com/ru/item=194308)
 * [Благословение Пожирательницы Бурь](https://www.wowhead.com/ru/item=194302/)
 
