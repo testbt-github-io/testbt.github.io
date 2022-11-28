@@ -30,9 +30,9 @@ image:
 
 <div class="tabs">
 <div class="tabs__nav">
-<a class="tabs__link tabs__link_active" href="#content-1">ДПС Билд</a>
-<a class="tabs__link" href="#content-2">АоЕ Билд</a>
-<a class="tabs__link" href="#content-3">Клеймобилд</a>
+<a class="tabs__link tabs__link_active" href="#content-1">Рейд</a>
+<a class="tabs__link" href="#content-2">Мифик+</a>
+<a class="tabs__link" href="#content-3">Мифик+ вариант 2</a>
 </div>
 
 <div class="tabs__content">
@@ -40,13 +40,13 @@ image:
 
 <div class="tabs_in" markdown="1">
 
-<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/vengeance/dragonflight/VDH_ST_Kleimo.jpg" style="outline: 2px solid #000;"> </p>
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/vengeance/dragonflight/VDH_raid.jpg" style="outline: 2px solid #000;"> </p>
 
 Строка для импорта
 
 <pre>
 <code class="language-less">
-BUkAAAAAAAAAAAAAAAAAAAAAAAAgAlkERQDRCQSJBJRTkkEJIRLJSSSSkSIBAAAAA
+BUkAAAAAAAAAAAAAAAAAAAAAAAAQJCSSQS0QSCQUAJRLkIJJJJRJJIJJhSQAAAAA
 </code>
 </pre>
 
@@ -54,6 +54,23 @@ BUkAAAAAAAAAAAAAAAAAAAAAAAAgAlkERQDRCQSJBJRTkkEJIRLJSSSSkSIBAAAAA
 </div>
 
 <div class="tabs__pane" id="content-2" >
+
+<div class="tabs_in" markdown="1">
+
+<p align="center" width="100%"> <img src="{{ site.url }}/assets/img/guide/vengeance/dragonflight/VDH_MPlus.jpg" style="outline: 2px solid #000;"> </p>
+
+Строка для импорта
+
+<pre>
+<code class="language-less">
+BUkAAAAAAAAAAAAAAAAAAAAAAAAgIIJREARCQSJBJR7ARiEJhEtkUSSSSoEJBAAAAA
+</code>
+</pre>
+
+</div>
+</div>
+
+<div class="tabs__pane" id="content-3" >
 
 <div class="tabs_in" markdown="1">
 
@@ -66,15 +83,6 @@ BUkAAAAAAAAAAAAAAAAAAAAAAAAgAlkERQDRCQSJBJRTkkEJIRLJSSSSkSIBAAAAA
 BUkAAAAAAAAAAAAAAAAAAAAAAAAQJQJJRSSARCAFgEtkEJJJSSSLJiESkSIBAAAAA
 </code>
 </pre>
-
-</div>
-</div>
-
-<div class="tabs__pane" id="content-3">
-   
-<div class="tabs_in"  markdown="1">
- 
- бид 3
 
 </div>
 </div>

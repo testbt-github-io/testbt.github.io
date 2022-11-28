@@ -28,6 +28,10 @@ image:
 
 <a href="https://www.patreon.com/bePatron?u=43917749"  data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
+### Оптимальные маршруты для применения Импульса
+
+<p align="center" width="100%"> <img src="{{site.url}}/assets/img/blog/rotaciya/impyls.jpg"> </p>
+
 ### Ст Ротация
 
 <div class="tabs__content">
@@ -47,8 +51,6 @@ image:
 1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
 1. [Коварное отступление](https://www.wowhead.com/ru/spell=198793)
 1. [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152)
-1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
-1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
 1. [Метаморфоза](https://www.wowhead.com/ru/spell=191427)
 1. [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152)
 1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
@@ -74,9 +76,6 @@ image:
 1. [Коварное отступление](https://www.wowhead.com/ru/spell=198793)
 1. [Разрыв сущности](https://www.wowhead.com/ru/spell=258860)
 1. [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152)
-1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
-1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
-1. [Клинок Скверны](https://www.wowhead.com/ru/spell=213243/) - если у вас < 60 гнева
 1. [Метаморфоза](https://www.wowhead.com/ru/spell=191427)
 1. [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152)
 1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
