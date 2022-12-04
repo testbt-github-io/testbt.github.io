@@ -61,6 +61,10 @@ BEkAAAAAAAAAAAAAAAAAAAAAAQSSIhUCSLJRSCQAAAAAAAUiEkWKRSChQaoIRkkkE
 
 При необходимости можно перекинуть очко талантов с [Непреклонный натиск](https://www.wowhead.com/ru/spell=389977/) в [Путь Пустоты](https://www.wowhead.com/ru/spell=196555) если того будет требовать механика боя.
 
+<div style="text-align: -webkit-center; text-align: -moz-center;"><a class="c12 cta-button" href="{{ site.url }}/guide/havoc/rotation-priority.html#%D1%81%D1%82-%D1%80%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F" data-border="strong" data-markup-content-target="1" data-icon="true">
+<span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
+</span>СТ ротация</a></div>
+
 </div>
 </div>
 
@@ -79,6 +83,10 @@ BEkAAAAAAAAAAAAAAAAAAAAAAQCIhUCSLJRSCQAAAAAAAUiEkWKRSSBCplESSkkkE
 
 Билд с самым высоким ДПС по симкрафту.
 
+<div style="text-align: -webkit-center; text-align: -moz-center;"><a class="c12 cta-button" href="{{ site.url }}/guide/havoc/rotation-priority.html#%D1%81%D1%82-%D0%B8%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81-%D1%80%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F" data-border="strong" data-markup-content-target="1" data-icon="true">
+<span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
+</span>СТ Импульс ротация</a></div>
+
 </div>
 </div>
 
@@ -91,7 +99,7 @@ BEkAAAAAAAAAAAAAAAAAAAAAAQCIhUCSLJRSCQAAAAAAAUiEkWKRSSBCplESSkkkE
 
 <pre>
 <code class="language-less">
-BEkAAAAAAAAAAAAAAAAAAAAAAgkkkkIlg0SSEJUKRAAAAAAAUSSQkCJRJIJplEIBSA
+BEkAAAAAAAAAAAAAAAAAAAAAAgkkkkIlg0SSEJUaRAAAAAAAUSSQkCJRJIJplEIBSA
 </code>
 </pre>
 
@@ -104,6 +112,10 @@ BEkAAAAAAAAAAAAAAAAAAAAAAgkkkkIlg0SSEJUKRAAAAAAAUSSQkCJRJIJplEIBSA
 Так же вы можете поменять способ использования [Печать страдания](https://www.wowhead.com/ru/spell=207684) - с талантом [Средоточие печатей](https://www.wowhead.com/ru/spell=207666) печать будет применяться под вашим персонажем, а [Точными печатями](https://www.wowhead.com/ru/spell=389799) печать будет применяться под целью которая находится в вашем таргете. Так же вы можете обойти эти таланты через [Затерянные во тьме](https://www.wowhead.com/ru/spell=389849/) если хотите свободно применять [Печать страдания](https://www.wowhead.com/ru/spell=207684).
 
 Билд с высоким АоЕ уроном и сильным бурстом, благодаря коротким КД у нас есть возможность наносить много урона в каждом запуле.
+
+<div style="text-align: -webkit-center; text-align: -moz-center;"><a class="c12 cta-button" href="{{ site.url }}/guide/havoc/rotation-priority.html#%D0%B0%D0%BE%D0%B5-%D1%80%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F" data-border="strong" data-markup-content-target="1" data-icon="true">
+<span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
+</span>АоЕ ротация</a></div>
 
 </div>
 </div>
@@ -130,6 +142,10 @@ BEkAAAAAAAAAAAAAAAAAAAAAAQCIhUCSLJRkQpEBAAAAAAQLJBRKkkUgQaRKSSSSSC
 Так же вы можете поменять способ использования [Печать страдания](https://www.wowhead.com/ru/spell=207684) - с талантом [Средоточие печатей](https://www.wowhead.com/ru/spell=207666) печать будет применяться под вашим персонажем, а [Точными печатями](https://www.wowhead.com/ru/spell=389799) печать будет применяться под целью которая нахадиться в вашем таргете. Так же вы можете обойти эти таланты через [Затерянные во тьме](https://www.wowhead.com/ru/spell=389849/) если хотите свободно применять [Печать страдания](https://www.wowhead.com/ru/spell=207684).
 
 Билд подойдет для Клив боев и данжей без больших запулов, короткие КД обеспечат высокий урон, а центральная ветка талантов усилит наш СТ урон, что поможет в убийстве противников с большим количеством ХП.
+
+<div style="text-align: -webkit-center; text-align: -moz-center;"><a class="c12 cta-button" href="{{ site.url }}/guide/havoc/rotation-priority.html#%D0%BA%D0%BB%D0%B8%D0%B2%D0%B0%D0%BE%D0%B5-%D1%80%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F" data-border="strong" data-markup-content-target="1" data-icon="true">
+<span class="cta-button-icon" style="background-image: url(&quot;https://wow.zamimg.com/images/wow/icons/medium/ability_demonhunter_specdps.jpg&quot;);">
+</span>Клив/АоЕ ротация</a></div>
 
 </div>
 </div>
@@ -201,7 +217,7 @@ BEkAAAAAAAAAAAAAAAAAAAAAAQCIhUCSLJRkQpEBAAAAAAQLJBRKkkUgQaRKSSSSSC
 
 ### Девятый ряд
 
-* [Врага нужно знать в лицо](https://www.wowhead.com/ru/spell=388118) – очень сильный талант, увеличивает ваш критический урон на 100% от вашего шанса критического удара. У таланта два уровня, на первом увеличивает крит урон на 50% от шанса критического удара, на втором на 100%. 
+* [Врага нужно знать в лицо](https://www.wowhead.com/ru/spell=388118) – очень сильный талант, увеличивает ваш критический урон на 80% от вашего шанса критического удара. У таланта два уровня, на первом увеличивает крит урон на 40% от шанса критического удара, на втором на 80%. 
 * Ячейка с выбором одного из двух талантов:
   * [Буря клинков](https://www.wowhead.com/ru/spell=342817) – способность артефакта Легиона. Скорость восстановления зависит от рейтинга скорости персонажа. Больше скорости, значит быстрее восстанавливается способность.
   * [Обстрел Скверны](https://www.wowhead.com/ru/spell=258925) – сильный АоЕ бурст урон, но долгое КД и слабый урон в одну цель делает его менее привлекательным.
