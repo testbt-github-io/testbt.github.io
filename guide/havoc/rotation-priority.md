@@ -349,6 +349,17 @@ image:
 </div>
 </div>
 
+### Советы
+
+* В АоЕ если у вас откатилась [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013), [Метаморфоза](https://www.wowhead.com/ru/spell=191427), [Коварное отступление](https://www.wowhead.com/ru/spell=198793) и [Разрыв сущности](https://www.wowhead.com/ru/spell=258860/) используйте следующую комбинацию способностей 
+    * [Пронзающий взгляд](https://www.wowhead.com/ru/spell=198013)
+    * [Коварное отступление](https://www.wowhead.com/ru/spell=198793)
+    * [Разрыв сущности](https://www.wowhead.com/ru/spell=258860/)
+    * [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152)
+    * [Метаморфоза](https://www.wowhead.com/ru/spell=191427)  
+    * [Смертоносный взмах](https://www.wowhead.com/ru/spell=210152)
+Такая комбинация способностей наносит огромный урон в АоЕ.
+* [Печать страдания](https://www.wowhead.com/ru/spell=207684) - нужно комбинировать с вашими сильными КД, например с комбинацией которая написана выше либо использовать под взрыв [Огненной бездны](https://www.wowhead.com/ru/spell=388107).
 <hr>
 
 <div class="minibox minibox-left"><a href="{{ site.url }}/guide/havoc/beginners.html">Назад:<br>Новичкам</a></div>
