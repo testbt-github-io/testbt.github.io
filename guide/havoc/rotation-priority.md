@@ -340,7 +340,6 @@ image:
 1. [Обжигающий жар](https://www.wowhead.com/ru/spell=258920)
 1. [Охота](https://www.wowhead.com/ru/spell=370965)
 1. [Аннигиляция](https://www.wowhead.com/ru/spell=201427)
-1. [Рывок Скверны](https://www.wowhead.com/ru/spell=320416/) - активация [Импульса](https://www.wowhead.com/ru/spell=206476)
 1. [Удар Хаоса](https://www.wowhead.com/ru/spell=162794)
 1. [Клинок Скверны](https://www.wowhead.com/ru/spell=213243/) 80 < гнева
 1. [Волшебный поток](https://www.wowhead.com/ru/spell=28730) - ДЛЯ БЭ - если нужен гнев 
