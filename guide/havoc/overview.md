@@ -58,6 +58,11 @@ image:
 * Вспомогательные способности: сбитие заклинаний на расстоянии в 10м {{ site.data.spell.Disrupt }} и развеивание благотворных магических эффектов {{ site.data.spell.Consume_Magic }})
 * Довольно простой класс для освоения
 * Дебаф на 5% входящего магического урона 
+* Большое количествово контроля ([Кольцо Хаоса](https://www.wowhead.com/ru/spell=179057), [Пленение](https://www.wowhead.com/ru/spell=217832), [Извержение Скверны](https://wowhead.com/ru/spell=211881)) и [Печати страдания](https://www.wowhead.com/ru/spell=207684)).
+
+## Новые возможности трансмогрификации артефакта для Охотников на Демонов Истребление
+
+В Shadowlands появится новая возможность трансмогрификации <a href="https://www.wowhead.com/news=317669/artifact-transmog-in-shadowlands-new-creative-weapon-combinations"> артефакта</a>, позволяя игрокам преобразовывать свое оружие в любой вид артефакта.
 
 ## Чем выделяется специализация
 
@@ -189,15 +194,6 @@ image:
     * [Неестественная злоба](https://www.wowhead.com/ru/spell=389811) – усиливает урон от ДоТы [Охоты](https://www.wowhead.com/ru/spell=370965) на 30%.
     * [Непреклонное преследование](https://www.wowhead.com/ru/spell=389819) – когда противник погибает под действием ДоТа [Охоты](https://www.wowhead.com/ru/spell=370965), время восстановления [Охоты](https://www.wowhead.com/ru/spell=370965) сокращается на 12 сек.
 * [Ускоренные печати](https://www.wowhead.com/ru/spell=209281) – все печати активируются на 1 сек. быстрее, а время их восстановления сокращается на 20%.
-
-
-## Изменения Охотниками на Демонов Истребление в Dragonflight
-
-
-
-## Новые возможности трансмогрификации артефакта для Охотников на Демонов Истребление
-
-В Shadowlands появится новая возможность трансмогрификации <a href="https://www.wowhead.com/news=317669/artifact-transmog-in-shadowlands-new-creative-weapon-combinations"> артефакта</a>, позволяя игрокам преобразовывать свое оружие в любой вид артефакта.
 
 <div id="cta-but">
 <a href="https://shadowlands.wowhead.com/artifact-calc" class="cta-button" data-border="strong" target="_blank">Все модели артефактного оружия</a>

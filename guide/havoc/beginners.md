@@ -159,7 +159,7 @@ BEkAAAAAAAAAAAAAAAAAAAAAAQCIhUCSLJRkQpEBAAAAAAQLJBRKkkUgQaRKSSSSSC
 ### Еда
 
 Пиры:
-* [Большой калуакский банкет](https://www.wowhead.com/ru/item=197794) —   повышает основную характеристика на 75 на 60 мин.
+* [Большой калуакский банкет](https://www.wowhead.com/ru/item=197794) —   повышает основную характеристика на 76 на 60 мин.
 
 Персональная еда:
 
