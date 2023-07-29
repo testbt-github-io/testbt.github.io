@@ -1,151 +1,139 @@
-# Payload Website Template
+<p style="border: none; margin-bottom:0; padding-bottom: 0;" align="center">
+  <a href="https://payloadcms.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/payloadcms/payload/master/src/admin/assets/images/payload-logo-light.svg">
+      <img width="350" alt="Payload Logo" src="https://raw.githubusercontent.com/payloadcms/payload/master/src/admin/assets/images/payload-logo-dark.svg">
+    </picture>
+  </a>
+</p>
+
+<h3 align="center">The most powerful TypeScript CMS</h3>
+<p align="center">Code-first Headless CMS that bridges the gap between CMS and application framework</p>
+
+<h3 align="center">
+  <a target="_blank" href="https://payloadcms.com/docs/getting-started/what-is-payload" rel="dofollow"><strong>Explore the docs</strong></a>
+  ·
+  <a target="_blank" href="https://demo.payloadcms.com/" rel="dofollow"><strong>Try Live Demo</strong></a>
+  <br />
+</h3>
+
+<br />
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/payloadcms/payload/actions">
+    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/payloadcms/payload/tests.yml?style=flat-square">
+  </a>
+  &nbsp;
+  <a href="https://github.com/payloadcms/payload/commits">
+    <img src="https://img.shields.io/github/commit-activity/m/payloadcms/payload?style=flat-square" alt="git commit activity"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/payload">
+    <img alt="Discord" src="https://img.shields.io/discord/967097582721572934?label=Discord&color=7289da&style=flat-square" />
+  </a>
+  &nbsp;
+  <a href="https://www.npmjs.com/package/payload">
+    <img alt="npm" src="https://img.shields.io/npm/v/payload?style=flat-square" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/payloadcms">
+    <img src="https://img.shields.io/badge/follow-payloadcms-1DA1F2?logo=twitter&style=flat-square" alt="Payload Twitter" />
+  </a>
+</p>
 
-A template for [Payload](https://github.com/payloadcms/payload) to power websites from small to enterprise. There is a complete front-end website made explicitly for this template which can be found [here](https://github.com/payloadcms/template-website-nextjs).
+<br />
 
-Core features:
+<a href="https://payloadcms.com">
+  <img src="https://cms.payloadcms.com/media/payload-github-header.jpg" alt="Payload headless CMS Admin panel built with React" />
+</a>
 
-- [Pre-configured Payload Config](#how-it-works)
-- [Access Control](#access-control)
-- [Preview](#preview)
-- [ISR](#isr)
-- [Nested Docs](#nested-docs)
-- [Layout Builder](#layout-builder)
-- [SEO](#seo)
-- [Redirects](#redirects)
+<br />
 
-For details on how to get this template up and running locally, see the [development](#development) section.
+## ⭐ Why Payload?
 
-## How it works
+Payload is a CMS that has been designed for developers from the ground up to deliver them what they need to build great digital products. If you know JavaScript, you know Payload. It's a _code-first_ CMS, which allows us to do a lot of things right:
 
-The Payload config is tailored specifically to the needs of most websites. It is pre-configured in the following ways:
+- Payload gives you everything you need, but then steps back and lets you build what you want in JavaScript or TypeScript - with no unnecessary complexity brought by GUIs. You'll understand how your CMS works because you will have written it exactly how you want it.
+- Bring your own Express server and do whatever you need on top of Payload. Payload doesn't impose anything on you or your app.
+- Completely control the Admin panel by using your own React components. Swap out fields or even entire views with ease.
+- Use your data however and wherever you need thanks to auto-generated, yet fully extensible REST, GraphQL, and Local Node APIs.
 
-### Collections
+<a target="_blank" href="https://payloadcms.com/" rel="dofollow"><strong>Read more on our website</strong></a>
 
-See the [collections documentation](https://payloadcms.com/docs/configuration/collections) for details on how to extend this functionality.
+## ✨ Features
 
-- #### Users
+- Completely free and open-source
+- [GraphQL](https://payloadcms.com/docs/graphql/overview), [REST](https://payloadcms.com/docs/rest-api/overview), and [Local](https://payloadcms.com/docs/local-api/overview) APIs
+- [Easily customizable ReactJS Admin](https://payloadcms.com/docs/admin/overview)
+- [Fully self-hosted](https://payloadcms.com/docs/production/deployment)
+- [Extensible Authentication](https://payloadcms.com/docs/authentication/overview)
+- [Local file storage & upload](https://payloadcms.com/docs/upload/overview)
+- [Version History and Drafts](https://payloadcms.com/docs/versions/overview)
+- [Field-based Localization](https://payloadcms.com/docs/configuration/localization)
+- [Block-based Layout Builder](https://payloadcms.com/docs/fields/blocks)
+- [Extensible SlateJS rich text editor](https://payloadcms.com/docs/fields/rich-text)
+- [Array field type](https://payloadcms.com/docs/fields/array)
+- [Field conditional logic](https://payloadcms.com/docs/fields/overview#conditional-logic)
+- Extremely granular [Access Control](https://payloadcms.com/docs/access-control/overview)
+- [Document and field-level hooks](https://payloadcms.com/docs/hooks/overview) for every action Payload provides
+- Built with Typescript & very Typescript-friendly
+- Intensely fast API
+- Highly secure thanks to HTTP-only cookies, CSRF protection, and more
 
-  Users are auth-enabled and encompass both admins and public users based on the value of their `roles` field. Only `admin` users can access your admin panel to manage your website's content whereas `user` has limited access to the platform, see [Access Control](#access-control) for more details.
+<a target="_blank" href="https://github.com/payloadcms/payload/discussions"><strong>Request Feature</strong></a>
 
-  For additional help, see the official [Auth Example](https://github.com/payloadcms/payload/tree/master/examples/auth/cms#readme) or the [authentication docs](https://payloadcms.com/docs/authentication/overview#authentication-overview).
+## 🚀 Quick Start
 
-- #### Pages
+Before beginning to work with Payload, make sure you have all of the [required software](https://payloadcms.com/docs/getting-started/installation).
 
-  All pages are layout-builder enabled so you can generate unique layouts for each page using layout-building blocks, see [Layout Builder](#layout-builder) for more details. They can also be nested inside of one another, for example "About > Team". See [Nested Docs](#nested-docs) for more details.
+From there, the easiest way to get started with Payload is to use the `create-payload-app` package:
 
-- #### Posts
+```text
+npx create-payload-app
+```
 
-  All posts are layout-builder enabled so you can generate unique layouts for each post using layout-building blocks, see [Layout Builder](#layout-builder) for more details. They can also be nested inside of one another, for example "News > World". See [Nested Docs](#nested-docs) for more details.
+Alternatively, it only takes about five minutes to [create an app from scratch](https://payloadcms.com/docs/getting-started/installation#from-scratch).
 
-- #### Media
+## 🗒️ Documentation
 
-  This is the uploads-enabled collection used by pages and products to contain media, etc.
+Check out the [Payload website](https://payloadcms.com/docs/getting-started/what-is-payload) to find in-depth documentation for everything that Payload offers.
 
-- #### Categories
+## 🙋 Contributing
 
-  A taxonomy used to group posts together. Categories can be nested inside of one another, for example "News > World". See the official [Payload Nested Docs Plugin](https://github.com/payloadcms/plugin-nested-docs) for more details.
+If you want to add contributions to this repository, please follow the instructions in [contributing.md](./contributing.md).
 
-### Globals
+## 📚 Examples and Templates
 
-See the [globals documentation](https://payloadcms.com/docs/configuration/globals) for details on how to extend this functionality.
+The examples directory is a great resource for learning how to setup Payload in a variety of different ways. There are also a number of templates to help get you going very quickly. If you maintain your own template, consider adding the `payload-template` topic to your GitHub repository for others to find.
 
-- `Header`
+- [Examples Directory](./examples)
+- [Official Templates](https://github.com/orgs/payloadcms/repositories?q=topic%3Apayload-template)
+- [Community Templates](https://github.com/topics/payload-template)
 
-  The data required by the header on your front-end, i.e. nav links, etc.
+## 🔌 Plugins
 
-- `Footer`
+Payload is highly extensible and allows you to install or distribute plugins that add or remove functionality. There are both officially-supported and community-supported plugins available. If you maintain your own plugin, consider adding the `payload-plugin` topic to your GitHub repository for others to find.
 
-  Same as above but for the footer of your site.
+- [Official Plugins](https://github.com/orgs/payloadcms/repositories?q=topic%3Apayload-plugin)
+- [Community Plugins](https://github.com/topics/payload-plugin)
 
-## Access Control
+## 🚨 Need help?
 
-Basic role-based access control is setup to determine what users can and cannot do based on their roles, which are:
+There are lots of good conversations and resources in our Github Discussions board and our Discord Server. If you're struggling with something, chances are, someone's already solved what you're up against. :point_down:
 
-- `admin`: They can access the Payload admin panel to manage your website. They can see all data and make all operations.
-- `user`: They cannot access the Payload admin panel and have a limited access to operations based on their user (see below).
+- [GitHub Discussions](https://github.com/payloadcms/payload/discussions)
+- [GitHub Issues](https://github.com/payloadcms/payload/issues)
+- [Discord](https://t.co/30APlsQUPB)
+- [Community Help](https://payloadcms.com/community-help)
 
-This applies to each collection in the following ways:
+## ⭐ Like what we're doing? Give us a star
 
-- `users`: Only admins and the user themselves can access their profile. Only admins can create and delete users.
-- `pages`: Everyone can see published pages but only admins can see drafts and create, update, and delete pages.
-- `posts`: Same as pages.
+![payload-github-star](https://cms.payloadcms.com/media/payload-github-star.gif)
 
-For more details on how to extend this functionality, see the [Payload Access Control](https://payloadcms.com/docs/access-control/overview#access-control) docs.
+## 👏 Thanks to all our contributors
 
-## Preview
-
-To enter preview mode we format a custom URL using a [preview function](https://payloadcms.com/docs/configuration/collections#preview) in the collection config. When a user clicks the "Preview" button, they are routed to this URL along with their http-only cookies and revalidation key. Your front-end can then use the `payload-token` and revalidation key to verify the request and enter into its own preview mode.
-
-For more information, see the official [Preview Example](https://github.com/payloadcms/payload/tree/master/examples/preview/cms#readme).
-
-## ISR
-
-If your front-end is statically generated then you may also want to regenerate the HTML for each page as they are published, sometimes referred to as Incremental Static Regeneration. To do this, we add an `afterChange` hook to the collection that fires a request to your front-end in the background each time the document is updated. You can handle this request on your front-end and regenerate the HTML for your page however needed.
-
-For more information, see the official [Preview Example](https://github.com/payloadcms/payload/tree/master/examples/preview/cms#isr) which includes ISR.
-
-## Nested Docs
-
-This template comes pre-configured with the official [Payload Nested Docs Plugin](https://github.com/payloadcms/plugin-nested-docs) so you can easily create hierarchies of pages, posts, and categories. A front-end solution for this can be found [here](https://github.com/payloadcms/template-website-nextjs).
-
-## Layout Builder
-
-Pages and posts can be built using a powerful layout builder. This allows you to create unique layouts for each page or post. This template comes pre-configured with the following layout building blocks:
-
-- Hero
-- Content
-- Media
-- Call To Action
-- Archive
-
-A complete front-end solution for this can be found [here](https://github.com/payloadcms/template-website-nextjs).
-
-## SEO
-
-This template comes pre-configured with the official [Payload SEO Plugin](https://github.com/payloadcms/plugin-seo) so you can easily manage metadata for each page of your website. A front-end solution for this can be found [here](https://github.com/payloadcms/template-website-nextjs).
-
-## Redirects
-
-This template comes pre-configured with the official [Payload Redirects Plugin](https://github.com/payloadcms/plugin-redirects) so you can properly redirect content as your website scales. A front-end solution for this can be found [here](https://github.com/payloadcms/template-website-nextjs).
-
-For additional help, see the official [Redirects Example](https://github.com/payloadcms/payload/tree/master/examples/preview/cms#readme).
-
-## Development
-
-To spin up the template locally, follow these steps:
-
-1. First clone the repo
-1. Then `cd YOUR_PROJECT_REPO && cp .env.example .env`
-1. Next `yarn && yarn dev` (or `docker-compose up`, see [Docker](#docker))
-1. Now `open http://localhost:8000/admin` to access the admin panel
-1. Create your first admin user using the form on the page
-
-That's it! Changes made in `./src` will be reflected in your app—but your database is blank. You can optionally seed the database with a few pages and posts, more details on that [here](#seed).
-
-### Docker
-
-Alternatively, you can use [Docker](https://www.docker.com) to spin up this template locally. To do so, follow these steps:
-
-1. Follow [steps 1 and 2 from above](#development), the docker-compose file will automatically use the `.env` file in your project root
-1. Next run `docker-compose up`
-1. Follow [steps 4 and 5 from above](#development) to login and create your first admin user
-
-That's it! The Docker instance will help you get up and running quickly while also standardizing the development environment across your teams.
-
-### Seed
-
-To seed the database with a few pages and posts you can run `yarn seed`.
-
-> NOTICE: seeding the database is destructive because it drops your current database to populate a fresh one from the seed template. Only run this command if you are starting a new project or can afford to lose your current data.
-
-## Production
-
-To run Payload in production, you need to build and serve the Admin panel. To do so, follow these steps:
-
-1. First invoke the `payload build` script by running `yarn build` or `npm run build` in your project root. This creates a `./build` directory with a production-ready admin bundle.
-1. Then run `yarn serve` or `npm run serve` to run Node in production and serve Payload from the `./build` directory.
-
-### Deployment
-
-The easiest way to deploy your project is to use [Payload Cloud](https://payloadcms.com/new/import), a one-click hosting solution to deploy production-ready instances of your Payload apps directly from your GitHub repo. You can also deploy your app manually, check out the [deployment documentation](https://payloadcms.com/docs/production/deployment) for full details.
-
+<img align="left" src="https://contributors-img.web.app/image?repo=payloadcms/payload"/>
